@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-13
+==================================================
+
+1. Fastvlm: Efficient vision encoding for vision language models
+   Points: 140
+   Comments: 30
+   URL: https://github.com/apple/ml-fastvlm
+
+2. Open Hardware Ethernet Switch project, part 1
+   Points: 38
+   Comments: 4
+   URL: https://serd.es/2025/05/08/Switch-project-pt1.html
+
+3. Air Traffic Control
+   Points: 108
+   Comments: 19
+   URL: https://computer.rip/2025-05-11-air-traffic-control.html
+
+4. The Barbican
+   Points: 440
+   Comments: 156
+   URL: https://arslan.io/2025/05/12/barbican-estate/
+
+5. A conversation about AI for science with Jason Pruet
+   Points: 133
+   Comments: 105
+   URL: https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet
+
+6. How to avoid P hacking
+   Points: 41
+   Comments: 36
+   URL: https://www.nature.com/articles/d41586-025-01246-1
+
+7. Understanding LucasArts' iMUSE System
+   Points: 82
+   Comments: 14
+   URL: https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md
+
+8. Can you trust that permission pop-up on macOS?
+   Points: 211
+   Comments: 157
+   URL: https://wts.dev/posts/tcc-who/
+
+9. RIP Usenix ATC
+   Points: 146
+   Comments: 33
+   URL: https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/
+
+10. HealthBench – An evaluation for AI systems and human health
+   Points: 131
+   Comments: 118
+   URL: https://openai.com/index/healthbench/
+
+11. Wtfis: Passive hostname, domain and IP lookup tool for non-robots
+   Points: 53
+   Comments: 3
+   URL: https://github.com/pirxthepilot/wtfis
+
+12. FedRAMP 20x – One Month in and Moving Fast
+   Points: 62
+   Comments: 45
+   URL: https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/
+
+13. Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL
+   Points: 104
+   Comments: 65
+   URL: https://news.ycombinator.com/item?id=43964505
+
+14. NASA study reveals Venus crust surprise
+   Points: 52
+   Comments: 51
+   URL: https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/
+
+15. A community-led fork of Organic Maps
+   Points: 283
+   Comments: 185
+   URL: https://www.comaps.app/news/2025-05-12/3/
+
+16. Policy of Transience
+   Points: 15
+   Comments: 0
+   URL: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/
+
+17. University of Texas-led team solves a big problem for fusion energy
+   Points: 218
+   Comments: 153
+   URL: https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/
+
+18. Reviving a modular cargo bike design from the 1930s
+   Points: 146
+   Comments: 125
+   URL: https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s
+
+19. Ruby 3.5 Feature: Namespace on read
+   Points: 187
+   Comments: 88
+   URL: https://bugs.ruby-lang.org/issues/21311
+
+20. 15 Years of Shader Minification
+   Points: 3
+   Comments: 0
+   URL: https://www.ctrl-alt-test.fr/2025/15-years-of-shader-minification/
+
