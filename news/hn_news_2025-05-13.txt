@@ -1,0 +1,53 @@
+Hacker News Top Stories - 2025-05-13
+==================================================
+
+1. Fastvlm: Efficient vision encoding for vision language models
+   URL: https://github.com/apple/ml-fastvlm
+   Score: 109
+   By: nhod
+
+2. Air Traffic Control
+   URL: https://computer.rip/2025-05-11-air-traffic-control.html
+   Score: 88
+   By: 1317
+
+3. A conversation about AI for science with Jason Pruet
+   URL: https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet
+   Score: 131
+   By: LAsteNERD
+
+4. How to avoid P hacking
+   URL: https://www.nature.com/articles/d41586-025-01246-1
+   Score: 32
+   By: benocodes
+
+5. The Barbican
+   URL: https://arslan.io/2025/05/12/barbican-estate/
+   Score: 425
+   By: farslan
+
+6. Understanding LucasArts' iMUSE System
+   URL: https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md
+   Score: 75
+   By: todsacerdoti
+
+7. Can you trust that permission pop-up on macOS?
+   URL: https://wts.dev/posts/tcc-who/
+   Score: 190
+   By: nmgycombinator
+
+8. HealthBench – An evaluation for AI systems and human health
+   URL: https://openai.com/index/healthbench/
+   Score: 128
+   By: mfiguiere
+
+9. RIP Usenix ATC
+   URL: https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/
+   Score: 143
+   By: joecobb
+
+10. FedRAMP 20x – One Month in and Moving Fast
+   URL: https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/
+   Score: 52
+   By: transpute
+
