@@ -3,51 +3,247 @@ Hacker News Top Stories - 2025-05-13
 
 1. Fastvlm: Efficient vision encoding for vision language models
    URL: https://github.com/apple/ml-fastvlm
-   Score: 109
+   Score: 110
    By: nhod
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
 
 2. Air Traffic Control
    URL: https://computer.rip/2025-05-11-air-traffic-control.html
    Score: 88
    By: 1317
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
 
 3. A conversation about AI for science with Jason Pruet
    URL: https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet
    Score: 131
    By: LAsteNERD
+   Summary: No summary available
+   Note: Error fetching summary: Article `download()` failed with 404 Client Error: Not Found for url: https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet on URL https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet
 
 4. How to avoid P hacking
    URL: https://www.nature.com/articles/d41586-025-01246-1
    Score: 32
    By: benocodes
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
 
 5. The Barbican
    URL: https://arslan.io/2025/05/12/barbican-estate/
-   Score: 425
+   Score: 426
    By: farslan
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
 
 6. Understanding LucasArts' iMUSE System
    URL: https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md
    Score: 75
    By: todsacerdoti
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
 
 7. Can you trust that permission pop-up on macOS?
    URL: https://wts.dev/posts/tcc-who/
-   Score: 190
+   Score: 192
    By: nmgycombinator
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
 
 8. HealthBench – An evaluation for AI systems and human health
    URL: https://openai.com/index/healthbench/
    Score: 128
    By: mfiguiere
+   Summary: No summary available
+   Note: Error fetching summary: Article `download()` failed with 403 Client Error: Forbidden for url: https://openai.com/index/healthbench/ on URL https://openai.com/index/healthbench/
 
-9. RIP Usenix ATC
+9. FedRAMP 20x – One Month in and Moving Fast
+   URL: https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/
+   Score: 53
+   By: transpute
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+
+10. RIP Usenix ATC
    URL: https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/
    Score: 143
    By: joecobb
+   Summary: No summary available
+   Note: Error fetching summary: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
 
-10. FedRAMP 20x – One Month in and Moving Fast
-   URL: https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/
-   Score: 52
-   By: transpute
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/runner/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/share/nltk_data'
+    - '/opt/hostedtoolcache/Python/3.13.3/x64/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
 
