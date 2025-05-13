@@ -1,20 +1,31 @@
 # Daily Hot Topics Collector
 
-这个项目自动收集和保存每日热门话题，包括 Hacker News 和知乎热榜。
+This project automatically collects and archives daily hot topics from Hacker News and Zhihu. The entire repository, including all code and configurations, was generated using the [GitHub MCP Server](https://github.com/microsoft/mcp).
 
-## 功能
+## About MCP Server
+
+This repository showcases the capabilities of Microsoft's Collaborative Protocol (MCP) server. The MCP server is an AI-powered system that can:
+- Generate complete repository structures
+- Create and manage GitHub workflows
+- Write and maintain Python scripts
+- Handle multiple API integrations
+- Manage documentation and configurations
+
+All code, workflows, and documentation in this repository were created through interactions with the MCP server, demonstrating its ability to understand and implement complex requirements.
+
+## Features
 
 1. **Hacker News Top Stories**
-   - 每天自动获取 Hacker News 排名前 10 的故事
-   - 保存标题、URL、分数和作者信息
-   - UTC 00:00 自动运行
+   - Automatically fetches top 10 stories from Hacker News daily
+   - Captures title, URL, score, and author information
+   - Runs at 00:00 UTC daily
 
-2. **知乎热榜**
-   - 每天自动获取知乎热榜前 10 的话题
-   - 保存标题、热度、链接和简介
-   - UTC 01:00 自动运行
+2. **Zhihu Hot Topics**
+   - Automatically fetches top 10 topics from Zhihu daily
+   - Captures title, popularity, link, and topic excerpt
+   - Runs at 01:00 UTC daily
 
-## 目录结构
+## Directory Structure
 
 ```
 .
@@ -32,43 +43,60 @@
         └── fetch_zhihu.yml
 ```
 
-## 自动化
+## Automation
 
-项目使用 GitHub Actions 实现自动化：
-- Hacker News 数据在每天 UTC 00:00 收集
-- 知乎热榜在每天 UTC 01:00 收集
-- 所有数据按日期存档
-- 支持手动触发数据收集
+The project uses GitHub Actions for automation:
+- Hacker News data is collected daily at 00:00 UTC
+- Zhihu hot topics are collected daily at 01:00 UTC
+- All data is archived by date
+- Manual trigger support for data collection
 
-## 本地运行
+## Local Development
 
-1. 克隆仓库：
+1. Clone the repository:
 ```bash
 git clone https://github.com/sven0219/MCP-Test.git
 cd MCP-Test
 ```
 
-2. 安装依赖：
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. 运行脚本：
+3. Run the scripts:
 ```bash
-python scripts/fetch_hn_news.py  # 获取 Hacker News
-python scripts/fetch_zhihu_hot.py  # 获取知乎热榜
+python scripts/fetch_hn_news.py  # Fetch Hacker News
+python scripts/fetch_zhihu_hot.py  # Fetch Zhihu Hot Topics
 ```
 
-## 数据格式
+## Data Format
 
 ### Hacker News
-- 文件名格式：`hn_news_YYYY-MM-DD.txt`
-- 包含内容：标题、URL、分数、作者
+- File naming: `hn_news_YYYY-MM-DD.txt`
+- Content: Title, URL, Score, Author
 
-### 知乎热榜
-- 文件名格式：`zhihu_hot_YYYY-MM-DD.txt`
-- 包含内容：标题、热度、链接、话题简介
+### Zhihu Hot Topics
+- File naming: `zhihu_hot_YYYY-MM-DD.txt`
+- Content: Title, Popularity, Link, Topic Excerpt
+
+## Generated Content
+
+All content in this repository was generated through interactions with the MCP server, including:
+- Python scripts for data collection
+- GitHub Actions workflows
+- Directory structure
+- Documentation and README
+- Error handling and logging
+- Data formatting and storage
+
+## Contributing
+
+Since this is an MCP-generated repository, please note that any contributions should be made through the MCP server to maintain consistency and proper integration.
 
 ## License
 
 MIT
+
+---
+*This repository is maintained by the GitHub MCP Server. For more information about MCP and its capabilities, visit [GitHub MCP Server](https://github.com/microsoft/mcp).*
