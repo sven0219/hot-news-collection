@@ -38,9 +38,9 @@ def fetch_zhihu_hot():
 
 def save_topics(topics):
     # Create output directory if it doesn't exist
-    output_dir = 'zhihu'
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    base_dir = 'daily_hot'
+    output_dir = os.path.join(base_dir, 'zhihu')
+    os.makedirs(output_dir, exist_ok=True)
     
     # Generate filename with date
     today = datetime.now().strftime('%Y-%m-%d')
