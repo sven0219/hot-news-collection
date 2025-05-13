@@ -4,13 +4,13 @@ from datetime import datetime
 import os
 
 def fetch_top_stories():
-    # 获取热门故事的ID列表
+    # Get list of top story IDs
     top_stories_url = "https://hacker-news.firebaseio.com/v0/topstories.json"
     response = requests.get(top_stories_url)
-    story_ids = response.json()[:10]  # 只获取前10个故事
+    story_ids = response.json()[:10]  # Only get top 10 stories
     
     stories = []
-    # 获取每个故事的详细信息
+    # Get details for each story
     for story_id in story_ids:
         story_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
         story_response = requests.get(story_url)
@@ -25,16 +25,16 @@ def fetch_top_stories():
     return stories
 
 def save_stories(stories):
-    # 创建输出目录（如果不存在）
+    # Create output directory if it doesn't exist
     output_dir = 'news'
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
-    # 生成带有日期的文件名
+    # Generate filename with date
     today = datetime.now().strftime('%Y-%m-%d')
     filename = f"{output_dir}/hn_news_{today}.txt"
     
-    # 将故事写入文件
+    # Write stories to file
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(f"Hacker News Top Stories - {today}\n")
         f.write("=" * 50 + "\n\n")
