@@ -1,4 +1,4 @@
-# Daily Hot Topics Collector
+# Global Trending Hub
 
 This project automatically collects and archives daily hot topics from Hacker News and Zhihu. The entire repository, including all code and configurations, was generated using the [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github).
 
@@ -55,8 +55,8 @@ The project uses GitHub Actions for automation:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sven0219/MCP-Test.git
-cd MCP-Test
+git clone https://github.com/sven0219/global-trending-hub.git
+cd global-trending-hub
 ```
 
 2. Install dependencies:
