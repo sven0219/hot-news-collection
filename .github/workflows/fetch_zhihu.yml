@@ -1,0 +1,46 @@
+name: Fetch Daily Zhihu Hot Topics
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Run at 01:00 UTC every day (to avoid conflict with HN fetch)
+  workflow_dispatch:  # Allow manual triggers
+
+# Set required permissions
+permissions:
+  contents: write
+
+jobs:
+  fetch-zhihu:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # Fetch all history for proper git operations
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run Zhihu fetcher
+      run: python scripts/fetch_zhihu_hot.py
+    
+    - name: Commit and push if there are changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # Force add the zhihu directory (this will handle both new and existing files)
+        git add -f zhihu/
+        
+        # Try to commit and push, force push if necessary
+        if git commit -m "Update Zhihu Hot Topics for $(date +'%Y-%m-%d')"; then
+          git push origin main || git push -f origin main
+        fi
