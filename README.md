@@ -1,79 +1,74 @@
-# MCP-Test Repository
+# Daily Hot Topics Collector
 
-This repository is entirely created and managed by GitHub MCP (Managed Copilot for Prometheus). You can try MCP at [https://mcp.dev](https://mcp.dev).
+这个项目自动收集和保存每日热门话题，包括 Hacker News 和知乎热榜。
 
-## Features
+## 功能
 
-- Issue templates for bug reports and feature requests
-- Daily Hacker News top stories collector
-- Automated GitHub Actions workflow
+1. **Hacker News Top Stories**
+   - 每天自动获取 Hacker News 排名前 10 的故事
+   - 保存标题、URL、分数和作者信息
+   - UTC 00:00 自动运行
 
-## Hacker News Collector
+2. **知乎热榜**
+   - 每天自动获取知乎热榜前 10 的话题
+   - 保存标题、热度、链接和简介
+   - UTC 01:00 自动运行
 
-This repository includes a Python script that automatically fetches the top 10 stories from Hacker News daily and saves them to text files.
+## 目录结构
 
-### How It Works
+```
+.
+├── daily_hot/
+│   ├── hackernews/
+│   │   └── hn_news_YYYY-MM-DD.txt
+│   └── zhihu/
+│       └── zhihu_hot_YYYY-MM-DD.txt
+├── scripts/
+│   ├── fetch_hn_news.py
+│   └── fetch_zhihu_hot.py
+└── .github/
+    └── workflows/
+        ├── fetch_news.yml
+        └── fetch_zhihu.yml
+```
 
-The script:
-- Fetches the top 10 stories from Hacker News API
-- Extracts title, URL, score, and author information
-- Saves the data to a dated text file in the `news/` directory
-- Runs automatically every day at 00:00 UTC through GitHub Actions
+## 自动化
 
-### Running the Script Locally
+项目使用 GitHub Actions 实现自动化：
+- Hacker News 数据在每天 UTC 00:00 收集
+- 知乎热榜在每天 UTC 01:00 收集
+- 所有数据按日期存档
+- 支持手动触发数据收集
 
-1. Clone the repository:
+## 本地运行
+
+1. 克隆仓库：
 ```bash
 git clone https://github.com/sven0219/MCP-Test.git
 cd MCP-Test
 ```
 
-2. Install dependencies:
+2. 安装依赖：
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the script:
+3. 运行脚本：
 ```bash
-python scripts/fetch_hn_news.py
+python scripts/fetch_hn_news.py  # 获取 Hacker News
+python scripts/fetch_zhihu_hot.py  # 获取知乎热榜
 ```
 
-The script will create a new file in the `news/` directory with today's date (format: `hn_news_YYYY-MM-DD.txt`).
+## 数据格式
 
-### GitHub Actions Workflow
+### Hacker News
+- 文件名格式：`hn_news_YYYY-MM-DD.txt`
+- 包含内容：标题、URL、分数、作者
 
-The repository includes a GitHub Actions workflow that:
-- Runs automatically every day at 00:00 UTC
-- Can be triggered manually from the Actions tab
-- Commits and pushes the new news file to the repository
-
-To manually trigger the workflow:
-1. Go to the "Actions" tab
-2. Select "Fetch Daily Hacker News"
-3. Click "Run workflow"
-
-## Project Structure
-
-```
-.
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   └── workflows/
-│       └── fetch_news.yml
-├── scripts/
-│   └── fetch_hn_news.py
-├── news/
-│   └── (daily news files)
-├── requirements.txt
-└── README.md
-```
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you have suggestions for improvements or find any bugs.
+### 知乎热榜
+- 文件名格式：`zhihu_hot_YYYY-MM-DD.txt`
+- 包含内容：标题、热度、链接、话题简介
 
 ## License
 
-This project is open source and available under the MIT License.
+MIT
