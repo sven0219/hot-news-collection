@@ -37,8 +37,8 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
-        # Force add the news file (this will handle both new and existing files)
-        git add -f news/
+        # Force add the daily_hot directory
+        git add -f daily_hot/hackernews/
         
         # Try to commit and push, force push if necessary
         if git commit -m "Update Hacker News for $(date +'%Y-%m-%d')"; then
