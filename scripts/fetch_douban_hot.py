@@ -38,7 +38,7 @@ def fetch_douban_hot():
         topics = []
         
         # Find all topic cards
-        cards = soup.select('.channel-item')[:10]  # Get first 10 items
+        cards = soup.select('.channel-item')[:20]  # Get first 20 items
         
         for card in cards:
             try:
@@ -91,7 +91,7 @@ def save_topics(topics):
     try:
         # Write topics to file
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write(f"豆瓣热门话题 Top 10 - {today}\n")
+            f.write(f"豆瓣热门话题 Top 20 - {today}\n")
             f.write("=" * 50 + "\n\n")
             
             for i, topic in enumerate(topics, 1):
