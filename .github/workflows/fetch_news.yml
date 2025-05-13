@@ -2,10 +2,10 @@ name: Fetch Daily Hacker News
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 00:00 运行
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 0 * * *'  # Run at 00:00 UTC every day
+  workflow_dispatch:  # Allow manual triggers
 
-# 添加权限配置
+# Set required permissions
 permissions:
   contents: write
 
