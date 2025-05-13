@@ -2,7 +2,7 @@ name: Fetch Daily Zhihu Hot Topics
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # Run at 01:00 UTC every day (to avoid conflict with HN fetch)
+    - cron: '0 1 * * *'  # Run at 01:00 UTC every day
   workflow_dispatch:  # Allow manual triggers
 
 # Set required permissions
@@ -37,8 +37,8 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
-        # Force add the zhihu directory (this will handle both new and existing files)
-        git add -f zhihu/
+        # Force add the daily_hot directory
+        git add -f daily_hot/zhihu/
         
         # Try to commit and push, force push if necessary
         if git commit -m "Update Zhihu Hot Topics for $(date +'%Y-%m-%d')"; then
