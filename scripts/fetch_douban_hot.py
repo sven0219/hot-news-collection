@@ -4,6 +4,7 @@ from datetime import datetime
 import os
 import random
 import time
+from bs4 import BeautifulSoup
 
 def get_random_user_agent():
     user_agents = [
@@ -15,43 +16,43 @@ def get_random_user_agent():
     return random.choice(user_agents)
 
 def fetch_douban_hot():
-    # Using Douban's API endpoint for hot topics
-    url = "https://m.douban.com/rexxar/api/v2/gallery/topic_feed"
+    # Using Douban's group hot topics
+    url = "https://www.douban.com/group/explore"
     
     headers = {
         'User-Agent': get_random_user_agent(),
-        'Accept': 'application/json, text/plain, */*',
-        'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
-        'Origin': 'https://www.douban.com',
-        'Referer': 'https://www.douban.com/',
-        'Host': 'm.douban.com',
-    }
-    
-    params = {
-        'start': 0,
-        'count': 20,
-        'sort': 'hot'
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        'Connection': 'keep-alive',
+        'Cookie': 'bid=' + ''.join(random.choices('0123456789abcdef', k=11))
     }
     
     try:
         # Add a random delay to avoid rate limiting
         time.sleep(random.uniform(1, 3))
         
-        response = requests.get(url, headers=headers, params=params)
+        response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
-        data = response.json()
         
-        # Extract top 10 topics
+        soup = BeautifulSoup(response.text, 'html.parser')
         topics = []
-        items = data.get('items', [])[:10]  # Get first 10 items
         
-        for item in items:
+        # Find all topic cards
+        cards = soup.select('.channel-item')[:10]  # Get first 10 items
+        
+        for card in cards:
             try:
-                title = item.get('title', 'No Title')
-                target = item.get('target', {})
-                link = target.get('url', 'https://www.douban.com')
-                likes = target.get('reaction_count', 0)
-                excerpt = target.get('desc', 'No description available')
+                title_elem = card.select_one('h3 a')
+                desc_elem = card.select_one('.desc')
+                likes_elem = card.select_one('.likes')
+                
+                if not title_elem:
+                    continue
+                    
+                title = title_elem.text.strip()
+                link = title_elem['href']
+                excerpt = desc_elem.text.strip() if desc_elem else 'No description available'
+                likes = likes_elem.text.strip() if likes_elem else '0'
                 
                 topics.append({
                     'title': title,
@@ -59,17 +60,15 @@ def fetch_douban_hot():
                     'likes': likes,
                     'excerpt': excerpt
                 })
+                
             except Exception as e:
-                print(f"Error processing item: {e}")
+                print(f"Error processing card: {e}")
                 continue
         
         return topics
     
     except requests.RequestException as e:
         print(f"Error fetching data: {e}")
-        return []
-    except json.JSONDecodeError as e:
-        print(f"Error parsing JSON: {e}")
         return []
     except Exception as e:
         print(f"Unexpected error: {e}")
@@ -97,7 +96,7 @@ def save_topics(topics):
             
             for i, topic in enumerate(topics, 1):
                 f.write(f"{i}. {topic['title']}\n")
-                f.write(f"   热度: {topic['likes']} 喜欢\n")
+                f.write(f"   热度: {topic['likes']}\n")
                 f.write(f"   链接: {topic['url']}\n")
                 f.write(f"   简介: {topic['excerpt']}\n")
                 f.write("\n")
