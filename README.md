@@ -1,6 +1,6 @@
 # Daily Hot Topics Collector
 
-This project automatically collects and archives daily hot topics from Hacker News and Zhihu. The entire repository, including all code and configurations, was generated using the [GitHub MCP Server](https://github.com/microsoft/mcp).
+This project automatically collects and archives daily hot topics from Hacker News and Zhihu. The entire repository, including all code and configurations, was generated using the [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github).
 
 ## About MCP Server
 
@@ -99,4 +99,4 @@ Since this is an MCP-generated repository, please note that any contributions sh
 MIT
 
 ---
-*This repository is maintained by the GitHub MCP Server. For more information about MCP and its capabilities, visit [GitHub MCP Server](https://github.com/microsoft/mcp).*
+*This repository is maintained by the GitHub MCP Server. For more information about MCP and its capabilities, visit [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github).*
