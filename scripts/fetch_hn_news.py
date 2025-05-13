@@ -26,9 +26,9 @@ def fetch_top_stories():
 
 def save_stories(stories):
     # Create output directory if it doesn't exist
-    output_dir = 'news'
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    base_dir = 'daily_hot'
+    output_dir = os.path.join(base_dir, 'hackernews')
+    os.makedirs(output_dir, exist_ok=True)
     
     # Generate filename with date
     today = datetime.now().strftime('%Y-%m-%d')
