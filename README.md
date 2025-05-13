@@ -16,22 +16,22 @@ All code, workflows, and documentation in this repository were created through i
 ## Features
 
 1. **Hacker News Top Stories**
-   - Automatically fetches top 10 stories from Hacker News daily
+   - Automatically fetches top 20 stories from Hacker News daily
    - Captures title, URL, score, and author information
    - Runs at 00:00 UTC daily
 
 2. **Zhihu Hot Topics**
-   - Automatically fetches top 10 topics from Zhihu daily
+   - Automatically fetches top 20 topics from Zhihu daily
    - Captures title, popularity, link, and topic excerpt
    - Runs at 01:00 UTC daily
 
 3. **Douban Hot Topics**
-   - Automatically fetches top 10 topics from Douban daily
+   - Automatically fetches top 20 topics from Douban daily
    - Captures title, likes, link, and topic excerpt
    - Runs at 02:00 UTC daily
 
 4. **Weibo Hot Topics**
-   - Automatically fetches top 10 trending topics from Weibo daily
+   - Automatically fetches top 20 trending topics from Weibo daily
    - Captures title, popularity, and link
    - Runs at 03:00 UTC daily
 
