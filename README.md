@@ -75,8 +75,8 @@ The project uses GitHub Actions for automation:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sven0219/global-trending-hub.git
-cd global-trending-hub
+git clone https://github.com/sven0219/hot-news-collection.git
+cd hot-news-collection
 ```
 
 2. Install dependencies:
