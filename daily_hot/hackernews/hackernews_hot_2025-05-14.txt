@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-14
+==================================================
+
+1. What Is HDR, Anyway?
+   Points: 172
+   Comments: 80
+   URL: https://www.lux.camera/what-is-hdr/
+
+2. AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms
+   Points: 32
+   Comments: 6
+   URL: https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+
+3. Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally
+   Points: 10
+   Comments: 2
+   URL: https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US
+
+4. How the economics of multitenancy work
+   Points: 65
+   Comments: 6
+   URL: https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud
+
+5. The Cryptography Behind Passkeys
+   Points: 28
+   Comments: 1
+   URL: https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/
+
+6. Databricks and Neon
+   Points: 169
+   Comments: 98
+   URL: https://www.databricks.com/blog/databricks-neon
+
+7. Interferometer Device Sees Text from a Mile Away
+   Points: 100
+   Comments: 24
+   URL: https://physics.aps.org/articles/v18/99
+
+8. Show HN: Lumier – Run macOS VMs in a Docker
+   Points: 5
+   Comments: 0
+   URL: https://github.com/trycua/cua/tree/main/libs/lumier
+
+9. SMS 2FA is not just insecure, it's also hostile to mountain people
+   Points: 145
+   Comments: 109
+   URL: https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people
+
+10. How to Build a Smartwatch: Picking a Chip
+   Points: 165
+   Comments: 76
+   URL: https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/
+
+11. Bus stops here: Shanghai lets riders design their own routes
+   Points: 337
+   Comments: 248
+   URL: https://www.sixthtone.com/news/1017072
+
+12. The recently lost file upload feature in the Nextcloud app for Android
+   Points: 237
+   Comments: 49
+   URL: https://nextcloud.com/blog/nextcloud-android-file-upload-issue-google/
+
+13. Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages
+   Points: 20
+   Comments: 0
+   URL: https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html
+
+14. Ash Framework – Model your domain, derive the rest
+   Points: 177
+   Comments: 84
+   URL: https://ash-hq.org/
+
+15. Writing that changed how I think about programming languages
+   Points: 291
+   Comments: 32
+   URL: https://bernsteinbear.com/blog/pl-writing/
+
+16. The U.S. Nuclear Base Hidden Under Greenland's Ice for Decades
+   Points: 60
+   Comments: 27
+   URL: https://www.wsj.com/world/greenland-us-camp-century-nuclear-base-91e8abea
+
+17. UK's Ancient Tree Inventory
+   Points: 35
+   Comments: 35
+   URL: https://ati.woodlandtrust.org.uk/
+
+18. Flattening Rust’s learning curve
+   Points: 355
+   Comments: 287
+   URL: https://corrode.dev/blog/flattening-rusts-learning-curve/
+
+19. Updated rate limits for unauthenticated requests
+   Points: 6
+   Comments: 29
+   URL: https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/
+
+20. The A.I. Radiologist Will Not Be with You Soon
+   Points: 45
+   Comments: 54
+   URL: https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html
+
