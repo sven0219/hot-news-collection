@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-15
+==================================================
+
+1. AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms
+   Points: 646
+   Comments: 176
+   URL: https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+
+2. Migrating to Postgres
+   Points: 80
+   Comments: 31
+   URL: https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d
+
+3. Show HN: Muscle-Mem, a behavior cache for AI agents
+   Points: 127
+   Comments: 32
+   URL: https://github.com/pig-dot-dev/muscle-mem
+
+4. What is HDR, anyway?
+   Points: 495
+   Comments: 246
+   URL: https://www.lux.camera/what-is-hdr/
+
+5. Show HN: Semantic Calculator (king-man+woman=?)
+   Points: 76
+   Comments: 100
+   URL: https://calc.datova.ai
+
+6. Copaganda: How Police and the Media Manipulate Our News
+   Points: 53
+   Comments: 9
+   URL: https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news
+
+7. A server that wasn't meant to exist
+   Points: 243
+   Comments: 62
+   URL: https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/
+
+8. Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges
+   Points: 161
+   Comments: 60
+   URL: https://github.com/git-bug/git-bug
+
+9. Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?
+   Points: 27
+   Comments: 4
+   URL: https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/
+
+10. Hegel 2.0: The imaginary history of ternary computing (2018)
+   Points: 25
+   Comments: 1
+   URL: https://www.cabinetmagazine.org/issues/65/weatherby.php
+
+11. Variadic Switch
+   Points: 22
+   Comments: 2
+   URL: https://pydong.org/posts/variadic-switch/
+
+12. Our narrative prison
+   Points: 119
+   Comments: 104
+   URL: https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot
+
+13. Changes since congestion pricing started in New York
+   Points: 178
+   Comments: 198
+   URL: https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html
+
+14. StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer
+
+15. Smalltalk-78 Xerox NoteTaker in-browser emulator
+   Points: 69
+   Comments: 26
+   URL: https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html
+
+16. The cryptography behind passkeys
+   Points: 156
+   Comments: 134
+   URL: https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/
+
+17. Databricks and Neon
+   Points: 263
+   Comments: 183
+   URL: https://www.databricks.com/blog/databricks-neon
+
+18. NASA Stennis Releases First Open-Source Software
+   Points: 4
+   Comments: 1
+   URL: https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/
+
+19. UK's Ancient Tree Inventory
+   Points: 52
+   Comments: 50
+   URL: https://ati.woodlandtrust.org.uk/
+
+20. How the economics of multitenancy work
+   Points: 137
+   Comments: 30
+   URL: https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud
+
