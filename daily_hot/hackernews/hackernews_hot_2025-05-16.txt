@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-16
+==================================================
+
+1. Baby is healed with first personalized gene-editing treatment
+   Points: 465
+   Comments: 221
+   URL: https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html
+
+2. A leap year check in three instructions
+   Points: 133
+   Comments: 47
+   URL: https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html
+
+3. The unreasonable effectiveness of an LLM agent loop with tool use
+   Points: 183
+   Comments: 106
+   URL: https://sketch.dev/blog/agent-loop
+
+4. Initialization in C++ is bonkers (2017)
+   Points: 68
+   Comments: 35
+   URL: https://blog.tartanllama.xyz/initialization-is-bonkers/
+
+5. The Teal Programming Language
+   Points: 4
+   Comments: 0
+   URL: https://teal-language.org/
+
+6. Tek – A music making program for 24-bit Unicode terminals
+   Points: 78
+   Comments: 10
+   URL: https://codeberg.org/unspeaker/tek
+
+7. The current state of TLA⁺ development
+   Points: 79
+   Comments: 17
+   URL: https://ahelwer.ca/post/2025-05-15-tla-dev-status/
+
+8. Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI
+   Points: 99
+   Comments: 74
+   URL: https://news.ycombinator.com/item?id=43996555
+
+9. A Tiny Boltzmann Machine
+   Points: 214
+   Comments: 39
+   URL: https://eoinmurray.info/boltzmann-machine
+
+10. Show HN: Easel – Code multiplayer games like singleplayer
+   Points: 25
+   Comments: 18
+   URL: https://easel.games/about
+
+11. NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix
+   Points: 9
+   Comments: 0
+   URL: https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/
+
+12. GTK Krell Monitors
+   Points: 13
+   Comments: 8
+   URL: https://gkrellm.srcbox.net/
+
+13. Malicious compliance by booking an available meeting room
+   Points: 296
+   Comments: 275
+   URL: https://www.clientserver.dev/p/malicious-compliance-by-booking-an
+
+14. Refactoring Clojure
+   Points: 71
+   Comments: 10
+   URL: https://www.orsolabs.com/post/refactoring-clojure-1/
+
+15. Dr. Dobb's Journal Interviews Jef Raskin (1986)
+   Points: 58
+   Comments: 40
+   URL: https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin
+
+16. Show HN: Min.js style compression of tech docs for LLM context
+   Points: 151
+   Comments: 40
+   URL: https://github.com/marv1nnnnn/llm-min.txt
+
+17. I don't like NumPy
+   Points: 325
+   Comments: 150
+   URL: https://dynomight.net/numpy/
+
+18. ML-Enhanced Code Completion Improves Developer Productivity (2022)
+   Points: 16
+   Comments: 3
+   URL: https://research.google/blog/ml-enhanced-code-completion-improves-developer-productivity/
+
+19. The Scalar Select Anti-Pattern
+   Points: 34
+   Comments: 5
+   URL: https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html
+
+20. Show HN: Real-Time Gaussian Splatting
+   Points: 121
+   Comments: 44
+   URL: https://github.com/axbycc/LiveSplat
+
