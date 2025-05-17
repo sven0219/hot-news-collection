@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-17
+==================================================
+
+1. Getting AI to write good SQL
+   Points: 125
+   Comments: 57
+   URL: https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql
+
+2. Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon
+   Points: 173
+   Comments: 18
+   URL: https://github.com/dipampaul17/KVSplit
+
+3. The Collapse of GPT
+   Points: 35
+   Comments: 34
+   URL: https://cacm.acm.org/news/the-collapse-of-gpt/
+
+4. Thoughts on thinking
+   Points: 245
+   Comments: 163
+   URL: https://dcurt.is/thinking
+
+5. A Research Preview of Codex
+   Points: 353
+   Comments: 273
+   URL: https://openai.com/index/introducing-codex/
+
+6. Rustls Server-Side Performance
+   Points: 27
+   Comments: 2
+   URL: https://www.memorysafety.org/blog/rustls-server-perf/
+
+7. WebGL Gray-Scott Explorer (2012)
+   Points: 4
+   Comments: 0
+   URL: http://www.mrob.com/pub/comp/xmorphia/ogl/index.html
+
+8. ClojureScript 1.12.42
+   Points: 87
+   Comments: 17
+   URL: https://clojurescript.org/news/2025-05-16-release
+
+9. They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More
+   Points: 13
+   Comments: 1
+   URL: https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html
+
+10. Coding agent in 94 lines of Ruby
+   Points: 37
+   Comments: 3
+   URL: https://radanskoric.com/articles/coding-agent-in-ruby
+
+11. MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery
+   Points: 215
+   Comments: 116
+   URL: https://economics.mit.edu/news/assuring-accurate-research-record
+
+12. X X^t can be faster
+   Points: 155
+   Comments: 45
+   URL: https://arxiv.org/abs/2505.09814
+
+13. I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA
+   Points: 173
+   Comments: 340
+   URL: https://news.ycombinator.com/item?id=44006381
+
+14. Show HN: Visual flow-based programming for Erlang, inspired by Node-RED
+   Points: 196
+   Comments: 85
+   URL: https://github.com/gorenje/erlang-red
+
+15. Show HN: A C-Suite AI Agent Meant for SMB
+   Points: 8
+   Comments: 4
+   URL: https://askcaa.com/
+
+16. Show HN: Solidis – Tiny TS Redis client, no deps, for serverless
+   Points: 29
+   Comments: 1
+   URL: https://github.com/vcms-io/solidis
+
+17. The Magic Hours: The Films and Hidden Life of Terrence Malick
+   Points: 47
+   Comments: 27
+   URL: https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking
+
+18. Methodical Banality
+   Points: 27
+   Comments: 10
+   URL: https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam
+
+19. Java at 30: Interview with James Gosling
+   Points: 149
+   Comments: 201
+   URL: https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/
+
+20. The first year of free-threaded Python
+   Points: 242
+   Comments: 231
+   URL: https://labs.quansight.org/blog/free-threaded-one-year-recap
+
