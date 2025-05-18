@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-18
+==================================================
+
+1. The Lost Japanese ROM of the Macintosh Plus
+   Points: 52
+   Comments: 12
+   URL: https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/
+
+2. Coding without a laptop: Two weeks with AR glasses and Linux on Android
+   Points: 375
+   Comments: 175
+   URL: https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/
+
+3. AniSora: Open-source anime video generation model
+   Points: 19
+   Comments: 4
+   URL: https://komiko.app/video/AniSora
+
+4. FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux
+   Points: 30
+   Comments: 7
+   URL: https://freebasic.net/
+
+5. Mystical
+   Points: 141
+   Comments: 15
+   URL: https://suberic.net/~dmm/projects/mystical/README.html
+
+6. Directory of MCP Servers
+   Points: 79
+   Comments: 24
+   URL: https://github.com/chatmcp/mcpso
+
+7. Dead Stars Don't Radiate
+   Points: 157
+   Comments: 70
+   URL: https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/
+
+8. Proton threatens to quit Switzerland over new surveillance law
+   Points: 241
+   Comments: 136
+   URL: https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law
+
+9. If nothing is curated, how do we find things
+   Points: 149
+   Comments: 104
+   URL: https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/
+
+10. Can V Deliver on Its Promises?
+   Points: 7
+   Comments: 1
+   URL: http://bitshifters.cc/2025/05/17/vlang.html
+
+11. Palette lighting tricks on the Nintendo 64
+   Points: 177
+   Comments: 32
+   URL: https://30fps.net/pages/palette-lighting-tricks-n64/
+
+12. How to have the browser pick a contrasting color in CSS
+   Points: 133
+   Comments: 48
+   URL: https://webkit.org/blog/16929/contrast-color/
+
+13. Understanding Transformers via N-gram Statistics
+   Points: 36
+   Comments: 0
+   URL: https://arxiv.org/abs/2407.12034
+
+14. Push Ifs Up and Fors Down
+   Points: 356
+   Comments: 134
+   URL: https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html
+
+15. Bike-mounted sensor could boost the mapping of safe cycling routes
+   Points: 21
+   Comments: 12
+   URL: https://newatlas.com/bicycles/proxicycle-bicycle-sensor-safe-cycling-routes/
+
+16. Weather Report from Saturn's Moon Titan
+   Points: 5
+   Comments: 0
+   URL: https://www.sci.news/astronomy/titan-weather-13907.html
+
+17. Espanso – Cross-Platform Text Expander Written in Rust
+   Points: 45
+   Comments: 13
+   URL: https://github.com/espanso/espanso
+
+18. Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers
+   Points: 40
+   Comments: 2
+   URL: https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html
+
+19. "Streaming vs. Batch" Is a Wrong Dichotomy, and I Think It's Confusing
+   Points: 10
+   Comments: 5
+   URL: https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/
+
+20. Show HN: I built a knife steel comparison tool
+   Points: 91
+   Comments: 65
+   URL: https://new.knife.day/blog/knife-steel-comparisons/all
+
