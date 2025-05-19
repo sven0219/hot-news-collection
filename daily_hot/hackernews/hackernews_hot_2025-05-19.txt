@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-19
+==================================================
+
+1. France Becomes First Government to Endorse UN Open Source Principles
+   Points: 209
+   Comments: 41
+   URL: https://social.numerique.gouv.fr/@codegouvfr/114529954373492878
+
+2. The effect of physical fitness on mortality is overestimated
+   Points: 40
+   Comments: 37
+   URL: https://www.uu.se/en/press/press-releases/2025/2025-05-15-the-effect-of-physical-fitness-on-mortality-is-overestimated
+
+3. Spaced repetition systems have gotten better
+   Points: 676
+   Comments: 417
+   URL: https://domenic.me/fsrs/
+
+4. Show HN: I modeled the Voynich Manuscript with SBERT to test for structure
+   Points: 266
+   Comments: 76
+   URL: https://github.com/brianmg/voynich-nlp-analysis
+
+5. Ditching Obsidian and building my own
+   Points: 220
+   Comments: 254
+   URL: https://amberwilliams.io/blogs/building-my-own-pkms
+
+6. $30 Homebrew Automated Blinds Opener
+   Points: 179
+   Comments: 73
+   URL: https://sifter.org/~simon/journal/20240718.html
+
+7. Show HN: Vaev – A browser engine built from scratch (It renders google.com)
+   Points: 108
+   Comments: 48
+   URL: https://github.com/skift-org/vaev
+
+8. Show HN: A platform to find tech conferences, discounts, and ticket giveaways
+   Points: 35
+   Comments: 10
+   URL: https://www.tech.tickets/
+
+9. Spaced Repetition Memory System
+   Points: 145
+   Comments: 13
+   URL: https://notes.andymatuschak.org/Spaced_repetition_memory_system
+
+10. K-Scale Labs: Open-source humanoid robots, built for developers
+   Points: 51
+   Comments: 29
+   URL: https://www.kscale.dev/
+
+11. The Fall of Roam
+   Points: 82
+   Comments: 35
+   URL: https://every.to/superorganizers/the-fall-of-roam
+
+12. Comparing Parallel Functional Array Languages: Programming and Performance
+   Points: 48
+   Comments: 8
+   URL: https://arxiv.org/abs/2505.08906
+
+13. The Journal of Imaginary Research
+   Points: 9
+   Comments: 1
+   URL: https://journalofimaginaryresearch.home.blog/
+
+14. Show HN: Python Simulator of David Deutsch’s "Constructor Theory of Time"
+   Points: 46
+   Comments: 6
+   URL: https://github.com/gvelesandro/constructor-theory-simulator
+
+15. California vanity license plate applications with reasons for rejection
+   Points: 55
+   Comments: 53
+   URL: https://github.com/veltman/ca-license-plates
+
+16. Building my childhood dream PC
+   Points: 145
+   Comments: 57
+   URL: https://fabiensanglard.net/2168/index.html
+
+17. Hyper Typing
+   Points: 41
+   Comments: 37
+   URL: https://pscanf.com/s/341/
+
+18. Green Fabrication of Sulfonium-Containing Bismuth Materials for X-Ray Detection
+   Points: 4
+   Comments: 1
+   URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418626
+
+19. Show HN: Buckaroo – Data table UI for Notebooks
+   Points: 78
+   Comments: 6
+   URL: https://github.com/paddymul/buckaroo
+
+20. A New Headache for Honest Students: Proving They Didn't Use A.I
+   Points: 33
+   Comments: 18
+   URL: https://www.nytimes.com/2025/05/17/style/ai-chatgpt-turnitin-students-cheating.html
+
