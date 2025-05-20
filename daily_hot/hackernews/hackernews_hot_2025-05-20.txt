@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-20
+==================================================
+
+1. Have I Been Pwned 2.0 is Now Live
+   Points: 249
+   Comments: 75
+   URL: https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/
+
+2. The Windows Subsystem for Linux is now open source
+   Points: 1035
+   Comments: 664
+   URL: https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/
+
+3. Jules: An Asynchronous Coding Agent
+   Points: 165
+   Comments: 80
+   URL: https://jules.google/
+
+4. is-even-ai – Check if a number is even using the power of AI
+   Points: 10
+   Comments: 2
+   URL: https://www.npmjs.com/package/is-even-ai
+
+5. Zod 4
+   Points: 565
+   Comments: 177
+   URL: https://zod.dev/v4
+
+6. GitHub Copilot Coding Agent
+   Points: 306
+   Comments: 186
+   URL: https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/
+
+7. Claude Code SDK
+   Points: 241
+   Comments: 110
+   URL: https://docs.anthropic.com/en/docs/claude-code/sdk
+
+8. Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript
+   Points: 169
+   Comments: 61
+   URL: https://news.ycombinator.com/item?id=44030492
+
+9. Run your GitHub Actions locally
+   Points: 149
+   Comments: 60
+   URL: https://github.com/nektos/act
+
+10. Terraform MCP Server
+   Points: 11
+   Comments: 4
+   URL: https://github.com/hashicorp/terraform-mcp-server
+
+11. Game theory illustrated by an animated cartoon game
+   Points: 186
+   Comments: 30
+   URL: https://ncase.me/trust/
+
+12. The forbidden railway: Vienna-Pyongyang (2008)
+   Points: 120
+   Comments: 27
+   URL: http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html
+
+13. Kilo: A text editor in less than 1000 LOC with syntax highlight and search
+   Points: 33
+   Comments: 3
+   URL: https://github.com/antirez/kilo
+
+14. Remarks on AI from NZ
+   Points: 114
+   Comments: 63
+   URL: https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
+
+15. Too Much Go Misdirection
+   Points: 142
+   Comments: 61
+   URL: https://flak.tedunangst.com/post/too-much-go-misdirection
+
+16. xAI's Grok 3 comes to Microsoft Azure
+   Points: 79
+   Comments: 90
+   URL: https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/
+
+17. Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse
+   Points: 16
+   Comments: 4
+   URL: https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose
+
+18. The truth behind the accuracy of weather forecasts
+   Points: 24
+   Comments: 9
+   URL: https://www.abc.net.au/news/2025-05-16/weather-forecast-accuracy-bom/105297540
+
+19. Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia
+   Points: 41
+   Comments: 34
+   URL: https://www.virtuesolar.com/2025/05/16/dominion-nem-2/
+
+20. Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023)
+   Points: 20
+   Comments: 9
+   URL: https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html
+
