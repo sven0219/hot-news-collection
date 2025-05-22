@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-22
+==================================================
+
+1. For algorithms, a little memory outweighs a lot of time
+   Points: 170
+   Comments: 32
+   URL: https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/
+
+2. Should I Block ICMP?
+   Points: 41
+   Comments: 21
+   URL: http://shouldiblockicmp.com/
+
+3. Show HN: Confidential computing for high-assurance RISC-V embedded systems
+   Points: 67
+   Comments: 5
+   URL: https://github.com/IBM/ACE-RISCV
+
+4. ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction
+   Points: 35
+   Comments: 5
+   URL: https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/
+
+5. Tales from Mainframe Modernization
+   Points: 7
+   Comments: 1
+   URL: https://oppi.li/posts/tales_from_mainframe_modernization/
+
+6. Rocky Linux 10 Will Support RISC-V
+   Points: 66
+   Comments: 12
+   URL: https://rockylinux.org/news/rockylinux-support-for-riscv
+
+7. Devstral
+   Points: 349
+   Comments: 74
+   URL: https://mistral.ai/news/devstral
+
+8. OpenAI to buy AI startup from Jony Ive
+   Points: 609
+   Comments: 834
+   URL: https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal
+
+9. Collaborative Text Editing Without CRDTs or OT
+   Points: 176
+   Comments: 48
+   URL: https://mattweidner.com/2025/05/21/text-without-crdts.html
+
+10. The curious tale of Bhutan's playable record postage stamps (2015)
+   Points: 79
+   Comments: 4
+   URL: https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/
+
+11. The Machine Stops (1909)
+   Points: 37
+   Comments: 7
+   URL: https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops
+
+12. Show HN: I've built online video editor
+   Points: 84
+   Comments: 37
+   URL: https://clipjs.vercel.app/
+
+13. Animated Factorization (2012)
+   Points: 223
+   Comments: 51
+   URL: http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/
+
+14. Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer
+   Points: 1
+   Comments: 0
+   URL: https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6
+
+15. CERN gears up to ship antimatter across Europe
+   Points: 39
+   Comments: 10
+   URL: https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/
+
+16. LLM function calls don't scale; code orchestration is simpler, more effective
+   Points: 147
+   Comments: 65
+   URL: https://jngiam.bearblog.dev/mcp-large-data/
+
+17. An upgraded dev experience in Google AI Studio
+   Points: 90
+   Comments: 50
+   URL: https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/
+
+18. How we made iText's table rendering faster
+   Points: 19
+   Comments: 1
+   URL: https://kb.itextpdf.com/itext/how-i-made-pdf-table-rendering-faster
+
+19. London's Water Pumps: Where History Flows Freely
+   Points: 12
+   Comments: 0
+   URL: https://londonist.com/london/features/london-s-water-pump
+
+20. Storefront Web Components
+   Points: 114
+   Comments: 33
+   URL: https://shopify.dev/docs/api/storefront-web-components
+
