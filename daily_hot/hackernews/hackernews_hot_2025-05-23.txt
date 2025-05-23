@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-23
+==================================================
+
+1. The Future of Flatpak
+   Points: 34
+   Comments: 2
+   URL: https://lwn.net/Articles/1020571/
+
+2. Show HN: Defuddle, an HTML-to-Markdown alternative to Readability
+   Points: 101
+   Comments: 18
+   URL: https://github.com/kepano/defuddle
+
+3. Claude 4
+   Points: 1420
+   Comments: 759
+   URL: https://www.anthropic.com/news/claude-4
+
+4. That fractal that's been up on my wall for 12 years
+   Points: 286
+   Comments: 19
+   URL: https://chriskw.xyz/2025/05/21/Fractal/
+
+5. The Copilot Delusion
+   Points: 63
+   Comments: 23
+   URL: https://deplet.ing/the-copilot-delusion/
+
+6. Airport for DuckDB
+   Points: 24
+   Comments: 2
+   URL: https://airport.query.farm/
+
+7. Does Earth have two high-tide bulges on opposite sides? (2014)
+   Points: 111
+   Comments: 38
+   URL: http://physics.stackexchange.com/questions/121830/does-earth-really-have-two-high-tide-bulges-on-opposite-sides
+
+8. 32 Bits That Changed Microprocessor Design
+   Points: 14
+   Comments: 1
+   URL: https://spectrum.ieee.org/bellmac-32-ieee-milestone
+
+9. "Secret Mall Apartment," a Protest for Place
+   Points: 32
+   Comments: 9
+   URL: https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/
+
+10. Mozilla to shut down Pocket on July 8
+   Points: 743
+   Comments: 482
+   URL: https://support.mozilla.org/en-US/kb/future-of-pocket
+
+11. How to cheat at settlers by loading the dice (2017)
+   Points: 75
+   Comments: 61
+   URL: https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html
+
+12. A Scientist Fighting Nuclear Armageddon Hid a 50-Year Secret
+   Points: 18
+   Comments: 2
+   URL: https://www.nytimes.com/2025/05/19/science/richard-garwin-hydrogen-bomb.html
+
+13. Loading Pydantic models from JSON without running out of memory
+   Points: 74
+   Comments: 25
+   URL: https://pythonspeed.com/articles/pydantic-json-memory/
+
+14. Improving performance of rav1d video decoder
+   Points: 246
+   Comments: 84
+   URL: https://ohadravid.github.io/posts/2025-05-rav1d-faster/
+
+15. Fast Allocations in Ruby 3.5
+   Points: 172
+   Comments: 41
+   URL: https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/
+
+16. Trade Secrecy in Willy Wonka's Chocolate Factory (2009)
+   Points: 25
+   Comments: 3
+   URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1430463
+
+17. Stargate and the AI Industrial Revolution
+   Points: 6
+   Comments: 5
+   URL: https://davefriedman.substack.com/p/stargate-and-the-ai-industrial-revolution
+
+18. Launch HN: WorkDone (YC X25) – AI Audit of Medical Charts
+   Points: 53
+   Comments: 51
+   URL: https://news.ycombinator.com/item?id=44063000
+
+19. Planetfall
+   Points: 305
+   Comments: 84
+   URL: https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/
+
+20. I Built My Own Audio Player
+   Points: 162
+   Comments: 86
+   URL: https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/
+
