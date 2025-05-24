@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-24
+==================================================
+
+1. Postgres IDE in VS Code
+   Points: 655
+   Comments: 279
+   URL: https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648
+
+2. Find Your People
+   Points: 353
+   Comments: 154
+   URL: https://foundersatwork.posthaven.com/find-your-people
+
+3. Show HN: Genetic Boids Web Simulation
+   Points: 91
+   Comments: 24
+   URL: https://attentionmech.github.io/genetic-boids/
+
+4. Root for Your Friends
+   Points: 49
+   Comments: 13
+   URL: https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html
+
+5. Mermaid: Generation of diagrams like flowcharts or sequence diagrams from text
+   Points: 20
+   Comments: 8
+   URL: https://github.com/mermaid-js/mermaid
+
+6. The world of Japan's PC-98 computer
+   Points: 50
+   Comments: 14
+   URL: https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/
+
+7. A Formal Proof of Complexity Bounds on Diophantine Equations
+   Points: 54
+   Comments: 4
+   URL: https://arxiv.org/abs/2505.16963
+
+8. Show HN: I built a more productive way to manage AI chats
+   Points: 48
+   Comments: 30
+   URL: https://contextch.at
+
+9. Show HN: DoubleMemory – more efficient local-first read-it-later app
+   Points: 81
+   Comments: 25
+   URL: https://doublememory.com
+
+10. Positional preferences, order effects, prompt sensitivity undermine AI judgments
+   Points: 98
+   Comments: 56
+   URL: https://www.cip.org/blog/llm-judges-are-unreliable
+
+11. Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens
+   Points: 97
+   Comments: 48
+   URL: https://arxiv.org/abs/2505.13775
+
+12. UndoDB – The interactive time travel debugger for Linux C/C++ for debugging
+   Points: 31
+   Comments: 20
+   URL: https://undo.io/
+
+13. John Carmack talk at Upper Bound 2025
+   Points: 479
+   Comments: 321
+   URL: https://twitter.com/ID_AA_Carmack/status/1925710474366034326
+
+14. Types of optical systems in a lens designer's toolbox (2020)
+   Points: 51
+   Comments: 10
+   URL: https://www.pencilofrays.com/lens-design-forms/
+
+15. Caesar's Last Breath
+   Points: 121
+   Comments: 53
+   URL: https://charliesabino.com/caesars-last-breath/
+
+16. How to live on $432 a month in America
+   Points: 168
+   Comments: 313
+   URL: https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america
+
+17. Into The Tunnel: The secret life of wind tunnels
+   Points: 53
+   Comments: 6
+   URL: https://jordanwtaylor2.substack.com/p/into-the-tunnel
+
+18. A Bead Too Far: Rethinking Global Connections Before Columbus
+   Points: 8
+   Comments: 0
+   URL: https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global
+
+19. Show HN: GetStack.dev – Track GitHub open-source trends
+   Points: 15
+   Comments: 4
+   URL: https://getstack.dev
+
+20. Japan and the Birth of Modern Shipbuilding
+   Points: 35
+   Comments: 28
+   URL: https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding
+
