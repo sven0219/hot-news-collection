@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-26
+==================================================
+
+1. Ten Years of JSON Web Token and Preparing for the Future
+   Points: 45
+   Comments: 2
+   URL: https://self-issued.info/?p=2708
+
+2. Open Source Society University – Path to a free self-taught education in CS
+   Points: 177
+   Comments: 81
+   URL: https://github.com/ossu/computer-science
+
+3. Ask HN: What are you working on? (May 2025)
+   Points: 112
+   Comments: 347
+   URL: https://news.ycombinator.com/item?id=44090387
+
+4. Plwm – An X11 window manager written in Prolog
+   Points: 137
+   Comments: 30
+   URL: https://github.com/Seeker04/plwm
+
+5. Lottie is an open format for animated vector graphics
+   Points: 245
+   Comments: 108
+   URL: https://lottie.github.io/
+
+6. Writing your own CUPS printer driver in 100 lines of Python (2018)
+   Points: 137
+   Comments: 14
+   URL: https://behind.pretix.eu/2018/01/20/cups-driver/
+
+7. Chomsky on what ChatGPT is good for (2023)
+   Points: 110
+   Comments: 146
+   URL: https://chomsky.info/20230503-2/
+
+8. Claude 4 System Card
+   Points: 535
+   Comments: 209
+   URL: https://simonwillison.net/2025/May/25/claude-4-system-card/
+
+9. Lisping at JPL (2002)
+   Points: 103
+   Comments: 26
+   URL: https://flownet.com/gat/jpl-lisp.html
+
+10. Advice to Tenstorrent
+   Points: 26
+   Comments: 17
+   URL: https://github.com/geohot/tt-tiny
+
+11. Trading with Claude, and writing your own MCP server
+   Points: 29
+   Comments: 9
+   URL: https://dangelov.com/blog/trading-with-claude/
+
+12. Koog, a Kotlin-based framework to build and run Al agents in idiomatic Kotlin
+   Points: 42
+   Comments: 3
+   URL: https://github.com/JetBrains/koog
+
+13. Show HN: Zli – A Batteries-Included CLI Framework for Zig
+   Points: 63
+   Comments: 31
+   URL: https://github.com/xcaeser/zli
+
+14. Design Pressure: The Invisible Hand That Shapes Your Code
+   Points: 132
+   Comments: 36
+   URL: https://hynek.me/talks/design-pressure/
+
+15. Writing a Self-Mutating x86_64 C Program (2013)
+   Points: 71
+   Comments: 21
+   URL: https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/
+
+16. Show HN: DaedalOS – Desktop Environment in the Browser
+   Points: 118
+   Comments: 24
+   URL: https://github.com/DustinBrett/daedalOS
+
+17. CAPTCHAs are over (in ticketing)
+   Points: 109
+   Comments: 147
+   URL: https://behind.pretix.eu/2025/05/23/captchas-are-over/
+
+18. We broke down the Sam Altman and Jony Ive video
+   Points: 47
+   Comments: 19
+   URL: https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/
+
+19. Denmark to raise retirement age to 70
+   Points: 272
+   Comments: 660
+   URL: https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/
+
+20. You Can Choose Tools That Make You Happy
+   Points: 4
+   Comments: 0
+   URL: https://borretti.me/article/you-can-choose-tools-that-make-you-happy
+
