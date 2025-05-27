@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-27
+==================================================
+
+1. CSS Minecraft
+   Points: 326
+   Comments: 31
+   URL: https://benjaminaster.com/css-minecraft/
+
+2. Lossless video compression using Bloom filters
+   Points: 169
+   Comments: 63
+   URL: https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md
+
+3. Power Failure
+   Points: 42
+   Comments: 13
+   URL: https://www.gwintrob.com/power-failure-review/
+
+4. Get PC BIOS back on UEFI only system
+   Points: 49
+   Comments: 20
+   URL: https://github.com/FlyGoat/csmwrap
+
+5. Show HN: PgDog – Shard Postgres without extensions
+   Points: 168
+   Comments: 36
+   URL: https://github.com/pgdogdev/pgdog
+
+6. A new class of materials that can passively harvest water from air
+   Points: 306
+   Comments: 137
+   URL: https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/
+
+7. GitHub MCP Exploited: Accessing Private Repositories via MCP
+   Points: 17
+   Comments: 1
+   URL: https://invariantlabs.ai/blog/mcp-github-vulnerability
+
+8. Trying to teach in the age of the AI homework machine
+   Points: 72
+   Comments: 116
+   URL: https://www.solarshades.club/p/dispatch-from-the-trenches-of-the
+
+9. Owls in Towels
+   Points: 245
+   Comments: 15
+   URL: https://owlsintowels.org/
+
+10. Iron Spring PL/I Compiler
+   Points: 33
+   Comments: 10
+   URL: http://www.iron-spring.com/
+
+11. The Difference Between Downloading and Streaming
+   Points: 70
+   Comments: 37
+   URL: https://danq.me/2025/05/26/downloading-vs-streaming/
+
+12. TSMC bets on unorthodox optical tech
+   Points: 110
+   Comments: 53
+   URL: https://spectrum.ieee.org/microled-optical-chiplet
+
+13. Highlights from the Claude 4 system prompt
+   Points: 42
+   Comments: 7
+   URL: https://simonwillison.net/2025/May/25/claude-4-system-prompt/
+
+14. Changelog: Lazy trees (faster Nix builds)
+   Points: 40
+   Comments: 3
+   URL: https://determinate.systems/posts/changelog-determinate-nix-352/
+
+15. Access Control Syntax
+   Points: 21
+   Comments: 10
+   URL: https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/
+
+16. Improving performance of original dav1d video decoder
+   Points: 24
+   Comments: 9
+   URL: https://code.videolan.org/videolan/dav1d/-/merge_requests/1788
+
+17. New DSL "MassQL" lets scientists query mass spectrometry data
+   Points: 6
+   Comments: 4
+   URL: https://news.ucr.edu/articles/2025/05/12/new-computer-language-helps-spot-hidden-pollutants
+
+18. WavePhoenix – open-source implementation of the Nintendo WaveBird protocol
+   Points: 90
+   Comments: 11
+   URL: https://github.com/loopj/wavephoenix
+
+19. TIL: timeout in Bash scripts
+   Points: 223
+   Comments: 68
+   URL: https://heitorpb.github.io/bla/timeout/
+
+20. Launch HN: Nomi (YC X25) – Copilot for Sales
+   Points: 62
+   Comments: 54
+   URL: https://news.ycombinator.com/item?id=44098706
+
