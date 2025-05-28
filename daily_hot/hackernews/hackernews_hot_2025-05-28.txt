@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-28
+==================================================
+
+1. Show HN: My LLM CLI tool can run tools now, from Python code or plugins
+   Points: 165
+   Comments: 58
+   URL: https://simonwillison.net/2025/May/27/llm-tools/
+
+2. Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B
+   Points: 12
+   Comments: 1
+   URL: https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles
+
+3. Square Theory
+   Points: 424
+   Comments: 87
+   URL: https://aaronson.org/blog/square-theory
+
+4. A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS
+   Points: 10
+   Comments: 0
+   URL: https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution
+
+5. The Level Design Book
+   Points: 33
+   Comments: 0
+   URL: https://book.leveldesignbook.com
+
+6. OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)
+   Points: 18
+   Comments: 3
+   URL: https://github.com/UCSBarchlab/OpenTPU
+
+7. Mustard Watches (1990)
+   Points: 29
+   Comments: 12
+   URL: https://girard.perso.math.cnrs.fr/mustard/article.html
+
+8. Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers
+   Points: 246
+   Comments: 103
+   URL: https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/
+
+9. How a hawk learned to use traffic signals to hunt more successfully
+   Points: 325
+   Comments: 104
+   URL: https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting
+
+10. Space Selfie
+   Points: 71
+   Comments: 17
+   URL: https://space.crunchlabs.com/
+
+11. Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming
+   Points: 90
+   Comments: 22
+   URL: https://nathan.rs/posts/gpu-shader-programming/
+
+12. There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman
+   Points: 27
+   Comments: 6
+   URL: https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/
+
+13. Starship Flight 9 launches successfully, booster explodes on impact [video]
+   Points: 40
+   Comments: 39
+   URL: https://www.youtube.com/watch?v=okOzxHN9NOA
+
+14. Launch HN: Relace (YC W23) – Models for fast and reliable codegen
+   Points: 71
+   Comments: 32
+   URL: https://news.ycombinator.com/item?id=44108206
+
+15. BGP handling bug causes widespread internet routing instability
+   Points: 245
+   Comments: 117
+   URL: https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident
+
+16. LumoSQL
+   Points: 207
+   Comments: 78
+   URL: https://lumosql.org/src/lumosql/doc/trunk/README.md
+
+17. I salvaged $6k of luxury items discarded by Duke students
+   Points: 204
+   Comments: 245
+   URL: https://indyweek.com/culture/duke-students-dumpster-diving/
+
+18. Why the Original Macintosh Had a Screen Resolution of 512×324
+   Points: 108
+   Comments: 57
+   URL: https://512pixels.net/2025/05/original-macintosh-resolution/
+
+19. Roundtable (YC S23) Is Hiring a Member of Technical Staff
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff
+
+20. Semicolons bring the drama; that's why I love them
+   Points: 33
+   Comments: 25
+   URL: https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02
+
