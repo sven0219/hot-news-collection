@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-29
+==================================================
+
+1. Long live American Science and Surplus (which needs your help)
+   Points: 115
+   Comments: 27
+   URL: https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/
+
+2. A toy RTOS inside Super Mario Bros. using emulator save states
+   Points: 128
+   Comments: 26
+   URL: https://prettygoodblog.com/p/what-threads-are-part-2
+
+3. Show HN: I rewrote my Mac Electron app in Rust
+   Points: 380
+   Comments: 276
+   URL: https://desktopdocs.com/?v=2025
+
+4. Compiler Explorer and the promise of URLs that last forever
+   Points: 206
+   Comments: 102
+   URL: https://xania.org/202505/compiler-explorer-urls-forever
+
+5. US Trade Court Finds Trump Tariffs Illegal
+   Points: 113
+   Comments: 65
+   URL: https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court
+
+6. Japan Post launches 'digital address' system
+   Points: 162
+   Comments: 115
+   URL: https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/
+
+7. Compiling a neural net to C for a speedup
+   Points: 179
+   Comments: 58
+   URL: https://slightknack.dev/blog/difflogic/
+
+8. Visualize and debug Rust programs with a new lens
+   Points: 98
+   Comments: 9
+   URL: https://firedbg.sea-ql.org/
+
+9. What does “Undecidable” mean, anyway
+   Points: 59
+   Comments: 55
+   URL: https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/
+
+10. What If We Had Bigger Brains? Imagining Minds Beyond Ours
+   Points: 60
+   Comments: 64
+   URL: https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/
+
+11. Show HN: Tesseral – Open-Source Auth
+   Points: 129
+   Comments: 47
+   URL: https://github.com/tesseral-labs/tesseral
+
+12. A Visual History of Chessmen
+   Points: 36
+   Comments: 4
+   URL: https://chesshistory.github.io/
+
+13. Unlocking Ractors: class instance variables in Ruby
+   Points: 22
+   Comments: 0
+   URL: https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html
+
+14. Basic for the Raspberry Pi Pico and Pico 2
+   Points: 11
+   Comments: 0
+   URL: https://geoffg.net/picomite.html
+
+15. HTAP Databases Are Dead
+   Points: 24
+   Comments: 9
+   URL: https://www.mooncake.dev/blog/htap-is-dead
+
+16. LLM codegen go brrr – Parallelization with Git worktrees and tmux
+   Points: 90
+   Comments: 47
+   URL: https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/
+
+17. Deepseek R1-0528
+   Points: 259
+   Comments: 98
+   URL: https://huggingface.co/deepseek-ai/DeepSeek-R1-0528
+
+18. As a developer, my most important tools are a pen and a notebook
+   Points: 355
+   Comments: 242
+   URL: https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/
+
+19. YAD: display graphical dialogs from shell scripts or command line
+   Points: 19
+   Comments: 2
+   URL: http://yad-guide.ingk.se/#_introduction
+
+20. De-anonymization attacks against the privacy coin XMR
+   Points: 149
+   Comments: 80
+   URL: https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/
+
