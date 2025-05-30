@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-30
+==================================================
+
+1. WeatherStar 4000+: Weather Channel Simulator
+   Points: 469
+   Comments: 87
+   URL: https://weatherstar.netbymatt.com/
+
+2. FLUX.1 Kontext
+   Points: 243
+   Comments: 78
+   URL: https://bfl.ai/models/flux-kontext
+
+3. Making C and Python Talk to Each Other
+   Points: 73
+   Comments: 50
+   URL: https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each
+
+4. Show HN: I wrote a modern Command Line Handbook
+   Points: 244
+   Comments: 61
+   URL: https://commandline.stribny.name/
+
+5. Learning C3
+   Points: 199
+   Comments: 122
+   URL: https://alloc.dev/2025/05/29/learning_c3
+
+6. Open-sourcing circuit tracing tools
+   Points: 81
+   Comments: 17
+   URL: https://www.anthropic.com/research/open-source-circuit-tracing
+
+7. A visual exploration of vector embeddings
+   Points: 108
+   Comments: 28
+   URL: http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html
+
+8. Human coders are still better than LLMs
+   Points: 342
+   Comments: 402
+   URL: https://antirez.com/news/153
+
+9. My website is ugly because I made it
+   Points: 421
+   Comments: 119
+   URL: https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/
+
+10. Editing repeats in Huntington's:fewer somatic repeat expansions in patient cells
+   Points: 14
+   Comments: 0
+   URL: https://www.nature.com/articles/s41588-025-02172-8
+
+11. Gurus of 90s Web Design: Zeldman, Siegel, Nielsen
+   Points: 354
+   Comments: 163
+   URL: https://cybercultural.com/p/web-design-1997/
+
+12. Putting Rigid Bodies to Rest
+   Points: 100
+   Comments: 10
+   URL: https://twitter.com/keenanisalive/status/1925225500659658999
+
+13. The flip phone web: browsing with the original Opera Mini
+   Points: 91
+   Comments: 56
+   URL: https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/
+
+14. Nova: A JavaScript and WebAssembly engine written in Rust
+   Points: 137
+   Comments: 41
+   URL: https://trynova.dev/
+
+15. Grid-Free Approach to Partial Differential Equations on Volumetric Domains [pdf]
+   Points: 19
+   Comments: 1
+   URL: http://rohansawhney.io/RohanSawhneyPhDThesis.pdf
+
+16. Caffeine induces age-dependent brain complexity and criticality during sleep
+   Points: 23
+   Comments: 17
+   URL: https://www.nature.com/articles/s42003-025-08090-z
+
+17. Flash Back: An "oral" history of Flash
+   Points: 10
+   Comments: 7
+   URL: https://goodinternetmagazine.com/oral-history-of-flash/
+
+18. Why Is Everybody Knitting Chickens?
+   Points: 90
+   Comments: 69
+   URL: https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/
+
+19. Airlines are charging solo passengers higher fares than groups
+   Points: 218
+   Comments: 333
+   URL: https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/
+
+20. Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada
+
