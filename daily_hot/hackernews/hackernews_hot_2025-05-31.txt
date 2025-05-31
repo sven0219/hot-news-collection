@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-05-31
+==================================================
+
+1. Photos taken inside musical instruments
+   Points: 238
+   Comments: 18
+   URL: https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments
+
+2. Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)
+   Points: 166
+   Comments: 49
+   URL: https://crfm.stanford.edu/2025/05/28/fast-kernels.html
+
+3. Mary Meeker's first Trends report since 2019, focused on AI
+   Points: 51
+   Comments: 0
+   URL: https://www.bondcap.com/reports/tai
+
+4. Beating Google's kernelCTF PoW using AVX512
+   Points: 241
+   Comments: 73
+   URL: https://anemato.de/blog/kctf-vdf
+
+5. Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent
+   Points: 76
+   Comments: 17
+   URL: https://github.com/cheyao/icepi-zero
+
+6. Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory
+   Points: 20
+   Comments: 8
+   URL: https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6
+
+7. The 'white-collar bloodbath' is all part of the AI hype machine
+   Points: 230
+   Comments: 393
+   URL: https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap
+
+8. Systems Correctness Practices at Amazon Web Services
+   Points: 290
+   Comments: 101
+   URL: https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/
+
+9. Microsandbox: Virtual Machines that feel and perform like containers
+   Points: 238
+   Comments: 121
+   URL: https://github.com/microsandbox/microsandbox
+
+10. Valkey Turns One: How the Community Fork Left Redis in the Dust
+   Points: 16
+   Comments: 1
+   URL: https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/
+
+11. Jerry Lewis's "The Day the Clown Cried" discovered in Sweden after 53 years
+   Points: 119
+   Comments: 56
+   URL: https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/
+
+12. Ray Tracing in J
+   Points: 34
+   Comments: 5
+   URL: https://idle.nprescott.com/2020/ray-tracing-in-j.html
+
+13. Revenge of the Chickenized Reverse-Centaurs
+   Points: 35
+   Comments: 9
+   URL: https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/
+
+14. StackAI (YC W23) Is Looking for SWR and Tailwind Wizards
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer
+
+15. Silicon Valley finally has a big electronics retailer again: Micro Center opens
+   Points: 84
+   Comments: 46
+   URL: https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx
+
+16. How to Run CRON Jobs in Postgres Without Extra Infrastructure
+   Points: 40
+   Comments: 12
+   URL: https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure
+
+17. Copy Excel to Markdown Table (and vice versa)
+   Points: 71
+   Comments: 12
+   URL: https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
+
+18. The radix 2^51 trick (2017)
+   Points: 383
+   Comments: 75
+   URL: https://www.chosenplaintext.ca/articles/radix-2-51-trick.html
+
+19. Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work
+   Points: 112
+   Comments: 82
+   URL: https://capjs.js.org/
+
+20. Show HN: W++ – A Python-style scripting language for .NET with NuGet support
+   Points: 83
+   Comments: 45
+   URL: https://github.com/sinisterMage/WPlusPlus
+
