@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-01
+==================================================
+
+1. YOLO-World: Real-Time Open-Vocabulary Object Detection
+   Points: 79
+   Comments: 29
+   URL: https://arxiv.org/abs/2401.17270
+
+2. Precision Clock Mk IV
+   Points: 378
+   Comments: 103
+   URL: https://mitxela.com/projects/precision_clock_mk_iv
+
+3. Show HN: Patio – Rent tools, learn DIY, reduce waste
+   Points: 16
+   Comments: 4
+   URL: https://patio.so
+
+4. UK's Vertical VX4 eVTOL flies outside Kemble circuit for first time
+   Points: 16
+   Comments: 8
+   URL: https://flyer.co.uk/feature/uks-vertical-vx4-evtol-flies-outside-kemble-circuit-for-first-time/
+
+5. CCD co-inventor George E. Smith dies at 95
+   Points: 58
+   Comments: 6
+   URL: https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html
+
+6. Oniux: Kernel-level Tor isolation for any Linux app
+   Points: 55
+   Comments: 6
+   URL: https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/
+
+7. Sguaba: Hard-to-misuse rigid body transforms for engineers
+   Points: 41
+   Comments: 13
+   URL: https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d
+
+8. New Adaptive Optics Shows Details of Our Star's Atmosphere
+   Points: 15
+   Comments: 0
+   URL: https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/
+
+9. The NFS 4 Freezer Spacer In Science Fiction Sets
+   Points: 32
+   Comments: 5
+   URL: https://kolektiva.social/@beka_valentine/114600567753999701
+
+10. A Lean companion to Analysis I
+   Points: 162
+   Comments: 12
+   URL: https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/
+
+11. Plutonium Powered Pacemaker (From 1974)
+   Points: 42
+   Comments: 14
+   URL: https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html
+
+12. Oxfordshire clock still keeping village on time after 500 years
+   Points: 105
+   Comments: 53
+   URL: https://www.bbc.com/news/articles/cz70p0qevlro
+
+13. Photos taken inside musical instruments
+   Points: 977
+   Comments: 50
+   URL: https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments
+
+14. Searching for Autograms
+   Points: 23
+   Comments: 1
+   URL: https://curiosityarb.blog/2024/12/01/searching-for-autograms.html
+
+15. Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript analysis
+   Points: 89
+   Comments: 73
+   URL: https://github.com/robertjakob/rigorous
+
+16. Show HN: PunchCard Key Backup
+   Points: 104
+   Comments: 32
+   URL: https://github.com/volution/punchcard-key-backup
+
+17. AtomVM, the Erlang virtual machine for IoT devices
+   Points: 169
+   Comments: 50
+   URL: https://www.atomvm.net/
+
+18. My five-year experiment with UTC
+   Points: 70
+   Comments: 77
+   URL: https://timestripe.com/magazine/blog/timezone/
+
+19. Toxic Proteins for Drug Discovery
+   Points: 3
+   Comments: 0
+   URL: https://www.asimov.press/p/toxic-proteins
+
+20. The Rise of the Japanese Toilet
+   Points: 72
+   Comments: 149
+   URL: https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html
+
