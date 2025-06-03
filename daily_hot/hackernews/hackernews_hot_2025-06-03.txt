@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-03
+==================================================
+
+1. Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs
+   Points: 37
+   Comments: 14
+   URL: https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs
+
+2. Ask HN: Who is hiring? (June 2025)
+   Points: 241
+   Comments: 240
+   URL: https://news.ycombinator.com/item?id=44159528
+
+3. Snowflake to buy Crunchy Data for $250M
+   Points: 93
+   Comments: 42
+   URL: https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab
+
+4. Show HN: I build one absurd web project every month
+   Points: 100
+   Comments: 26
+   URL: https://absurd.website
+
+5. My AI skeptic friends are all nuts
+   Points: 625
+   Comments: 883
+   URL: https://fly.io/blog/youre-all-nuts/
+
+6. Teaching Program Verification in Dafny at Amazon (2023)
+   Points: 12
+   Comments: 3
+   URL: https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/
+
+7. Show HN: Kan.bn – An open-source alterative to Trello
+   Points: 337
+   Comments: 145
+   URL: https://github.com/kanbn/kan
+
+8. How to post when no one is reading
+   Points: 495
+   Comments: 221
+   URL: https://www.jeetmehta.com/posts/thrive-in-obscurity
+
+9. Typing 118 WPM broke my brain in the right ways
+   Points: 92
+   Comments: 124
+   URL: http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring
+
+10. CVE 2025 31200
+   Points: 86
+   Comments: 23
+   URL: https://blog.noahhw.dev/posts/cve-2025-31200/
+
+11. Japanese Scientists Develop Artificial Blood Compatible with All Blood Types
+   Points: 65
+   Comments: 18
+   URL: https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/
+
+12. Show HN: Onlook – Open-source, visual-first Cursor for designers
+   Points: 313
+   Comments: 73
+   URL: https://github.com/onlook-dev/onlook
+
+13. Show HN: Penny-1.7B Irish Penny Journal style transfer
+   Points: 126
+   Comments: 69
+   URL: https://huggingface.co/dleemiller/Penny-1.7B
+
+14. ThorVG: Super Lightweight Vector Graphics Engine
+   Points: 90
+   Comments: 19
+   URL: https://www.thorvg.org/about
+
+15. Show HN: A toy version of Wireshark (student project)
+   Points: 188
+   Comments: 57
+   URL: https://github.com/lixiasky/vanta
+
+16. Arcol simplifies building design with browser-based modeling
+   Points: 42
+   Comments: 23
+   URL: https://www.arcol.io/
+
+17. Ask HN: Who wants to be hired? (June 2025)
+   Points: 91
+   Comments: 227
+   URL: https://news.ycombinator.com/item?id=44159525
+
+18. Can I stop drone delivery companies flying over my property?
+   Points: 65
+   Comments: 144
+   URL: https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/
+
+19. Ask HN: How do I learn robotics in 2025?
+   Points: 265
+   Comments: 76
+   URL: https://news.ycombinator.com/item?id=44158353
+
+20. Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer
+
