@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-05
+==================================================
+
+1. A Spiral Structure in the Inner Oort Cloud
+   Points: 30
+   Comments: 4
+   URL: https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b
+
+2. FFmpeg merges WebRTC support
+   Points: 510
+   Comments: 117
+   URL: https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00
+
+3. After court order, OpenAI is now preserving all ChatGPT user logs
+   Points: 361
+   Comments: 229
+   URL: https://mastodon.laurenweinstein.org/@lauren/114627064774788581
+
+4. A proposal to restrict sites from accessing a users’ local network
+   Points: 224
+   Comments: 135
+   URL: https://github.com/explainers-by-googlers/local-network-access
+
+5. Why I wrote the BEAM book
+   Points: 410
+   Comments: 117
+   URL: https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/
+
+6. The iPhone 15 Pro’s Depth Maps
+   Points: 204
+   Comments: 55
+   URL: https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html
+
+7. Tesla seeks to guard crash data from public disclosure
+   Points: 62
+   Comments: 20
+   URL: https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/
+
+8. The Prompt Engineering Playbook for Programmers
+   Points: 163
+   Comments: 59
+   URL: https://addyo.substack.com/p/the-prompt-engineering-playbook-for
+
+9. Apple Notes Expected to Gain Markdown Support in iOS 26
+   Points: 119
+   Comments: 65
+   URL: https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/
+
+10. Not All Tokens Are Meant to Be Forgotten
+   Points: 8
+   Comments: 2
+   URL: https://arxiv.org/abs/2506.03142
+
+11. PromptArmor (YC W24) Is Hiring in San Francisco
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack
+
+12. Cockatoos have learned to operate drinking fountains in Australia
+   Points: 295
+   Comments: 132
+   URL: https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia
+
+13. Ada and SPARK enter the automotive ISO-26262 market with Nvidia
+   Points: 35
+   Comments: 14
+   URL: https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia
+
+14. IRS Direct File on GitHub
+   Points: 415
+   Comments: 182
+   URL: https://chrisgiven.com/2025/05/direct-file-on-github/
+
+15. When memory was measured in kilobytes: The art of efficient vision
+   Points: 70
+   Comments: 13
+   URL: https://www.softwareheritage.org/2025/06/04/history_computer_vision/
+
+16. Cloud Run GPUs, now GA, makes running AI workloads easier for everyone
+   Points: 292
+   Comments: 165
+   URL: https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available
+
+17. A practical guide to building agents [pdf]
+   Points: 116
+   Comments: 19
+   URL: https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
+
+18. Autonomous drone defeats human champions in racing first
+   Points: 107
+   Comments: 91
+   URL: https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first
+
+19. Show HN: GPT image editing, but for 3D models
+   Points: 97
+   Comments: 57
+   URL: https://www.adamcad.com/
+
+20. How we reduced the impact of zombie clients
+   Points: 80
+   Comments: 13
+   URL: https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/
+
