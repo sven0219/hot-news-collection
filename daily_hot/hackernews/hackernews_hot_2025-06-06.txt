@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-06
+==================================================
+
+1. Tokasaurus: An LLM Inference Engine for High-Throughput Workloads
+   Points: 83
+   Comments: 6
+   URL: https://scalingintelligence.stanford.edu/blogs/tokasaurus/
+
+2. Show HN: Claude Composer
+   Points: 36
+   Comments: 9
+   URL: https://github.com/possibilities/claude-composer
+
+3. The impossible predicament of the death newts
+   Points: 389
+   Comments: 130
+   URL: https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/
+
+4. APL Interpreter – An implementation of APL, written in Haskell (2024)
+   Points: 50
+   Comments: 24
+   URL: https://scharenbroch.dev/projects/apl-interpreter/
+
+5. I Do Not Remember My Life and It's Fine
+   Points: 18
+   Comments: 2
+   URL: https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine
+
+6. Machine Learning: The Native Language of Biology
+   Points: 12
+   Comments: 2
+   URL: https://decodingbiology.substack.com/p/machine-learning-the-native-language
+
+7. Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations
+   Points: 21
+   Comments: 10
+   URL: https://masonyarbrough.com/blog/ask-human
+
+8. What a developer needs to know about SCIM
+   Points: 14
+   Comments: 4
+   URL: https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim
+
+9. SkyRoof: New Ham Satellite Tracking and SDR Receiver Software
+   Points: 47
+   Comments: 2
+   URL: https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/
+
+10. Air Lab – A portable and open air quality measuring device
+   Points: 325
+   Comments: 148
+   URL: https://networkedartifacts.com/airlab/simulator
+
+11. Anthropic co-founder on cutting access to Windsurf
+   Points: 16
+   Comments: 0
+   URL: https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/
+
+12. Seven Days at the Bin Store
+   Points: 130
+   Comments: 64
+   URL: https://defector.com/seven-days-at-the-bin-store
+
+13. The Universal Tech Tree
+   Points: 59
+   Comments: 36
+   URL: https://asteriskmag.com/issues/10/the-universal-tech-tree
+
+14. Converge (YC S23) Well-capitalized New York startup seeks product developers
+   Points: 1
+   Comments: 0
+   URL: https://www.runconverge.com/careers
+
+15. Show HN: iOS Screen Time from a REST API
+   Points: 76
+   Comments: 42
+   URL: https://www.thescreentimenetwork.com/api/
+
+16. Show HN: Lambduck, a Functional Programming Brainfuck
+   Points: 4
+   Comments: 0
+   URL: https://imjakingit.github.io/lambduck/
+
+17. Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX
+   Points: 160
+   Comments: 36
+   URL: https://github.com/hyperdxio/hyperdx
+
+18. Programming language Dino and its implementation
+   Points: 34
+   Comments: 11
+   URL: https://github.com/dino-lang/dino
+
+19. ICANN fee price hike by 11% [pdf]
+   Points: 56
+   Comments: 25
+   URL: https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf
+
+20. Eleven v3
+   Points: 150
+   Comments: 86
+   URL: https://elevenlabs.io/v3
+
