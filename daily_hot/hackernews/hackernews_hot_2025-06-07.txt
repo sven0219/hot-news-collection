@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-07
+==================================================
+
+1. Researchers develop ‘transparent paper’ as alternative to plastics
+   Points: 124
+   Comments: 42
+   URL: https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/
+
+2. A year of funded FreeBSD development
+   Points: 146
+   Comments: 41
+   URL: https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html
+
+3. Medieval Africans Had a Unique Process for Purifying Gold with Glass (2019)
+   Points: 41
+   Comments: 12
+   URL: https://www.atlasobscura.com/articles/medieval-african-gold
+
+4. How we decreased GitLab repo backup times from 48 hours to 41 minutes
+   Points: 322
+   Comments: 128
+   URL: https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/
+
+5. The time bomb in the tax code that's fueling mass tech layoffs
+   Points: 467
+   Comments: 331
+   URL: https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502
+
+6. Highly efficient matrix transpose in Mojo
+   Points: 67
+   Comments: 25
+   URL: https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/
+
+7. Sandia turns on brain-like storage-free supercomputer
+   Points: 150
+   Comments: 49
+   URL: https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/
+
+8. The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]
+   Points: 92
+   Comments: 32
+   URL: https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
+
+9. Odyc.js – A tiny JavaScript library for narrative games
+   Points: 178
+   Comments: 39
+   URL: https://odyc.dev
+
+10. What "Working" Means in the Era of AI Apps
+   Points: 17
+   Comments: 7
+   URL: https://a16z.com/revenue-benchmarks-ai-apps/
+
+11. A masochist's guide to web development
+   Points: 173
+   Comments: 21
+   URL: https://sebastiano.tronto.net/blog/2025-06-06-webdev/
+
+12. A leaderless NASA faces its biggest-ever cuts
+   Points: 40
+   Comments: 20
+   URL: https://www.economist.com/science-and-technology/2025/06/04/a-leaderless-nasa-faces-its-biggest-ever-cuts
+
+13. Smalltalk, Haskell and Lisp
+   Points: 36
+   Comments: 11
+   URL: https://storytotell.org/smalltalk-haskell-and-lisp
+
+14. Onyx (YC W24) – AI Assistants for Work Hiring Founding AE
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive
+
+15. Meta: Shut down your invasive AI Discover feed
+   Points: 426
+   Comments: 184
+   URL: https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/
+
+16. Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch Tasks
+   Points: 33
+   Comments: 8
+   URL: https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks
+
+17. Too Many Open Files
+   Points: 94
+   Comments: 77
+   URL: https://mattrighetti.com/2025/06/04/too-many-files-open
+
+18. United States Digital Service Origins
+   Points: 117
+   Comments: 49
+   URL: https://usdigitalserviceorigins.org/
+
+19. Series C and scale
+   Points: 49
+   Comments: 41
+   URL: https://www.cursor.com/en/blog/series-c
+
+20. Curate your shell history
+   Points: 91
+   Comments: 62
+   URL: https://esham.io/2025/05/shell-history
+
