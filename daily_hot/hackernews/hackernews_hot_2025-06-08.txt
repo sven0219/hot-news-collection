@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-08
+==================================================
+
+1. Convert photos to Atkinson dithering
+   Points: 196
+   Comments: 29
+   URL: https://gazs.github.io/canvas-atkinson-dither/
+
+2. Joining Apple Computer
+   Points: 91
+   Comments: 20
+   URL: https://www.folklore.org/Joining_Apple_Computer.html
+
+3. Bill Atkinson has died
+   Points: 942
+   Comments: 187
+   URL: https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip
+
+4. ChatGPT AI Can Be Fooled to Reveal Secrets
+   Points: 7
+   Comments: 2
+   URL: https://texttoslides.ai/blog/chatgpt-ai-reveals-secrets
+
+5. Self-Host and Tech Independence: The Joy of Building Your Own
+   Points: 120
+   Comments: 40
+   URL: https://www.ssp.sh/blog/self-host-self-independence/
+
+6. BorgBackup 2 has no server-side append-only anymore
+   Points: 109
+   Comments: 65
+   URL: https://github.com/borgbackup/borg/pull/8798
+
+7. My experiment living in a tent in Hong Kong's jungle
+   Points: 148
+   Comments: 50
+   URL: https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment
+
+8. Coventry Very Light Rail
+   Points: 29
+   Comments: 30
+   URL: https://www.coventry.gov.uk/coventry-light-rail
+
+9. What was Radiant AI, anyway?
+   Points: 142
+   Comments: 89
+   URL: https://blog.paavo.me/radiant-ai/
+
+10. You need much less memory than time
+   Points: 52
+   Comments: 6
+   URL: https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html
+
+11. Updates to Advanced Voice Mode for paid users
+   Points: 31
+   Comments: 26
+   URL: https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+
+12. Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray
+   Points: 50
+   Comments: 8
+   URL: https://aoli.al/blogs/jdk-bug/
+
+13. The time bomb in the tax code that's fueling mass tech layoffs
+   Points: 1303
+   Comments: 823
+   URL: https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502
+
+14. Field Notes from Shipping Real Code with Claude
+   Points: 49
+   Comments: 4
+   URL: https://diwank.space/field-notes-from-shipping-real-code-with-claude
+
+15. Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)
+   Points: 258
+   Comments: 137
+   URL: https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex
+
+16. Low-Level Optimization with Zig
+   Points: 232
+   Comments: 114
+   URL: https://alloc.dev/2025/06/07/zig_optimization
+
+17. Why We're Moving on from Nix
+   Points: 195
+   Comments: 91
+   URL: https://blog.railway.com/p/introducing-railpack
+
+18. Researchers develop ‘transparent paper’ as alternative to plastics
+   Points: 371
+   Comments: 231
+   URL: https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/
+
+19. A tool for burning visible pictures on a compact disc surface
+   Points: 126
+   Comments: 46
+   URL: https://github.com/arduinocelentano/cdimage
+
+20. Getting Past Procrastination
+   Points: 292
+   Comments: 137
+   URL: https://spectrum.ieee.org/getting-past-procastination
+
