@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-09
+==================================================
+
+1. Why Android can't use CDC Ethernet (2023)
+   Points: 128
+   Comments: 55
+   URL: https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/
+
+2. Poison everywhere: No output from your MCP server is safe
+   Points: 61
+   Comments: 28
+   URL: https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
+
+3. Omnimax
+   Points: 55
+   Comments: 18
+   URL: https://computer.rip/2025-06-08-Omnimax.html
+
+4. Building supercomputers for autocrats probably isn't good for democracy
+   Points: 55
+   Comments: 30
+   URL: https://helentoner.substack.com/p/supercomputers-for-autocrats
+
+5. Panjandrum: The 'giant firework' built to break Hitler's Atlantic Wall
+   Points: 80
+   Comments: 62
+   URL: https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall
+
+6. Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance
+   Points: 21
+   Comments: 5
+   URL: https://aavetis.github.io/ai-pr-watcher/
+
+7. Administering immunotherapy in the morning seems to matter. Why?
+   Points: 115
+   Comments: 75
+   URL: https://www.owlposting.com/p/the-time-of-day-that-immunotherapy
+
+8. Riding high in Germany on the world's oldest suspended railway
+   Points: 7
+   Comments: 0
+   URL: https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway
+
+9. OpenBSD IO Benchmarking: How Many Jobs Are Worth It?
+   Points: 15
+   Comments: 3
+   URL: https://rsadowski.de/posts/2025/fio_simple_benckmarking/
+
+10. My first attempt at iOS app development
+   Points: 69
+   Comments: 38
+   URL: https://mgx.me/my-first-attempt-at-ios-app-development
+
+11. Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer
+   Points: 77
+   Comments: 14
+   URL: https://letsbend.de
+
+12. The Wire That Transforms Much of Manhattan into One Big, Symbolic Home
+   Points: 20
+   Comments: 15
+   URL: https://www.atlasobscura.com/articles/eruv-manhattan-invisible-wire-jewish-symbolic-religious-home
+
+13. Cheap yet ultrapure titanium might enable widespread use in industry (2024)
+   Points: 65
+   Comments: 38
+   URL: https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp
+
+14. Gaussian integration is cool
+   Points: 137
+   Comments: 28
+   URL: https://rohangautam.github.io/blog/chebyshev_gauss/
+
+15. Endangered classic Mac plastic color returns as 3D-printer filament
+   Points: 44
+   Comments: 0
+   URL: https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/
+
+16. How Compiler Explorer Works in 2025
+   Points: 99
+   Comments: 19
+   URL: https://xania.org/202506/how-compiler-explorer-works
+
+17. I Used AI-Powered Calorie Counting Apps, and They Were Even Worse Than Expected
+   Points: 23
+   Comments: 8
+   URL: https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected
+
+18. Binfmtc – binfmt_misc C scripting interface
+   Points: 76
+   Comments: 19
+   URL: https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en
+
+19. The last six months in LLMs, illustrated by pelicans on bicycles
+   Points: 714
+   Comments: 186
+   URL: https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+
+20. Joining Apple Computer (2018)
+   Points: 390
+   Comments: 113
+   URL: https://www.folklore.org/Joining_Apple_Computer.html
+
