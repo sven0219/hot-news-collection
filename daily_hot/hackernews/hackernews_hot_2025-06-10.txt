@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-10
+==================================================
+
+1. Tell HN: Help restore the tax deduction for software dev in the US (Section 174)
+   Points: 1415
+   Comments: 551
+   URL: https://news.ycombinator.com/item?id=44226145
+
+2. Containerization is a Swift package for running Linux containers on macOS
+   Points: 260
+   Comments: 106
+   URL: https://github.com/apple/containerization
+
+3. Apple announces Foundation Models and Containerization frameworks, etc
+   Points: 484
+   Comments: 311
+   URL: https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/
+
+4. Sly Stone has died
+   Points: 125
+   Comments: 11
+   URL: https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345
+
+5. Why agents are bad pair programmers
+   Points: 12
+   Comments: 3
+   URL: https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/
+
+6. Show HN: Munal OS: a graphical experimental OS with WASM sandboxing
+   Points: 168
+   Comments: 62
+   URL: https://github.com/Askannz/munal-os
+
+7. The Xerox Alto, Smalltalk, and Rewriting a Running GUI (2017)
+   Points: 29
+   Comments: 10
+   URL: https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
+
+8. Apple introduces a universal design across platforms
+   Points: 427
+   Comments: 676
+   URL: https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/
+
+9. What methylene blue can (and can’t) do for the brain
+   Points: 84
+   Comments: 53
+   URL: https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/
+
+10. Las Vegas is embracing a simple climate solution: More trees
+   Points: 13
+   Comments: 3
+   URL: https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees
+
+11. Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking
+   Points: 95
+   Comments: 36
+   URL: https://news.ycombinator.com/item?id=44225930
+
+12. Go is a good fit for agents
+   Points: 114
+   Comments: 83
+   URL: https://docs.hatchet.run/blog/go-agents
+
+13. Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels
+   Points: 6
+   Comments: 0
+   URL: https://github.com/jgalecki/qrawl-tiny-mass-disco
+
+14. Show HN: Somo – a human friendly alternative to netstat
+   Points: 82
+   Comments: 19
+   URL: https://github.com/theopfr/somo
+
+15. Doctors could hack the nervous system with ultrasound
+   Points: 118
+   Comments: 12
+   URL: https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes
+
+16. Container: Apple's Linux-Container Runtime
+   Points: 47
+   Comments: 6
+   URL: https://github.com/apple/container
+
+17. Hokusai Moyo Gafu: an album of dyeing patterns
+   Points: 129
+   Comments: 13
+   URL: https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo
+
+18. Bruteforcing the phone number of any Google user
+   Points: 450
+   Comments: 140
+   URL: https://brutecat.com/articles/leaking-google-phones
+
+19. Pi in Pascal's Triangle (2014)
+   Points: 53
+   Comments: 8
+   URL: https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml
+
+20. Show HN: Most users won't report bugs unless you make it stupidly easy
+   Points: 164
+   Comments: 95
+   URL: https://news.ycombinator.com/item?id=44225352
+
