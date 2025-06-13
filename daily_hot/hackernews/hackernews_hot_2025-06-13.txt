@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-13
+==================================================
+
+1. Frequent reauth doesn't make you more secure
+   Points: 554
+   Comments: 253
+   URL: https://tailscale.com/blog/frequent-reath-security
+
+2. A Dark Adtech Empire Fed by Fake CAPTCHAs
+   Points: 54
+   Comments: 1
+   URL: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/
+
+3. A receipt printer cured my procrastination
+   Points: 756
+   Comments: 430
+   URL: https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination
+
+4. iPhone 11 emulation done in QEMU
+   Points: 206
+   Comments: 16
+   URL: https://github.com/ChefKissInc/QEMUAppleSilicon
+
+5. Show HN: Tritium – The Legal IDE in Rust
+   Points: 119
+   Comments: 62
+   URL: https://tritium.legal/preview
+
+6. The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins
+   Points: 22
+   Comments: 10
+   URL: https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins
+
+7. Being Full of Value‑Added Shit
+   Points: 48
+   Comments: 30
+   URL: https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/
+
+8. Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)
+   Points: 48
+   Comments: 4
+   URL: https://github.com/hunterirving/pico-crossing
+
+9. Worldwide power grid with glass insulated HVDC cables
+   Points: 21
+   Comments: 11
+   URL: https://omattos.com/2025/06/12/glass-hvdc-cables.html
+
+10. Show HN: Vim-like text editor in go. (LSP, TreeSitter, Themes)
+   Points: 56
+   Comments: 8
+   URL: https://github.com/firstrow/mcwig
+
+11. Maximizing Battery Storage Profits via High-Frequency Intraday Trading
+   Points: 206
+   Comments: 200
+   URL: https://arxiv.org/abs/2504.06932
+
+12. Solving LinkedIn Queens with SMT
+   Points: 81
+   Comments: 30
+   URL: https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/
+
+13. Rust compiler performance
+   Points: 152
+   Comments: 124
+   URL: https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html
+
+14. Roundtable (YC S23) Is Hiring a President / CRO
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding
+
+15. Why does my ripped CD have messed up track names? And why is one track missing?
+   Points: 83
+   Comments: 97
+   URL: https://www.akpain.net/blog/inside-a-cd/
+
+16. Helion: A modern fast paced Doom FPS engine in C#
+   Points: 128
+   Comments: 51
+   URL: https://github.com/Helion-Engine/Helion
+
+17. First thoughts on o3 pro
+   Points: 96
+   Comments: 89
+   URL: https://www.latent.space/p/o3-pro
+
+18. Microsoft Office migration from Source Depot to Git
+   Points: 295
+   Comments: 242
+   URL: https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/
+
+19. Chatterbox TTS
+   Points: 577
+   Comments: 172
+   URL: https://github.com/resemble-ai/chatterbox
+
+20. Humans have nasal respiratory fingerprints
+   Points: 48
+   Comments: 23
+   URL: https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4
+
