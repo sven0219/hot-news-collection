@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-14
+==================================================
+
+1. Implementing Logic Programming
+   Points: 53
+   Comments: 10
+   URL: https://btmc.substack.com/p/implementing-logic-programming
+
+2. The Emperor's New LLM
+   Points: 33
+   Comments: 14
+   URL: https://dayafter.substack.com/p/the-emperors-new-llm
+
+3. Self-Adapting Language Models
+   Points: 86
+   Comments: 29
+   URL: https://arxiv.org/abs/2506.10943
+
+4. If the moon were only 1 pixel: A tediously accurate solar system model (2014)
+   Points: 657
+   Comments: 212
+   URL: https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
+
+5. OxCaml - a set of extensions to the OCaml programming language.
+   Points: 252
+   Comments: 73
+   URL: https://oxcaml.org/
+
+6. Student discovers fungus predicted by Albert Hoffman
+   Points: 53
+   Comments: 27
+   URL: https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor
+
+7. Whatever Happened to Sandboxfs?
+   Points: 16
+   Comments: 3
+   URL: https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs
+
+8. I convinced HP's board to buy Palm and watched them kill it
+   Points: 433
+   Comments: 381
+   URL: https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm
+
+9. RISC-V in AI and HPC Part 1: Per Aspera Ad Astra?
+   Points: 7
+   Comments: 0
+   URL: https://www.eetimes.com/risc-v-in-ai-and-hpc-part-1-per-aspera-ad-astra/
+
+10. U.S. Army bringing in big tech executives as lieutenant colonels
+   Points: 50
+   Comments: 38
+   URL: https://taskandpurpose.com/military-life/army-reserve-lt-col-tech-execs/
+
+11. The Claude Bliss Attractor
+   Points: 58
+   Comments: 46
+   URL: https://www.astralcodexten.com/p/the-claude-bliss-attractor
+
+12. Meta invests $14.3B in Scale AI to kick-start superintelligence lab
+   Points: 388
+   Comments: 404
+   URL: https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html
+
+13. Using computers more freely and safely (2023)
+   Points: 58
+   Comments: 3
+   URL: https://akkartik.name/freewheeling/
+
+14. The Hat, the Spectre and SAT Solvers (2024)
+   Points: 75
+   Comments: 4
+   URL: https://www.nhatcher.com/post/on-hats-and-sats/
+
+15. How the Alzheimer's Research Scandal Set Back Treatment 16 Years (2022)
+   Points: 52
+   Comments: 28
+   URL: https://www.discovermagazine.com/the-sciences/false-alzheimers-study-could-set-research-back-16-years
+
+16. Show HN: Tattoy – a text-based terminal compositor
+   Points: 148
+   Comments: 42
+   URL: https://tattoy.sh
+
+17. 100 years of Zermelo's axiom of choice: What was the problem with it? (2006)
+   Points: 88
+   Comments: 88
+   URL: https://research.mietek.io/mi.MartinLof2006.html
+
+18. When random people give money to random other people (2017)
+   Points: 68
+   Comments: 48
+   URL: https://quomodocumque.wordpress.com/2017/06/27/when-random-people-give-money-to-random-other-people/
+
+19. EDAN: Towards Understanding Memory Parallelism and Latency Sensitivity in HPC [pdf]
+   Points: 12
+   Comments: 0
+   URL: https://spcl.inf.ethz.ch/Publications/.pdf/shen-ics-2025-edan.pdf
+
+20. Apple's Liquid Glass is prep work for AR interfaces, not just a design refresh
+   Points: 144
+   Comments: 164
+   URL: https://omc345.substack.com/p/from-skeuomorphic-to-liquid-glass
+
