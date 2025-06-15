@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-15
+==================================================
+
+1. Infinite Grid of Resistors
+   Points: 73
+   Comments: 23
+   URL: https://www.mathpages.com/home/kmath668/kmath668.htm
+
+2. I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch
+   Points: 326
+   Comments: 56
+   URL: https://github.com/yousef-rafat/miniDiffusion
+
+3. Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)
+   Points: 119
+   Comments: 22
+   URL: https://www.righto.com/2025/06/inside-apollo-fdai.html
+
+4. Have a damaged painting? Restore it in just hours with an AI-generated "mask"
+   Points: 13
+   Comments: 9
+   URL: https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611
+
+5. Chicken Eyeglasses
+   Points: 36
+   Comments: 10
+   URL: https://en.wikipedia.org/wiki/Chicken_eyeglasses
+
+6. Solar Orbiter gets world-first views of the Sun's poles
+   Points: 168
+   Comments: 25
+   URL: https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles
+
+7. Seven replies to the viral Apple reasoning paper and why they fall short
+   Points: 192
+   Comments: 140
+   URL: https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple
+
+8. Clinical knowledge in LLMs does not translate to human interactions
+   Points: 41
+   Comments: 19
+   URL: https://arxiv.org/pdf/2504.18919
+
+9. Debunking HDR [video]
+   Points: 49
+   Comments: 30
+   URL: https://yedlin.net/DebunkingHDR/index.html
+
+10. Waymo rides cost more than Uber or Lyft and people are paying anyway
+   Points: 211
+   Comments: 393
+   URL: https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/
+
+11. Wrong ways to use the databases, when the pendulum swung too far
+   Points: 8
+   Comments: 0
+   URL: https://www.luu.io/posts/2025-database-pendulum
+
+12. Unsupervised Elicitation of Language Models
+   Points: 117
+   Comments: 14
+   URL: https://arxiv.org/abs/2506.10139
+
+13. How the Final Cartridge III Freezer Works
+   Points: 57
+   Comments: 11
+   URL: https://www.pagetable.com/?p=1810
+
+14. Last fifty years of integer linear programming: Recent practical advances
+   Points: 169
+   Comments: 52
+   URL: https://inria.hal.science/hal-04776866v1
+
+15. Fixing the mechanics of my bullet chess
+   Points: 12
+   Comments: 7
+   URL: https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/
+
+16. The Many Sides of Erik Satie
+   Points: 128
+   Comments: 28
+   URL: https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/
+
+17. SIMD-friendly algorithms for substring searching (2018)
+   Points: 192
+   Comments: 29
+   URL: http://0x80.pl/notesen/2016-11-28-simd-strfind.html
+
+18. Endometriosis is an interesting disease
+   Points: 318
+   Comments: 216
+   URL: https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting
+
+19. AMD's AI Future Is Rack Scale 'Helios'
+   Points: 6
+   Comments: 0
+   URL: https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios
+
+20. Peano arithmetic is enough, because Peano arithmetic  encodes computation
+   Points: 216
+   Comments: 107
+   URL: https://math.stackexchange.com/a/5075056/6708
+
