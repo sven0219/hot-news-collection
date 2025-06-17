@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-17
+==================================================
+
+1. Snorting the AGI with Claude Code
+   Points: 180
+   Comments: 79
+   URL: https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code
+
+2. George Orwell's 1984 and How Power Manufactures Truth
+   Points: 5
+   Comments: 0
+   URL: https://www.openculture.com/2025/06/an-introduction-to-george-orwells-1984-and-how-power-manufactures-truth.html
+
+3. DRM Can Watch You Too: Privacy Effects of Browsers' Widevine EME (2023)
+   Points: 44
+   Comments: 17
+   URL: https://hal.science/hal-04179324v1/document
+
+4. Show HN: Chawan TUI web browser
+   Points: 155
+   Comments: 19
+   URL: https://chawan.net/news/chawan-0-2-0.html
+
+5. Benzene at 200
+   Points: 169
+   Comments: 92
+   URL: https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article
+
+6. Show HN: Canine – A Heroku alternative built on Kubernetes
+   Points: 144
+   Comments: 73
+   URL: https://github.com/czhu12/canine
+
+7. Retrobootstrapping Rust for some reason
+   Points: 87
+   Comments: 30
+   URL: https://graydon2.dreamwidth.org/317484.html
+
+8. Open-Source RISC-V: Energy Efficiency of Superscalar, Out-of-Order Execution
+   Points: 57
+   Comments: 13
+   URL: https://arxiv.org/abs/2505.24363
+
+9. OpenTelemetry for Go: Measuring overhead costs
+   Points: 94
+   Comments: 34
+   URL: https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/
+
+10. Working on databases from prison
+   Points: 676
+   Comments: 437
+   URL: https://turso.tech/blog/working-on-databases-from-prison
+
+11. Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format
+   Points: 172
+   Comments: 37
+   URL: https://github.com/rorosen/zeekstd
+
+12. OpenAI wins $200M U.S. defense contract
+   Points: 50
+   Comments: 31
+   URL: https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html
+
+13. Blaze (YC S24) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer
+
+14. Show HN: Nexus.js - Fabric.js for 3D
+   Points: 40
+   Comments: 15
+   URL: https://punk.cam/lab/nexus
+
+15. Battle to eradicate invasive pythons in Florida achieves milestone
+   Points: 5
+   Comments: 0
+   URL: https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html
+
+16. Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons
+   Points: 40
+   Comments: 17
+   URL: https://arxiv.org/abs/2506.01963
+
+17. Nanonets-OCR-s – OCR model that transforms documents into structured markdown
+   Points: 277
+   Comments: 63
+   URL: https://huggingface.co/nanonets/Nanonets-OCR-s
+
+18. Is gravity just entropy rising? Long-shot idea gets another look
+   Points: 253
+   Comments: 220
+   URL: https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/
+
+19. Show HN: dk – A script runner and cross-compiler, written in OCaml
+   Points: 52
+   Comments: 5
+   URL: https://diskuv.com/dk/help/latest/
+
+20. Identity Assertion Authorization Grant
+   Points: 4
+   Comments: 2
+   URL: https://www.ietf.org/archive/id/draft-parecki-oauth-identity-assertion-authz-grant-03.html
+
