@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-18
+==================================================
+
+1. The Grug Brained Developer (2022)
+   Points: 443
+   Comments: 133
+   URL: https://grugbrain.dev/
+
+2. Honda conducts successful launch and landing of experimental reusable rocket
+   Points: 791
+   Comments: 240
+   URL: https://global.honda/en/topics/2025/c_2025-06-17ceng.html
+
+3. Resurrecting a dead torrent tracker and finding 3M peers
+   Points: 347
+   Comments: 107
+   URL: https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html
+
+4. Bzip2 crate switches from C to 100% Rust
+   Points: 131
+   Comments: 53
+   URL: https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/
+
+5. 3D-printed device splits white noise into an acoustic rainbow without power
+   Points: 48
+   Comments: 3
+   URL: https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html
+
+6. Building Effective AI Agents
+   Points: 236
+   Comments: 50
+   URL: https://www.anthropic.com/engineering/building-effective-agents
+
+7. Dinesh's Mid-Summer Death Valley Walk (1998)
+   Points: 9
+   Comments: 1
+   URL: https://dineshdesai.info/dv/photos.html
+
+8. AMD's CDNA 4 Architecture Announcement
+   Points: 108
+   Comments: 19
+   URL: https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement
+
+9. LLMs pose an interesting problem for DSL designers
+   Points: 100
+   Comments: 81
+   URL: https://kirancodes.me/posts/log-lang-design-llms.html
+
+10. Show HN: I made an online Unicode Cuneiform digital clock
+   Points: 24
+   Comments: 9
+   URL: https://oisinmoran.com/sumertime
+
+11. Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite
+   Points: 261
+   Comments: 162
+   URL: https://blog.google/products/gemini/gemini-2-5-model-family-expands/
+
+12. What Google Translate Can Tell Us About Vibecoding
+   Points: 77
+   Comments: 39
+   URL: https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
+
+13. Time Series Forecasting with Graph Transformers
+   Points: 70
+   Comments: 26
+   URL: https://kumo.ai/research/time-series-forecasting/
+
+14. Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level
+
+15. Why JPEGs still rule the web (2024)
+   Points: 132
+   Comments: 236
+   URL: https://spectrum.ieee.org/jpeg-image-format-history
+
+16. Now might be the best time to learn software development
+   Points: 116
+   Comments: 72
+   URL: https://substack.com/home/post/p-165655726
+
+17. Should we design for iffy internet?
+   Points: 159
+   Comments: 150
+   URL: https://bytes.zone/posts/should-we-design-for-iffy-internet/
+
+18. From SDR to 'Fake HDR': Mario Kart World on Switch 2
+   Points: 48
+   Comments: 34
+   URL: https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/
+
+19. Iran asks its people to delete WhatsApp from their devices
+   Points: 179
+   Comments: 209
+   URL: https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1
+
+20. I Wrote a Compiler
+   Points: 7
+   Comments: 0
+   URL: https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/
+
