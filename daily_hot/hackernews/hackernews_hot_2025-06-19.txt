@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-19
+==================================================
+
+1. Show HN: Unregistry – "docker push" directly to servers without a registry
+   Points: 78
+   Comments: 24
+   URL: https://github.com/psviderski/unregistry
+
+2. Fang, the CLI Starter Kit
+   Points: 45
+   Comments: 7
+   URL: https://github.com/charmbracelet/fang
+
+3. Websites Are Tracking You via Browser Fingerprinting
+   Points: 81
+   Comments: 34
+   URL: https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html
+
+4. Show HN: Workout.cool – Open-source fitness coaching platform
+   Points: 550
+   Comments: 168
+   URL: https://github.com/Snouzy/workout-cool
+
+5. The unreasonable effectiveness of fuzzing for porting programs
+   Points: 175
+   Comments: 36
+   URL: https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing
+
+6. My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server
+   Points: 201
+   Comments: 68
+   URL: https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/
+
+7. Bento: A Steam Deck in a Keyboard
+   Points: 40
+   Comments: 6
+   URL: https://github.com/lunchbox-computer/bento
+
+8. Icons of Aviation History: Boeing X-29
+   Points: 14
+   Comments: 7
+   URL: https://lflank.wordpress.com/2025/06/17/icons-of-aviation-history-boeing-x-29/
+
+9. Writing documentation for AI: best practices
+   Points: 139
+   Comments: 36
+   URL: https://docs.kapa.ai/improving/writing-best-practices
+
+10. Poline – An enigmatic color palette generator using polar coordinates
+   Points: 197
+   Comments: 41
+   URL: https://meodai.github.io/poline/
+
+11. Homomorphically Encrypting CRDTs
+   Points: 189
+   Comments: 58
+   URL: https://jakelazaroff.com/words/homomorphically-encrypted-crdts/
+
+12. The Missing 11th of the Month
+   Points: 15
+   Comments: 1
+   URL: https://drhagen.com/blog/the-missing-11th-of-the-month/
+
+13. Introduction to the A* Algorithm (2014)
+   Points: 241
+   Comments: 89
+   URL: https://www.redblobgames.com/pathfinding/a-star/introduction.html
+
+14. DropZap World – my falling block game with lasers, released after years of work
+   Points: 15
+   Comments: 6
+   URL: https://apps.apple.com/us/app/dropzap-world/id1072858930
+
+15. Terpstra Keyboard
+   Points: 213
+   Comments: 71
+   URL: http://terpstrakeyboard.com/web-app/keys.htm
+
+16. Show HN: I built a tensor library from scratch in C++/CUDA
+   Points: 88
+   Comments: 17
+   URL: https://github.com/nirw4nna/dsc
+
+17. USDA Pomological Watercolors
+   Points: 22
+   Comments: 4
+   URL: https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426
+
+18. Yes I Will Read Ulysses Yes
+   Points: 62
+   Comments: 81
+   URL: https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/
+
+19. Game Hacking – Valve Anti-Cheat (VAC)
+   Points: 91
+   Comments: 81
+   URL: https://codeneverdies.github.io/posts/gh-2/
+
+20. Is there a half-life for the success rates of AI agents?
+   Points: 200
+   Comments: 110
+   URL: https://www.tobyord.com/writing/half-life
+
