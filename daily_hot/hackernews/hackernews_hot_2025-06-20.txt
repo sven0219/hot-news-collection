@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-20
+==================================================
+
+1. Show HN: I wrote a new BitTorrent tracker in Elixir
+   Points: 50
+   Comments: 2
+   URL: https://github.com/Dahrkael/ExTracker
+
+2. Compiling LLMs into a MegaKernel: A path to low-latency inference
+   Points: 146
+   Comments: 37
+   URL: https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17
+
+3. Literate programming tool for any language
+   Points: 33
+   Comments: 16
+   URL: https://github.com/zyedidia/Literate
+
+4. Curved-Crease Sculpture
+   Points: 153
+   Comments: 24
+   URL: https://erikdemaine.org/curved/
+
+5. Andrej Karpathy: Software in the era of AI [video]
+   Points: 1098
+   Comments: 615
+   URL: https://www.youtube.com/watch?v=LCEmiRjPEtQ
+
+6. Homegrown Closures for Uxn
+   Points: 68
+   Comments: 9
+   URL: https://krzysckh.org/b/Homegrown-closures-for-uxn.html
+
+7. Show HN: A DOS-like hobby OS written in Rust and x86 assembly
+   Points: 142
+   Comments: 30
+   URL: https://github.com/krustowski/rou2exOS
+
+8. Show HN: EnrichMCP – A Python ORM for Agents
+   Points: 80
+   Comments: 25
+   URL: https://github.com/featureform/enrichmcp
+
+9. Show HN: RM2000 Tape Recorder, an audio sampler for macOS
+   Points: 28
+   Comments: 8
+   URL: https://rm2000.app
+
+10. How OpenElections uses LLMs
+   Points: 82
+   Comments: 33
+   URL: https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html
+
+11. String Interpolation in C++ Using Glaze Stencil/Mustache
+   Points: 14
+   Comments: 0
+   URL: https://stephenberry.github.io/glaze/stencil-mustache/
+
+12. Guess I'm a Rationalist Now
+   Points: 216
+   Comments: 619
+   URL: https://scottaaronson.blog/?p=8908
+
+13. Extracting memorized pieces of books from open-weight language models
+   Points: 44
+   Comments: 35
+   URL: https://arxiv.org/abs/2505.12546
+
+14. Show HN: Unregistry – “docker push” directly to servers without a registry
+   Points: 626
+   Comments: 138
+   URL: https://github.com/psviderski/unregistry
+
+15. DNA floating in the air tracks wildlife, viruses, even drugs
+   Points: 68
+   Comments: 59
+   URL: https://www.sciencedaily.com/releases/2025/06/250603114822.htm
+
+16. We Can Just Measure Things
+   Points: 59
+   Comments: 46
+   URL: https://lucumr.pocoo.org/2025/6/17/measuring/
+
+17. Star Quakes and Monster Shock Waves
+   Points: 33
+   Comments: 4
+   URL: https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves
+
+18. Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs
+   Points: 190
+   Comments: 108
+   URL: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+
+19. Public/protected/private is an unnecessary feature
+   Points: 49
+   Comments: 51
+   URL: https://catern.com/private.html
+
+20. Flowspace (YC S17) Is Hiring Software Engineers
+   Points: 1
+   Comments: 0
+   URL: https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II
+
