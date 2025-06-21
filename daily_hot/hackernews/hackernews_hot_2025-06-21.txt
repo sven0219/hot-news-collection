@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-21
+==================================================
+
+1. AbsenceBench: Language models can't tell what's missing
+   Points: 94
+   Comments: 23
+   URL: https://arxiv.org/abs/2506.11440
+
+2. Phoenix.new – Remote AI Runtime for Phoenix
+   Points: 363
+   Comments: 165
+   URL: https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
+
+3. Wiki Radio: The thrilling sound of random Wikipedia
+   Points: 53
+   Comments: 12
+   URL: https://www.monkeon.co.uk/wikiradio/
+
+4. Harper – an open-source alternative to Grammarly
+   Points: 90
+   Comments: 28
+   URL: https://writewithharper.com
+
+5. AMD's Freshly-Baked MI350: An Interview with the Chief Architect
+   Points: 28
+   Comments: 11
+   URL: https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview
+
+6. Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä
+   Points: 168
+   Comments: 50
+   URL: https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/
+
+7. Show HN: Inspect and extract files from MSI installers directly in your browser
+   Points: 71
+   Comments: 14
+   URL: https://pymsi.readthedocs.io/en/latest/msi_viewer.html
+
+8. Show HN: Nxtscape – an open-source agentic browser
+   Points: 186
+   Comments: 145
+   URL: https://github.com/nxtscape/nxtscape
+
+9. No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]
+   Points: 8
+   Comments: 1
+   URL: https://xol.io/random/vcc-paper.pdf
+
+10. Tuxracer.js play Tux Racer in the browser
+   Points: 83
+   Comments: 29
+   URL: https://github.com/ebbejan/tux-racer-js
+
+11. Verified dynamic programming with Σ-types in Lean
+   Points: 46
+   Comments: 15
+   URL: https://tannerduve.github.io/blog/memoization-sigma/
+
+12. YouTube's new anti-adblock measures
+   Points: 114
+   Comments: 218
+   URL: https://iter.ca/post/yt-adblock/
+
+13. Smartphones: Parts of Our Minds? Or Parasites?
+   Points: 38
+   Comments: 12
+   URL: https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070
+
+14. College baseball, venture capital, and the long maybe
+   Points: 118
+   Comments: 80
+   URL: https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/
+
+15. Proba-3's first artificial solar eclipse
+   Points: 11
+   Comments: 3
+   URL: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse
+
+16. Cracovians: The Twisted Twins of Matrices
+   Points: 50
+   Comments: 24
+   URL: https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/
+
+17. Dancing Naked on the Head of a Pin: The Early History of Microphotography
+   Points: 39
+   Comments: 2
+   URL: https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin
+
+18. AtomicOS – A security-first OS with real crypto and deterministic language
+   Points: 5
+   Comments: 2
+   URL: https://github.com/ipenas-cl/AtomicOs
+
+19. Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor (2018)
+   Points: 156
+   Comments: 74
+   URL: https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor
+
+20. Alpha Centauri
+   Points: 65
+   Comments: 21
+   URL: https://www.filfre.net/2025/06/alpha-centauri/
+
