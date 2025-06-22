@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-22
+==================================================
+
+1. LaborBerlin: State-of-the-Art 16mm Projector
+   Points: 114
+   Comments: 18
+   URL: https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start
+
+2. P-Hacking in Startups
+   Points: 46
+   Comments: 16
+   URL: https://briefer.cloud/blog/posts/p-hacking/
+
+3. Requiem for a Solar Plant
+   Points: 17
+   Comments: 9
+   URL: https://7goldfish.com/articles/Requiem_for_a_solar_plant.php
+
+4. Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge
+   Points: 89
+   Comments: 41
+   URL: https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/
+
+5. Airpass – easily overcome WiFi time limits
+   Points: 223
+   Comments: 173
+   URL: https://airpass.tiagoalves.me/
+
+6. Publishing a Docker Container for MS Edit to the GitHub Container Registry
+   Points: 10
+   Comments: 5
+   URL: https://til.simonwillison.net/github/container-registry
+
+7. See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson MO5)
+   Points: 4
+   Comments: 0
+   URL: http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html
+
+8. AllTracker: Efficient Dense Point Tracking at High Resolution
+   Points: 58
+   Comments: 7
+   URL: https://alltracker.github.io/
+
+9. ARIA, the UK's Bet to Build Scientific Revolutions
+   Points: 50
+   Comments: 36
+   URL: https://www.asimov.press/p/aria
+
+10. Compact Representations for Arrays in Lua [pdf]
+   Points: 44
+   Comments: 10
+   URL: https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059
+
+11. Compiler for the B Programming Language
+   Points: 20
+   Comments: 3
+   URL: https://github.com/tsoding/b
+
+12. Samsung embeds IronSource spyware app on phones across WANA
+   Points: 693
+   Comments: 405
+   URL: https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/
+
+13. Type Inference Zoo
+   Points: 7
+   Comments: 1
+   URL: https://zoo.cuichen.cc/
+
+14. Tell HN: Beware confidentiality agreements that act as lifetime non competes
+   Points: 223
+   Comments: 145
+   URL: https://news.ycombinator.com/item?id=44338562
+
+15. Don't Read This If You Have a Security Clearance (2023)
+   Points: 14
+   Comments: 2
+   URL: https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/
+
+16. Scaling our observability platform by embracing wide events and replacing OTel
+   Points: 170
+   Comments: 74
+   URL: https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel
+
+17. Using Microsoft's New CLI Text Editor on Ubuntu
+   Points: 226
+   Comments: 229
+   URL: https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
+
+18. Phoenix.new – Remote AI Runtime for Phoenix
+   Points: 538
+   Comments: 240
+   URL: https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
+
+19. The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development
+   Points: 42
+   Comments: 1
+   URL: https://sarupro.itch.io/thenyanja
+
+20. Show HN: Luna Rail – treating night trains as a spatial optimization problem
+   Points: 17
+   Comments: 1
+   URL: https://luna-rail.com/en/home-2
+
