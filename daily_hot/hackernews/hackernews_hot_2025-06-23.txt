@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-23
+==================================================
+
+1. Mechanical Watch: Exploded View
+   Points: 578
+   Comments: 86
+   URL: https://fellerts.no/projects/epoch.html
+
+2. I wrote my PhD Thesis in Typst
+   Points: 125
+   Comments: 57
+   URL: https://fransskarman.com/phd_thesis_in_typst.html
+
+3. Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot
+   Points: 82
+   Comments: 46
+   URL: https://www.romanklasen.com/blog/beating-brainrot-by-button/
+
+4. Cross-Account and Cross-Region Backups with AWS Backup (and Friends)
+   Points: 10
+   Comments: 1
+   URL: https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/
+
+5. Finding a billion factorials in 60 ms with SIMD
+   Points: 20
+   Comments: 0
+   URL: https://codeforces.com/blog/entry/143279
+
+6. Hawaii Highways
+   Points: 11
+   Comments: 0
+   URL: http://www.hawaiihighways.com/
+
+7. Git Notes: Git's coolest, most unloved­ feature (2022)
+   Points: 425
+   Comments: 108
+   URL: https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/
+
+8. Radio Garden
+   Points: 28
+   Comments: 4
+   URL: https://radio.garden/?2025
+
+9. Klein Bottle Amazon Brand Hijacking (2021)
+   Points: 74
+   Comments: 17
+   URL: https://www.kleinbottle.com/Amazon_Brand_Hijacking.html
+
+10. Kastle (S24) is hiring an engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24
+
+11. Interview with Francine Prose on early-1970s San Francisco [audio]
+   Points: 37
+   Comments: 5
+   URL: https://www.laphamsquarterly.org/content/episode-3-francine-prose
+
+12. 2048 with only 64 bits of state
+   Points: 95
+   Comments: 24
+   URL: https://github.com/izabera/bitwise-challenge-2048
+
+13. LibRedirect – Redirects popular sites to alternative privacy-friendly frontends
+   Points: 375
+   Comments: 92
+   URL: https://libredirect.github.io
+
+14. We’ve had a Denisovan skull since the 1930s—only nobody knew
+   Points: 44
+   Comments: 11
+   URL: https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/
+
+15. How to negotiate your salary package
+   Points: 199
+   Comments: 172
+   URL: https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/
+
+16. FreeBSD Kernel Modules Pkg(8) Repositories
+   Points: 23
+   Comments: 3
+   URL: https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/
+
+17. The cultural decline of literary fiction
+   Points: 105
+   Comments: 202
+   URL: https://oyyy.substack.com/p/the-cultural-decline-of-literary
+
+18. Show HN: Turn a paper's DOI into its full reference list (BibTeX/RIS, etc.)
+   Points: 29
+   Comments: 10
+   URL: https://references.mireklzicar.com
+
+19. TPU Deep Dive
+   Points: 366
+   Comments: 71
+   URL: https://henryhmko.github.io/posts/tpu/tpu.html
+
+20. I was surprised by how simple an allocator is
+   Points: 77
+   Comments: 28
+   URL: https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/
+
