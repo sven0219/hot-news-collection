@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-24
+==================================================
+
+1. US Chemical Safety Board at risk of being defunded
+   Points: 29
+   Comments: 4
+   URL: https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated
+
+2. Vera C. Rubin Observatory first images
+   Points: 257
+   Comments: 64
+   URL: https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest
+
+3. Discovering Programming at the Darkest Point in My Life
+   Points: 16
+   Comments: 0
+   URL: https://h5law.com/intro.html
+
+4. Backyard Coffee and Jazz in Kyoto
+   Points: 388
+   Comments: 172
+   URL: https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto
+
+5. 2025 Iberia Blackout Report [pdf]
+   Points: 124
+   Comments: 73
+   URL: https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28
+
+6. A Deep Dive into Solid Queue for Ruby on Rails
+   Points: 39
+   Comments: 10
+   URL: https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html
+
+7. The FPGA turns 40
+   Points: 34
+   Comments: 11
+   URL: https://www.adiuvoengineering.com/post/the-fpga-turns-40
+
+8. Fairphone 6 is switching to a new design that's even more sustainable
+   Points: 117
+   Comments: 139
+   URL: https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design
+
+9. How I use my terminal
+   Points: 256
+   Comments: 141
+   URL: https://jyn.dev/how-i-use-my-terminal/
+
+10. I ported pigz from Unix to Windows
+   Points: 46
+   Comments: 19
+   URL: https://blog.kowalczyk.info/article/4/how-i-ported-pigz-from-unix-to-windows.html
+
+11. Ocarina of Time Randomizer
+   Points: 107
+   Comments: 37
+   URL: https://ootrandomizer.com/
+
+12. FICO to incorporate buy-now-pay-later loans into credit scores
+   Points: 32
+   Comments: 14
+   URL: https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later
+
+13. Resurrecting flip phone typing as a Linux driver
+   Points: 77
+   Comments: 51
+   URL: https://github.com/FoxMoss/libt9
+
+14. First methane-powered sea spiders found crawling on the ocean floor
+   Points: 67
+   Comments: 32
+   URL: https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species
+
+15. The Last of Us Part II – Seattle Locations Tour
+   Points: 52
+   Comments: 38
+   URL: https://docs.google.com/document/d/1gfFoe2xVoS9GzmmcbGUjTVVtss1Jwh4Yi-73C6Trn-I/edit?usp=sharing
+
+16. Minimal Boolean Formulas
+   Points: 82
+   Comments: 12
+   URL: https://research.swtch.com/boolean
+
+17. Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast
+   Points: 62
+   Comments: 44
+   URL: https://news.ycombinator.com/item?id=44356799
+
+18. BYOK – Bring Your Own Keyboard
+   Points: 20
+   Comments: 13
+   URL: https://byok.io
+
+19. uv: An extremely fast Python package and project manager, written in Rust
+   Points: 475
+   Comments: 231
+   URL: https://github.com/astral-sh/uv
+
+20. Rocknix is an immutable Linux distribution for handheld gaming devices
+   Points: 127
+   Comments: 43
+   URL: https://rocknix.org/
+
