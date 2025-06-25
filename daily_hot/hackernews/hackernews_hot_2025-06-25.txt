@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-25
+==================================================
+
+1. Fun with uv and PEP 723
+   Points: 299
+   Comments: 102
+   URL: https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723
+
+2. Writing toy software is a joy
+   Points: 484
+   Comments: 209
+   URL: https://blog.jsbarretto.com/post/software-is-joy
+
+3. ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry
+   Points: 138
+   Comments: 124
+   URL: https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry
+
+4. Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust
+   Points: 10
+   Comments: 3
+   URL: https://github.com/microsoft/edit
+
+5. Booms, Not Busts, Drives Innovation, Especially in Mid Size American Cities
+   Points: 15
+   Comments: 8
+   URL: https://www.governance.fyi/p/booms-not-busts-drives-innovation
+
+6. Ancient X11 scaling technology
+   Points: 166
+   Comments: 116
+   URL: https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed
+
+7. PlasticList – Plastic Levels in Foods
+   Points: 281
+   Comments: 129
+   URL: https://www.plasticlist.org/
+
+8. National Archives at College Park, MD, will become a restricted federal facility
+   Points: 234
+   Comments: 66
+   URL: https://www.archives.gov/college-park
+
+9. Finding a 27-year-old easter egg in the Power Mac G3 ROM
+   Points: 300
+   Comments: 86
+   URL: https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/
+
+10. Subsecond: A runtime hotpatching engine for Rust hot-reloading
+   Points: 82
+   Comments: 10
+   URL: https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html
+
+11. How to Think About Time in Programming
+   Points: 57
+   Comments: 21
+   URL: https://shanrauf.com/archive/how-to-think-about-time-in-programming
+
+12. The Jumping Frenchmen of Maine
+   Points: 12
+   Comments: 0
+   URL: https://www.amusingplanet.com/2025/06/the-jumping-frenchmen-of-maine.html
+
+13. Show HN: VSCan - Detect Malicious VSCode Extensions
+   Points: 15
+   Comments: 8
+   URL: https://vscan.dev/
+
+14. XBOW, an autonomous penetration tester, has reached the top spot on HackerOne
+   Points: 145
+   Comments: 84
+   URL: https://xbow.com/blog/top-1-how-xbow-did-it/
+
+15. The bitter lesson is coming for tokenization
+   Points: 198
+   Comments: 92
+   URL: https://lucalp.dev/bitter-lesson-tokenization-and-blt/
+
+16. Starship: The minimal, fast, and customizable prompt for any shell
+   Points: 363
+   Comments: 172
+   URL: https://starship.rs/
+
+17. Berkshire Hathaway Now Pays 5% of All Corporate Income Taxes in America
+   Points: 76
+   Comments: 66
+   URL: https://www.barchart.com/story/news/33003534/warren-buffetts-berkshire-hathaway-now-pays-5-of-all-corporate-income-taxes-in-america
+
+18. Basic Facts about GPUs
+   Points: 233
+   Comments: 53
+   URL: https://damek.github.io/random/basic-facts-about-gpus/
+
+19. Gemini Robotics On-Device brings AI to local robotic devices
+   Points: 155
+   Comments: 60
+   URL: https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/
+
+20. Expand.ai (YC S24) is hiring a founding engineer
+   Points: 1
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=44368315
+
