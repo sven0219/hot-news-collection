@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-26
+==================================================
+
+1. QEMU: Define policy forbidding use of AI code generators
+   Points: 117
+   Comments: 58
+   URL: https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048
+
+2. A new pyramid-like shape always lands the same side up
+   Points: 233
+   Comments: 63
+   URL: https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/
+
+3. The Hollow Men of Hims
+   Points: 57
+   Comments: 21
+   URL: https://www.alexkesin.com/p/the-hollow-men-of-hims
+
+4. -2000 Lines of code
+   Points: 172
+   Comments: 62
+   URL: https://www.folklore.org/Negative_2000_Lines_Of_Code.html
+
+5. Gemini CLI
+   Points: 917
+   Comments: 516
+   URL: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/
+
+6. A new PNG spec
+   Points: 461
+   Comments: 455
+   URL: https://www.programmax.net/articles/png-is-back/
+
+7. What Problems to Solve (1966)
+   Points: 290
+   Comments: 37
+   URL: http://genius.cat-v.org/richard-feynman/writtings/letters/problems
+
+8. OpenAI charges by the minute, so speed up your audio
+   Points: 424
+   Comments: 123
+   URL: https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/
+
+9. The Offline Club
+   Points: 71
+   Comments: 31
+   URL: https://www.theoffline-club.com
+
+10. Getting ready to issue IP address certificates
+   Points: 207
+   Comments: 115
+   URL: https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777
+
+11. Build and Host AI-Powered Apps with Claude – No Deployment Needed
+   Points: 160
+   Comments: 64
+   URL: https://www.anthropic.com/news/claude-powered-artifacts
+
+12. Writing a basic Linux device driver when you know nothing about Linux drivers
+   Points: 155
+   Comments: 12
+   URL: https://crescentro.se/posts/writing-drivers/
+
+13. LM Studio is now an MCP Host
+   Points: 143
+   Comments: 56
+   URL: https://lmstudio.ai/blog/lmstudio-v0.3.17
+
+14. Libxml2's "no security embargoes" policy
+   Points: 115
+   Comments: 79
+   URL: https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/
+
+15. Ambient Garden
+   Points: 18
+   Comments: 2
+   URL: https://ambient.garden
+
+16. Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC
+   Points: 45
+   Comments: 27
+   URL: https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/
+
+17. Iroh: A library to establish direct connection between peers
+   Points: 135
+   Comments: 36
+   URL: https://github.com/n0-computer/iroh
+
+18. Earths largest camera:3B pixel images
+   Points: 4
+   Comments: 3
+   URL: https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html
+
+19. Deep Research as a Swim Coach
+   Points: 17
+   Comments: 3
+   URL: https://suthakamal.substack.com/p/swimming-with-an-ai-coach
+
+20. America’s incarceration rate is in decline
+   Points: 77
+   Comments: 153
+   URL: https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/
+
