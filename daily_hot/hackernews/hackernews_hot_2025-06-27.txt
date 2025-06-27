@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-27
+==================================================
+
+1. AlphaGenome: AI for better understanding the genome
+   Points: 353
+   Comments: 105
+   URL: https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/
+
+2. Launch HN: Issen (YC F24) – Personal AI language tutor
+   Points: 219
+   Comments: 196
+   URL: https://news.ycombinator.com/item?id=44387828
+
+3. Alternative Layout System
+   Points: 100
+   Comments: 14
+   URL: https://alternativelayoutsystem.com/scripts/#same-sizer
+
+4. Kea 3.0, our first LTS version
+   Points: 44
+   Comments: 18
+   URL: https://www.isc.org/blogs/kea-3-0/
+
+5. How much slower is random access, really?
+   Points: 34
+   Comments: 5
+   URL: https://samestep.com/blog/random-access/
+
+6. The time is right for a DOM templating API
+   Points: 71
+   Comments: 43
+   URL: https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/
+
+7. Show HN: Magnitude – Open-source AI browser automation framework
+   Points: 44
+   Comments: 17
+   URL: https://github.com/magnitudedev/magnitude
+
+8. Matrix v1.15
+   Points: 111
+   Comments: 32
+   URL: https://matrix.org/blog/2025/06/26/matrix-v1.15-release/
+
+9. Fault Tolerant Llama training – PyTorch blog
+   Points: 11
+   Comments: 3
+   URL: https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/
+
+10. Snow - Classic Macintosh emulator
+   Points: 195
+   Comments: 69
+   URL: https://snowemu.com/
+
+11. A Review of Aerospike Nozzles: Current Trends in Aerospace Applications
+   Points: 62
+   Comments: 31
+   URL: https://www.mdpi.com/2226-4310/12/6/519
+
+12. Introducing Gemma 3n
+   Points: 271
+   Comments: 122
+   URL: https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/
+
+13. A new pyramid-like shape always lands the same side up
+   Points: 615
+   Comments: 150
+   URL: https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/
+
+14. Robots that learn
+   Points: 82
+   Comments: 22
+   URL: https://openai.com/index/robots-that-learn/
+
+15. Shifts in diatom and dinoflagellate biomass in the North Atlantic over 6 decades
+   Points: 42
+   Comments: 2
+   URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675
+
+16. Puerto Rico's Solar Microgrids Beat Blackout
+   Points: 342
+   Comments: 194
+   URL: https://spectrum.ieee.org/puerto-rico-solar-microgrids
+
+17. SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones
+
+18. Show HN: I built an AI dataset generator
+   Points: 115
+   Comments: 23
+   URL: https://github.com/metabase/dataset-generator
+
+19. Typr – TUI typing test with a word selection algorithm inspired by keybr
+   Points: 34
+   Comments: 25
+   URL: https://github.com/Sakura-sx/typr
+
+20. Memory safety is table stakes
+   Points: 63
+   Comments: 63
+   URL: https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes
+
