@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-28
+==================================================
+
+1. Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights
+   Points: 998
+   Comments: 159
+   URL: https://jameshard.ing/pilot
+
+2. Normalizing Flows Are Capable Generative Models
+   Points: 67
+   Comments: 6
+   URL: https://machinelearning.apple.com/research/normalizing-flows
+
+3. Learn OCaml – Exercises
+   Points: 57
+   Comments: 11
+   URL: https://ocaml-sf.org/learn-ocaml-public/#activity=exercises
+
+4. Structuring Arrays with Algebraic Shapes
+   Points: 58
+   Comments: 5
+   URL: https://dl.acm.org/doi/abs/10.1145/3736112.3736141
+
+5. SymbolicAI: A neuro-symbolic perspective on LLMs
+   Points: 88
+   Comments: 28
+   URL: https://github.com/ExtensityAI/symbolicai
+
+6. James Webb Space Telescope Reveals Its First Direct Image of an Exoplanet
+   Points: 98
+   Comments: 49
+   URL: https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/
+
+7. Qwen VLo: From "Understanding" the World to "Depicting" It
+   Points: 161
+   Comments: 47
+   URL: https://qwenlm.github.io/blog/qwen-vlo/
+
+8. Reinforcement learning, explained with a minimum of math and jargon
+   Points: 30
+   Comments: 0
+   URL: https://www.understandingai.org/p/reinforcement-learning-explained
+
+9. 10 Years of Pomological Watercolors
+   Points: 167
+   Comments: 27
+   URL: https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/
+
+10. A Brief History of Children Sent Through the Mail
+   Points: 78
+   Comments: 61
+   URL: https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/
+
+11. nimbme – Nim bare-metal environment
+   Points: 41
+   Comments: 6
+   URL: https://github.com/mikra01/nimbme
+
+12. Transmitting data via ultrasound without any special equipment
+   Points: 85
+   Comments: 27
+   URL: https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/
+
+13. bootc-image-builder: Build your entire OS from a Containerfile
+   Points: 21
+   Comments: 3
+   URL: https://github.com/osbuild/bootc-image-builder
+
+14. Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team
+
+15. Multi-Stage Programming with Splice Variables
+   Points: 3
+   Comments: 0
+   URL: https://tsung-ju.org/icfp25/
+
+16. Rust in the Linux kernel: part 2
+   Points: 43
+   Comments: 1
+   URL: https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/
+
+17. Theoretical Analysis of Positional Encodings in Transformer Models
+   Points: 6
+   Comments: 0
+   URL: https://arxiv.org/abs/2506.06398
+
+18. The Journey of Bypassing Ubuntu's Unprivileged Namespace Restriction
+   Points: 9
+   Comments: 1
+   URL: https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html
+
+19. Show HN: Do you know RGB?
+   Points: 56
+   Comments: 39
+   URL: https://maxwellito.github.io/do-you-know-rgb/
+
+20. Slightly better named character reference tokenization than Chrome, Safari, FF
+   Points: 41
+   Comments: 8
+   URL: https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/
+
