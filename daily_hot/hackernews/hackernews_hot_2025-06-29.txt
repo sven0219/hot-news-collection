@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-29
+==================================================
+
+1. JavaScript Trademark Update
+   Points: 450
+   Comments: 150
+   URL: https://deno.com/blog/deno-v-oracle4
+
+2. US Defense Department will stop providing satellite weather data
+   Points: 117
+   Comments: 41
+   URL: https://text.npr.org/nx-s1-5446120
+
+3. MCP: An (Accidentally) Universal Plugin System
+   Points: 479
+   Comments: 215
+   URL: https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin
+
+4. Solving `UK Passport Application` with Haskell
+   Points: 23
+   Comments: 8
+   URL: https://jameshaydon.github.io/passport/
+
+5. Refurb weekend: Gremlin Blasto arcade board
+   Points: 7
+   Comments: 0
+   URL: http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html
+
+6. Community Is Motivation on Tap
+   Points: 19
+   Comments: 1
+   URL: https://alanwu.xyz/posts/community/
+
+7. BusyBeaver(6) Is Quite Large
+   Points: 171
+   Comments: 126
+   URL: https://scottaaronson.blog/?p=8972
+
+8. 2025 ARRL Field Day
+   Points: 71
+   Comments: 22
+   URL: https://www.arrl.org/field-day
+
+9. Life of an inference request (vLLM V1): How LLMs are served efficiently at scale
+   Points: 79
+   Comments: 6
+   URL: https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1
+
+10. We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler (2020)
+   Points: 220
+   Comments: 18
+   URL: https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/
+
+11. Addictions Are Being Engineered
+   Points: 355
+   Comments: 230
+   URL: https://masonyarbrough.substack.com/p/engineered-addictions
+
+12. Memory Safe Languages: Reducing Vulnerabilities in Modern Software Development [pdf]
+   Points: 48
+   Comments: 5
+   URL: https://media.defense.gov/2025/Jun/23/2003742198/-1/-1/0/CSI_MEMORY_SAFE_LANGUAGES_REDUCING_VULNERABILITIES_IN_MODERN_SOFTWARE_DEVELOPMENT.PDF
+
+13. Unheard works by Erik Satie to premiere 100 years after his death
+   Points: 178
+   Comments: 45
+   URL: https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death
+
+14. Show HN: Vet – A tool for safely running remote shell scripts
+   Points: 40
+   Comments: 9
+   URL: https://getvet.sh
+
+15. Show HN: AGL a toy language that compiles to Go
+   Points: 34
+   Comments: 10
+   URL: https://github.com/alaingilbert/agl
+
+16. Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights
+   Points: 1413
+   Comments: 189
+   URL: https://jameshard.ing/pilot
+
+17. Sirius: A GPU-native SQL engine
+   Points: 79
+   Comments: 9
+   URL: https://github.com/sirius-db/sirius
+
+18. Gradient Descent Visualiser
+   Points: 3
+   Comments: 0
+   URL: https://uclaacm.github.io/gradient-descent-visualiser/
+
+19. A literary magazine accessible only via telnet
+   Points: 13
+   Comments: 6
+   URL: https://news.ycombinator.com/item?id=44374827
+
+20. The Great Illusion: When We Believed BeOS Would Save the World
+   Points: 34
+   Comments: 36
+   URL: https://www.desktoponfire.com/haiku_inc/782/the-great-illusion-when-we-believed-beos-would-save-the-world-and-maybe-it-was-right/
+
