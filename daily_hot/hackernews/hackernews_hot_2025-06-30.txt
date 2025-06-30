@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-06-30
+==================================================
+
+1. Finding former Australian Prime Minister Tony Abbott's passport number (2020)
+   Points: 29
+   Comments: 4
+   URL: https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/
+
+2. I made my VM think it has a CPU fan
+   Points: 409
+   Comments: 92
+   URL: https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
+
+3. Bitcoin's Security Budget Issue: Problems, Solutions and Myths Debunked
+   Points: 43
+   Comments: 23
+   URL: https://budget.day/
+
+4. Ask HN: What Are You Working On? (June 2025)
+   Points: 80
+   Comments: 274
+   URL: https://news.ycombinator.com/item?id=44416093
+
+5. Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)
+   Points: 25
+   Comments: 17
+   URL: https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security
+
+6. The Book of Shaders
+   Points: 14
+   Comments: 0
+   URL: https://thebookofshaders.com/
+
+7. Revisiting Knuth's "Premature Optimization" Paper
+   Points: 59
+   Comments: 27
+   URL: https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/
+
+8. Modelling API rate limits as diophantine inequalities
+   Points: 33
+   Comments: 3
+   URL: https://vivekn.dev/blog/rate-limit-diophantine
+
+9. Error handling in Rust
+   Points: 91
+   Comments: 74
+   URL: https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html
+
+10. Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok
+   Points: 279
+   Comments: 107
+   URL: https://github.com/octelium/octelium
+
+11. Nearly 20% of cancer drugs defective in 4 African nations
+   Points: 40
+   Comments: 8
+   URL: https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221
+
+12. 4-10x faster in-process pub/sub for Go
+   Points: 102
+   Comments: 23
+   URL: https://github.com/kelindar/event
+
+13. Bloom Filters by Example
+   Points: 179
+   Comments: 28
+   URL: https://llimllib.github.io/bloomfilter-tutorial/
+
+14. Many ransomware strains will abort if they detect a Russian keyboard installed (2021)
+   Points: 186
+   Comments: 112
+   URL: https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/
+
+15. Using the Internet without IPv4 connectivity
+   Points: 253
+   Comments: 110
+   URL: https://jamesmcm.github.io/blog/no-ipv4/
+
+16. The Medley Interlisp Project: Reviving a Historical Software System [pdf]
+   Points: 77
+   Comments: 6
+   URL: https://interlisp.org/documentation/young-ccece2025.pdf
+
+17. Loss of key US satellite data could send hurricane forecasting back 'decades'
+   Points: 227
+   Comments: 106
+   URL: https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate
+
+18. China Dominates 44% of Visible Fishing Activity Worldwide
+   Points: 56
+   Comments: 26
+   URL: https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/
+
+19. Several Anker power bank models recalled: Supplier's batteries pose fire hazard
+   Points: 13
+   Comments: 3
+   URL: https://www.heise.de/en/news/Fire-hazard-Anker-recalls-several-power-bank-models-also-in-Germany-10463193.html
+
+20. Commodore acquired for a 'low seven figure' price – CEO from retro community
+   Points: 19
+   Comments: 1
+   URL: https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community
+
