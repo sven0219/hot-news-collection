@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-01
+==================================================
+
+1. Claude Code now supports Hooks
+   Points: 57
+   Comments: 13
+   URL: https://docs.anthropic.com/en/docs/claude-code/hooks
+
+2. Xfinity using WiFi signals in your house to detect motion
+   Points: 235
+   Comments: 163
+   URL: https://www.xfinity.com/support/articles/wifi-motion
+
+3. The new skill in AI is not prompting, it's context engineering
+   Points: 329
+   Comments: 190
+   URL: https://www.philschmid.de/context-engineering
+
+4. I write type-safe generic data structures in C
+   Points: 218
+   Comments: 83
+   URL: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/
+
+5. There are no new ideas in AI only new datasets
+   Points: 292
+   Comments: 154
+   URL: https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only
+
+6. The hidden JTAG in a Qualcomm/Snapdragon device’s USB port
+   Points: 113
+   Comments: 16
+   URL: https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/
+
+7. Donkey Kong Country 2 and Open Bus
+   Points: 187
+   Comments: 44
+   URL: https://jsgroth.dev/blog/posts/dkc2-open-bus/
+
+8. Melbourne man discovers extensive model train network underneath house
+   Points: 46
+   Comments: 13
+   URL: https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8
+
+9. The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released
+   Points: 52
+   Comments: 3
+   URL: https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/
+
+10. Entropy of a Mixture
+   Points: 26
+   Comments: 2
+   URL: https://cgad.ski/blog/entropy-of-a-mixture.html
+
+11. End of an Era
+   Points: 68
+   Comments: 16
+   URL: https://www.erasmatazz.com/personal/self/end-of-an-era.html
+
+12. Jim Boddie codeveloped the first successful DSP at Bell Labs
+   Points: 13
+   Comments: 0
+   URL: https://spectrum.ieee.org/dsp-pioneer-jim-boddie
+
+13. GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]
+   Points: 14
+   Comments: 0
+   URL: https://vldb.org/pvldb/vol18/p1919-wang.pdf
+
+14. Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken
+   Points: 244
+   Comments: 66
+   URL: https://github.com/M4THYOU/TokenDagger
+
+15. Beneath the canopy: Pioneering satellite reveals rainforests' hidden worlds
+   Points: 4
+   Comments: 0
+   URL: https://www.bbc.co.uk/news/resources/idt-d7353b50-0fea-46ba-8495-ae9e25192cfe
+
+16. Price of rice in Japan falls below ¥4k per 5kg
+   Points: 64
+   Comments: 87
+   URL: https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/
+
+17. They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder
+   Points: 71
+   Comments: 60
+   URL: https://kevinboone.me/dtc-700.html
+
+18. Creating fair dice from random objects
+   Points: 30
+   Comments: 9
+   URL: https://arstechnica.com/science/2025/05/your-next-gaming-dice-could-be-shaped-like-a-dragon-or-armadillo/
+
+19. People Keep Inventing Prolly Trees
+   Points: 15
+   Comments: 2
+   URL: https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/
+
+20. Show HN: New Ensō – first public beta
+   Points: 212
+   Comments: 81
+   URL: https://untested.sonnet.io/notes/new-enso-first-public-beta/
+
