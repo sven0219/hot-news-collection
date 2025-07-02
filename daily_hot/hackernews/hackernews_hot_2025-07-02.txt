@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-02
+==================================================
+
+1. The Fed says this is a cube of $1M. They're off by half a million
+   Points: 885
+   Comments: 354
+   URL: https://calvin.sh/blog/fed-lie/
+
+2. Using Sun Ray thin clients in 2025
+   Points: 50
+   Comments: 4
+   URL: https://catstret.ch/202506/sun-ray-shenanigans/
+
+3. We've Issued Our First IP Address Certificate
+   Points: 33
+   Comments: 2
+   URL: https://letsencrypt.org/2025/07/01/issuing-our-first-ip-address-certificate/
+
+4. Figma Files Registration Statement for Proposed Initial Public Offering
+   Points: 185
+   Comments: 77
+   URL: https://www.figma.com/blog/s1-public/
+
+5. Effectiveness of trees in reducing temperature & outdoor heat exposure in Vegas
+   Points: 60
+   Comments: 51
+   URL: https://iopscience.iop.org/article/10.1088/2752-5295/ade17d
+
+6. Fakespot shuts down today after 9 years of detecting fake product reviews
+   Points: 51
+   Comments: 33
+   URL: https://blog.truestar.pro/fakespot-shuts-down/
+
+7. Australians to face age checks from search engines
+   Points: 8
+   Comments: 1
+   URL: https://ia.acs.org.au/article/2025/australians-to-face-age-checks-from-search-engines.html
+
+8. The Roman Roads Research Association
+   Points: 36
+   Comments: 3
+   URL: https://www.romanroads.org/
+
+9. Code⇄GUI bidirectional editing via LSP
+   Points: 110
+   Comments: 33
+   URL: https://jamesbvaughan.com/bidirectional-editing/
+
+10. Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing
+   Points: 165
+   Comments: 57
+   URL: https://arxiv.org/abs/2506.17732
+
+11. Ask HN: Who is hiring? (July 2025)
+   Points: 182
+   Comments: 207
+   URL: https://news.ycombinator.com/item?id=44434576
+
+12. Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages
+   Points: 304
+   Comments: 138
+   URL: https://simedw.com/2025/06/23/introducing-spegel/
+
+13. I built something that changed my friend group's social fabric
+   Points: 505
+   Comments: 220
+   URL: https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/
+
+14. Soldier's wrist purse discovered at Roman legionary camp
+   Points: 15
+   Comments: 0
+   URL: https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513
+
+15. Show HN: Core – open source memory graph for LLMs – shareable, user owned
+   Points: 53
+   Comments: 24
+   URL: https://github.com/RedPlanetHQ/core
+
+16. Muxio: Rust layered stream and RPC toolkit
+   Points: 26
+   Comments: 1
+   URL: https://crates.io/crates/muxio
+
+17. The Hoyle State (2021)
+   Points: 42
+   Comments: 8
+   URL: https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/
+
+18. Experience converting a mathematical software package to C++20 modules [PDF]
+   Points: 92
+   Comments: 20
+   URL: https://arxiv.org/abs/2506.21654
+
+19. Ask HN: Who wants to be hired? (July 2025)
+   Points: 62
+   Comments: 167
+   URL: https://news.ycombinator.com/item?id=44434574
+
+20. Cua (YC X25) is hiring an engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25
+
