@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-03
+==================================================
+
+1. What to build instead of AI agents
+   Points: 19
+   Comments: 3
+   URL: https://decodingml.substack.com/p/stop-building-ai-agents
+
+2. Exploiting the IKKO Activebuds "AI powered" earbuds
+   Points: 431
+   Comments: 157
+   URL: https://blog.mgdproductions.com/ikko-activebuds/
+
+3. ASCIIMoon: The moon's phase live in ASCII art
+   Points: 120
+   Comments: 42
+   URL: https://asciimoon.com/
+
+4. Don’t use “click here” as link text (2001)
+   Points: 419
+   Comments: 310
+   URL: https://www.w3.org/QA/Tips/noClickHere
+
+5. Show HN: CSS generator for a high-def glass effect
+   Points: 203
+   Comments: 66
+   URL: https://glass3d.dev/
+
+6. Couchers is officially out of beta
+   Points: 144
+   Comments: 62
+   URL: https://couchers.org/blog/2025/07/01/releasing-couchers-v1
+
+7. Physicists Start to Pin Down How Stars Forge Heavy Atoms
+   Points: 29
+   Comments: 2
+   URL: https://www.quantamagazine.org/physicists-start-to-pin-down-how-stars-forge-heavy-atoms-20250702/
+
+8. Evidence of a 12,800-year-old shallow airburst depression in Louisiana
+   Points: 94
+   Comments: 39
+   URL: https://www.scienceopen.com/hosted-document?doi=10.14293/ACI.2025.0004
+
+9. Vitamin C Boosts Epidermal Growth via DNA Demethylation
+   Points: 27
+   Comments: 10
+   URL: https://www.jidonline.org/article/S0022-202X(25)00416-6/fulltext
+
+10. That XOR Trick (2020)
+   Points: 11
+   Comments: 6
+   URL: https://florian.github.io//xor-trick/
+
+11. Gene therapy restored hearing in deaf patients
+   Points: 285
+   Comments: 71
+   URL: https://news.ki.se/gene-therapy-restored-hearing-in-deaf-patients
+
+12. The Evolution of Caching Libraries in Go
+   Points: 62
+   Comments: 17
+   URL: https://maypok86.github.io/otter/blog/cache-evolution/
+
+13. Websites hosting major US climate reports taken down
+   Points: 172
+   Comments: 79
+   URL: https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8
+
+14. American science to soon face its largest brain drain in history
+   Points: 77
+   Comments: 57
+   URL: https://bigthink.com/starts-with-a-bang/american-science-brain-drain/
+
+15. The Zen of Quakerism (2016)
+   Points: 87
+   Comments: 58
+   URL: https://www.friendsjournal.org/the-zen-of-quakerism/
+
+16. A list is a monad
+   Points: 100
+   Comments: 107
+   URL: https://alexyorke.github.io//2025/06/29/a-list-is-a-monad/
+
+17. Escher's art and computer science
+   Points: 32
+   Comments: 5
+   URL: https://github.com/gritzko/librdx/blob/master/blog/escher.md
+
+18. How large are large language models?
+   Points: 228
+   Comments: 135
+   URL: https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e
+
+19. The Unseen Fury of Solar Storms
+   Points: 14
+   Comments: 1
+   URL: https://www.noemamag.com/the-unseen-fury-of-solar-storms/
+
+20. The "personal computer" model scales better than the "terminal" model
+   Points: 5
+   Comments: 2
+   URL: https://utcc.utoronto.ca/~cks/space/blog/tech/ScalingTerminalsVsPCs
+
