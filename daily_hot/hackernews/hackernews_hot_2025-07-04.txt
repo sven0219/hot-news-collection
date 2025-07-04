@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-04
+==================================================
+
+1. Introducing tmux-rs
+   Points: 565
+   Comments: 194
+   URL: https://richardscollin.github.io/tmux-rs/
+
+2. Flounder Mode – Kevin Kelly on a different way to do great work
+   Points: 136
+   Comments: 29
+   URL: https://joincolossus.com/article/flounder-mode/
+
+3. Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots
+   Points: 139
+   Comments: 69
+   URL: https://news.ycombinator.com/item?id=44456904
+
+4. AV1@Scale: Film Grain Synthesis, The Awakening
+   Points: 149
+   Comments: 122
+   URL: https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b
+
+5. Wind Knitting Factory
+   Points: 66
+   Comments: 19
+   URL: https://www.merelkarhof.nl/work/wind-knitting-factory
+
+6. Manipulating trapped air bubbles in ice for message storage in cold regions
+   Points: 16
+   Comments: 4
+   URL: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00221-8
+
+7. Peasant Railgun
+   Points: 188
+   Comments: 143
+   URL: https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/
+
+8. Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase
+   Points: 133
+   Comments: 90
+   URL: https://github.com/zserge/pennybase
+
+9. High-Fidelity Simultaneous Speech-to-Speech Translation
+   Points: 44
+   Comments: 21
+   URL: https://arxiv.org/abs/2502.03382
+
+10. CO2 sequestration through accelerated weathering of limestone on ships
+   Points: 15
+   Comments: 2
+   URL: https://www.science.org/doi/10.1126/sciadv.adr7250
+
+11. An Algorithm for a Better Bookshelf
+   Points: 59
+   Comments: 10
+   URL: https://cacm.acm.org/news/an-algorithm-for-a-better-bookshelf/
+
+12. Opening up ‘Zero-Knowledge Proof’ technology
+   Points: 213
+   Comments: 130
+   URL: https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
+
+13. Caching is an abstraction, not an optimization
+   Points: 83
+   Comments: 65
+   URL: https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/
+
+14. Converge (YC S23) well-capitalized New York startup seeks product developers
+   Points: 1
+   Comments: 0
+   URL: https://www.runconverge.com/careers
+
+15. Where is my von Braun wheel?
+   Points: 110
+   Comments: 89
+   URL: https://angadh.com/wherevonbraunwheel
+
+16. Postcard is now open source
+   Points: 74
+   Comments: 25
+   URL: https://www.contraption.co/postcard-open-source/
+
+17. Ubuntu 25.10 Raises RISC-V Profile Requirements
+   Points: 53
+   Comments: 12
+   URL: https://www.omgubuntu.co.uk/2025/06/ubuntu-riscv-rva23-support
+
+18. Encoding Jake Gyllenhaal into one million checkboxes (2024)
+   Points: 45
+   Comments: 12
+   URL: https://ednamode.xyz/blogs/2.html
+
+19. Stalking the Statistically Improbable Restaurant with Data
+   Points: 50
+   Comments: 25
+   URL: https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/
+
+20. AI for Scientific Search
+   Points: 85
+   Comments: 21
+   URL: https://arxiv.org/abs/2507.01903
+
