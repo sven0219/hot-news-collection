@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-05
+==================================================
+
+1. Nvidia Is Full of Shit
+   Points: 258
+   Comments: 128
+   URL: https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/
+
+2. OBBB signed: reinstates immediate expensing for U.S.-based R&D
+   Points: 23
+   Comments: 3
+   URL: https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature
+
+3. Mini NASes marry NVMe to Intel's efficient chip
+   Points: 285
+   Comments: 135
+   URL: https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip
+
+4. The ITTAGE indirect branch predictor
+   Points: 9
+   Comments: 1
+   URL: https://blog.nelhage.com/post/ittage-branch-predictor/
+
+5. Being too ambitious is a clever form of self-sabotage
+   Points: 83
+   Comments: 28
+   URL: https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form
+
+6. EverQuest
+   Points: 163
+   Comments: 73
+   URL: https://www.filfre.net/2025/07/everquest/
+
+7. Robots move Shanghai city block [video]
+   Points: 51
+   Comments: 17
+   URL: https://www.youtube.com/watch?v=7ZccC9BnT8k
+
+8. The story behind Caesar salad
+   Points: 61
+   Comments: 31
+   URL: https://www.nationalgeographic.com/travel/article/story-behind-caesar-salad
+
+9. The Amiga 3000 Unix and Sun Microsystems: Deal or No Deal?
+   Points: 21
+   Comments: 1
+   URL: https://www.datagubbe.se/amix/
+
+10. How to Incapacitate Google Tag Manager and Why You Should (2022)
+   Points: 116
+   Comments: 77
+   URL: https://backlit.neocities.org/incapacitate-google-tag-manager
+
+11. Why I left my tech job to work on chronic pain
+   Points: 268
+   Comments: 170
+   URL: https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on
+
+12. Everything around LLMs is still magical and wishful thinking
+   Points: 156
+   Comments: 167
+   URL: https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking
+
+13. Show HN: AirBending – hand gesture based macOS app MIDI controller
+   Points: 42
+   Comments: 11
+   URL: https://www.nanassound.com/products/software/airbending
+
+14. Continue (YC S23) is hiring software engineers in San Francisco
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/continue/jobs
+
+15. Larry (cat)
+   Points: 242
+   Comments: 60
+   URL: https://en.wikipedia.org/wiki/Larry_(cat)
+
+16. Show HN: I AI-coded a tower defense game and documented the whole process
+   Points: 193
+   Comments: 115
+   URL: https://github.com/maciej-trebacz/tower-of-time-game
+
+17. Who is Soham Parekh, the serial moonlighter Silicon Valley can't stop hiring?
+   Points: 32
+   Comments: 30
+   URL: https://techcrunch.com/2025/07/03/who-is-soham-parekh-the-serial-moonlighter-silicon-valley-startups-cant-stop-hiring/
+
+18. Writing a Game Boy Emulator in OCaml
+   Points: 210
+   Comments: 37
+   URL: https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/
+
+19. Kepler.gl
+   Points: 119
+   Comments: 17
+   URL: https://kepler.gl/
+
+20. Show HN: Flint – Write code your way while ensuring remote consistency
+   Points: 4
+   Comments: 1
+   URL: https://github.com/capsulescodes/flint
+
