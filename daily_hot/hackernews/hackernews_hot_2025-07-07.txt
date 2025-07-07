@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-07
+==================================================
+
+1. Bitchat – A decentralized messaging app that works over Bluetooth mesh networks
+   Points: 40
+   Comments: 24
+   URL: https://github.com/jackjackbits/bitchat
+
+2. Nobody has a personality anymore: we are products with labels
+   Points: 87
+   Comments: 47
+   URL: https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore
+
+3. Building the Rust Compiler with GCC
+   Points: 78
+   Comments: 2
+   URL: https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html
+
+4. Intel's Lion Cove P-Core and Gaming Workloads
+   Points: 50
+   Comments: 0
+   URL: https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming
+
+5. Show HN: I wrote a "web OS" based on the Apple Lisa's UI, with 1-bit graphics
+   Points: 240
+   Comments: 78
+   URL: https://alpha.lisagui.com/
+
+6. I extracted the safety filters from Apple Intelligence models
+   Points: 247
+   Comments: 149
+   URL: https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted
+
+7. Jane Street barred from Indian markets as regulator freezes $566 million
+   Points: 223
+   Comments: 122
+   URL: https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html
+
+8. Centaur: A Controversial Leap Towards Simulating Human Cognition
+   Points: 8
+   Comments: 2
+   URL: https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/
+
+9. Data on AI-related Show HN posts
+   Points: 216
+   Comments: 125
+   URL: https://ryanfarley.co/ai-show-hn-data/
+
+10. There's a COMPUTER inside my DS flashcart [video]
+   Points: 4
+   Comments: 0
+   URL: https://www.youtube.com/watch?v=uq0pJmd7GAA
+
+11. Opencode: AI coding agent, built for the terminal
+   Points: 121
+   Comments: 28
+   URL: https://github.com/sst/opencode
+
+12. Get the location of the ISS using DNS
+   Points: 254
+   Comments: 75
+   URL: https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/
+
+13. A non-anthropomorphized view of LLMs
+   Points: 88
+   Comments: 72
+   URL: http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html
+
+14. Functions Are Vectors (2023)
+   Points: 148
+   Comments: 79
+   URL: https://thenumb.at/Functions-are-Vectors/
+
+15. I don't think AGI is right around the corner
+   Points: 131
+   Comments: 160
+   URL: https://www.dwarkesh.com/p/timelines-june-2025
+
+16. Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git repo
+   Points: 75
+   Comments: 16
+   URL: https://github.com/MrLesk/Backlog.md
+
+17. Lessons from creating my first text adventure
+   Points: 24
+   Comments: 1
+   URL: https://entropicthoughts.com/lessons-from-creating-first-text-adventure
+
+18. Swedish Campground: "There are too many Apples on the screen!"
+   Points: 5
+   Comments: 0
+   URL: https://www.folklore.org/Swedish_Campground.html
+
+19. Crypto 101 – Introductory course on cryptography
+   Points: 22
+   Comments: 1
+   URL: https://www.crypto101.io/
+
+20. Curzio Malaparte's Shock Tactics
+   Points: 4
+   Comments: 2
+   URL: https://www.newyorker.com/books/under-review/curzio-malapartes-shock-tactics
+
