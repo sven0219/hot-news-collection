@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-08
+==================================================
+
+1. New sphere-packing record stems from an unexpected source
+   Points: 207
+   Comments: 90
+   URL: https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/
+
+2. LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping
+   Points: 30
+   Comments: 4
+   URL: https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/
+
+3. Mercury: Ultra-fast language models based on diffusion
+   Points: 369
+   Comments: 152
+   URL: https://arxiv.org/abs/2506.17298
+
+4. My first verified imperative program
+   Points: 112
+   Comments: 44
+   URL: https://markushimmel.de/blog/my-first-verified-imperative-program/
+
+5. The chemical secrets that help keep honey fresh for so long
+   Points: 63
+   Comments: 27
+   URL: https://www.bbc.com/future/article/20250701-the-chemical-secrets-that-help-keep-honey-fresh-for-so-long
+
+6. Launch HN: Morph (YC S23) – Apply AI code edits at 4,500 tokens/sec
+   Points: 143
+   Comments: 93
+   URL: https://news.ycombinator.com/item?id=44490863
+
+7. I used o3 to profile myself from my saved Pocket links
+   Points: 297
+   Comments: 126
+   URL: https://noperator.dev/posts/o3-pocket-profile/
+
+8. The Miyawaki Method of micro-forestry
+   Points: 92
+   Comments: 21
+   URL: https://www.futureecologies.net/listen/fe-6-5-the-method
+
+9. Analysing Roman itineraries using GIS tooling
+   Points: 9
+   Comments: 0
+   URL: https://link.springer.com/article/10.1007/s12520-025-02175-w
+
+10. Adding a feature because ChatGPT incorrectly thinks it exists
+   Points: 659
+   Comments: 248
+   URL: https://www.holovaty.com/writing/chatgpt-fake-feature/
+
+11. When Figma starts designing us
+   Points: 207
+   Comments: 98
+   URL: https://designsystems.international/ideas/when-figma-starts-designing-us/
+
+12. Bitchat – A decentralized messaging app that works over Bluetooth mesh networks
+   Points: 677
+   Comments: 310
+   URL: https://github.com/jackjackbits/bitchat
+
+13. François Chollet: The Arc Prize and How We Get to AGI [video]
+   Points: 163
+   Comments: 136
+   URL: https://www.youtube.com/watch?v=5QcCeSsNRks
+
+14. Show HN: NYC Subway Simulator and Route Designer
+   Points: 119
+   Comments: 11
+   URL: https://buildmytransit.nyc
+
+15. You Should Run a Certificate Transparency Log
+   Points: 74
+   Comments: 22
+   URL: https://words.filippo.io/run-sunlight/
+
+16. Show HN: Ossia score – A sequencer for audio-visual artists
+   Points: 66
+   Comments: 10
+   URL: https://github.com/ossia/score
+
+17. Lightfastness Testing of Colored Pencils
+   Points: 107
+   Comments: 27
+   URL: https://sarahrenaeclark.com/lightfast-testing-pencils/
+
+18. Why are there no good dinosaur films?
+   Points: 43
+   Comments: 68
+   URL: https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films
+
+19. Solving Wordle with uv's dependency resolver
+   Points: 129
+   Comments: 12
+   URL: https://mildbyte.xyz/blog/solving-wordle-with-uv-dependency-resolver/
+
+20. The Era of Exploration
+   Points: 66
+   Comments: 5
+   URL: https://yidingjiang.github.io/blog/post/exploration/
+
