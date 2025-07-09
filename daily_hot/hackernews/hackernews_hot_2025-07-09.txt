@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-09
+==================================================
+
+1. Supabase MCP can leak your entire SQL database
+   Points: 491
+   Comments: 252
+   URL: https://www.generalanalysis.com/blog/supabase-mcp-blog
+
+2. Breaking Git with a carriage return and cloning RCE
+   Points: 255
+   Comments: 88
+   URL: https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384
+
+3. Bootstrapping a side project into a profitable seven-figure business
+   Points: 208
+   Comments: 36
+   URL: https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding
+
+4. The Day You Became a Better Writer (2007)
+   Points: 28
+   Comments: 11
+   URL: https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html
+
+5. Smollm3: Smol, multilingual, long-context reasoner LLM
+   Points: 216
+   Comments: 40
+   URL: https://huggingface.co/blog/smollm3
+
+6. Radium Music Editor
+   Points: 142
+   Comments: 26
+   URL: http://users.notam02.no/~kjetism/radium/
+
+7. Xenharmlib: A music theory library that supports non-western harmonic systems
+   Points: 15
+   Comments: 0
+   URL: https://xenharmlib.readthedocs.io/en/latest/
+
+8. Dynamical origin of Theia, the last giant impactor on Earth
+   Points: 62
+   Comments: 19
+   URL: https://arxiv.org/abs/2507.01826
+
+9. Brut: A New Web Framework for Ruby
+   Points: 116
+   Comments: 46
+   URL: https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html
+
+10. Plants monitor the integrity of their barrier by sensing gas diffusion
+   Points: 50
+   Comments: 17
+   URL: https://www.nature.com/articles/s41586-025-09223-4
+
+11. Taking over 60k spyware user accounts with SQL injection
+   Points: 151
+   Comments: 50
+   URL: https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/
+
+12. Show HN: OffChess – Offline chess puzzles app
+   Points: 296
+   Comments: 115
+   URL: https://offchess.com
+
+13. Can an email go 500 miles in 2025?
+   Points: 261
+   Comments: 98
+   URL: https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025
+
+14. GlobalFoundries to Acquire MIPS
+   Points: 155
+   Comments: 103
+   URL: https://mips.com/press-releases/gf-mips/
+
+15. Show HN: A rain Pomodoro with brown noise, ASMR, and Middle Eastern music
+   Points: 45
+   Comments: 27
+   URL: https://forgetoolz.com/rain-pomodoro
+
+16. The Tradeoffs of SSMs and Transformers
+   Points: 36
+   Comments: 6
+   URL: https://goombalab.github.io/blog/2025/tradeoffs/
+
+17. Ceramic: A cross-platform and open-source 2D framework in Haxe
+   Points: 48
+   Comments: 3
+   URL: https://ceramic-engine.com/
+
+18. Blind to Disruption – The CEOs Who Missed the Future
+   Points: 70
+   Comments: 84
+   URL: https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/
+
+19. Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing
+   Points: 93
+   Comments: 36
+   URL: https://www.jukeboxhq.com/
+
+20. New Horizons images enable first test of interstellar navigation
+   Points: 4
+   Comments: 0
+   URL: https://www.newscientist.com/article/2486823-new-horizons-images-enable-first-test-of-interstellar-navigation/
+
