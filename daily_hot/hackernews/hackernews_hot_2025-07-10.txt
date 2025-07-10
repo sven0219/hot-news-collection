@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-10
+==================================================
+
+1. MCP-B: A Protocol for AI Browser Automation
+   Points: 73
+   Comments: 38
+   URL: https://mcp-b.ai/
+
+2. Biomni: A General-Purpose Biomedical AI Agent
+   Points: 129
+   Comments: 26
+   URL: https://github.com/snap-stanford/Biomni
+
+3. Tree Borrows
+   Points: 398
+   Comments: 60
+   URL: https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html
+
+4. A Typology of Canadianisms
+   Points: 51
+   Comments: 30
+   URL: https://dchp.arts.ubc.ca/how-to-use
+
+5. Show HN: FlopperZiro – A DIY open-source Flipper Zero clone
+   Points: 166
+   Comments: 46
+   URL: https://github.com/lraton/FlopperZiro
+
+6. Show HN: MCP server for searching and downloading documents from Anna's Archive
+   Points: 50
+   Comments: 22
+   URL: https://github.com/iosifache/annas-mcp
+
+7. Jank Programming Language
+   Points: 200
+   Comments: 43
+   URL: https://jank-lang.org/
+
+8. Multi-Region Row Level Security in CockroachDB
+   Points: 21
+   Comments: 1
+   URL: https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/
+
+9. Show HN: Petrichor – a free, open-source, offline music player for macOS
+   Points: 19
+   Comments: 5
+   URL: https://github.com/kushalpandya/Petrichor
+
+10. A fast 3D collision detection algorithm
+   Points: 174
+   Comments: 24
+   URL: https://cairno.substack.com/p/improvements-to-the-separating-axis
+
+11. Configuring Split Horizon DNS with Pi-Hole and Tailscale
+   Points: 67
+   Comments: 17
+   URL: https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html
+
+12. Understand CPU Branch Instructions Better
+   Points: 28
+   Comments: 6
+   URL: https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/
+
+13. HyAB k-means for color quantization
+   Points: 21
+   Comments: 8
+   URL: https://30fps.net/pages/hyab-kmeans/
+
+14. Linda Yaccarino is leaving X
+   Points: 358
+   Comments: 529
+   URL: https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html
+
+15. Archaeologists unveil 3,500-year-old city in Peru
+   Points: 120
+   Comments: 30
+   URL: https://www.bbc.co.uk/news/articles/c07dmx38kyeo
+
+16. White Noise – secure and private messenger
+   Points: 29
+   Comments: 5
+   URL: https://www.whitenoise.chat/
+
+17. Would You Like an IDOR With That? Leaking 64m McDonald's Job Applications
+   Points: 47
+   Comments: 20
+   URL: https://ian.sh/mcdonalds
+
+18. Making Explainable Minesweeper
+   Points: 22
+   Comments: 12
+   URL: https://sublevelgames.github.io/blogs/2025-07-06-making-explainable-minesweeper/
+
+19. Ask HN: How is the tech scene in LA?
+   Points: 19
+   Comments: 28
+   URL: https://news.ycombinator.com/item?id=44485428
+
+20. Ruby 3.4 frozen string literals: What Rails developers need to know
+   Points: 200
+   Comments: 100
+   URL: https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/
+
