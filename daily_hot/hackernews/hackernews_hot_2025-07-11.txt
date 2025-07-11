@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-11
+==================================================
+
+1. Postgres LISTEN/NOTIFY does not scale
+   Points: 263
+   Comments: 86
+   URL: https://www.recall.ai/blog/postgres-listen-notify-does-not-scale
+
+2. Show HN: Open source alternative to Perplexity Comet
+   Points: 133
+   Comments: 39
+   URL: https://www.browseros.com/
+
+3. Bret Victor on why current trend of AIs is at odds with his work
+   Points: 203
+   Comments: 60
+   URL: https://dynamicland.org/2024/FAQ/#What_is_Realtalks_relationship_to_AI
+
+4. Graphical Linear Algebra
+   Points: 164
+   Comments: 10
+   URL: https://graphicallinearalgebra.net/
+
+5. FOKS: Federated Open Key Service
+   Points: 164
+   Comments: 38
+   URL: https://foks.pub/
+
+6. Turkey bans Grok over Erdoğan insults
+   Points: 35
+   Comments: 25
+   URL: https://www.politico.eu/article/turkey-ban-elon-musk-grok-recep-tayyip-erdogan-insult/
+
+7. Show HN: Cactus – Ollama for Smartphones
+   Points: 101
+   Comments: 43
+   URL: https://news.ycombinator.com/item?id=44524544
+
+8. Flix – A powerful effect-oriented programming language
+   Points: 206
+   Comments: 87
+   URL: https://flix.dev/
+
+9. Yamlfmt: An extensible command line tool or library to format YAML files
+   Points: 20
+   Comments: 7
+   URL: https://github.com/google/yamlfmt
+
+10. Measuring the impact of AI on experienced open-source developer productivity
+   Points: 486
+   Comments: 310
+   URL: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+
+11. Red Hat Technical Writing Style Guide
+   Points: 151
+   Comments: 63
+   URL: https://stylepedia.net/style/
+
+12. Co-founder exiting after pivot – what's a fair exit package?
+   Points: 25
+   Comments: 29
+   URL: https://news.ycombinator.com/item?id=44506835
+
+13. Launch HN: Leaping (YC W25) – Self-Improving Voice AI
+   Points: 47
+   Comments: 25
+   URL: https://news.ycombinator.com/item?id=44523523
+
+14. Batch Mode in the Gemini API: Process More for Less
+   Points: 4
+   Comments: 0
+   URL: https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/
+
+15. eBPF: Connecting with Container Runtimes
+   Points: 30
+   Comments: 0
+   URL: https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/
+
+16. How to prove false statements: Practical attacks on Fiat-Shamir
+   Points: 196
+   Comments: 152
+   URL: https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/
+
+17. Regarding Prollyferation: Followup to "People Keep Inventing Prolly Trees"
+   Points: 35
+   Comments: 0
+   URL: https://www.dolthub.com/blog/2025-07-03-regarding-prollyferation/
+
+18. Analyzing database trends through 1.8M Hacker News headlines
+   Points: 112
+   Comments: 61
+   URL: https://camelai.com/blog/hn-database-hype/
+
+19. Grok 4
+   Points: 138
+   Comments: 132
+   URL: https://simonwillison.net/2025/Jul/10/grok-4/
+
+20. Is Gemini 2.5 good at bounding boxes?
+   Points: 253
+   Comments: 56
+   URL: https://simedw.com/2025/07/10/gemini-bounding-boxes/
+
