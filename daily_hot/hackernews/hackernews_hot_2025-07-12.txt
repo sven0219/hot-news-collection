@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-12
+==================================================
+
+1. OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google
+   Points: 326
+   Comments: 215
+   URL: https://www.theverge.com/openai/705999/google-windsurf-ceo-openai
+
+2. ETH Zurich and EPFL to release a LLM developed on public infrastructure
+   Points: 304
+   Comments: 38
+   URL: https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html
+
+3. Faking a JPEG
+   Points: 55
+   Comments: 8
+   URL: https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/
+
+4. Preliminary report into Air India crash released
+   Points: 101
+   Comments: 149
+   URL: https://www.bbc.co.uk/news/live/cx20p2x9093t
+
+5. jank is C++
+   Points: 184
+   Comments: 64
+   URL: https://jank-lang.org/blog/2025-07-11-jank-is-cpp/
+
+6. Upgrading an M4 Pro Mac mini's storage for half the price
+   Points: 300
+   Comments: 184
+   URL: https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price
+
+7. A software conference that advocates for quality
+   Points: 27
+   Comments: 16
+   URL: https://bettersoftwareconference.com/
+
+8. Dict Unpacking in Python
+   Points: 23
+   Comments: 7
+   URL: https://github.com/asottile/dict-unpacking-at-home
+
+9. Bill Atkinson's psychedelic user interface
+   Points: 362
+   Comments: 196
+   URL: https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill
+
+10. Andrew Ng: Building Faster with AI [video]
+   Points: 151
+   Comments: 41
+   URL: https://www.youtube.com/watch?v=RNJCfif1dPY
+
+11. Astronomers race to study interstellar interloper
+   Points: 97
+   Comments: 53
+   URL: https://www.science.org/content/article/astronomers-race-study-interstellar-interloper
+
+12. Repaste Your MacBook
+   Points: 164
+   Comments: 87
+   URL: https://christianselig.com/2025/07/repaste-macbook/
+
+13. Monorail – Turn CSS animations into interactive SVG graphs
+   Points: 38
+   Comments: 4
+   URL: https://muffinman.io/monorail/
+
+14. Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)
+   Points: 1
+   Comments: 0
+   URL: https://careers.activeloop.ai/
+
+15. Apple vs the Law
+   Points: 332
+   Comments: 337
+   URL: https://formularsumo.co.uk/blog/2025/apple-vs-the-law/
+
+16. '123456' password exposed chats for 64M McDonald's job applicants
+   Points: 52
+   Comments: 24
+   URL: https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/
+
+17. Show HN: RULER – Easily apply RL to any agent
+   Points: 43
+   Comments: 9
+   URL: https://openpipe.ai/blog/ruler
+
+18. 2-4 wire converters / hybrids (2009)
+   Points: 4
+   Comments: 1
+   URL: https://sound-au.com/appnotes/an010.htm
+
+19. Lead pigment in turmeric is the culprit in a global poisoning mystery (2024)
+   Points: 286
+   Comments: 147
+   URL: https://www.npr.org/sections/goats-and-soda/2024/09/23/nx-s1-5011028/detectives-mystery-lead-poisoning-new-york-bangladesh
+
+20. Introduction to Digital Filters
+   Points: 18
+   Comments: 2
+   URL: https://ccrma.stanford.edu/~jos/filters/
+
