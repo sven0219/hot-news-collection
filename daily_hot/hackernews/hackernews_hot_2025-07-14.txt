@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-14
+==================================================
+
+1. Let's Learn x86-64 Assembly Part 0 – Setup and First Steps
+   Points: 67
+   Comments: 13
+   URL: https://gpfault.net/posts/asm-tut-0.txt.html
+
+2. OpenCut: The open-source CapCut alternative
+   Points: 175
+   Comments: 49
+   URL: https://github.com/OpenCut-app/OpenCut
+
+3. Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs
+   Points: 15
+   Comments: 4
+   URL: https://arxiv.org/abs/2502.17424
+
+4. The underground cathedral protecting Tokyo from floods (2018)
+   Points: 44
+   Comments: 14
+   URL: https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods
+
+5. APKLab: Android Reverse-Engineering Workbench for VS Code
+   Points: 47
+   Comments: 1
+   URL: https://github.com/APKLab/APKLab
+
+6. How does a screen work?
+   Points: 316
+   Comments: 69
+   URL: https://www.makingsoftware.com/chapters/how-a-screen-works
+
+7. A technical look at Iran's internet shutdowns
+   Points: 109
+   Comments: 45
+   URL: https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown
+
+8. Investors bought 27% of US homes in Q1, as traditional buyers struggle to afford
+   Points: 131
+   Comments: 119
+   URL: https://abcnews.go.com/Business/wireStory/investors-snap-growing-share-us-homes-traditional-buyers-123560969
+
+9. Show HN: Ten years of running every day, visualized
+   Points: 53
+   Comments: 18
+   URL: https://nodaysoff.run
+
+10. The North Korean fake IT worker problem is ubiquitous
+   Points: 175
+   Comments: 173
+   URL: https://www.theregister.com/2025/07/13/fake_it_worker_problem/
+
+11. Show HN: A Raycast-compatible launcher for Linux
+   Points: 134
+   Comments: 31
+   URL: https://github.com/ByteAtATime/raycast-linux
+
+12. Traditional Chinese Medicine Has Not Been Vindicated by Science
+   Points: 87
+   Comments: 46
+   URL: https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science
+
+13. How to scale RL to 10^26 FLOPs
+   Points: 46
+   Comments: 1
+   URL: https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops
+
+14. Fine dining restaurants researching guests to make their dinner unforgettable
+   Points: 53
+   Comments: 107
+   URL: https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php
+
+15. Hypercapitalism and the AI Talent Wars
+   Points: 20
+   Comments: 0
+   URL: https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent
+
+16. Astronomers Detect a Black Hole Merger That's So It Shouldn't Exist
+   Points: 6
+   Comments: 2
+   URL: https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197
+
+17. C3 solved memory lifetimes with scopes
+   Points: 90
+   Comments: 63
+   URL: https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/
+
+18. Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency
+   Points: 215
+   Comments: 138
+   URL: https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency
+
+19. Show HN: Learn LLMs LeetCode Style
+   Points: 117
+   Comments: 18
+   URL: https://github.com/Exorust/TorchLeet
+
+20. Five companies now control over 90% of the restaurant food delivery market
+   Points: 143
+   Comments: 132
+   URL: https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90
+
