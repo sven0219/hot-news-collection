@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-15
+==================================================
+
+1. Apple's MLX adding CUDA support
+   Points: 120
+   Comments: 46
+   URL: https://github.com/ml-explore/mlx/pull/1983
+
+2. LIGO detects most massive black hole merger to date
+   Points: 166
+   Comments: 76
+   URL: https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date
+
+3. RFC: PHP license update
+   Points: 120
+   Comments: 30
+   URL: https://wiki.php.net/rfc/php_license_update
+
+4. Kiro: A new agentic IDE
+   Points: 670
+   Comments: 302
+   URL: https://kiro.dev/blog/introducing-kiro/
+
+5. DEWLine Museum – The Distant Early Warning Radar Line
+   Points: 26
+   Comments: 1
+   URL: https://dewlinemuseum.com/
+
+6. NeuralOS: An operating system powered by neural networks
+   Points: 76
+   Comments: 23
+   URL: https://neural-os.com/
+
+7. Dog Walk: Blender Studio's official game project
+   Points: 39
+   Comments: 8
+   URL: https://blenderstudio.itch.io/dogwalk
+
+8. Context Rot: How increasing input tokens impacts LLM performance
+   Points: 76
+   Comments: 13
+   URL: https://research.trychroma.com/context-rot
+
+9. I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor
+   Points: 8
+   Comments: 1
+   URL: https://thewalrus.ca/empress-of-ireland-survivor-mystery/
+
+10. Show HN: Bedrock – An 8-bit computing system for running programs anywhere
+   Points: 61
+   Comments: 14
+   URL: https://benbridle.com/projects/bedrock.html
+
+11. Replicube: 3D shader puzzle game, online demo
+   Points: 82
+   Comments: 16
+   URL: https://replicube.xyz/staging/
+
+12. Cognition (Devin AI) to Acquire Windsurf
+   Points: 347
+   Comments: 271
+   URL: https://cognition.ai/blog/windsurf
+
+13. Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department
+   Points: 105
+   Comments: 75
+   URL: https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html
+
+14. SQLite async connection pool for high-performance
+   Points: 45
+   Comments: 20
+   URL: https://github.com/slaily/aiosqlitepool
+
+15. Building Modular Rails Applications: A Deep Dive into Rails Engines
+   Points: 121
+   Comments: 26
+   URL: https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/
+
+16. Cidco MailStation as a Z80 Development Platform (2019)
+   Points: 43
+   Comments: 4
+   URL: https://jcs.org/2019/05/03/mailstation
+
+17. Embedding user-defined indexes in Apache Parquet
+   Points: 91
+   Comments: 13
+   URL: https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/
+
+18. Strategies for Fast Lexers
+   Points: 122
+   Comments: 43
+   URL: https://xnacly.me/posts/2025/fast-lexer-strategies/
+
+19. Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages
+   Points: 26
+   Comments: 5
+   URL: https://htmlmaze.com/
+
+20. Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)
+   Points: 236
+   Comments: 58
+   URL: https://mymodernmet.com/totoro-sculpture-bus-stop/
+
