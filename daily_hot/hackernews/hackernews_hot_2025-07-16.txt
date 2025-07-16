@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-16
+==================================================
+
+1. GPUHammer: Rowhammer attacks on GPU memories are practical
+   Points: 18
+   Comments: 9
+   URL: https://gpuhammer.com/
+
+2. NIST ion clock sets new record for most accurate clock
+   Points: 254
+   Comments: 92
+   URL: https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world
+
+3. Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL
+   Points: 342
+   Comments: 70
+   URL: https://www.matthieulc.com/posts/shoggoth-mini
+
+4. The FIPS 140-3 Go Cryptographic Module
+   Points: 67
+   Comments: 27
+   URL: https://go.dev/blog/fips140
+
+5. Reflections on OpenAI
+   Points: 326
+   Comments: 192
+   URL: https://calv.info/openai-reflections
+
+6. To be a better programmer, write little proofs in your head
+   Points: 232
+   Comments: 100
+   URL: https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/
+
+7. Encrypting files with passkeys and age
+   Points: 54
+   Comments: 43
+   URL: https://words.filippo.io/passkey-encryption/
+
+8. Where's Firefox going next?
+   Points: 47
+   Comments: 48
+   URL: https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094
+
+9. My Family and the Flood
+   Points: 33
+   Comments: 2
+   URL: https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/
+
+10. What Was Cyberpunk? In Memoriam: 1980-2020 (2020)
+   Points: 40
+   Comments: 21
+   URL: https://forums.insertcredit.com/t/what-was-cyberpunk-in-memoriam-1980-2020/1721
+
+11. Hierarchical Modeling (H-Nets)
+   Points: 55
+   Comments: 16
+   URL: https://cartesia.ai/blog/hierarchical-modeling
+
+12. Designing for the Eye: Optical corrections in architecture and typography
+   Points: 101
+   Comments: 16
+   URL: https://www.nubero.ch/blog/015/
+
+13. Claude for Financial Services
+   Points: 60
+   Comments: 21
+   URL: https://www.anthropic.com/news/claude-for-financial-services
+
+14. The Story of Mel, A Real Programmer, Annotated (1996)
+   Points: 50
+   Comments: 17
+   URL: https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000
+
+15. Show HN: Beyond Z²+C, Plot Any Fractal
+   Points: 66
+   Comments: 21
+   URL: https://www.juliascope.com/
+
+16. Hazel: A live functional programming environment with typed holes
+   Points: 40
+   Comments: 9
+   URL: https://github.com/hazelgrove/hazel
+
+17. Helix Editor 25.07
+   Points: 249
+   Comments: 101
+   URL: https://helix-editor.com/news/release-25-07-highlights/
+
+18. OpenAI – vulnerability responsible disclosure
+   Points: 149
+   Comments: 31
+   URL: https://requilence.any.org/open-ai-vulnerability-responsible-disclosure
+
+19. Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding
+   Points: 63
+   Comments: 50
+   URL: https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/
+
+20. Lorem Gibson
+   Points: 96
+   Comments: 16
+   URL: http://loremgibson.com/
+
