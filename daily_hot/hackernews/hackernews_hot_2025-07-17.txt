@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-17
+==================================================
+
+1. Ex-Waymo engineers launch Bedrock Robotics to automate construction
+   Points: 152
+   Comments: 124
+   URL: https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/
+
+2. Show HN: A 'Choose Your Own Adventure' written in Emacs Org Mode
+   Points: 54
+   Comments: 3
+   URL: https://tendollaradventure.com/sample/
+
+3. I want an iPhone Mini-sized Android phone (2022)
+   Points: 62
+   Comments: 99
+   URL: https://smallandroidphone.com/
+
+4. Altermagnets: The first new type of magnet in nearly a century
+   Points: 274
+   Comments: 64
+   URL: https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/
+
+5. Gaslight-Driven Development
+   Points: 12
+   Comments: 5
+   URL: https://tonsky.me/blog/gaslight-driven-development/
+
+6. From engineer to manager: A practical guide to your first months in leadership
+   Points: 41
+   Comments: 34
+   URL: https://humansinsystems.com/blog/new-manager-essentials-a-practical-guide-to-your-first-months
+
+7. Artisanal handcrafted Git repositories
+   Points: 101
+   Comments: 21
+   URL: https://drew.silcock.dev/blog/artisanal-git/
+
+8. AI therapy bots fuel delusions and give dangerous advice, Stanford study finds
+   Points: 69
+   Comments: 25
+   URL: https://arstechnica.com/ai/2025/07/ai-therapy-bots-fuel-delusions-and-give-dangerous-advice-stanford-study-finds/
+
+9. Tin Can – The landline, reinvented for kids
+   Points: 124
+   Comments: 91
+   URL: https://tincan.kids/
+
+10. Signs of autism could be encoded in the way you walk
+   Points: 64
+   Comments: 75
+   URL: https://www.sciencealert.com/signs-of-autism-could-be-encoded-in-the-way-you-walk
+
+11. Pgactive: Postgres active-active replication extension
+   Points: 256
+   Comments: 69
+   URL: https://github.com/aws/pgactive
+
+12. A recap on May/June stability at Neon
+   Points: 37
+   Comments: 4
+   URL: https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability
+
+13. Intel's retreat is unlike anything it's done before in Oregon
+   Points: 65
+   Comments: 74
+   URL: https://www.oregonlive.com/silicon-forest/2025/07/intels-retreat-is-unlike-anything-its-done-before-in-oregon.html
+
+14. Show HN: 0xDEAD//TYPE – A fast-paced typing shooter with retro vibes
+   Points: 58
+   Comments: 16
+   URL: https://0xdeadtype.theden.sh/
+
+15. Show HN: Improving search ranking with chess Elo scores
+   Points: 133
+   Comments: 44
+   URL: https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores
+
+16. Chain of thought monitorability: A new and fragile opportunity for AI safety
+   Points: 100
+   Comments: 45
+   URL: https://arxiv.org/abs/2507.11473
+
+17. Roman dodecahedron: 12-sided object has baffled archaeologists for centuries
+   Points: 31
+   Comments: 65
+   URL: https://www.livescience.com/archaeology/romans/roman-dodecahedron-a-mysterious-12-sided-object-that-has-baffled-archaeologists-for-centuries
+
+18. I'm switching to Python and actually liking it
+   Points: 324
+   Comments: 499
+   URL: https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html
+
+19. Shipping WebGPU on Windows in Firefox 141
+   Points: 338
+   Comments: 140
+   URL: https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/
+
+20. Scanned piano rolls database
+   Points: 22
+   Comments: 7
+   URL: http://www.pianorollmusic.org/rolldatabase.php
+
