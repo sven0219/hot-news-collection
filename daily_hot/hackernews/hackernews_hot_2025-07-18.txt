@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-18
+==================================================
+
+1. My favorite use-case for AI is writing logs
+   Points: 32
+   Comments: 9
+   URL: https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/
+
+2. ChatGPT agent: bridging research and action
+   Points: 457
+   Comments: 329
+   URL: https://openai.com/index/introducing-chatgpt-agent/
+
+3. Mistral Releases Deep Research, Voice, Projects in Le Chat
+   Points: 418
+   Comments: 89
+   URL: https://mistral.ai/news/le-chat-dives-deep
+
+4. People kept working, became healthier while on basic income: report (2020)
+   Points: 115
+   Comments: 79
+   URL: https://www.cbc.ca/news/canada/hamilton/basic-income-mcmaster-report-1.5485729
+
+5. Perfume reviews
+   Points: 132
+   Comments: 66
+   URL: https://gwern.net/blog/2025/perfume
+
+6. Mammals Evolved into Ant Eaters 12 Times Since Dinosaur Age, Study Finds
+   Points: 22
+   Comments: 9
+   URL: https://news.njit.edu/mammals-evolved-ant-eaters-12-times-dinosaur-age-study-finds
+
+7. Hand: open-source Robot Hand
+   Points: 337
+   Comments: 94
+   URL: https://github.com/pollen-robotics/AmazingHand
+
+8. Anthropic tightens usage limits for Claude Code without telling users
+   Points: 176
+   Comments: 93
+   URL: https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/
+
+9. Apple Intelligence Foundation Language Models Tech Report 2025
+   Points: 166
+   Comments: 108
+   URL: https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025
+
+10. My experience with Claude Code after two weeks of adventures
+   Points: 122
+   Comments: 103
+   URL: https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/
+
+11. All AI models might be the same
+   Points: 126
+   Comments: 72
+   URL: https://blog.jxmo.io/p/there-is-only-one-model
+
+12. Creating an autonomous system for fun and profit (2017)
+   Points: 12
+   Comments: 0
+   URL: https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html
+
+13. Self-taught engineers often outperform (2024)
+   Points: 133
+   Comments: 106
+   URL: https://michaelbastos.com/blog/why-self-taught-engineers-often-outperform
+
+14. A look at IBM's short-lived "butterfly" ThinkPad 701 of 1995
+   Points: 9
+   Comments: 0
+   URL: https://www.fastcompany.com/91356463/ibm-thinkpad-701-butterfly-keyboard
+
+15. Show HN: PlutoFilter- A single-header, zero-allocation image filter library in C
+   Points: 44
+   Comments: 8
+   URL: https://github.com/sammycage/plutofilter
+
+16. Run TypeScript code without worrying about configuration
+   Points: 45
+   Comments: 32
+   URL: https://tsx.is/
+
+17. Don't Fall for AI: Reasons for Writers to Reject Slop
+   Points: 58
+   Comments: 44
+   URL: https://mythcreants.com/blog/dont-fall-for-ai-nine-reasons-for-writers-to-reject-slop/
+
+18. Archaeologists discover tomb of first king of Caracol
+   Points: 134
+   Comments: 28
+   URL: https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php
+
+19. Delaunay Mesh Generation (2012)
+   Points: 11
+   Comments: 4
+   URL: https://people.eecs.berkeley.edu/~jrs/meshbook.html
+
+20. 23andMe is out of bankruptcy. You should still delete your DNA
+   Points: 16
+   Comments: 0
+   URL: https://www.washingtonpost.com/technology/2025/07/17/23andme-bankruptcy-privacy/
+
