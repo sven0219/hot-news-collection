@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-19
+==================================================
+
+1. Shutting Down Clear Linux OS
+   Points: 52
+   Comments: 32
+   URL: https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716
+
+2. Asynchrony is not concurrency
+   Points: 161
+   Comments: 108
+   URL: https://kristoff.it/blog/asynchrony-is-not-concurrency/
+
+3. How to write Rust in the Linux kernel: part 3
+   Points: 39
+   Comments: 0
+   URL: https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/
+
+4. Silence Is a Commons by Ivan Illich (1983)
+   Points: 71
+   Comments: 11
+   URL: http://www.davidtinapple.com/illich/1983_silence_commons.html
+
+5. Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files
+   Points: 20
+   Comments: 10
+   URL: https://github.com/ryoppippi/ccusage
+
+6. Wii U SDBoot1 Exploit “paid the beak”
+   Points: 73
+   Comments: 9
+   URL: https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/
+
+7. Broadcom to discontinue free Bitnami Helm charts
+   Points: 90
+   Comments: 53
+   URL: https://github.com/bitnami/charts/issues/35164
+
+8. Valve confirms credit card companies pressured it to delist certain adult games
+   Points: 167
+   Comments: 172
+   URL: https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/
+
+9. lsr: ls with io_uring
+   Points: 297
+   Comments: 152
+   URL: https://rockorager.dev/log/lsr-ls-but-with-io-uring/
+
+10. Debcraft – Easiest way to modify and build Debian packages
+   Points: 5
+   Comments: 0
+   URL: https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/
+
+11. Multiplatform Matrix Multiplication Kernels
+   Points: 48
+   Comments: 16
+   URL: https://burn.dev/blog/sota-multiplatform-matmul/
+
+12. Meta says it wont sign Europe AI agreement, calling it growth stunting overreach
+   Points: 95
+   Comments: 137
+   URL: https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html
+
+13. Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs
+   Points: 3
+   Comments: 0
+   URL: https://www.macintoshrepository.org/44146-mr-browser
+
+14. Trying Guix: A Nixer's impressions
+   Points: 137
+   Comments: 38
+   URL: https://tazj.in/blog/trying-guix
+
+15. AI capex is so big that it's affecting economic statistics
+   Points: 189
+   Comments: 208
+   URL: https://paulkedrosky.com/honey-ai-capex-ate-the-economy/
+
+16. Show HN: Molab, a cloud-hosted Marimo notebook workspace
+   Points: 66
+   Comments: 9
+   URL: https://molab.marimo.io/notebooks
+
+17. Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog
+   Points: 59
+   Comments: 17
+   URL: https://eprint.iacr.org/2025/1237
+
+18. The year of peak might and magic
+   Points: 74
+   Comments: 38
+   URL: https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/
+
+19. Mango Health (YC W24) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer
+
+20. CP/M creator Gary Kildall's memoirs released as free download
+   Points: 231
+   Comments: 121
+   URL: https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download
+
