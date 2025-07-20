@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-20
+==================================================
+
+1. Make Your Own Backup System – Part 1: Strategy Before Scripts
+   Points: 137
+   Comments: 53
+   URL: https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/
+
+2. The borrowchecker is what I like the least about Rust
+   Points: 139
+   Comments: 168
+   URL: https://viralinstruction.com/posts/borrowchecker/
+
+3. Local LLMs versus offline Wikipedia
+   Points: 142
+   Comments: 67
+   URL: https://evanhahn.com/local-llms-versus-offline-wikipedia/
+
+4. Ring introducing new feature to allow police to live-stream access to cameras
+   Points: 93
+   Comments: 44
+   URL: https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance
+
+5. Nobody knows how to build with AI yet
+   Points: 194
+   Comments: 185
+   URL: https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai
+
+6. OpenAI claims gold-medal performance at IMO 2025
+   Points: 391
+   Comments: 611
+   URL: https://twitter.com/alexwei_/status/1946477742855532918
+
+7. Rethinking CLI interfaces for AI
+   Points: 120
+   Comments: 64
+   URL: https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/
+
+8. Death by AI
+   Points: 147
+   Comments: 38
+   URL: https://davebarry.substack.com/p/death-by-ai
+
+9. Hungary's oldest library is fighting to save books from a beetle infestation
+   Points: 4
+   Comments: 1
+   URL: https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles
+
+10. What Were the Earliest Laws Like?
+   Points: 20
+   Comments: 1
+   URL: https://worldhistory.substack.com/p/what-were-the-earliest-laws-really
+
+11. Babies made using three people's DNA are born free of mitochondrial disease
+   Points: 238
+   Comments: 144
+   URL: https://www.bbc.com/news/articles/cn8179z199vo
+
+12. TSMC to start building four new plants with 1.4nm technology
+   Points: 118
+   Comments: 84
+   URL: https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583
+
+13. Trigon: Exploiting coprocessors for fun and for profit (part 2)
+   Points: 27
+   Comments: 0
+   URL: https://alfiecg.uk/2025/07/16/Trigon.html
+
+14. Mushroom learns to crawl after being given robot body (2024)
+   Points: 38
+   Comments: 4
+   URL: https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html
+
+15. The curious case of the Unix workstation layout
+   Points: 62
+   Comments: 16
+   URL: https://thejpster.org.uk/blog/blog-2025-07-19/
+
+16. MCP Security Vulnerabilities and Attack Vectors
+   Points: 145
+   Comments: 16
+   URL: https://forgecode.dev/blog/prevent-attacks-on-mcp/
+
+17. Zig Interface Revisited
+   Points: 75
+   Comments: 15
+   URL: https://williamw520.github.io/2025/07/13/zig-interface-revisited.html
+
+18. Intel to boost gross margins – new products must deliver 50% gross profit
+   Points: 11
+   Comments: 2
+   URL: https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light
+
+19. Show HN: Am-I-vibing, detect agentic coding environments
+   Points: 46
+   Comments: 17
+   URL: https://github.com/ascorbic/am-i-vibing
+
+20. Piano Keys
+   Points: 40
+   Comments: 33
+   URL: https://www.mathpages.com/home/kmath043.htm
+
