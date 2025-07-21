@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-21
+==================================================
+
+1. Staying cool without refrigerants: Next-generation Peltier cooling
+   Points: 148
+   Comments: 115
+   URL: https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling
+
+2. Show HN: X11 desktop widget that shows location of your network peers on a map
+   Points: 16
+   Comments: 3
+   URL: https://github.com/h2337/connmap
+
+3. XMLUI
+   Points: 432
+   Comments: 223
+   URL: https://blog.jonudell.net/2025/07/18/introducing-xmlui/
+
+4. New colors without shooting lasers into your eyes
+   Points: 204
+   Comments: 64
+   URL: https://dynomight.net/colors/
+
+5. Simulating Hand-Drawn Motion with SVG Filters
+   Points: 100
+   Comments: 12
+   URL: https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters
+
+6. Stdio(3) change: FILE is now opaque (OpenBSD)
+   Points: 92
+   Comments: 42
+   URL: https://undeadly.org/cgi?action=article;sid=20250717103345
+
+7. What birdsong and back ends can teach us about magic
+   Points: 7
+   Comments: 1
+   URL: https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic
+
+8. Coding with LLMs in the summer of 2025 – an update
+   Points: 400
+   Comments: 277
+   URL: https://antirez.com/news/154
+
+9. FFmpeg devs boast of another 100x leap thanks to handwritten assembly code
+   Points: 143
+   Comments: 49
+   URL: https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code
+
+10. Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)
+   Points: 37
+   Comments: 9
+   URL: https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/
+
+11. What My Mother Didn't Talk About (2020)
+   Points: 29
+   Comments: 9
+   URL: https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak
+
+12. Speeding up my ZSH shell
+   Points: 131
+   Comments: 64
+   URL: https://scottspence.com/posts/speeding-up-my-zsh-shell
+
+13. Subreply – an open source text-only social network
+   Points: 57
+   Comments: 36
+   URL: https://github.com/lucianmarin/subreply
+
+14. Tough news for our UK users
+   Points: 224
+   Comments: 202
+   URL: https://blog.janitorai.com/posts/3/
+
+15. Discovering what we think we know is wrong
+   Points: 15
+   Comments: 6
+   URL: https://www.science.org/content/blog-post/tell-me-again-about-neurons-now
+
+16. The Genius Device That Rocked F1
+   Points: 9
+   Comments: 1
+   URL: https://www.youtube.com/watch?v=FhmLb2DhNYM
+
+17. IPv6 Based Canvas
+   Points: 10
+   Comments: 0
+   URL: https://canvas.openbased.org/
+
+18. Logical implication is a comparison operator
+   Points: 6
+   Comments: 2
+   URL: https://btdmaster.bearblog.dev/logical-implication-as-comparison/
+
+19. Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once
+   Points: 119
+   Comments: 58
+   URL: https://conductor.build/
+
+20. Digital vassals? French Government 'exposes citizens' data to US'
+   Points: 182
+   Comments: 73
+   URL: https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/
+
