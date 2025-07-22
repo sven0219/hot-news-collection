@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-22
+==================================================
+
+1. Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say
+   Points: 363
+   Comments: 159
+   URL: https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/
+
+2. Uv: Running a script with dependencies
+   Points: 54
+   Comments: 12
+   URL: https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies
+
+3. If writing is thinking then what happens if AI is doing the writing and reading?
+   Points: 33
+   Comments: 20
+   URL: https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking
+
+4. What went wrong inside recalled Anker PowerCore 10000 power banks?
+   Points: 272
+   Comments: 136
+   URL: https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks
+
+5. AccountingBench: Evaluating LLMs on real long-horizon business tasks
+   Points: 380
+   Comments: 101
+   URL: https://accounting.penrose.com/
+
+6. Don't bother parsing: Just use images for RAG
+   Points: 162
+   Comments: 46
+   URL: https://www.morphik.ai/blog/stop-parsing-docs
+
+7. Jujutsu for Busy Devs
+   Points: 10
+   Comments: 0
+   URL: https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs
+
+8. Losing language features: some stories about disjoint unions
+   Points: 20
+   Comments: 2
+   URL: https://graydon2.dreamwidth.org/318788.html
+
+9. TrackWeight: Turn your MacBook's trackpad into a digital weighing scale
+   Points: 452
+   Comments: 117
+   URL: https://github.com/KrishKrosh/TrackWeight
+
+10. Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets
+   Points: 78
+   Comments: 24
+   URL: https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/
+
+11. Erlang 28 on GRiSP Nano using only 16 MB
+   Points: 95
+   Comments: 5
+   URL: https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto
+
+12. New records on Wendelstein 7-X
+   Points: 180
+   Comments: 82
+   URL: https://www.iter.org/node/20687/new-records-wendelstein-7-x
+
+13. Spice Data (YC S19) Is Hiring a Product Associate (New Grad)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad
+
+14. LetsEncrypt Outage
+   Points: 130
+   Comments: 48
+   URL: https://letsencrypt.status.io/
+
+15. Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed
+   Points: 101
+   Comments: 45
+   URL: https://tedium.co/2025/07/21/the-game-genie-generation/
+
+16. Sutton SignWriting is a writing system for sign languages
+   Points: 17
+   Comments: 5
+   URL: https://en.m.wikipedia.org/wiki/SignWriting
+
+17. The Fundamentals of Asyncio
+   Points: 93
+   Comments: 19
+   URL: https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md
+
+18. Show HN: Lotas – Cursor for RStudio
+   Points: 53
+   Comments: 25
+   URL: https://www.lotas.ai/
+
+19. Occasionally USPS sends me pictures of other people's mail
+   Points: 151
+   Comments: 143
+   URL: https://the418.substack.com/p/a-bug-in-the-mail
+
+20. UK backing down on Apple encryption backdoor after pressure from US
+   Points: 420
+   Comments: 286
+   URL: https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/
+
