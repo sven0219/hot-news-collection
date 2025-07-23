@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-23
+==================================================
+
+1. Qwen3-Coder: Agentic coding in the world
+   Points: 231
+   Comments: 77
+   URL: https://qwenlm.github.io/blog/qwen3-coder/
+
+2. You can't color calibrate deep space photos
+   Points: 14
+   Comments: 2
+   URL: https://maurycyz.com/misc/cc/
+
+3. More than you wanted to know about how Game Boy cartridges work
+   Points: 168
+   Comments: 16
+   URL: https://abc.decontextualize.com/more-than-you-wanted-to-know/
+
+4. Android Earthquake Alerts: A global system for early warning
+   Points: 169
+   Comments: 51
+   URL: https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/
+
+5. Swift-erlang-actor-system
+   Points: 211
+   Comments: 42
+   URL: https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248
+
+6. Algorithms for Modern Processor Architectures
+   Points: 32
+   Comments: 1
+   URL: https://lemire.github.io/talks/2025/sea/sea2025.html
+
+7. We built an air-gapped Jira alternative for regulated industries
+   Points: 134
+   Comments: 85
+   URL: https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped
+
+8. Comparing the Glove80 and Maltron Keyboards
+   Points: 29
+   Comments: 13
+   URL: https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html
+
+9. A media company demanded a license fee for an Open Graph image I used on Twitter
+   Points: 47
+   Comments: 9
+   URL: https://alistairshepherd.uk/writing/open-graph-licensing/
+
+10. Don't animate height
+   Points: 268
+   Comments: 157
+   URL: https://www.granola.ai/blog/dont-animate-height
+
+11. Subliminal learning: Models transmit behaviors via hidden signals in data
+   Points: 110
+   Comments: 28
+   URL: https://alignment.anthropic.com/2025/subliminal-learning/
+
+12. Americans are paying for tariffs, not foreign companies
+   Points: 74
+   Comments: 58
+   URL: https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs
+
+13. Why Does Raising the Retirement Age Hurt Young People?
+   Points: 5
+   Comments: 3
+   URL: https://www.governance.fyi/p/why-does-raising-the-retirement-age
+
+14. Firebender (YC W24) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist
+
+15. Gemini North telescope discovers long-predicted stellar companion of Betelgeuse
+   Points: 100
+   Comments: 26
+   URL: https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last
+
+16. NonRAID – fork of unRAID array kernel module
+   Points: 47
+   Comments: 37
+   URL: https://github.com/qvr/nonraid
+
+17. TODOs aren't for doing
+   Points: 258
+   Comments: 159
+   URL: https://sophiebits.com/2025/07/21/todos-arent-for-doing
+
+18. Show HN: Compass CNC – Open-source handheld CNC router
+   Points: 105
+   Comments: 22
+   URL: https://www.compassrouter.com
+
+19. Hegel Dust
+   Points: 4
+   Comments: 0
+   URL: https://www.bookforum.com/print/3201/hegel-dust-62209
+
+20. Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code
+   Points: 172
+   Comments: 118
+   URL: https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html
+
