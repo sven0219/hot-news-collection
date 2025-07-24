@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-24
+==================================================
+
+1. I drank every cocktail
+   Points: 41
+   Comments: 5
+   URL: https://aaronson.org/blog/i-drank-every-cocktail
+
+2. CARA – High precision robot dog using rope
+   Points: 358
+   Comments: 67
+   URL: https://www.aaedmusa.com/projects/cara
+
+3. The Promised LAN
+   Points: 230
+   Comments: 89
+   URL: https://tpl.house/
+
+4. Parsing Protobuf like never before
+   Points: 136
+   Comments: 38
+   URL: https://mcyoung.xyz/2025/07/16/hyperpb/
+
+5. Neil Armstrong's customs form for moon rocks (2016)
+   Points: 239
+   Comments: 161
+   URL: https://magazine.uc.edu/editors_picks/recent_features/armstrong/moonrocks.html
+
+6. Major rule about cooking meat turns out to be wrong
+   Points: 207
+   Comments: 160
+   URL: https://www.seriouseats.com/meat-resting-science-11776272
+
+7. I made Tinder but it's only pictures of my wife and I can only swipe right
+   Points: 261
+   Comments: 65
+   URL: https://trytender.app/
+
+8. US AI Action Plan
+   Points: 155
+   Comments: 161
+   URL: https://www.ai.gov/action-plan
+
+9. The Big OOPs: Anatomy of a Thirty-Five Year Mistake
+   Points: 97
+   Comments: 44
+   URL: https://www.computerenhance.com/p/the-big-oops-anatomy-of-a-thirty
+
+10. Building better AI tools
+   Points: 233
+   Comments: 147
+   URL: https://hazelweakly.me/blog/stop-building-ai-tools-backwards/
+
+11. Show HN: TheProtector – Linux Bash script for the paranoid admin on a budget
+   Points: 61
+   Comments: 11
+   URL: https://github.com/IHATEGIVINGAUSERNAME/theProtector
+
+12. Quantum Won't Replace Your Computer
+   Points: 8
+   Comments: 1
+   URL: https://medium.com/@jensenbox/quantum-wont-replace-your-computer-c6a9bf30fc9c
+
+13. I'm Unsatisfied with Easing Functions
+   Points: 38
+   Comments: 67
+   URL: https://www.davepagurek.com/blog/easing-functions/
+
+14. What to expect from Debian/Trixie
+   Points: 196
+   Comments: 117
+   URL: https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/
+
+15. Checklists are hard, but still a good thing
+   Points: 83
+   Comments: 50
+   URL: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsAreHardButGood
+
+16. Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom
+   Points: 422
+   Comments: 322
+   URL: https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/
+
+17. FastVLM: Efficient Vision Encoding for Vision Language Models
+   Points: 58
+   Comments: 3
+   URL: https://machinelearning.apple.com/research/fast-vision-language-models
+
+18. A diverse cast of rocky worlds around a small star revealed by astronomers
+   Points: 70
+   Comments: 5
+   URL: https://nouvelles.umontreal.ca/en/article/2025/07/22/a-udem-team-confirms-a-fifth-potentially-habitable-planet-around-l-98-59-a-red-dwarf-35-l/
+
+19. Jitsi privacy flaw enables one-click stealth audio and video capture
+   Points: 33
+   Comments: 5
+   URL: https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one
+
+20. Vector Tiles are deployed on OpenStreetMap.org
+   Points: 71
+   Comments: 29
+   URL: https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/
+
