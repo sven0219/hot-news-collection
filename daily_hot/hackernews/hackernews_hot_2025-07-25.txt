@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-25
+==================================================
+
+1. Scientists may have found a way to eliminate chromosome linked to Down syndrome
+   Points: 141
+   Comments: 64
+   URL: https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019
+
+2. Graphene OS: a security-enhanced Android build
+   Points: 67
+   Comments: 8
+   URL: https://lwn.net/SubscriberLink/1030004/898017c7953c0946/
+
+3. Inter-Planetary Network Special Interest Group
+   Points: 86
+   Comments: 20
+   URL: https://www.ipnsig.org
+
+4. Positron – A next-generation data science IDE
+   Points: 89
+   Comments: 42
+   URL: https://positron.posit.co/
+
+5. New Aarch64 Back End
+   Points: 50
+   Comments: 4
+   URL: https://ziglang.org/devlog/2025/#2025-07-23
+
+6. I wasted weeks hand optimizing assembly because I benchmarked on random data
+   Points: 209
+   Comments: 62
+   URL: https://www.vidarholen.net/contents/blog/?p=1160
+
+7. There is no memory safety without thread safety
+   Points: 246
+   Comments: 226
+   URL: https://www.ralfj.de/blog/2025/07/24/memory-safety.html
+
+8. AMD CEO sees chips from TSMC's US plant costing 5%-20% more
+   Points: 236
+   Comments: 422
+   URL: https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more
+
+9. A GPU Calculator That Helps Calculate What GPU to Use
+   Points: 28
+   Comments: 10
+   URL: https://calculator.inference.ai/
+
+10. Visa and Mastercard: The global payment duopoly (2024)
+   Points: 195
+   Comments: 85
+   URL: https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly
+
+11. Revisiting Moneyball
+   Points: 47
+   Comments: 10
+   URL: https://djpardis.medium.com/revisiting-moneyball-074fc2435b07
+
+12. Why concatenative programming matters (2012)
+   Points: 43
+   Comments: 7
+   URL: http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html
+
+13. PSA: SQLite WAL checksums fail silently and may lose data
+   Points: 234
+   Comments: 111
+   URL: https://avi.im/blag/2025/sqlite-wal-checksum/
+
+14. Air Force unit suspends use of Sig Sauer pistol after shooting death of airman
+   Points: 85
+   Comments: 143
+   URL: https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death
+
+15. Use Your Type System
+   Points: 220
+   Comments: 217
+   URL: https://www.dzombak.com/blog/2025/07/use-your-type-system/
+
+16. RE#: High performance derivative-based regular expression matching (2024)
+   Points: 10
+   Comments: 0
+   URL: https://arxiv.org/abs/2407.20479
+
+17. Vet is a safety net for the curl | bash pattern
+   Points: 172
+   Comments: 161
+   URL: https://github.com/vet-run/vet
+
+18. Intel CEO Letter to Employees
+   Points: 155
+   Comments: 280
+   URL: https://morethanmoore.substack.com/p/intel-ceo-letter-to-employees
+
+19. Open Source Maintenance Fee
+   Points: 208
+   Comments: 147
+   URL: https://github.com/wixtoolset/issues/issues/8974
+
+20. Covers as a way of learning music and code
+   Points: 120
+   Comments: 65
+   URL: https://ntietz.com/blog/covers-as-a-way-of-learning/
+
