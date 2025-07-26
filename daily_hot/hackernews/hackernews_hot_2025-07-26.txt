@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-26
+==================================================
+
+1. Do not download the app, use the website
+   Points: 240
+   Comments: 174
+   URL: https://idiallo.com/blog/dont-download-apps
+
+2. It's time for modern CSS to kill the SPA
+   Points: 223
+   Comments: 142
+   URL: https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/
+
+3. Vanilla JavaScript support for Tailwind Plus
+   Points: 197
+   Comments: 71
+   URL: https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus
+
+4. It's a DE9, not a DB9 (but we know what you mean)
+   Points: 324
+   Comments: 213
+   URL: https://news.sparkfun.com/14298
+
+5. Experimental surgery performed by AI-driven surgical robot
+   Points: 54
+   Comments: 62
+   URL: https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/
+
+6. Why MIT switched from Scheme to Python (2009)
+   Points: 164
+   Comments: 167
+   URL: https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python
+
+7. Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?
+   Points: 141
+   Comments: 53
+   URL: https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu
+
+8. Animated Cursors
+   Points: 115
+   Comments: 27
+   URL: https://tattoy.sh/news/animated-cursors/
+
+9. Developing our position on AI
+   Points: 156
+   Comments: 42
+   URL: https://www.recurse.com/blog/191-developing-our-position-on-ai
+
+10. Steam, Itch.io are pulling ‘porn’ games. Critics say it's a slippery slope
+   Points: 363
+   Comments: 492
+   URL: https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/
+
+11. Never write your own date parsing library
+   Points: 128
+   Comments: 150
+   URL: https://www.zachleat.com/web/adventures-in-date-parsing/
+
+12. Windsurf employee #2: I was given a payout of only 1% what my shares where worth
+   Points: 339
+   Comments: 214
+   URL: https://twitter.com/premqnair/status/1948420769945682413
+
+13. CO2 Battery
+   Points: 103
+   Comments: 96
+   URL: https://energydome.com/co2-battery/
+
+14. Running PostmarketOS on Android Termux proot without a custom ROM (2024)
+   Points: 23
+   Comments: 1
+   URL: https://ivonblog.com/en-us/posts/postmarketos-in-termux-proot/
+
+15. The future is not self-hosted
+   Points: 219
+   Comments: 236
+   URL: https://www.drewlyton.com/story/the-future-is-not-self-hosted/
+
+16. Programming vehicles in games
+   Points: 231
+   Comments: 52
+   URL: https://wassimulator.com/blog/programming/programming_vehicles_in_games.html
+
+17. SRAM Has No Chill: Exploiting Power Domain Separation to Steal On-Chip Secrets
+   Points: 12
+   Comments: 1
+   URL: https://cacm.acm.org/research-highlights/sram-has-no-chill-exploiting-power-domain-separation-to-steal-on-chip-secrets/
+
+18. Internet Archive is now a federal depository library
+   Points: 209
+   Comments: 42
+   URL: https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean
+
+19. Show HN: Price Per Token – LLM API Pricing Data
+   Points: 279
+   Comments: 118
+   URL: https://pricepertoken.com/
+
+20. Women dating safety app 'Tea' breached, users' IDs posted to 4chan
+   Points: 298
+   Comments: 427
+   URL: https://www.404media.co/women-dating-safety-app-tea-breached-users-ids-posted-to-4chan/
+
