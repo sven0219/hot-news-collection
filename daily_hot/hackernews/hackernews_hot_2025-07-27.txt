@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-27
+==================================================
+
+1. Resizable Structs in Zig
+   Points: 70
+   Comments: 22
+   URL: https://tristanpemble.com/resizable-structs-in-zig/
+
+2. Asyncio: A library with too many sharp corners
+   Points: 18
+   Comments: 2
+   URL: https://sailor.li/asyncio
+
+3. Epic Recall, Epic Fail
+   Points: 61
+   Comments: 8
+   URL: https://taipology.substack.com/p/epic-recall-epic-fail
+
+4. Show HN: QuickTunes: Apple Music player for Mac with iPod vibes
+   Points: 18
+   Comments: 2
+   URL: https://furnacecreek.org/quicktunes/
+
+5. How We Rooted Copilot
+   Points: 231
+   Comments: 99
+   URL: https://research.eye.security/how-we-rooted-copilot/
+
+6. Paul Dirac and the religion of mathematical beauty (2011) [video]
+   Points: 23
+   Comments: 2
+   URL: https://www.youtube.com/watch?v=jPwo1XsKKXg
+
+7. Personal aviation is about to get interesting (2023)
+   Points: 17
+   Comments: 4
+   URL: https://www.elidourado.com/p/personal-aviation
+
+8. Purple Earth hypothesis
+   Points: 164
+   Comments: 49
+   URL: https://en.wikipedia.org/wiki/Purple_Earth_hypothesis
+
+9. What went wrong for Yahoo
+   Points: 106
+   Comments: 106
+   URL: https://dfarq.homeip.net/what-went-wrong-for-yahoo/
+
+10. Rust running on every GPU
+   Points: 474
+   Comments: 161
+   URL: https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/
+
+11. Arvo Pärt at 90
+   Points: 28
+   Comments: 9
+   URL: https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90
+
+12. Getting decent error reports in Bash when you're using 'set -e'
+   Points: 52
+   Comments: 18
+   URL: https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports
+
+13. Tinyio: A tiny (~200 line) event loop for Python
+   Points: 22
+   Comments: 11
+   URL: https://github.com/patrick-kidger/tinyio
+
+14. OCaml Programming: Correct and Efficient and Beautiful
+   Points: 76
+   Comments: 20
+   URL: https://cs3110.github.io/textbook/cover.html
+
+15. Test Results for AMD Zen 5
+   Points: 191
+   Comments: 35
+   URL: https://www.agner.org/forum/viewtopic.php?t=287&start=10
+
+16. Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload
+   Points: 13
+   Comments: 1
+   URL: https://arxiv.org/abs/2507.17615
+
+17. Large ancient Hawaiian petroglyphs uncovered by waves on Oahu
+   Points: 67
+   Comments: 20
+   URL: https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php
+
+18. Millet mystery: Why staple crop failed to take root in ancient Japanese kitchens
+   Points: 13
+   Comments: 0
+   URL: https://phys.org/news/2025-07-millet-mystery-staple-crop-root.html
+
+19. Algos and Code Performance: Your Code Works but Can It Handle Real Traffic?
+   Points: 4
+   Comments: 0
+   URL: https://beon.tech/blog/optimizing-algorithms-code-performance
+
+20. Coronary artery calcium testing can reveal plaque in arteries, but is underused
+   Points: 13
+   Comments: 9
+   URL: https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html
+
