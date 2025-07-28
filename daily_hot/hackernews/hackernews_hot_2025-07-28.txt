@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-28
+==================================================
+
+1. Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork
+   Points: 636
+   Comments: 226
+   URL: https://github.com/segmentationf4u1t/trae_telemetry_research
+
+2. Dumb Pipe
+   Points: 556
+   Comments: 124
+   URL: https://www.dumbpipe.dev/
+
+3. EU age verification app to ban any Android system not licensed by Google
+   Points: 245
+   Comments: 82
+   URL: https://www.reddit.com/r/degoogle/s/YxmPgFes8a
+
+4. I hacked my washing machine
+   Points: 112
+   Comments: 50
+   URL: https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/
+
+5. Making Postgres slower
+   Points: 123
+   Comments: 14
+   URL: https://byteofdev.com/posts/making-postgres-slow/
+
+6. Blender: Beyond Mouse and Keyboard
+   Points: 19
+   Comments: 6
+   URL: https://code.blender.org/2025/07/beyond-mouse-keyboard/
+
+7. Enough AI Copilots, We Need AI HUDs
+   Points: 22
+   Comments: 3
+   URL: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
+
+8. ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea
+   Points: 18
+   Comments: 2
+   URL: https://github.com/babycommando/zuse
+
+9. IBM Keyboard Patents
+   Points: 36
+   Comments: 2
+   URL: https://sharktastica.co.uk/topics/patents
+
+10. Ask HN: What are you working on? (July 2025)
+   Points: 117
+   Comments: 353
+   URL: https://news.ycombinator.com/item?id=44702833
+
+11. Designing a Flatpack Bed
+   Points: 25
+   Comments: 2
+   URL: https://kevinlynagh.com/newsletter/2025_07_flatpack/
+
+12. Return of wolves to Yellowstone has led to a surge in aspen trees
+   Points: 357
+   Comments: 188
+   URL: https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years
+
+13. Why I write recursive descent parsers, despite their issues (2020)
+   Points: 21
+   Comments: 10
+   URL: https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe
+
+14. The JJ VCS workshop: A zero-to-hero speedrun
+   Points: 81
+   Comments: 1
+   URL: https://github.com/jkoppel/jj-workshop
+
+15. Bits 0x02: switching to orion as a browser
+   Points: 23
+   Comments: 0
+   URL: https://andinfinity.eu/post/2025-07-24-bits-0x02/
+
+16. Tom Lehrer has died
+   Points: 432
+   Comments: 77
+   URL: https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html
+
+17. 4k NASA employees opt to leave agency through deferred resignation program
+   Points: 397
+   Comments: 500
+   URL: https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304
+
+18. Google failed to warn 10M of Turkey earthquake
+   Points: 5
+   Comments: 1
+   URL: https://www.bbc.com/news/articles/c77v2kx304go
+
+19. The Bootstrap Load
+   Points: 21
+   Comments: 2
+   URL: http://www.intel4004.com/btstrp.htm
+
+20. Formal specs as sets of behaviors
+   Points: 19
+   Comments: 1
+   URL: https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/
+
