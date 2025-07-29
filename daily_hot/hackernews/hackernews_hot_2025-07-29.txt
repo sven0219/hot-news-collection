@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-29
+==================================================
+
+1. Show HN: Use Their ID – Use Your Local UK MP's ID for the Online Safety Act
+   Points: 389
+   Comments: 89
+   URL: https://use-their-id.com/
+
+2. I designed my own fast game streaming video codec – PyroWave
+   Points: 175
+   Comments: 51
+   URL: https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/
+
+3. Copyparty – Turn almost any device into a file server
+   Points: 511
+   Comments: 89
+   URL: https://github.com/9001/copyparty
+
+4. Sign in with Google in Chrome
+   Points: 154
+   Comments: 89
+   URL: https://underpassapp.com/news/2025/7/5.html
+
+5. Tao on “blue team” vs. “red team” LLMs
+   Points: 371
+   Comments: 133
+   URL: https://mathstodon.xyz/@tao/114915604830689046
+
+6. Different Clocks
+   Points: 111
+   Comments: 17
+   URL: https://ianto-cannon.github.io/clock.html
+
+7. Claude Code weekly rate limits
+   Points: 348
+   Comments: 440
+   URL: https://news.ycombinator.com/item?id=44713757
+
+8. The Useless UseCallback
+   Points: 55
+   Comments: 30
+   URL: https://tkdodo.eu/blog/the-useless-use-callback
+
+9. The Vatican Observatory Looks to the Heavens
+   Points: 23
+   Comments: 5
+   URL: https://www.newyorker.com/magazine/2025/08/04/the-vatican-observatory-looks-to-the-heavens
+
+10. SQLx – Rust SQL Toolkit
+   Points: 77
+   Comments: 32
+   URL: https://github.com/launchbadge/sqlx
+
+11. GLM-4.5: Reasoning, Coding, and Agentic Abililties
+   Points: 151
+   Comments: 82
+   URL: https://z.ai/blog/glm-4.5
+
+12. Robot hand could harvest blackberries better than humans
+   Points: 56
+   Comments: 23
+   URL: https://news.uark.edu/articles/79750/robot-hand-could-harvest-blackberries-better-than-humans
+
+13. Show HN: 433 - How to Make a Font That Says Nothing
+   Points: 6
+   Comments: 0
+   URL: https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/
+
+14. Interstellar Comet 3I/Atlas: What We Know Now
+   Points: 62
+   Comments: 27
+   URL: https://skyandtelescope.org/astronomy-news/interstellar-comet-3i-atlas-what-we-know-now/
+
+15. Cells that breathe oxygen and sulfur at the same time
+   Points: 54
+   Comments: 2
+   URL: https://www.quantamagazine.org/the-cells-that-breathe-two-ways-20250723/
+
+16. Simplify, then add delightness: On designing for children
+   Points: 105
+   Comments: 40
+   URL: https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/
+
+17. Enough AI copilots, we need AI HUDs
+   Points: 801
+   Comments: 231
+   URL: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
+
+18. Shrinkle – Shrink words, find hidden phrase
+   Points: 37
+   Comments: 11
+   URL: https://www.shrinkle.org/
+
+19. Tea app leak worsens with second database exposing user chats
+   Points: 80
+   Comments: 58
+   URL: https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/
+
+20. How to make websites that will require lots of your time and energy
+   Points: 219
+   Comments: 177
+   URL: https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/
+
