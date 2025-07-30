@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-30
+==================================================
+
+1. Study mode
+   Points: 675
+   Comments: 475
+   URL: https://openai.com/index/chatgpt-study-mode/
+
+2. RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession
+   Points: 122
+   Comments: 25
+   URL: https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/
+
+3. Htmx and URL State Management
+   Points: 61
+   Comments: 20
+   URL: https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/
+
+4. Launch HN: Hyprnote (YC S25) – An open-source AI meeting notetaker
+   Points: 140
+   Comments: 79
+   URL: https://news.ycombinator.com/item?id=44725306
+
+5. Someone made a 128000 line PR to opencut
+   Points: 56
+   Comments: 38
+   URL: https://github.com/OpenCut-app/OpenCut/pull/479
+
+6. Learning basic electronics by building fireflies
+   Points: 165
+   Comments: 48
+   URL: http://a64.in/posts/learning-basic-electronics-by-building-fireflies/
+
+7. FoundationDB: From idea to Apple acquisition [video]
+   Points: 88
+   Comments: 4
+   URL: https://www.youtube.com/watch?v=C1nZzQqcPZw
+
+8. iPhone cameras are good
+   Points: 95
+   Comments: 134
+   URL: https://candid9.com/phone-camera/
+
+9. Supervised fine tuning on curated data is reinforcement learning
+   Points: 32
+   Comments: 9
+   URL: https://arxiv.org/abs/2507.12856
+
+10. Show HN: I built an AI that turns any book into a text adventure game
+   Points: 190
+   Comments: 75
+   URL: https://www.kathaaverse.com/
+
+11. Maru OS – Use your phone as your PC
+   Points: 176
+   Comments: 129
+   URL: https://maruos.com/
+
+12. How the brain increases blood flow on demand
+   Points: 49
+   Comments: 23
+   URL: https://hms.harvard.edu/news/how-brain-increases-blood-flow-demand
+
+13. CodeCrafters (YC S22) is hiring first Marketing Person
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire
+
+14. Microsoft Flight Simulator 2024: WebAssembly SDK
+   Points: 107
+   Comments: 61
+   URL: https://docs.flightsimulator.com/msfs2024/html/6_Programming_APIs/WASM/WebAssembly.htm
+
+15. Show HN: A GitHub Action that quizzes you on a pull request
+   Points: 67
+   Comments: 22
+   URL: https://github.com/dkamm/pr-quiz
+
+16. More honey bees dying, even as antibiotic use halves
+   Points: 141
+   Comments: 99
+   URL: https://news.uoguelph.ca/2025/07/more-honey-bees-dying-even-as-antibiotic-use-halves/
+
+17. My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)
+   Points: 437
+   Comments: 316
+   URL: https://simonwillison.net/2025/Jul/29/space-invaders/
+
+18. Irrelevant facts about cats added to math problems increase LLM errors by 300%
+   Points: 286
+   Comments: 135
+   URL: https://www.science.org/content/article/scienceadviser-cats-confuse-ai
+
+19. Elements of System Design
+   Points: 72
+   Comments: 29
+   URL: https://github.com/jarulraj/periodic-table
+
+20. Observable Notebooks 2.0 Technology Preview
+   Points: 178
+   Comments: 43
+   URL: https://observablehq.com/notebook-kit/
+
