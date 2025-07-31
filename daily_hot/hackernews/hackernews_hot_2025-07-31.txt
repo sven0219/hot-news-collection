@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-07-31
+==================================================
+
+1. Fast
+   Points: 745
+   Comments: 235
+   URL: https://www.catherinejue.com/fast
+
+2. Ollama has a native front end chatbot now
+   Points: 145
+   Comments: 60
+   URL: https://ollama.com/blog/new-app
+
+3. The math is haunted
+   Points: 97
+   Comments: 32
+   URL: https://overreacted.io/the-math-is-haunted/
+
+4. Vibe code is legacy code
+   Points: 278
+   Comments: 179
+   URL: https://blog.val.town/vibe-code
+
+5. Early universe's 'little red dots' may be black hole stars
+   Points: 36
+   Comments: 16
+   URL: https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars
+
+6. Optician Sans – A free font based on historical eye charts and optotypes
+   Points: 204
+   Comments: 45
+   URL: https://optician-sans.com/
+
+7. A short post on short trains
+   Points: 52
+   Comments: 70
+   URL: https://shakeddown.substack.com/p/a-short-post-on-short-trains
+
+8. Figma Announces IPO
+   Points: 19
+   Comments: 1
+   URL: https://www.figma.com/blog/ipo-pricing/
+
+9. Show HN: Open-source alternative to ChatGPT Agents for browsing
+   Points: 53
+   Comments: 18
+   URL: https://github.com/trymeka/agent
+
+10. Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production
+   Points: 88
+   Comments: 25
+   URL: https://news.ycombinator.com/item?id=44735843
+
+11. Poor child process management in Rust terminal apps leads to terminal corruption
+   Points: 45
+   Comments: 7
+   URL: https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management
+
+12. Problem solving often a matter of cooking up an appropriate Markov chain (2007)
+   Points: 199
+   Comments: 60
+   URL: http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf
+
+13. The Preserving Machine by Philip K. Dick (1953)
+   Points: 40
+   Comments: 10
+   URL: https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06
+
+14. Critical Vulnerability in AI Vibe Coding platform Base44
+   Points: 90
+   Comments: 52
+   URL: https://www.wiz.io/blog/critical-vulnerability-base44
+
+15. Australia widens teen social media ban to YouTube, scraps exemption
+   Points: 154
+   Comments: 252
+   URL: https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/
+
+16. Show HN: An AI agent that learns your product and guides your users
+   Points: 38
+   Comments: 19
+   URL: https://frigade.ai
+
+17. Our $100M Series B
+   Points: 610
+   Comments: 417
+   URL: https://oxide.computer/blog/our-100m-series-b
+
+18. Writing memory efficient C structs
+   Points: 125
+   Comments: 64
+   URL: https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html
+
+19. Ultra-Rapid Vision in Birds
+   Points: 48
+   Comments: 7
+   URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099
+
+20. A major AI training data set contains millions of examples of personal data
+   Points: 95
+   Comments: 73
+   URL: https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/
+
