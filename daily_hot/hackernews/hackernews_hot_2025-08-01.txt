@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-01
+==================================================
+
+1. Slow
+   Points: 477
+   Comments: 121
+   URL: https://michaelnotebook.com/slow/index.html
+
+2. Releasing open weights for FLUX.1 Krea
+   Points: 180
+   Comments: 70
+   URL: https://www.krea.ai/blog/flux-krea-open-source-release
+
+3. The anti-abundance critique on housing is wrong
+   Points: 118
+   Comments: 169
+   URL: https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing
+
+4. British man claims he's unable to watch porn as tattoos confuse age check system
+   Points: 15
+   Comments: 7
+   URL: https://needtoknow.co.uk/2025/07/30/britains-most-tattooed-man-claims-he-is-unable-to-watch-prn-as-new-age-check-system-mistakes-his-ink-for-a-mask/
+
+5. QUIC for the kernel
+   Points: 193
+   Comments: 145
+   URL: https://lwn.net/Articles/1029851/
+
+6. I made a website that makes you cry
+   Points: 67
+   Comments: 36
+   URL: https://www.cryonceaweek.com
+
+7. How was the Universal Pictures 1936 opening logo created?
+   Points: 456
+   Comments: 65
+   URL: https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created
+
+8. Ubiquiti launches UniFi OS Server for self-hosting
+   Points: 220
+   Comments: 182
+   URL: https://lazyadmin.nl/home-network/unifi-os-server/
+
+9. MacBook Pro Insomnia
+   Points: 305
+   Comments: 157
+   URL: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia
+
+10. Gemini Embedding: Powering RAG and context engineering
+   Points: 160
+   Comments: 56
+   URL: https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/
+
+11. Show HN: Mcp-use – Connect any LLM to any MCP
+   Points: 86
+   Comments: 38
+   URL: https://github.com/mcp-use/mcp-use
+
+12. Crafting your own Static Site Generator using Phoenix (2023)
+   Points: 14
+   Comments: 0
+   URL: https://fly.io/phoenix-files/crafting-your-own-static-site-generator-using-phoenix/
+
+13. Secure boot certificate rollover is real but probably won't hurt you
+   Points: 96
+   Comments: 42
+   URL: https://mjg59.dreamwidth.org/72892.html
+
+14. I tried Servo
+   Points: 324
+   Comments: 208
+   URL: https://www.spacebar.news/servo-undercover-web-browser-engine/
+
+15. Introduction to Computer Music
+   Points: 246
+   Comments: 68
+   URL: https://cmtext.com/
+
+16. Many countries that said no to ChatControl in 2024 are now undecided
+   Points: 303
+   Comments: 202
+   URL: https://digitalcourage.social/@echo_pbreyer/114946559233051667
+
+17. Show HN: Sourcebot – Self-hosted Perplexity for your codebase
+   Points: 68
+   Comments: 17
+   URL: https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0
+
+18. Raspberry Pi 5 Gets a MicroSD Express Hat
+   Points: 29
+   Comments: 13
+   URL: https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/
+
+19. Golden Literal Testing in UTest
+   Points: 4
+   Comments: 0
+   URL: https://www.lihaoyi.com/post/GoldenLiteralTestinginuTest090.html
+
+20. Denver rent is back to 2022 prices after 20k new units hit the market
+   Points: 157
+   Comments: 188
+   URL: https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/
+
