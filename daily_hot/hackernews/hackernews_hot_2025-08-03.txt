@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-03
+==================================================
+
+1. HTML-in-Canvas
+   Points: 58
+   Comments: 32
+   URL: https://github.com/WICG/html-in-canvas
+
+2. Telo MT1
+   Points: 385
+   Comments: 371
+   URL: https://www.telotrucks.com/
+
+3. Remote hosting for your telescope
+   Points: 54
+   Comments: 16
+   URL: https://www.sierra-remote.com/
+
+4. 6 weeks of Claude Code
+   Points: 238
+   Comments: 286
+   URL: https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
+
+5. Helsinki records zero traffic deaths for full year
+   Points: 397
+   Comments: 253
+   URL: https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html
+
+6. Anandtech.com now redirects to its forums
+   Points: 134
+   Comments: 27
+   URL: https://forums.anandtech.com/
+
+7. Lina Khan points to Figma IPO as vindication of M&A scrutiny
+   Points: 70
+   Comments: 44
+   URL: https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/
+
+8. PixiEditor 2.0 – A FOSS universal 2D graphics editor
+   Points: 144
+   Comments: 15
+   URL: https://pixieditor.net/blog/2025/07/30/20-release/
+
+9. The Art of Multiprocessor Programming 2nd Edition Book Club
+   Points: 232
+   Comments: 32
+   URL: https://eatonphil.com/2025-art-of-multiprocessor-programming.html
+
+10. We may not like what we become if A.I. solves loneliness
+   Points: 332
+   Comments: 708
+   URL: https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem
+
+11. Online Collection of Keygen Music
+   Points: 190
+   Comments: 46
+   URL: https://keygenmusic.tk
+
+12. At a Loss for Words: A flawed idea is teaching kids to be poor readers (2019)
+   Points: 79
+   Comments: 87
+   URL: https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading
+
+13. Browser extension and local backend that automatically archives YouTube videos
+   Points: 126
+   Comments: 58
+   URL: https://github.com/andrewarrow/starchive
+
+14. Mezzano, an operating system written in Common Lisp
+   Points: 27
+   Comments: 1
+   URL: https://github.com/froggey/Mezzano
+
+15. Speed up suspend/resume for FreeBSD
+   Points: 11
+   Comments: 1
+   URL: https://eugene-andrienko.com/it/2025/07/28/speed-up-suspend-resume-freebsd.html
+
+16. Fermat's Last Theorem in Lean – Imperial College London
+   Points: 9
+   Comments: 10
+   URL: https://github.com/ImperialCollegeLondon/FLT
+
+17. Show HN: NaturalCron – Human-Readable Scheduling for .NET (With Fluent Builder)
+   Points: 22
+   Comments: 7
+   URL: https://github.com/hugoj0s3/NaturalCron
+
+18. How I do support and community
+   Points: 18
+   Comments: 0
+   URL: https://pketh.org/support-community.html
+
+19. Show HN: WebGPU enables local LLM in the browser – demo site with AI chat
+   Points: 114
+   Comments: 39
+   URL: https://andreinwald.github.io/browser-llm/
+
+20. The /o in Ruby regex stands for "oh the humanity "
+   Points: 126
+   Comments: 29
+   URL: https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html
+
