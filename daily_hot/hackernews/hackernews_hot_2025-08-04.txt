@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-04
+==================================================
+
+1. Modern Node.js Patterns
+   Points: 323
+   Comments: 137
+   URL: https://kashw1n.com/blog/nodejs-2025/
+
+2. Writing a good design document
+   Points: 136
+   Comments: 32
+   URL: https://grantslatton.com/how-to-design-document
+
+3. Persona vectors: Monitoring and controlling character traits in language models
+   Points: 279
+   Comments: 92
+   URL: https://www.anthropic.com/research/persona-vectors
+
+4. So you want to parse a PDF?
+   Points: 46
+   Comments: 31
+   URL: https://eliot-jones.com/2025/8/pdf-parsing-xref
+
+5. How to grow almost anything
+   Points: 32
+   Comments: 7
+   URL: https://howtogrowalmostanything.notion.site/htgaa25
+
+6. If you're remote, ramble
+   Points: 663
+   Comments: 364
+   URL: https://stephango.com/ramblings
+
+7. Life, Work, Death and the Peasant: Family Formation
+   Points: 54
+   Comments: 0
+   URL: https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/
+
+8. A study of lights at night suggests dictators lie about economic growth (2022)
+   Points: 63
+   Comments: 20
+   URL: https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth
+
+9. "If you can rack it, you can run UniFi OS" Ubiquiti self-hosted UniFi OS release
+   Points: 26
+   Comments: 1
+   URL: https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/
+
+10. Names are not type safety (2020)
+   Points: 17
+   Comments: 0
+   URL: https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/
+
+11. Welcome to url.town, population 465
+   Points: 87
+   Comments: 11
+   URL: https://url.town/
+
+12. Shrinking freshwater availability increasing land contribution to sea level rise
+   Points: 114
+   Comments: 43
+   URL: https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming
+
+13. This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)
+   Points: 65
+   Comments: 3
+   URL: https://archive.irixnet.org/thisoldsgi/
+
+14. 2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals
+   Points: 179
+   Comments: 49
+   URL: https://www.bbc.com/news/articles/c4gzx0zm68vo
+
+15. Tokens are getting more expensive
+   Points: 205
+   Comments: 147
+   URL: https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed
+
+16. Twenty Eighth International Obfuscated C Code Contest
+   Points: 309
+   Comments: 88
+   URL: https://www.ioccc.org/2024/index.html
+
+17. UN report finds UN reports are not widely read
+   Points: 233
+   Comments: 100
+   URL: https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/
+
+18. Learnable Programming (2012)
+   Points: 4
+   Comments: 0
+   URL: https://worrydream.com/LearnableProgramming/
+
+19. Schematra: A Sinatra love letter in Scheme
+   Points: 14
+   Comments: 2
+   URL: https://github.com/rolandoam/schematra
+
+20. System-Wide Safety Project
+   Points: 3
+   Comments: 0
+   URL: https://www.nasa.gov/directorates/armd/aosp/sws/
+
