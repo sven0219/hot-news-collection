@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-05
+==================================================
+
+1. Show HN: I spent 6 years building a ridiculous wooden pixel display
+   Points: 677
+   Comments: 107
+   URL: https://benholmen.com/blog/kilopixel/
+
+2. EconTeen – Financial Literacy Lessons and Tools for Teens
+   Points: 29
+   Comments: 17
+   URL: https://econteen.com/
+
+3. Qwen-Image: Crafting with native text rendering
+   Points: 276
+   Comments: 82
+   URL: https://qwenlm.github.io/blog/qwen-image/
+
+4. Show HN: I've been building an ERP for manufacturing for the last 3 years
+   Points: 48
+   Comments: 8
+   URL: https://github.com/crbnos/carbon
+
+5. How we made JSON.stringify more than twice as fast
+   Points: 174
+   Comments: 44
+   URL: https://v8.dev/blog/json-stringify
+
+6. Thingino: Open-Source Firmware for IP Cameras
+   Points: 25
+   Comments: 7
+   URL: https://thingino.com/
+
+7. NASA's Curiosity picks up new skills
+   Points: 86
+   Comments: 29
+   URL: https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/
+
+8. What Happened When I Tried to Replace Myself with ChatGPT in My English Class
+   Points: 65
+   Comments: 67
+   URL: https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/
+
+9. Content-Aware Spaced Repetition
+   Points: 78
+   Comments: 18
+   URL: https://www.giacomoran.com/blog/content-aware-sr/
+
+10. Indian Sign Painting: A typeface designer's take on the craft
+   Points: 111
+   Comments: 16
+   URL: https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/
+
+11. Job-seekers are dodging AI interviewers
+   Points: 497
+   Comments: 761
+   URL: https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/
+
+12. Ask HN: What trick of the trade took you too long to learn?
+   Points: 39
+   Comments: 51
+   URL: https://news.ycombinator.com/item?id=44789068
+
+13. OpenIPC: Open IP Camera Firmware
+   Points: 190
+   Comments: 113
+   URL: https://openipc.org/à
+
+14. Hiroshima (1946)
+   Points: 35
+   Comments: 34
+   URL: https://www.newyorker.com/magazine/1946/08/31/hiroshima
+
+15. DrawAFish.com Postmortem
+   Points: 242
+   Comments: 60
+   URL: https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html
+
+16. Once a death sentence, cardiac amyloidosis is finally treatable
+   Points: 96
+   Comments: 4
+   URL: https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html
+
+17. How we built Bluey’s world
+   Points: 310
+   Comments: 147
+   URL: https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725
+
+18. Projects evaluated to see if they're as free and open source as advertised
+   Points: 116
+   Comments: 38
+   URL: https://isitreallyfoss.com/
+
+19. Perplexity is using stealth, undeclared crawlers to evade no-crawl directives
+   Points: 941
+   Comments: 534
+   URL: https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/
+
+20. What Can a Cell Remember?
+   Points: 48
+   Comments: 5
+   URL: https://www.quantamagazine.org/what-can-a-cell-remember-20250730/
+
