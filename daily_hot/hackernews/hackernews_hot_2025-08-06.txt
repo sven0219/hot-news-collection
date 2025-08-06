@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-06
+==================================================
+
+1. Open models by OpenAI
+   Points: 1338
+   Comments: 517
+   URL: https://openai.com/open-models/
+
+2. Genie 3: A new frontier for world models
+   Points: 1094
+   Comments: 395
+   URL: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
+
+3. Spotting base64 encoded JSON, certificates, and private keys
+   Points: 214
+   Comments: 96
+   URL: https://ergaster.org/til/base64-encoded-json/
+
+4. Create personal illustrated storybooks in the Gemini app
+   Points: 66
+   Comments: 24
+   URL: https://blog.google/products/gemini/storybooks/
+
+5. Ollama Turbo
+   Points: 232
+   Comments: 142
+   URL: https://ollama.com/turbo
+
+6. Consider using Zstandard and/or LZ4 instead of Deflate
+   Points: 121
+   Comments: 69
+   URL: https://github.com/w3c/png/issues/39
+
+7. Claude Opus 4.1
+   Points: 630
+   Comments: 233
+   URL: https://www.anthropic.com/news/claude-opus-4-1
+
+8. Things that helped me get out of the AI 10x engineer imposter syndrome
+   Points: 688
+   Comments: 530
+   URL: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/
+
+9. What's wrong with the JSON gem API?
+   Points: 35
+   Comments: 8
+   URL: https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html
+
+10. Scientific fraud has become an 'industry,' analysis finds
+   Points: 266
+   Comments: 228
+   URL: https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds
+
+11. The First Widespread Cure for HIV Could Be in Children
+   Points: 56
+   Comments: 11
+   URL: https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/
+
+12. Ask HN: Have you ever regretted open-sourcing something?
+   Points: 101
+   Comments: 142
+   URL: https://news.ycombinator.com/item?id=44766771
+
+13. uBlock Origin Lite now available for Safari
+   Points: 960
+   Comments: 378
+   URL: https://apps.apple.com/app/ublock-origin-lite/id6745342698
+
+14. Kyber (YC W23) is hiring enterprise account executives
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae
+
+15. Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases
+   Points: 31
+   Comments: 33
+   URL: https://github.com/stagewise-io/stagewise
+
+16. Quantum machine learning via vector embeddings
+   Points: 7
+   Comments: 0
+   URL: https://arxiv.org/abs/2508.00024
+
+17. Build Your Own Lisp
+   Points: 216
+   Comments: 58
+   URL: https://www.buildyourownlisp.com/
+
+18. US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief
+   Points: 281
+   Comments: 332
+   URL: https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html
+
+19. Under the Hood of AFD.sys Part 1: Investigating Undocumented Interfaces
+   Points: 24
+   Comments: 5
+   URL: https://leftarcode.com/posts/afd-reverse-engineering-part1/
+
+20. Los Alamos is capturing images of explosions at 7 millionths of a second
+   Points: 103
+   Comments: 85
+   URL: https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging
+
