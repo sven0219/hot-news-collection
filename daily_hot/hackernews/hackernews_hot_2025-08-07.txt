@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-07
+==================================================
+
+1. Claude Code IDE integration for Emacs
+   Points: 540
+   Comments: 176
+   URL: https://github.com/manzaltu/claude-code-ide.el
+
+2. Project Hyperion: Interstellar ship design competition
+   Points: 119
+   Comments: 103
+   URL: https://www.projecthyperion.org
+
+3. Litestar is worth a look
+   Points: 154
+   Comments: 43
+   URL: https://www.b-list.org/weblog/2025/aug/06/litestar/
+
+4. Rules by Which a Great Empire May Be Reduced to a Small One
+   Points: 11
+   Comments: 0
+   URL: https://founders.archives.gov/documents/Franklin/01-20-02-0213
+
+5. The Inkhaven Blogging Residency
+   Points: 8
+   Comments: 0
+   URL: https://www.inkhaven.blog/
+
+6. You know more Finnish than you think
+   Points: 32
+   Comments: 7
+   URL: https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/
+
+7. A fast, growable array with stable pointers in C
+   Points: 121
+   Comments: 51
+   URL: https://danielchasehooper.com/posts/segment_array/
+
+8. Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work
+   Points: 200
+   Comments: 27
+   URL: https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/
+
+9. We'd be better off with 9-bit bytes
+   Points: 73
+   Comments: 137
+   URL: https://pavpanchekha.com/blog/9bit.html
+
+10. 301party.com: Intentionally open redirect
+   Points: 52
+   Comments: 12
+   URL: https://301party.com/
+
+11. The Bluesky Dictionary
+   Points: 76
+   Comments: 27
+   URL: https://www.avibagla.com/blueskydictionary/
+
+12. Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model
+   Points: 761
+   Comments: 322
+   URL: https://github.com/KittenML/KittenTTS
+
+13. Multics
+   Points: 87
+   Comments: 20
+   URL: https://www.multicians.org/multics.html
+
+14. Jules, our asynchronous coding agent
+   Points: 209
+   Comments: 149
+   URL: https://blog.google/technology/google-labs/jules-now-available/
+
+15. A Man Who Beat IBM
+   Points: 24
+   Comments: 9
+   URL: https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm
+
+16. Comptime.ts: compile-time expressions for TypeScript
+   Points: 87
+   Comments: 11
+   URL: https://comptime.js.org/
+
+17. Git-fetch-file – Sync files from other repos with commit tracking and safety
+   Points: 17
+   Comments: 4
+   URL: https://github.com/andrewmcwattersandco/git-fetch-file
+
+18. Breaking the sorting barrier for directed single-source shortest paths
+   Points: 132
+   Comments: 41
+   URL: https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/
+
+19. Zig Error Patterns
+   Points: 116
+   Comments: 30
+   URL: https://glfmn.io/posts/zig-error-patterns/
+
+20. Out-Fibbing CPython with the Plush Interpreter
+   Points: 9
+   Comments: 0
+   URL: https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/
+
