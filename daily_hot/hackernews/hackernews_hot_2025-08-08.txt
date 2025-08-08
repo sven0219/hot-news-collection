@@ -1,0 +1,98 @@
+Hacker News Top 20 Stories - 2025-08-08
+==================================================
+
+1. Vibechart
+   Points: 508
+   Comments: 106
+   URL: https://www.vibechart.net/
+
+2. GPT-5
+   Points: 1358
+   Comments: 1646
+   URL: https://openai.com/gpt-5/
+
+3. Cursed Knowledge
+   Points: 76
+   Comments: 9
+   URL: https://immich.app/cursed-knowledge/
+
+4. Historical Tech Tree
+   Points: 263
+   Comments: 55
+   URL: https://www.historicaltechtree.com/
+
+5. Flipper Zero DarkWeb Firmware Bypasses Rolling Code Security
+   Points: 117
+   Comments: 48
+   URL: https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
+
+6. GPT-5: Key characteristics, pricing and system card
+   Points: 418
+   Comments: 175
+   URL: https://simonwillison.net/2025/Aug/7/gpt-5/
+
+7. OpenAI's new open-source model is basically Phi-5
+   Points: 150
+   Comments: 53
+   URL: https://www.seangoedecke.com/gpt-oss-is-phi-5/
+
+8. GPT-5 for Developers
+   Points: 332
+   Comments: 177
+   URL: https://openai.com/index/introducing-gpt-5-for-developers
+
+9. Benchmark Framework Desktop Mainboard and 4-node cluster
+   Points: 131
+   Comments: 34
+   URL: https://github.com/geerlingguy/ollama-benchmark/issues/21
+
+10. Building Bluesky comments for my blog
+   Points: 260
+   Comments: 105
+   URL: https://natalie.sh/posts/bluesky-comments/
+
+11. Windows XP Professional
+   Points: 285
+   Comments: 170
+   URL: https://win32.run/
+
+12. Achieving 10,000x training data reduction with high-fidelity labels
+   Points: 40
+   Comments: 2
+   URL: https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/
+
+13. Cursor CLI
+   Points: 149
+   Comments: 80
+   URL: https://cursor.com/cli
+
+14. Hubble catches sharpest image yet of 3I/ATLAS
+   Points: 6
+   Comments: 1
+   URL: https://www.skyatnightmagazine.com/news/hubble-3i-atlas-july-2025
+
+15. Infinite Pixels
+   Points: 211
+   Comments: 48
+   URL: https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/
+
+16. How to sell if your user is not the buyer
+   Points: 145
+   Comments: 68
+   URL: https://writings.founderlabs.io/p/how-to-sell-if-your-user-is-not-the
+
+17. Open music foundation models for full-song generation
+   Points: 65
+   Comments: 31
+   URL: https://map-yue.github.io/
+
+18. How AI conquered the US economy: A visual FAQ
+   Points: 167
+   Comments: 147
+   URL: https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a
+
+19. Touch Mapper – open-source 3D printed tactile maps for the visually impaired
+   Points: 10
+   Comments: 0
+   URL: https://touch-mapper.org
+
