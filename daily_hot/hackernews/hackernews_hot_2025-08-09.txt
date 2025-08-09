@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-09
+==================================================
+
+1. I want everything local – Building my offline AI workspace
+   Points: 422
+   Comments: 129
+   URL: https://instavm.io/blog/building-my-offline-ai-workspace
+
+2. Ultrathin business card runs a fluid simulation
+   Points: 847
+   Comments: 170
+   URL: https://github.com/Nicholas-L-Johnson/flip-card
+
+3. Little-known leguminous plant can increase beef production by 60% (2022)
+   Points: 29
+   Comments: 3
+   URL: https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60
+
+4. Tor: How a military project became a lifeline for privacy
+   Points: 232
+   Comments: 124
+   URL: https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/
+
+5. The Desperate Struggle to Squeeze Aid into a Starving Gaz
+   Points: 3
+   Comments: 0
+   URL: https://share.google/lwSKW8yEyTcCMaDrs
+
+6. Jim Lovell, Apollo 13 commander, has died
+   Points: 347
+   Comments: 67
+   URL: https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/
+
+7. Efrit: A native elisp coding agent running in Emacs
+   Points: 77
+   Comments: 13
+   URL: https://github.com/steveyegge/efrit
+
+8. Hacking Diffusion into Qwen3 for the Arc Challenge
+   Points: 35
+   Comments: 1
+   URL: https://www.matthewnewton.com/blog/arc-challenge-diffusion
+
+9. Unmasking the Sea Star Killer
+   Points: 22
+   Comments: 5
+   URL: https://www.biographic.com/unmasking-the-sea-star-killer/
+
+10. Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?
+   Points: 254
+   Comments: 170
+   URL: https://news.ycombinator.com/item?id=44840728
+
+11. How we replaced Elasticsearch and MongoDB with Rust and RocksDB
+   Points: 181
+   Comments: 47
+   URL: https://radar.com/blog/high-performance-geocoding-in-rust
+
+12. The surprise deprecation of GPT-4o for ChatGPT consumers
+   Points: 271
+   Comments: 241
+   URL: https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/
+
+13. Build durable workflows with Postgres
+   Points: 85
+   Comments: 35
+   URL: https://www.dbos.dev/blog/why-postgres-durable-execution
+
+14. Astronomy Photographer of the Year 2025 shortlist
+   Points: 156
+   Comments: 24
+   URL: https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist
+
+15. Getting good results from Claude Code
+   Points: 224
+   Comments: 100
+   URL: https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/
+
+16. Fire hazard of WHY2025 badge due to 18650 Li-Ion cells
+   Points: 70
+   Comments: 70
+   URL: https://wiki.why2025.org/Badge/Fire_hazard
+
+17. Overengineering my homelab so I don't pay cloud providers
+   Points: 194
+   Comments: 162
+   URL: https://ergaster.org/posts/2025/08/04-overegineering-homelab/
+
+18. Poltergeist: File watcher with auto-rebuild for any language or build system
+   Points: 15
+   Comments: 4
+   URL: https://github.com/steipete/poltergeist
+
+19. A robust, open-source framework for Spiking Neural Networks on low-end FPGAs
+   Points: 37
+   Comments: 1
+   URL: https://arxiv.org/abs/2507.07284
+
+20. Window Activation
+   Points: 172
+   Comments: 94
+   URL: https://blog.broulik.de/2025/08/on-window-activation/
+
