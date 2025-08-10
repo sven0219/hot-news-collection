@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-10
+==================================================
+
+1. GPT-5: Overdue, overhyped and underwhelming. And that's not the worst of it
+   Points: 119
+   Comments: 70
+   URL: https://garymarcus.substack.com/p/gpt-5-overdue-overhyped-and-underwhelming
+
+2. How I code with AI on a budget/free
+   Points: 44
+   Comments: 14
+   URL: https://wuu73.org/blog/aiguide1.html
+
+3. Abusing Entra OAuth for fun and access to internal Microsoft applications
+   Points: 68
+   Comments: 13
+   URL: https://research.eye.security/consent-and-compromise/
+
+4. Show HN: The current sky at your approximate location, as a CSS gradient
+   Points: 543
+   Comments: 111
+   URL: https://sky.dlazaro.ca
+
+5. My Lethal Trifecta talk at the Bay Area AI Security Meetup
+   Points: 261
+   Comments: 83
+   URL: https://simonwillison.net/2025/Aug/9/bay-area-ai/
+
+6. GPTs and Feeling Left Behind
+   Points: 22
+   Comments: 7
+   URL: https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/
+
+7. A CT scanner reveals surprises inside the 386 processor's ceramic package
+   Points: 157
+   Comments: 44
+   URL: https://www.righto.com/2025/08/intel-386-package-ct-scan.html
+
+8. Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API
+   Points: 75
+   Comments: 19
+   URL: https://ch.at/
+
+9. R0ML's Ratio
+   Points: 35
+   Comments: 3
+   URL: https://blog.glyph.im/2025/08/r0mls-ratio.html
+
+10. OpenFreeMap survived 100k requests per second
+   Points: 358
+   Comments: 73
+   URL: https://blog.hyperknot.com/p/openfreemap-survived-100000-requests
+
+11. Debian 13 "Trixie"
+   Points: 506
+   Comments: 189
+   URL: https://www.debian.org/News/2025/20250809
+
+12. People returned to live in Pompeii's ruins, archaeologists say
+   Points: 30
+   Comments: 5
+   URL: https://www.bbc.com/news/articles/c62wx23y2v1o
+
+13. Who got arrested in the raid on the XSS crime forum?
+   Points: 50
+   Comments: 1
+   URL: https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/
+
+14. Just Buy Nothing: A fake online store to combat shopping addiction
+   Points: 5
+   Comments: 0
+   URL: https://justbuynothing.com/
+
+15. Don't "let it crash", let it heal
+   Points: 5
+   Comments: 0
+   URL: https://www.zachdaniel.dev/p/elixir-misconceptions-1
+
+16. Quickshell – building blocks for your desktop
+   Points: 240
+   Comments: 31
+   URL: https://quickshell.org/
+
+17. Long-term exposure to outdoor air pollution linked to increased risk of dementia
+   Points: 241
+   Comments: 78
+   URL: https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia
+
+18. A Simple CPU on the Game of Life (2021)
+   Points: 30
+   Comments: 4
+   URL: https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html
+
+19. An AI-first program synthesis framework built around a new programming language
+   Points: 58
+   Comments: 3
+   URL: https://queue.acm.org/detail.cfm?id=3746223
+
+20. How I use Tailscale
+   Points: 163
+   Comments: 32
+   URL: https://chameth.com/how-i-use-tailscale/
+
