@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-11
+==================================================
+
+1. Compiling a Lisp: Lambda Lifting
+   Points: 47
+   Comments: 4
+   URL: https://bernsteinbear.com/blog/compiling-a-lisp-12/
+
+2. Try and
+   Points: 410
+   Comments: 213
+   URL: https://ygdp.yale.edu/phenomena/try-and
+
+3. GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2
+   Points: 289
+   Comments: 52
+   URL: https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the
+
+4. 1910: The year the modern world lost its mind
+   Points: 171
+   Comments: 131
+   URL: https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost
+
+5. Show HN: Bolt – A super-fast, statically-typed scripting language written in C
+   Points: 133
+   Comments: 46
+   URL: https://github.com/Beariish/bolt
+
+6. Fight Chat Control
+   Points: 773
+   Comments: 219
+   URL: https://fightchatcontrol.eu/
+
+7. Show HN: Engineering.fyi – Search across tech engineering blogs in one place
+   Points: 275
+   Comments: 72
+   URL: https://engineering.fyi/
+
+8. Diffusion language models are super data learners
+   Points: 139
+   Comments: 10
+   URL: https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac
+
+9. PHP compile time generics: yay or nay?
+   Points: 44
+   Comments: 12
+   URL: https://thephp.foundation/blog/2025/08/05/compile-generics/
+
+10. Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”
+   Points: 95
+   Comments: 4
+   URL: https://mrwint.github.io/winter/writeup/writeup2.html
+
+11. One Million Screenshots
+   Points: 112
+   Comments: 43
+   URL: https://onemillionscreenshots.com/?q=random
+
+12. Reflections on Soviet Amateur Photography
+   Points: 18
+   Comments: 2
+   URL: https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/
+
+13. Battery charge limiter for Apple Silicon MacBook devices
+   Points: 35
+   Comments: 25
+   URL: https://github.com/actuallymentor/battery
+
+14. Booting 5000 Erlangs on Ampere One 192-core
+   Points: 174
+   Comments: 29
+   URL: https://underjord.io/booting-5000-erlangs-on-ampere-one.html
+
+15. Squashing my dumb bugs and why I log build IDs
+   Points: 4
+   Comments: 0
+   URL: https://rachelbythebay.com/w/2025/08/03/scope/
+
+16. Writing simple tab-completions for Bash and Zsh
+   Points: 215
+   Comments: 69
+   URL: https://mill-build.org/blog/14-bash-zsh-completion.html
+
+17. Events
+   Points: 30
+   Comments: 9
+   URL: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events
+
+18. How I code with AI on a budget/free
+   Points: 558
+   Comments: 185
+   URL: https://wuu73.org/blog/aiguide1.html
+
+19. Abogen – Generate audiobooks from EPUBs, PDFs and text
+   Points: 274
+   Comments: 65
+   URL: https://github.com/denizsafak/abogen
+
+20. Conversations remotely detected from cell phone vibrations, researchers report
+   Points: 26
+   Comments: 3
+   URL: https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report
+
