@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-12
+==================================================
+
+1. Wikipedia loses challenge against Online Safety Act
+   Points: 523
+   Comments: 447
+   URL: https://www.bbc.com/news/articles/cjr11qqvvwlo
+
+2. I tried every todo app and ended up with a .txt file
+   Points: 765
+   Comments: 498
+   URL: https://www.al3rez.com/todo-txt-journey
+
+3. Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python
+   Points: 27
+   Comments: 6
+   URL: https://github.com/danterolle/tilf
+
+4. Show HN: Play Pokémon to unlock your Wayland session
+   Points: 57
+   Comments: 21
+   URL: https://github.com/AdoPi/wlgblock
+
+5. OpenSSH Post-Quantum Cryptography
+   Points: 340
+   Comments: 93
+   URL: https://www.openssh.com/pq.html
+
+6. Neki – sharded Postgres by the team behind Vitess
+   Points: 140
+   Comments: 18
+   URL: https://planetscale.com/blog/announcing-neki
+
+7. Ollama and gguf
+   Points: 80
+   Comments: 37
+   URL: https://github.com/ollama/ollama/issues/11714
+
+8. How to Teach Your Kids to Play Poker: Start with One Card
+   Points: 22
+   Comments: 25
+   URL: https://www.bloomberg.com/news/articles/2025-08-08/how-to-teach-your-kids-poker-with-one-card-at-age-four
+
+9. Claude Code is all you need
+   Points: 462
+   Comments: 262
+   URL: https://dwyer.co.za/static/claude-code-is-all-you-need.html
+
+10. Byte Buddy is a code generation and manipulation library for Java
+   Points: 70
+   Comments: 20
+   URL: https://bytebuddy.net/
+
+11. 36B solar mass black hole at centre of the Cosmic Horseshoe gravitational lens
+   Points: 106
+   Comments: 72
+   URL: https://academic.oup.com/mnras/article/541/4/2853/8213862?login=false
+
+12. Launch HN: Halluminate (YC S25) – Simulating the internet to train computer use
+   Points: 44
+   Comments: 34
+   URL: https://news.ycombinator.com/item?id=44865290
+
+13. The Joy of Mixing Custom Elements, Web Components, and Markdown
+   Points: 71
+   Comments: 29
+   URL: https://deanebarker.net/tech/blog/custom-elements-markdown/
+
+14. The History of Windows XP
+   Points: 11
+   Comments: 3
+   URL: https://www.abortretry.fail/p/the-history-of-windows-xp
+
+15. GitHub is no longer independent at Microsoft after CEO resignation
+   Points: 896
+   Comments: 670
+   URL: https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
+
+16. The demographic future of humanity: facts and consequences [pdf]
+   Points: 64
+   Comments: 156
+   URL: https://www.sas.upenn.edu/~jesusfv/Slides_London.pdf
+
+17. Mouthguards that flash red with head impacts to be used at Rugby World Cup
+   Points: 22
+   Comments: 7
+   URL: https://www.rnz.co.nz/news/sport/569695/mouthguards-that-flash-red-with-head-impacts-to-be-used-at-rugby-world-cup
+
+18. Japan's largest paper, Yomiuri Shimbun, sues Perplexity for copyright violations
+   Points: 12
+   Comments: 2
+   URL: https://www.niemanlab.org/2025/08/japans-largest-newspaper-yomiuri-shimbun-sues-perplexity-for-copyright-violations/
+
+19. White Mountain Direttissima
+   Points: 37
+   Comments: 21
+   URL: https://whitemountainski.co/pages/white-mountain-direttissima
+
+20. Pricing Pages – A Curated Gallery of Pricing Page Designs
+   Points: 183
+   Comments: 54
+   URL: https://pricingpages.design/
+
