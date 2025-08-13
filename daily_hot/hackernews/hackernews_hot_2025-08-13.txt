@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-13
+==================================================
+
+1. Claude Sonnet 4 now supports 1M tokens of context
+   Points: 859
+   Comments: 468
+   URL: https://www.anthropic.com/news/1m-context
+
+2. Search all text in New York City
+   Points: 21
+   Comments: 5
+   URL: https://www.alltext.nyc/
+
+3. Ashet Home Computer
+   Points: 177
+   Comments: 37
+   URL: https://ashet.computer/
+
+4. Scapegoating the Algorithm
+   Points: 19
+   Comments: 2
+   URL: https://asteriskmag.com/issues/11/scapegoating-the-algorithm
+
+5. Journaling using Nix, Vim and coreutils
+   Points: 70
+   Comments: 21
+   URL: https://tangled.sh/@oppi.li/journal
+
+6. Show HN: Building a web search engine from scratch with 3B neural embeddings
+   Points: 311
+   Comments: 54
+   URL: https://blog.wilsonl.in/search-engine/
+
+7. A gentle introduction to anchor positioning
+   Points: 32
+   Comments: 8
+   URL: https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/
+
+8. Training language models to be warm and empathetic makes them less reliable
+   Points: 198
+   Comments: 198
+   URL: https://arxiv.org/abs/2507.21919
+
+9. Show HN: Omnara – Run Claude Code from anywhere
+   Points: 199
+   Comments: 92
+   URL: https://github.com/omnara-ai/omnara
+
+10. Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²
+   Points: 175
+   Comments: 78
+   URL: https://www.sdo.group/study
+
+11. Blender is Native on Windows 11 on Arm
+   Points: 106
+   Comments: 38
+   URL: https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm
+
+12. The Missing Protocol: Let Me Know
+   Points: 71
+   Comments: 48
+   URL: https://deanebarker.net/tech/blog/let-me-know/
+
+13. WHY2025: How to become your own ISP [video]
+   Points: 83
+   Comments: 12
+   URL: https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp
+
+14. Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics
+   Points: 59
+   Comments: 23
+   URL: https://news.ycombinator.com/item?id=44878257
+
+15. LLMs aren't world models
+   Points: 215
+   Comments: 104
+   URL: https://yosefk.com/blog/llms-arent-world-models.html
+
+16. Why are there so many rationalist cults?
+   Points: 371
+   Comments: 559
+   URL: https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults
+
+17. The Equality Delete Problem in Apache Iceberg
+   Points: 41
+   Comments: 21
+   URL: https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974
+
+18. Debian GNU/Hurd 2025 released
+   Points: 175
+   Comments: 90
+   URL: https://lists.debian.org/debian-hurd/2025/08/msg00038.html
+
+19. RISC-V single-board computer for less than 40 euros
+   Points: 123
+   Comments: 67
+   URL: https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html
+
+20. Dumb to managed switch conversion (2010)
+   Points: 31
+   Comments: 12
+   URL: https://spritesmods.com/?art=rtl8366sb&page=1
+
