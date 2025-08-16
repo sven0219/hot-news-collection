@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-16
+==================================================
+
+1. The future of large files in Git is Git
+   Points: 144
+   Comments: 64
+   URL: https://tylercipriani.com/blog/2025/08/15/git-lfs/
+
+2. Show HN: Edka – Kubernetes clusters on your own Hetzner account
+   Points: 260
+   Comments: 78
+   URL: https://edka.io
+
+3. I accidentally became PureGym’s unofficial Apple Wallet developer
+   Points: 107
+   Comments: 26
+   URL: https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/
+
+4. Occult books digitized and put online by Amsterdam’s Ritman Library
+   Points: 315
+   Comments: 119
+   URL: https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html
+
+5. A privacy VPN you can verify
+   Points: 19
+   Comments: 9
+   URL: https://vp.net/l/en-US/blog/Don%27t-Trust-Verify
+
+6. California unemployment rises to 5.5%, worst in the U.S. as tech falters
+   Points: 127
+   Comments: 78
+   URL: https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php
+
+7. Do Things That Don't Scale (2013)
+   Points: 248
+   Comments: 84
+   URL: https://paulgraham.com/ds.html
+
+8. Model intelligence is no longer the constraint for automation
+   Points: 25
+   Comments: 19
+   URL: https://latentintent.substack.com/p/model-intelligence-is-no-longer-the
+
+9. OpenBSD is so fast, I had to modify the program slightly to measure itself
+   Points: 107
+   Comments: 78
+   URL: https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux
+
+10. TextKit 2 – The Promised Land
+   Points: 35
+   Comments: 10
+   URL: https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/
+
+11. Launch HN: Embedder (YC S25) – Claude code for embedded software
+   Points: 75
+   Comments: 27
+   URL: https://news.ycombinator.com/item?id=44915206
+
+12. Claude Opus 4 and 4.1 can now end a rare subset of conversations
+   Points: 148
+   Comments: 197
+   URL: https://www.anthropic.com/research/end-subset-conversations
+
+13. ADHD drug treatment and risk of negative events and outcomes
+   Points: 150
+   Comments: 194
+   URL: https://www.bmj.com/content/390/bmj-2024-083658
+
+14. Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot
+   Points: 23
+   Comments: 0
+   URL: https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/
+
+15. A mind–reading brain implant that comes with password protection
+   Points: 23
+   Comments: 11
+   URL: https://www.nature.com/articles/d41586-025-02589-5
+
+16. Show HN: Prime Number Grid Visualizer
+   Points: 53
+   Comments: 31
+   URL: https://enda.sh/primegrid/
+
+17. Bullfrog in the Dungeon
+   Points: 87
+   Comments: 23
+   URL: https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/
+
+18. Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity
+   Points: 108
+   Comments: 51
+   URL: https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/
+
+19. Recto – A Truly 2D Language
+   Points: 94
+   Comments: 42
+   URL: https://masatohagiwara.net/recto.html
+
+20. Vaultwarden commit introduces SSO using OpenID Connect
+   Points: 146
+   Comments: 78
+   URL: https://github.com/dani-garcia/vaultwarden/pull/3899
+
