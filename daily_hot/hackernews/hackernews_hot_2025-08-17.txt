@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-17
+==================================================
+
+1. Dev Compass – Programming Philosophy Quiz
+   Points: 32
+   Comments: 21
+   URL: https://treeform.github.io/devcompas/
+
+2. Dyna – Logic Programming for Machine Learning
+   Points: 79
+   Comments: 6
+   URL: https://dyna.org/
+
+3. Visualising how close random GUIDs come to being the same
+   Points: 37
+   Comments: 8
+   URL: https://www.guidsmash.com
+
+4. The Raft Consensus Algorithm (2015)
+   Points: 92
+   Comments: 18
+   URL: https://raft.github.io/
+
+5. GDPR meant nothing: chat control ends privacy for the EU [video]
+   Points: 20
+   Comments: 1
+   URL: https://www.youtube.com/watch?v=3NyUgv6dpJc
+
+6. For Iris Murdoch, morality is about love, not duties and rules
+   Points: 19
+   Comments: 6
+   URL: https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules
+
+7. Dicing an Onion, the Mathematically Optimal Way
+   Points: 200
+   Comments: 79
+   URL: https://pudding.cool/2025/08/onions/
+
+8. Pfeilstorch
+   Points: 197
+   Comments: 54
+   URL: https://en.wikipedia.org/wiki/Pfeilstorch
+
+9. OpenAI Progress
+   Points: 149
+   Comments: 148
+   URL: https://progress.openai.com
+
+10. Office on HP-UX and Unix
+   Points: 78
+   Comments: 34
+   URL: https://www.openpa.net/hp-ux_office.html
+
+11. That 16B password story (a.k.a. "data troll")
+   Points: 35
+   Comments: 3
+   URL: https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/
+
+12. Do things that don't scale, and then don't scale
+   Points: 354
+   Comments: 146
+   URL: https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156
+
+13. Tversky Neural Networks
+   Points: 64
+   Comments: 8
+   URL: https://gonzoml.substack.com/p/tversky-neural-networks
+
+14. Show HN: Lue – Terminal eBook Reader with Text-to-Speech
+   Points: 60
+   Comments: 17
+   URL: https://github.com/superstarryeyes/lue
+
+15. A single lock of hair could rewrite what we know about Inca record-keeping
+   Points: 52
+   Comments: 17
+   URL: https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping
+
+16. A Lisp in 99LOC
+   Points: 38
+   Comments: 1
+   URL: https://github.com/Robert-van-Engelen/tinylisp
+
+17. Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi
+   Points: 18
+   Comments: 16
+   URL: http://unsafehttp.benren.au
+
+18. Traps to Developers
+   Points: 174
+   Comments: 67
+   URL: https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers
+
+19. Toothpaste made with keratin may protect and repair damaged teeth: study
+   Points: 309
+   Comments: 161
+   URL: https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth
+
+20. Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2
+   Points: 88
+   Comments: 5
+   URL: https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html
+
