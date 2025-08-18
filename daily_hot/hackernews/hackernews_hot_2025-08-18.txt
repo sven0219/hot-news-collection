@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-18
+==================================================
+
+1. Claudia – Desktop companion for Claude code
+   Points: 289
+   Comments: 149
+   URL: https://claudiacode.com/
+
+2. Llama-Scan: Convert PDFs to Text W Local LLMs
+   Points: 48
+   Comments: 29
+   URL: https://github.com/ngafar/llama-scan
+
+3. The Enterprise Experience
+   Points: 211
+   Comments: 60
+   URL: https://churchofturing.github.io/the-enterprise-experience.html
+
+4. LL3M: Large Language 3D Modelers
+   Points: 356
+   Comments: 155
+   URL: https://threedle.github.io/ll3m/
+
+5. Show HN: OverType – A Markdown WYSIWYG editor that's just a textarea
+   Points: 171
+   Comments: 47
+   URL: https://news.ycombinator.com/item?id=44932651
+
+6. Derivatives, Gradients, Jacobians and Hessians
+   Points: 182
+   Comments: 45
+   URL: https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/
+
+7. ArchiveTeam has finished archiving all goo.gl short links
+   Points: 271
+   Comments: 57
+   URL: https://tracker.archiveteam.org/goo-gl/
+
+8. It’s OK to block ads (2015)
+   Points: 44
+   Comments: 39
+   URL: https://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/
+
+9. Show HN: Doxx – Terminal .docx viewer inspired by Glow
+   Points: 49
+   Comments: 11
+   URL: https://github.com/bgreenwell/doxx
+
+10. AI vs. Professional Authors Results
+   Points: 24
+   Comments: 3
+   URL: http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html
+
+11. Modifying other people's software
+   Points: 8
+   Comments: 0
+   URL: https://natkr.com/2025-08-14-modifying-other-peoples-software/
+
+12. Show HN: NextDNS Adds "Bypass Age Verification"
+   Points: 221
+   Comments: 62
+   URL: https://news.ycombinator.com/item?id=44931824
+
+13. BBC Micro, ancestor to ARM
+   Points: 100
+   Comments: 82
+   URL: https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/
+
+14. Here be dragons: Preventing static damage, latchup, and metastability in the 386
+   Points: 60
+   Comments: 32
+   URL: http://www.righto.com/2025/08/static-latchup-metastability-386.html
+
+15. IQ Tests Results for AI
+   Points: 170
+   Comments: 272
+   URL: https://www.trackingai.org/home
+
+16. MS-DOS development resources
+   Points: 42
+   Comments: 3
+   URL: https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md
+
+17. HN Search isn't ingesting new data since Friday
+   Points: 157
+   Comments: 22
+   URL: https://github.com/algolia/hn-search/issues/248
+
+18. A Visual Exploration of Gaussian Processes (2019)
+   Points: 29
+   Comments: 0
+   URL: https://distill.pub/2019/visual-exploration-gaussian-processes/
+
+19. Carved stone mask  – Pre-pottery, Neolithic B period
+   Points: 38
+   Comments: 19
+   URL: https://www.imj.org.il/en/collections/334459-0
+
+20. Sunny days are warm: why LinkedIn rewards mediocrity
+   Points: 426
+   Comments: 359
+   URL: https://www.elliotcsmith.com/linkedin-toxic-mediocrity/
+
