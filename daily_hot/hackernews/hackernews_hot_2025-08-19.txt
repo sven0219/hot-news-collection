@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-19
+==================================================
+
+1. Croatian freediver held breath for 29 minutes
+   Points: 43
+   Comments: 3
+   URL: https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/
+
+2. XZ Utils Backdoor Still Lurking in Docker Images
+   Points: 26
+   Comments: 5
+   URL: https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images
+
+3. Show HN: Fractional jobs – part-time roles for engineers
+   Points: 131
+   Comments: 63
+   URL: https://www.fractionaljobs.io
+
+4. Shamelessness as a strategy (2019)
+   Points: 65
+   Comments: 15
+   URL: https://nadia.xyz/shameless
+
+5. Obsidian Bases
+   Points: 275
+   Comments: 89
+   URL: https://help.obsidian.md/bases
+
+6. X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls
+   Points: 23
+   Comments: 1
+   URL: https://www.popsci.com/technology/tibetan-prayer-scroll-scans/
+
+7. A minimal tensor processing unit (TPU), inspired by Google's TPU
+   Points: 71
+   Comments: 2
+   URL: https://github.com/tiny-tpu-v2/tiny-tpu
+
+8. Show HN: Whispering – Open-source, local-first dictation you can trust
+   Points: 253
+   Comments: 69
+   URL: https://github.com/epicenter-so/epicenter/tree/main/apps/whispering
+
+9. Show HN: We started building an AI dev tool but it turned into a Sims-style game
+   Points: 89
+   Comments: 58
+   URL: https://www.youtube.com/watch?v=sRPnX_f2V_c
+
+10. Left to Right Programming
+   Points: 191
+   Comments: 164
+   URL: https://graic.net/p/left-to-right-programming
+
+11. Counter-Strike: A billion-dollar game built in a dorm room
+   Points: 198
+   Comments: 172
+   URL: https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html
+
+12. Show HN: I built an app to block Shorts and Reels
+   Points: 466
+   Comments: 182
+   URL: https://scrollguard.app/
+
+13. Spice Data (YC S19) Is Hiring a Product Associate (New Grad)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad
+
+14. The Rising Returns to R&D: Ideas Are Not Getting Harder to Find
+   Points: 50
+   Comments: 6
+   URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5242171
+
+15. Show HN: I built a toy TPU that can do inference and training on the XOR problem
+   Points: 52
+   Comments: 11
+   URL: https://www.tinytpu.com
+
+16. FFmpeg Assembly Language Lessons
+   Points: 299
+   Comments: 89
+   URL: https://github.com/FFmpeg/asm-lessons
+
+17. Anna's Archive: An Update from the Team
+   Points: 773
+   Comments: 369
+   URL: https://annas-archive.org/blog/an-update-from-the-team.html
+
+18. An IRC-Enabled Lawn Mower
+   Points: 31
+   Comments: 4
+   URL: https://jotunheimr.idlerpg.net/users/jotun/lawnmower/
+
+19. Newgrounds: Flash Forward 2025
+   Points: 20
+   Comments: 4
+   URL: https://www.newgrounds.com/bbs/topic/1542140
+
+20. What learning react won't teach you: Image Formats
+   Points: 4
+   Comments: 0
+   URL: https://idiallo.com/blog/react-and-image-format
+
