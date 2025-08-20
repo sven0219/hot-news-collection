@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-20
+==================================================
+
+1. AGENTS.md – Open format for guiding coding agents
+   Points: 30
+   Comments: 17
+   URL: https://agents.md/
+
+2. How to Draw a Space Invader
+   Points: 70
+   Comments: 6
+   URL: https://muffinman.io/blog/invaders/
+
+3. Copilot broke audit logs, but Microsoft won't tell customers
+   Points: 44
+   Comments: 2
+   URL: https://pistachioapp.com/blog/copilot-broke-your-audit-log
+
+4. How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos
+   Points: 480
+   Comments: 161
+   URL: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
+
+5. Tiny microbe challenges the definition of cellular life
+   Points: 13
+   Comments: 0
+   URL: https://nautil.us/a-rogue-new-life-form-1232095/
+
+6. D2 (text to diagram tool) now supports ASCII renders
+   Points: 193
+   Comments: 30
+   URL: https://d2lang.com/blog/ascii/
+
+7. Drunken Bishop (2023)
+   Points: 29
+   Comments: 3
+   URL: https://re.factorcode.org/2023/08/drunken-bishop.html
+
+8. Emacs as your video-trimming tool
+   Points: 174
+   Comments: 93
+   URL: https://xenodium.com/emacs-as-your-video-trimming-tool
+
+9. CRDT: Text Buffer
+   Points: 54
+   Comments: 2
+   URL: https://madebyevan.com/algos/crdt-text-buffer/
+
+10. Without the futex, it's futile
+   Points: 226
+   Comments: 112
+   URL: https://h4x0r.org/futex/
+
+11. Candle Flame Oscillations as a Clock
+   Points: 238
+   Comments: 51
+   URL: https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/
+
+12. How Figma’s multiplayer technology works (2019)
+   Points: 104
+   Comments: 36
+   URL: https://www.figma.com/blog/how-figmas-multiplayer-technology-works/
+
+13. Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life
+   Points: 40
+   Comments: 19
+   URL: https://github.com/openai/openai-reflect
+
+14. AnduinOS
+   Points: 67
+   Comments: 100
+   URL: https://www.anduinos.com/
+
+15. Why Semantic Layers Matter (and how to build one with DuckDB)
+   Points: 81
+   Comments: 20
+   URL: https://motherduck.com/blog/semantic-layer-duckdb-tutorial/
+
+16. The forgotten meaning of "jerk"
+   Points: 78
+   Comments: 72
+   URL: https://languagehat.com/the-forgotten-meaning-of-jerk/
+
+17. The joy of recursion, immutable data, & pure functions: Making mazes with JS
+   Points: 45
+   Comments: 10
+   URL: https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/
+
+18. Custom telescope mount using harmonic drives and ESP32
+   Points: 259
+   Comments: 95
+   URL: https://www.svendewaerhert.com/blog/telescope-mount/
+
+19. Perfect Freehand – Draw perfect pressure-sensitive freehand lines
+   Points: 98
+   Comments: 8
+   URL: https://www.perfectfreehand.com/
+
+20. Fast Type-Aware Linting in Oxlint
+   Points: 9
+   Comments: 0
+   URL: https://oxc.rs/blog/2025-08-17-oxlint-type-aware
+
