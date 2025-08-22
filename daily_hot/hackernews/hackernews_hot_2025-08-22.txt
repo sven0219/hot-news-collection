@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-22
+==================================================
+
+1. From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]
+   Points: 36
+   Comments: 15
+   URL: https://www.fertrevino.com/docs/gpt5_medhelm.pdf
+
+2. Uv format: Code Formatting Comes to uv (experimentally)
+   Points: 112
+   Comments: 79
+   URL: https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/
+
+3. Crimes with Python's Pattern Matching (2022)
+   Points: 104
+   Comments: 38
+   URL: https://www.hillelwayne.com/post/python-abc/
+
+4. Happy 0b100000th Birthday, Debian
+   Points: 9
+   Comments: 0
+   URL: https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html
+
+5. An interactive guide to SVG paths
+   Points: 187
+   Comments: 20
+   URL: https://www.joshwcomeau.com/svg/interactive-guide-to-paths/
+
+6. Elegant mathematics bending the future of design
+   Points: 35
+   Comments: 0
+   URL: https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/
+
+7. Show HN: Changefly ID + Anonymized Identity and Age Verification
+   Points: 9
+   Comments: 2
+   URL: https://www.changefly.com/blog/2025/08/anonymized-identity-and-age-verification-a-new-era-of-privacy-for-changefly-id
+
+8. AI tooling must be disclosed for contributions
+   Points: 490
+   Comments: 255
+   URL: https://github.com/ghostty-org/ghostty/pull/8289
+
+9. DeepSeek-v3.1 Release
+   Points: 262
+   Comments: 59
+   URL: https://api-docs.deepseek.com/news/news250821
+
+10. Beyond sensor data: Foundation models of behavioral data from wearables
+   Points: 189
+   Comments: 40
+   URL: https://arxiv.org/abs/2507.00191
+
+11. My other email client is a daemon
+   Points: 85
+   Comments: 17
+   URL: https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/
+
+12. Show HN: Splice – CAD for Cable Harnesses and Electrical Assemblies
+   Points: 21
+   Comments: 4
+   URL: https://splice-cad.com
+
+13. Weaponizing image scaling against production AI systems
+   Points: 311
+   Comments: 83
+   URL: https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/
+
+14. Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer
+
+15. Miles from the ocean, there's diving beneath the streets of Budapest
+   Points: 97
+   Comments: 13
+   URL: https://www.cnn.com/2025/08/18/travel/budapest-diving-molnar-janos-cave
+
+16. How well does the money laundering control system work?
+   Points: 175
+   Comments: 174
+   URL: https://www.journals.uchicago.edu/doi/10.1086/735665
+
+17. Beyond the Logo: How We're Weaving Full Images Inside QR Codes
+   Points: 36
+   Comments: 12
+   URL: https://blog.nitroqr.com/beyond-the-logo-how-were-weaving-full-images-inside-qr-codes
+
+18. The Onion Brought Back Its Print Edition. The Gamble Is Paying Off
+   Points: 59
+   Comments: 10
+   URL: https://www.wsj.com/business/media/the-onion-print-subscribers-6c24649c
+
+19. Philosophical Thoughts on Kolmogorov-Arnold Networks (2024)
+   Points: 8
+   Comments: 0
+   URL: https://kindxiaoming.github.io/blog/2024/kolmogorov-arnold-networks/
+
+20. Using Podman, Compose and BuildKit
+   Points: 241
+   Comments: 79
+   URL: https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/
+
