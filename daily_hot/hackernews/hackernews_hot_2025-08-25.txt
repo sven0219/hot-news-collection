@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-25
+==================================================
+
+1. Ghrc.io appears to be malicious
+   Points: 142
+   Comments: 20
+   URL: https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/
+
+2. Vanguard hits new 'Bans-Per-Second' record
+   Points: 27
+   Comments: 17
+   URL: https://playvalorant.com/en-us/news/dev/vanguard-hits-new-bans-per-second-record/
+
+3. Everything I know about good API design
+   Points: 145
+   Comments: 47
+   URL: https://www.seangoedecke.com/good-api-design/
+
+4. Starship's Tenth Flight Test
+   Points: 112
+   Comments: 165
+   URL: https://www.spacex.com/launches/starship-flight-10
+
+5. The two versions of Parquet
+   Points: 107
+   Comments: 25
+   URL: https://www.jeronimo.dev/the-two-versions-of-parquet/
+
+6. Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye
+   Points: 13
+   Comments: 1
+   URL: https://dseltzer.gitlab.io/sping/docs/
+
+7. A brilliant and nearby one-off fast radio burst localized to 13pc precision
+   Points: 42
+   Comments: 4
+   URL: https://iopscience.iop.org/article/10.3847/2041-8213/adf62f
+
+8. Making games in Go: 3 months without LLMs vs. 3 days with LLMs
+   Points: 237
+   Comments: 173
+   URL: https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/
+
+9. My ZIP isn't your ZIP: Identifying and exploiting semantic gaps between parsers
+   Points: 25
+   Comments: 11
+   URL: https://www.usenix.org/conference/usenixsecurity25/presentation/you
+
+10. Halt and Catch Fire Syllabus (2021)
+   Points: 92
+   Comments: 20
+   URL: https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/
+
+11. Trees on city streets cope with drought by drinking from leaky pipes
+   Points: 143
+   Comments: 73
+   URL: https://www.newscientist.com/article/2487804-trees-on-city-streets-cope-with-drought-by-drinking-from-leaky-pipes/
+
+12. Iterative DFS with stack-based graph traversal (2024)
+   Points: 18
+   Comments: 0
+   URL: https://dwf.dev/blog/2024/09/23/2024/dfs-iterative-stack-based
+
+13. Cloudflare incident on August 21, 2025
+   Points: 124
+   Comments: 26
+   URL: https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/
+
+14. Burner Phone 101
+   Points: 256
+   Comments: 96
+   URL: https://rebeccawilliams.info/burner-phone-101/
+
+15. Show HN: Clearcam – Add AI object detection to your IP CCTV cameras
+   Points: 160
+   Comments: 43
+   URL: https://github.com/roryclear/clearcam
+
+16. NASA's Juno mission leaves legacy of science at Jupiter
+   Points: 57
+   Comments: 21
+   URL: https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/
+
+17. Comet AI browser can get prompt injected from any site, drain your bank account
+   Points: 458
+   Comments: 165
+   URL: https://twitter.com/zack_overflow/status/1959308058200551721
+
+18. Materialized views are obviously useful
+   Points: 110
+   Comments: 58
+   URL: https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful
+
+19. GNU cross-tools: musl-cross 313.3M
+   Points: 7
+   Comments: 1
+   URL: https://github.com/cross-tools/musl-cross
+
+20. SQLite (with WAL) doesn't do `fsync` on each commit under default settings
+   Points: 96
+   Comments: 67
+   URL: https://avi.im/blag/2025/sqlite-fsync/
+
