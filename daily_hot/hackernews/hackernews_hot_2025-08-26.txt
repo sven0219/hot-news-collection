@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-26
+==================================================
+
+1. Google to require developer verification to install and sideload Android apps
+   Points: 818
+   Comments: 641
+   URL: https://9to5google.com/2025/08/25/android-apps-developer-verification/
+
+2. Google's Liquid Cooling
+   Points: 229
+   Comments: 104
+   URL: https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips
+
+3. Exploring the tragedy of the Counter-Strike 2 server browser
+   Points: 38
+   Comments: 14
+   URL: https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/
+
+4. Show HN: Base, an SQLite database editor for macOS
+   Points: 492
+   Comments: 134
+   URL: https://menial.co.uk/base/
+
+5. Social media's next evolution: decentralized, open-source, and scalable
+   Points: 82
+   Comments: 60
+   URL: https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of
+
+6. The Annotated Transformer
+   Points: 37
+   Comments: 1
+   URL: https://nlp.seas.harvard.edu/annotated-transformer/
+
+7. Study finds gaps in evidence for air-cleaning technologies to prevent infections
+   Points: 47
+   Comments: 33
+   URL: https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections
+
+8. A visual introduction to big O notation
+   Points: 313
+   Comments: 112
+   URL: https://samwho.dev/big-o/
+
+9. MAID in Canada
+   Points: 3
+   Comments: 0
+   URL: https://nathansnelgrove.com/2025/08/maid-in-canada
+
+10. macOS 26 Tahoe's Dead Canary Utility App Icons
+   Points: 25
+   Comments: 2
+   URL: https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons
+
+11. Turning a Decommissioned iPhone into a UniFi Protect Camera
+   Points: 50
+   Comments: 19
+   URL: https://www.caseyliss.com/2025/8/15/a-rube-goldberg-camera
+
+12. How RubyGems.org protects OSS infrastructure
+   Points: 70
+   Comments: 13
+   URL: https://blog.rubygems.org/2025/08/25/rubygems-security-response.html
+
+13. Reverse Engineering All the Raspberry Pis
+   Points: 26
+   Comments: 2
+   URL: https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis
+
+14. Launch HN: April (YC S25) – Voice AI to manage your email and calendar
+   Points: 72
+   Comments: 68
+   URL: https://news.ycombinator.com/item?id=45015230
+
+15. DeepWiki: Understand Any Codebase
+   Points: 84
+   Comments: 11
+   URL: https://www.aitidbits.ai/p/deepwiki
+
+16. Fenster: Most minimal cross-platform GUI library
+   Points: 46
+   Comments: 8
+   URL: https://github.com/zserge/fenster
+
+17. A small change to improve browsers for keyboard navigation
+   Points: 155
+   Comments: 45
+   URL: https://b.43z.one/2025-07-22/
+
+18. Show HN: Timep – A next-gen profiler and flamegraph-generator for bash code
+   Points: 15
+   Comments: 3
+   URL: https://github.com/jkool702/timep
+
+19. Building the mouse Logitech won't make
+   Points: 345
+   Comments: 249
+   URL: https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods
+
+20. WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi
+   Points: 4
+   Comments: 0
+   URL: https://github.com/MaliosDark/wifi-3d-fusion
+
