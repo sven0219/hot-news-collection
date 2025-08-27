@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-27
+==================================================
+
+1. Claude for Chrome
+   Points: 386
+   Comments: 250
+   URL: https://www.anthropic.com/news/claude-for-chrome
+
+2. Gemini 2.5 Flash Image
+   Points: 743
+   Comments: 363
+   URL: https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
+
+3. The "Wow!" signal was likely from extraterrestrial source, and more powerful
+   Points: 70
+   Comments: 45
+   URL: https://www.iflscience.com/the-wow-signal-was-likely-from-an-extraterrestrial-source-and-more-powerful-than-we-thought-80561
+
+4. GNU Artanis – A fast web application framework for Scheme
+   Points: 136
+   Comments: 25
+   URL: https://artanis.dev/index.html
+
+5. Rv, a new kind of Ruby management tool
+   Points: 146
+   Comments: 25
+   URL: https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/
+
+6. Starship's Tenth Flight Test
+   Points: 111
+   Comments: 47
+   URL: https://www.spacex.com/
+
+7. Chinese astronauts make rocket fuel and oxygen in space
+   Points: 100
+   Comments: 45
+   URL: https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis
+
+8. Undisclosed financial conflicts of interest in DSM-5 (2024)
+   Points: 148
+   Comments: 73
+   URL: https://www.bmj.com/content/384/bmj-2023-076902
+
+9. One universal antiviral to rule them all?
+   Points: 238
+   Comments: 99
+   URL: https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all
+
+10. Why do people keep writing about the imaginary compound Cr2Gr2Te6?
+   Points: 130
+   Comments: 67
+   URL: https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html
+
+11. Neuralink 'Participant 1' says his life has changed
+   Points: 177
+   Comments: 164
+   URL: https://fortune.com/2025/08/23/neuralink-participant-1-noland-arbaugh-18-months-post-surgery-life-changed-elon-musk/
+
+12. Japan has opened its first osmotic power plant
+   Points: 184
+   Comments: 48
+   URL: https://www.theguardian.com/world/2025/aug/25/japan-osmotic-power-plant-fukuoka
+
+13. Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment
+   Points: 355
+   Comments: 74
+   URL: https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific
+
+14. LiteLLM (YC W23) is hiring a back end engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer
+
+15. US Intel
+   Points: 335
+   Comments: 369
+   URL: https://stratechery.com/2025/u-s-intel/
+
+16. Cascata delle Marmore
+   Points: 25
+   Comments: 5
+   URL: https://en.wikipedia.org/wiki/Cascata_delle_Marmore
+
+17. Connecting M.2 drives to various things (and not doing so)
+   Points: 37
+   Comments: 5
+   URL: https://utcc.utoronto.ca/~cks/space/blog/tech/M2ToVariousThings
+
+18. Show HN: Async – Claude code and Linear and GitHub PRs in one opinionated tool
+   Points: 58
+   Comments: 19
+   URL: https://github.com/bkdevs/async-server
+
+19. Das Problem mit German Strings
+   Points: 16
+   Comments: 4
+   URL: https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings
+
+20. YouTube's sneaky AI 'experiment'
+   Points: 19
+   Comments: 8
+   URL: https://www.theatlantic.com/technology/archive/2025/08/youtube-shorts-ai-upscaling/683946/
+
