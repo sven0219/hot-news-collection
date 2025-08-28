@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-28
+==================================================
+
+1. Yamanot.es: A music box of train station melodies from the JR Yamanote Line
+   Points: 85
+   Comments: 25
+   URL: https://yamanot.es/
+
+2. Malicious versions of Nx and some supporting plugins were published
+   Points: 298
+   Comments: 357
+   URL: https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c
+
+3. Toyota is recycling old EV batteries to help power Mazda's production line
+   Points: 182
+   Comments: 96
+   URL: https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line
+
+4. Google has eliminated 35% of managers overseeing small teams in past year
+   Points: 205
+   Comments: 88
+   URL: https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html
+
+5. Launch HN: Bitrig (YC S25) – Build Swift apps on your iPhone
+   Points: 108
+   Comments: 77
+   URL: https://news.ycombinator.com/item?id=45041185
+
+6. Unexpected productivity boost of Rust
+   Points: 252
+   Comments: 267
+   URL: https://lubeno.dev/blog/rusts-productivity-curve
+
+7. Show HN: Meetup.com and eventribe alternative to small groups
+   Points: 39
+   Comments: 9
+   URL: https://github.com/polaroi8d/cactoide
+
+8. VIM Master
+   Points: 200
+   Comments: 72
+   URL: https://github.com/renzorlive/vimmaster
+
+9. Nvidia DGX Spark
+   Points: 9
+   Comments: 6
+   URL: https://www.nvidia.com/en-us/products/workstations/dgx-spark/
+
+10. The Therac-25 Incident (2021)
+   Points: 384
+   Comments: 229
+   URL: https://thedailywtf.com/articles/the-therac-25-incident
+
+11. FlightConnections
+   Points: 9
+   Comments: 1
+   URL: https://www.flightconnections.com/
+
+12. A failure of security systems at PayPal is causing concern for German banks
+   Points: 205
+   Comments: 140
+   URL: https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187
+
+13. Using information theory to solve Mastermind
+   Points: 79
+   Comments: 21
+   URL: https://www.goranssongaspar.com/mastermind
+
+14. Reverse-engineering the Globus INK, a Soviet spaceflight navigation computer (2023)
+   Points: 12
+   Comments: 1
+   URL: https://www.righto.com/2023/03/reverse-engineering-globus-ink-soviet.html
+
+15. Object-oriented design patterns in C and kernel development
+   Points: 187
+   Comments: 110
+   URL: https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev
+
+16. Implementing Forth in Go and C
+   Points: 118
+   Comments: 14
+   URL: https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/
+
+17. 3D printing a building with 756 windows
+   Points: 26
+   Comments: 1
+   URL: https://jero.zone/posts/cbr-building
+
+18. How to slow down a program and why it can be useful
+   Points: 126
+   Comments: 45
+   URL: https://stefan-marr.de/2025/08/how-to-slow-down-a-program/
+
+19. 'Rocks as big as cars' are flying down the Dolomites
+   Points: 86
+   Comments: 47
+   URL: https://www.bbc.com/future/article/20250819-why-italys-beloved-ancient-monolith-is-falling
+
+20. Efficient Array Programming
+   Points: 65
+   Comments: 10
+   URL: https://github.com/razetime/efficient-array-programming
+
