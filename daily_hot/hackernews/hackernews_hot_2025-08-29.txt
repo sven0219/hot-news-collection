@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-29
+==================================================
+
+1. Ask HN: The government of my country blocked VPN access. What should I use?
+   Points: 695
+   Comments: 398
+   URL: https://news.ycombinator.com/item?id=45054260
+
+2. Fuck up my site – Turn any website into beautiful chaos
+   Points: 129
+   Comments: 40
+   URL: https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true
+
+3. Python: The Documentary
+   Points: 24
+   Comments: 2
+   URL: https://lwn.net/Articles/1035537/
+
+4. My startup banking story (2023)
+   Points: 155
+   Comments: 65
+   URL: https://mitchellh.com/writing/my-startup-banking-story
+
+5. Some thoughts on LLMs and software development
+   Points: 173
+   Comments: 159
+   URL: https://martinfowler.com/articles/202508-ai-thoughts.html
+
+6. Uncertain<T>
+   Points: 236
+   Comments: 49
+   URL: https://nshipster.com/uncertainty/
+
+7. Death by PowerPoint: the slide that killed seven people
+   Points: 44
+   Comments: 8
+   URL: https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx
+
+8. Expert LSP the official language server implementation for Elixir
+   Points: 46
+   Comments: 8
+   URL: https://github.com/elixir-lang/expert
+
+9. RSS Is Awesome
+   Points: 58
+   Comments: 12
+   URL: https://evanverma.com/rss-is-awesome
+
+10. Building your own CLI coding agent with Pydantic-AI
+   Points: 102
+   Comments: 21
+   URL: https://martinfowler.com/articles/build-own-coding-agent.html
+
+11. TuneD is a system tuning service for Linux
+   Points: 27
+   Comments: 7
+   URL: https://tuned-project.org/
+
+12. Are OpenAI and Anthropic losing money on inference?
+   Points: 430
+   Comments: 414
+   URL: https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/
+
+13. AI adoption linked to 13% decline in jobs for young U.S. workers: study
+   Points: 166
+   Comments: 259
+   URL: https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html
+
+14. Rupert's Property
+   Points: 19
+   Comments: 1
+   URL: https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/
+
+15. Launch HN: Dedalus Labs (YC S25) – Vercel for Agents
+   Points: 43
+   Comments: 11
+   URL: https://news.ycombinator.com/item?id=45054040
+
+16. A forgotten medieval fruit with a vulgar name (2021)
+   Points: 65
+   Comments: 27
+   URL: https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot
+
+17. Bad Craziness
+   Points: 13
+   Comments: 2
+   URL: https://www.math.columbia.edu/~woit/wordpress/?p=15191
+
+18. You no longer need JavaScript: an overview of what makes modern CSS so awesome
+   Points: 82
+   Comments: 28
+   URL: https://lyra.horse/blog/2025/08/you-dont-need-js/
+
+19. Thrashing
+   Points: 12
+   Comments: 1
+   URL: https://exple.tive.org/blarg/2025/08/26/thrashing/
+
+20. Speed-coding for the 6502 – a simple example
+   Points: 18
+   Comments: 7
+   URL: https://www.colino.net/wordpress/en/archives/2025/08/28/speed-coding-for-the-6502-a-simple-example/
+
