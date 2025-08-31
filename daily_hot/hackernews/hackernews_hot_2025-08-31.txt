@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-08-31
+==================================================
+
+1. Cognitive load is what matters
+   Points: 769
+   Comments: 327
+   URL: https://github.com/zakirullin/cognitive-load
+
+2. Are we decentralized yet?
+   Points: 273
+   Comments: 143
+   URL: https://arewedecentralizedyet.online/
+
+3. The Rise of Hybrid PHP: Blending PHP with Go and Rust
+   Points: 96
+   Comments: 55
+   URL: https://yekdeveloper.com/p/4-the-rise-of-hybrid-php
+
+4. Why did books start being divided into chapters? A new history
+   Points: 39
+   Comments: 8
+   URL: https://sydneyreviewofbooks.com/reviews/just-a-little-longer
+
+5. AI models need a virtual machine
+   Points: 169
+   Comments: 95
+   URL: https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/
+
+6. A24's Empire of Auteurs
+   Points: 22
+   Comments: 2
+   URL: https://www.newyorker.com/magazine/2025/09/01/a24s-empire-of-auteurs
+
+7. Six months into tariffs, businesses have no idea how to price anything
+   Points: 132
+   Comments: 159
+   URL: https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8
+
+8. You Have to Feel It
+   Points: 139
+   Comments: 56
+   URL: https://mitchellh.com/writing/feel-it
+
+9. Agent Client Protocol (ACP)
+   Points: 214
+   Comments: 65
+   URL: https://agentclientprotocol.com/overview/introduction
+
+10. Hurricane category 6 could be introduced under new storm severity scale
+   Points: 17
+   Comments: 18
+   URL: https://www.livescience.com/planet-earth/hurricanes/now-is-the-time-hurricane-category-6-could-be-introduced-under-new-storm-severity-scale
+
+11. Affiliates flock to scam gambling machine
+   Points: 59
+   Comments: 8
+   URL: https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/
+
+12. Condor's Cuzco RISC-V Core at Hot Chips 2025
+   Points: 118
+   Comments: 36
+   URL: https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot
+
+13. Can cheaper lasers handle short distances?
+   Points: 26
+   Comments: 5
+   URL: https://semiengineering.com/can-cheaper-lasers-handle-short-distances/
+
+14. Pig lung transplanted into a human
+   Points: 80
+   Comments: 53
+   URL: https://www.sciencealert.com/pig-lung-transplanted-into-a-human-in-major-scientific-first
+
+15. The Default Trap: Why Anthropic's Data Policy Change Matters
+   Points: 34
+   Comments: 1
+   URL: https://natesnewsletter.substack.com/p/the-default-trap-why-anthropics-data
+
+16. Enrollment at trade schools is expected to grow 6.6% a year
+   Points: 29
+   Comments: 34
+   URL: https://finance.yahoo.com/news/ai-cant-install-an-hvac-system-why-gen-z-is-flocking-to-jobs-in-the-trades-171735856.html
+
+17. SQL Design Patterns
+   Points: 79
+   Comments: 18
+   URL: https://vadimtropashko.wordpress.com/%e2%80%9csql-design-patterns%e2%80%9d-book/about/
+
+18. Hardening Firefox – a checklist for improved browser privacy
+   Points: 124
+   Comments: 63
+   URL: https://andrewmarder.net/firefox/
+
+19. TreeStore: Endowing Your Data with Hierarchical Structure
+   Points: 6
+   Comments: 0
+   URL: https://www.blosc.org/posts/new-treestore-blosc2/
+
+20. Show HN: Hacker News em dash user leaderboard pre-ChatGPT
+   Points: 290
+   Comments: 231
+   URL: https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html
+
