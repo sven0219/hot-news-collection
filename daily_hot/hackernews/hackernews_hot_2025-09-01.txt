@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-01
+==================================================
+
+1. We should have the ability to run any code we want on hardware we own
+   Points: 96
+   Comments: 41
+   URL: https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
+
+2. Eternal Struggle
+   Points: 296
+   Comments: 77
+   URL: https://yoavg.github.io/eternal/
+
+3. “This telegram must be closely paraphrased before being communicated to anyone”
+   Points: 512
+   Comments: 102
+   URL: https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone
+
+4. Jujutsu for everyone
+   Points: 302
+   Comments: 207
+   URL: https://jj-for-everyone.github.io/
+
+5. Lewis and Clark marked their trail with laxatives
+   Points: 20
+   Comments: 5
+   URL: https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html
+
+6. When the sun will literally set on what's left of the British Empire
+   Points: 129
+   Comments: 183
+   URL: https://oikofuge.com/sun-sets-on-british-empire/
+
+7. Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows
+   Points: 69
+   Comments: 38
+   URL: https://news.ycombinator.com/item?id=45084759
+
+8. What to do with C++ modules?
+   Points: 77
+   Comments: 51
+   URL: https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html
+
+9. Pong Clock
+   Points: 39
+   Comments: 6
+   URL: https://bigjobby.com/pong/?v=2.0/
+
+10. Use One Big Server (2022)
+   Points: 117
+   Comments: 109
+   URL: https://specbranch.com/posts/one-big-server/
+
+11. A Linux version of the Procmon Sysinternals tool
+   Points: 8
+   Comments: 1
+   URL: https://github.com/microsoft/ProcMon-for-Linux
+
+12. Installing UEFI Firmware on ARM SBCs
+   Points: 62
+   Comments: 21
+   URL: https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/
+
+13. Why haven't quantum computers factored 21 yet?
+   Points: 226
+   Comments: 141
+   URL: https://algassert.com/post/2500
+
+14. Lunar soil machine developed to build bricks using sunlight
+   Points: 36
+   Comments: 18
+   URL: https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html
+
+15. Bayes, Bits and Brains
+   Points: 12
+   Comments: 0
+   URL: https://bayesbitsbrains.github.io/
+
+16. Survey: a third of senior developers say over half their code is AI-generated
+   Points: 82
+   Comments: 120
+   URL: https://www.fastly.com/blog/senior-developers-ship-more-ai-code
+
+17. New Ruby Curl bindings with Fiber native support
+   Points: 32
+   Comments: 1
+   URL: https://github.com/taf2/curb/blob/master/ChangeLog.md
+
+18. How is Ultrassembler so fast?
+   Points: 84
+   Comments: 30
+   URL: https://jghuff.com/articles/ultrassembler-so-fast/
+
+19. F-Droid site certificate expired
+   Points: 135
+   Comments: 77
+   URL: https://gitlab.com/fdroid/fdroid-website/-/issues/883
+
+20. PEZ Robo Dispenser Using Arduino
+   Points: 4
+   Comments: 1
+   URL: https://www.instructables.com/PEZ-Robo-Dispenser-Using-Arduino/
+
