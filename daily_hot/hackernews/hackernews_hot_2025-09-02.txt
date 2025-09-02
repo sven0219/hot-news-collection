@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-02
+==================================================
+
+1. Patrick Winston: How to Speak (2018) [video]
+   Points: 188
+   Comments: 32
+   URL: https://www.youtube.com/watch?v=Unzc731iCUY
+
+2. Amazon has mostly sat out the AI talent war
+   Points: 137
+   Comments: 189
+   URL: https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8
+
+3. Implementing a Foil Sticker Effect
+   Points: 175
+   Comments: 13
+   URL: https://www.4rknova.com/blog/2025/08/30/foil-sticker
+
+4. Raspberry Pi 5 support (OpenBSD)
+   Points: 82
+   Comments: 10
+   URL: https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2
+
+5. The future of 32-bit support in the kernel
+   Points: 129
+   Comments: 107
+   URL: https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/
+
+6. Adaptive LLM routing under budget constraints
+   Points: 154
+   Comments: 62
+   URL: https://arxiv.org/abs/2508.21141
+
+7. Making Minecraft Spherical
+   Points: 576
+   Comments: 79
+   URL: https://www.bowerbyte.com/posts/blocky-planet/
+
+8. Detecting and countering misuse of AI
+   Points: 80
+   Comments: 71
+   URL: https://www.anthropic.com/news/detecting-countering-misuse-aug-2025
+
+9. Cloudflare Radar: AI Insights
+   Points: 278
+   Comments: 90
+   URL: https://radar.cloudflare.com/ai-insights
+
+10. The buyer-pull and seller-push theories of sales
+   Points: 37
+   Comments: 10
+   URL: https://howtogrow.substack.com/p/the-physics-of-sales
+
+11. Bear is now source-available
+   Points: 313
+   Comments: 270
+   URL: https://herman.bearblog.dev/license/
+
+12. A power shortage could short-circuit Nvidia's rise
+   Points: 24
+   Comments: 17
+   URL: https://www.economist.com/business/2025/08/28/how-a-power-shortage-could-short-circuit-nvidias-rise
+
+13. Thoughts on (Amazonian) leadership
+   Points: 83
+   Comments: 70
+   URL: https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html
+
+14. Ask HN: Who is hiring? (September 2025)
+   Points: 150
+   Comments: 129
+   URL: https://news.ycombinator.com/item?id=45093192
+
+15. Don't Build Multi-Agents
+   Points: 79
+   Comments: 55
+   URL: https://cognition.ai/blog/dont-build-multi-agents
+
+16. Towards Memory Specialization: A Case for Long-Term and Short-Term RAM
+   Points: 31
+   Comments: 16
+   URL: https://arxiv.org/abs/2508.02992
+
+17. Steve Ballmer Interview
+   Points: 74
+   Comments: 85
+   URL: https://www.acquired.fm/episodes/the-steve-ballmer-interview
+
+18. One of Britain's largest stocks of second-hand books ever amassed
+   Points: 74
+   Comments: 14
+   URL: https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire
+
+19. The ABC Programming Language
+   Points: 43
+   Comments: 6
+   URL: https://homepages.cwi.nl/~steven/abc/
+
+20. The Tragic End of Natalia Nagovitsyna's Ordeal on Pobeda Peak
+   Points: 19
+   Comments: 11
+   URL: https://explorersweb.com/tragic-end-of-natalia-nagovitsynas-ordeal-on-pobeda-peak/
+
