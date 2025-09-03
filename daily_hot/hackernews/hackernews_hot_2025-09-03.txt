@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-03
+==================================================
+
+1. Google can keep its Chrome browser but will be barred from exclusive contracts
+   Points: 412
+   Comments: 264
+   URL: https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html
+
+2. %CPU Utilization Is a Lie
+   Points: 12
+   Comments: 3
+   URL: https://www.brendanlong.com/cpu-utilization-is-a-lie.html
+
+3. This blog is running on a recycled Google Pixel 5
+   Points: 28
+   Comments: 7
+   URL: https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/
+
+4. Introduction to Ada: a project-based exploration with rosettas
+   Points: 136
+   Comments: 31
+   URL: https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas
+
+5. A staff engineer's journey with Claude Code
+   Points: 185
+   Comments: 126
+   URL: https://www.sanity.io/blog/first-attempt-will-be-95-garbage
+
+6. Making a Linux home server sleep on idle and wake on demand (2023)
+   Points: 114
+   Comments: 40
+   URL: https://dgross.ca/blog/linux-home-server-auto-sleep
+
+7. <template>: The Content Template element
+   Points: 145
+   Comments: 54
+   URL: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template
+
+8. Physically based rendering from first principles
+   Points: 126
+   Comments: 37
+   URL: https://imadr.me/pbr/
+
+9. Vijaye Raji to become CTO of Applications with acquisition of Statsig
+   Points: 122
+   Comments: 46
+   URL: https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/
+
+10. The Little Book of Linear Algebra
+   Points: 267
+   Comments: 76
+   URL: https://github.com/the-litte-book-of/linear-algebra
+
+11. Static sites enable a good time travel experience
+   Points: 137
+   Comments: 37
+   URL: https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/
+
+12. What Happens During Startup?
+   Points: 7
+   Comments: 0
+   URL: https://eclecticlight.co/2025/08/29/what-happens-during-startup/
+
+13. 'World Models,' an old idea in AI, mount a comeback
+   Points: 133
+   Comments: 48
+   URL: https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/
+
+14. Show HN: LightCycle, a FOSS game in Rust based on Tron
+   Points: 4
+   Comments: 0
+   URL: https://github.com/Tortured-Metaphor/LightCycle
+
+15. Launch HN: Datafruit (YC S25) – AI for DevOps
+   Points: 43
+   Comments: 32
+   URL: https://news.ycombinator.com/item?id=45104974
+
+16. You're Not Interviewing for the Job. You're Auditioning for the Job Title
+   Points: 39
+   Comments: 16
+   URL: https://idiallo.com/blog/performing-for-the-job-title
+
+17. The staff ate it later
+   Points: 140
+   Comments: 79
+   URL: https://en.wikipedia.org/wiki/The_staff_ate_it_later
+
+18. Amazon must face US nationwide class action over third-party sales
+   Points: 184
+   Comments: 70
+   URL: https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/
+
+19. Untangling the myths and mysteries of Dvorak and QWERTY (2023)
+   Points: 40
+   Comments: 58
+   URL: https://aresluna.org/the-primitive-tortureboard/
+
+20. Anthropic raises $13B Series F
+   Points: 464
+   Comments: 462
+   URL: https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation
+
