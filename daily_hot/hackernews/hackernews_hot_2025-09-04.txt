@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-04
+==================================================
+
+1. Evidence that AI is destroying jobs for young people
+   Points: 102
+   Comments: 67
+   URL: https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying
+
+2. Not Paying with Cash
+   Points: 15
+   Comments: 14
+   URL: https://rubenerd.com/not-paying-with-cash/
+
+3. Claude Code: Now in Beta in Zed
+   Points: 463
+   Comments: 299
+   URL: https://zed.dev/blog/claude-code-via-acp
+
+4. The Bitter Lesson Is Misunderstood
+   Points: 118
+   Comments: 60
+   URL: https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood
+
+5. What is it like to be a bat?
+   Points: 104
+   Comments: 140
+   URL: https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F
+
+6. Nuclear: Desktop music player focused on streaming from free sources
+   Points: 238
+   Comments: 155
+   URL: https://github.com/nukeop/nuclear
+
+7. VibeVoice: A Frontier Open-Source Text-to-Speech Model
+   Points: 394
+   Comments: 145
+   URL: https://microsoft.github.io/VibeVoice/
+
+8. Writing a C compiler in 500 lines of Python (2023)
+   Points: 137
+   Comments: 26
+   URL: https://vgel.me/posts/c500/
+
+9. Neovim Pack
+   Points: 3
+   Comments: 1
+   URL: https://neovim.io/doc/user/pack.html#vim.pack
+
+10. Voyager – An interactive video generation model with realtime 3D reconstruction
+   Points: 296
+   Comments: 202
+   URL: https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager
+
+11. Understanding Transformers Using a Minimal Example
+   Points: 128
+   Comments: 6
+   URL: https://rti.github.io/gptvis/
+
+12. OSMAnd vs. Organic Maps
+   Points: 76
+   Comments: 37
+   URL: https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html
+
+13. Poor man's bitemporal data system in SQLite and Clojure
+   Points: 113
+   Comments: 24
+   URL: https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html
+
+14. Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer
+
+15. Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels
+   Points: 129
+   Comments: 23
+   URL: https://gimletlabs.ai/blog/ai-generated-metal-kernels
+
+16. Eels are fish
+   Points: 63
+   Comments: 99
+   URL: https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08
+
+17. Microsoft BASIC for 6502 Microprocessor – Version 1.1
+   Points: 217
+   Comments: 139
+   URL: https://github.com/microsoft/BASIC-M6502
+
+18. New Knot Theory Discovery Overturns Long-Held Mathematical Assumption
+   Points: 28
+   Comments: 3
+   URL: https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/
+
+19. We're Joining OpenAI
+   Points: 112
+   Comments: 73
+   URL: https://www.alexcodes.app/blog/alex-team-joins-openai
+
+20. Lively Linear Lisp (1992) [pdf]
+   Points: 33
+   Comments: 0
+   URL: https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf
+
