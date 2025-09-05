@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-05
+==================================================
+
+1. What Is the Fourier Transform?
+   Points: 89
+   Comments: 43
+   URL: https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/
+
+2. Stripe Launches L1 Blockchain: Tempo
+   Points: 491
+   Comments: 631
+   URL: https://tempo.xyz
+
+3. LLM Visualization
+   Points: 166
+   Comments: 5
+   URL: https://bbycroft.net/llm
+
+4. Is the decline of reading making politics dumber?
+   Points: 25
+   Comments: 17
+   URL: https://www.economist.com/culture/2025/09/04/is-the-decline-of-reading-making-politics-dumber
+
+5. Classic 8×8-pixel B&W Mac patterns
+   Points: 89
+   Comments: 28
+   URL: https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html
+
+6. What If OpenDocument Used SQLite?
+   Points: 61
+   Comments: 22
+   URL: https://www.sqlite.org/affcase1.html
+
+7. WiFi signals can measure heart rate
+   Points: 244
+   Comments: 137
+   URL: https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/
+
+8. Memory is slow, Disk is fast – Part 2
+   Points: 36
+   Comments: 17
+   URL: https://www.bitflux.ai/blog/memory-is-slow-part2/
+
+9. ICPC 2025 World Finals Results
+   Points: 59
+   Comments: 19
+   URL: https://worldfinals.icpc.global/scoreboard/2025/index.html
+
+10. Wikipedia survives while the rest of the internet breaks
+   Points: 170
+   Comments: 140
+   URL: https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales
+
+11. Atlassian is acquiring The Browser Company
+   Points: 374
+   Comments: 392
+   URL: https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html
+
+12. Le Chat: Custom MCP Connectors, Memories
+   Points: 363
+   Comments: 149
+   URL: https://mistral.ai/news/le-chat-mcp-connectors-memories
+
+13. Melvyn Bragg steps down from presenting In Our Time
+   Points: 264
+   Comments: 153
+   URL: https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/
+
+14. I ditched Spotify and set up my own music stack
+   Points: 82
+   Comments: 67
+   URL: https://leshicodes.github.io/blog/spotify-migration/
+
+15. 3D QR Codes
+   Points: 12
+   Comments: 1
+   URL: https://erikdemaine.org/prints/QR/
+
+16. Age Simulation Suit
+   Points: 126
+   Comments: 86
+   URL: https://www.age-simulation-suit.com/
+
+17. Action was the best 8-bit programming language
+   Points: 39
+   Comments: 21
+   URL: https://www.goto10retro.com/p/action-was-the-best-8-bit-programming
+
+18. Unix Conspiracy (1991)
+   Points: 5
+   Comments: 11
+   URL: http://www.catb.org/~esr/jargon/html/U/Unix-conspiracy.html
+
+19. Updating restrictions of sales to unsupported regions
+   Points: 6
+   Comments: 1
+   URL: https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions
+
+20. A PM's Guide to AI Agent Architecture
+   Points: 93
+   Comments: 39
+   URL: https://www.productcurious.com/p/a-pms-guide-to-ai-agent-architecture
+
