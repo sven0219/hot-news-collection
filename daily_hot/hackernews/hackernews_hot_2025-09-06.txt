@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-06
+==================================================
+
+1. Anthropic agrees to pay $1.5B to settle lawsuit with book authors
+   Points: 402
+   Comments: 279
+   URL: https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share
+
+2. The Universe Within 12.5 Light Years
+   Points: 53
+   Comments: 11
+   URL: http://www.atlasoftheuniverse.com/12lys.html
+
+3. Making a font of my handwriting
+   Points: 146
+   Comments: 35
+   URL: https://chameth.com/making-a-font-of-my-handwriting/
+
+4. Nest 1st gen and 2nd gen thermostats no longer supported from 10/25/2025
+   Points: 147
+   Comments: 127
+   URL: https://community.hubitat.com/t/nest-1st-gen-and-2nd-gen-thermostats-no-longer-supported-by-google-from-10-25-2025/152952
+
+5. Purposeful animations
+   Points: 293
+   Comments: 92
+   URL: https://emilkowal.ski/ui/you-dont-need-animations
+
+6. Should we revisit Extreme Programming in the age of AI?
+   Points: 48
+   Comments: 29
+   URL: https://www.hyperact.co.uk/blog/should-we-revisit-xp-in-the-age-of-ai
+
+7. My Own DNS Server at Home – Part 1: IPv4
+   Points: 77
+   Comments: 39
+   URL: https://jan.wildeboer.net/2025/08/My-DNS-Part-1/
+
+8. MentraOS – open-source Smart glasses OS
+   Points: 103
+   Comments: 62
+   URL: https://github.com/Mentra-Community/MentraOS
+
+9. Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy
+   Points: 103
+   Comments: 75
+   URL: https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/
+
+10. I ditched Docker for Podman
+   Points: 846
+   Comments: 487
+   URL: https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too
+
+11. Show HN: Open-sourcing our text-to-CAD app
+   Points: 102
+   Comments: 11
+   URL: https://github.com/Adam-CAD/CADAM
+
+12. Quantum Mechanics, Concise Book
+   Points: 16
+   Comments: 2
+   URL: https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book
+
+13. Gym Class VR (YC W22) Is Hiring – UX Design Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal
+
+14. ML needs a new programming language – Interview with Chris Lattner
+   Points: 200
+   Comments: 174
+   URL: https://signalsandthreads.com/why-ml-needs-a-new-programming-language/
+
+15. Mac Clones History: A Tale of Poor Margins and Bad Timing
+   Points: 7
+   Comments: 0
+   URL: https://tedium.co/2025/09/02/apple-macintosh-clones-history/
+
+16. The Old Robots Web Site
+   Points: 147
+   Comments: 30
+   URL: https://www.theoldrobots.com/index2.html
+
+17. I bought the cheapest EV, a used Nissan Leaf
+   Points: 285
+   Comments: 415
+   URL: https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf
+
+18. Freeway guardrails are now a favorite target of thieves
+   Points: 79
+   Comments: 155
+   URL: https://laist.com/news/transportation/guardrails-aluminum-theft
+
+19. Interview with Japanese Demoscener 0b5vr
+   Points: 171
+   Comments: 15
+   URL: https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html
+
+20. Show HN: Writing Arabic in English
+   Points: 20
+   Comments: 3
+   URL: https://sherifelmetwally.com/writing/writing-arabic-in-english
+
