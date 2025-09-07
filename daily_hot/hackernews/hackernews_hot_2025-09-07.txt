@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-07
+==================================================
+
+1. A Navajo weaving of an integrated circuit: the 555 timer
+   Points: 84
+   Comments: 19
+   URL: https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html
+
+2. How the "Kim" dump exposed North Korea's credential theft playbook
+   Points: 166
+   Comments: 29
+   URL: https://dti.domaintools.com/inside-the-kimsuky-leak-how-the-kim-dump-exposed-north-koreas-credential-theft-playbook/
+
+3. Over 80% of Sunscreen Performed Below Their Labelled Efficacy (2020)
+   Points: 112
+   Comments: 85
+   URL: https://www.consumer.org.hk/en/press-release/528-sunscreen-test
+
+4. Shipping textures as PNGs is suboptimal
+   Points: 49
+   Comments: 18
+   URL: https://gamesbymason.com/blog/2025/stop-shipping-pngs/
+
+5. C++26: Erroneous Behaviour
+   Points: 19
+   Comments: 20
+   URL: https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour
+
+6. Troubleshooting ZFS – Common Issues and How to Fix Them
+   Points: 24
+   Comments: 3
+   URL: https://klarasystems.com/articles/troubleshooting-zfs-common-issues-how-to-fix-them/
+
+7. I'm Making a Beautiful, Aesthetic and Open-Source Platform for Learning Japanese
+   Points: 60
+   Comments: 22
+   URL: https://kanadojo.com
+
+8. Stop writing CLI validation. Parse it right the first time
+   Points: 66
+   Comments: 23
+   URL: https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time
+
+9. Qwen3 30B A3B Hits 13 token/s on 4xRaspberry Pi 5
+   Points: 278
+   Comments: 116
+   URL: https://github.com/b4rtaz/distributed-llama/discussions/255
+
+10. The maths you need to start understanding LLMs
+   Points: 461
+   Comments: 100
+   URL: https://www.gilesthomas.com/2025/09/maths-for-llms
+
+11. A history of metaphorical brain talk in psychiatry
+   Points: 12
+   Comments: 3
+   URL: https://www.nature.com/articles/s41380-025-03053-6
+
+12. We hacked Burger King: How auth bypass led to drive-thru audio surveillance
+   Points: 278
+   Comments: 152
+   URL: https://bobdahacker.com/blog/rbi-hacked-drive-thrus/
+
+13. Cape Station, future home of an enhanced geothermal power plant, in Utah
+   Points: 147
+   Comments: 83
+   URL: https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground
+
+14. Oldest recorded transaction
+   Points: 136
+   Comments: 60
+   URL: https://avi.im/blag/2025/oldest-txn/
+
+15. What to Do with an Old iPad
+   Points: 51
+   Comments: 34
+   URL: http://odb.ar/blog/2025/09/05/hosting-my-blog-on-an-iPad-2.html
+
+16. Anonymous recursive functions in Racket
+   Points: 51
+   Comments: 22
+   URL: https://github.com/shriram/anonymous-recursive-function
+
+17. Kruci: Post-mortem of a UI library
+   Points: 40
+   Comments: 13
+   URL: https://pwy.io/posts/kruci-post-mortem/
+
+18. Show HN: Send kind and aspirational words to a stranger who needs it
+   Points: 5
+   Comments: 0
+   URL: https://kindnesssender.com/
+
+19. Matmul on Blackwell: Part 2 – Using Hardware Features to Optimize Matmul
+   Points: 11
+   Comments: 3
+   URL: https://www.modular.com/blog/matrix-multiplication-on-nvidias-blackwell-part-2-using-hardware-features-to-optimize-matmul
+
+20. Using Claude Code SDK to reduce E2E test time
+   Points: 100
+   Comments: 67
+   URL: https://jampauchoa.substack.com/p/best-of-both-worlds-using-claude
+
