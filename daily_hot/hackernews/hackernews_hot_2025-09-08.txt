@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-08
+==================================================
+
+1. Using Claude Code to modernize a forgotten Linux kernel driver
+   Points: 52
+   Comments: 12
+   URL: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver
+
+2. Pico CSS – Minimal CSS Framework for Semantic HTML
+   Points: 231
+   Comments: 70
+   URL: https://picocss.com
+
+3. The MacBook has a sensor that knows the exact angle of the screen hinge
+   Points: 547
+   Comments: 268
+   URL: https://twitter.com/samhenrigold/status/1964428927159382261
+
+4. The demo scene is dying, but that's alright
+   Points: 60
+   Comments: 24
+   URL: https://www.datagubbe.se/sceneherit/
+
+5. GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search
+   Points: 126
+   Comments: 115
+   URL: https://simonwillison.net/2025/Sep/6/research-goblin/
+
+6. Analog optical computer for AI inference and combinatorial optimization
+   Points: 23
+   Comments: 1
+   URL: https://www.nature.com/articles/s41586-025-09430-z
+
+7. Everything from 1991 Radio Shack ad I now do with my phone (2014)
+   Points: 112
+   Comments: 99
+   URL: https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/
+
+8. Formatting code should be unnecessary
+   Points: 22
+   Comments: 17
+   URL: https://maxleiter.com/blog/formatting
+
+9. No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]
+   Points: 45
+   Comments: 11
+   URL: https://www.cs.unc.edu/techreports/86-020.pdf
+
+10. Esoteric Languages Challenge Coders to Think Way Outside the Box
+   Points: 8
+   Comments: 1
+   URL: https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin
+
+11. Keeping secrets out of logs (2024)
+   Points: 130
+   Comments: 31
+   URL: https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/
+
+12. How to make metals from Martian dirt
+   Points: 38
+   Comments: 28
+   URL: https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt
+
+13. Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app
+   Points: 315
+   Comments: 208
+   URL: https://molecheck.info/
+
+14. The race to build a distributed GPU runtime
+   Points: 37
+   Comments: 9
+   URL: https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime
+
+15. Taking Buildkite from a side project to a global company
+   Points: 11
+   Comments: 0
+   URL: https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project
+
+16. The Expression Problem and its solutions (2016)
+   Points: 83
+   Comments: 64
+   URL: https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/
+
+17. SQLite's Use of Tcl (2017)
+   Points: 70
+   Comments: 22
+   URL: https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html
+
+18. Detroit's Carmakers to Save Billions in Emissions Rollback
+   Points: 26
+   Comments: 29
+   URL: https://www.bloomberg.com/news/articles/2025-09-07/detroit-s-carmakers-to-save-billions-in-trump-emissions-rollback
+
+19. Creative Technology: The Sound Blaster
+   Points: 12
+   Comments: 1
+   URL: https://www.abortretry.fail/p/the-story-of-creative-technology
+
+20. Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations
+   Points: 47
+   Comments: 45
+   URL: https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/
+
