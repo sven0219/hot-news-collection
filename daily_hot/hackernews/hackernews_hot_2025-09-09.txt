@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-09
+==================================================
+
+1. Signal Secure Backups
+   Points: 574
+   Comments: 292
+   URL: https://signal.org/blog/introducing-secure-backups/
+
+2. The Storm Hits the Art Market
+   Points: 26
+   Comments: 11
+   URL: https://news.artnet.com/market/intelligence-report-storm-2025-2684512
+
+3. Chat Control Must Be Stopped
+   Points: 517
+   Comments: 161
+   URL: https://www.privacyguides.org/articles/2025/09/08/chat-control-must-be-stopped/
+
+4. NPM debug and chalk packages compromised
+   Points: 921
+   Comments: 492
+   URL: https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised
+
+5. Is OOXML Artifically Complex?
+   Points: 42
+   Comments: 32
+   URL: https://hsu.cy/2025/09/is-ooxml-artificially-complex/
+
+6. Experimenting with Local LLMs on macOS
+   Points: 245
+   Comments: 163
+   URL: https://blog.6nok.org/experimenting-with-local-llms-on-macos/
+
+7. Tesla market share in US drops to lowest since 2017
+   Points: 33
+   Comments: 24
+   URL: https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/
+
+8. Liquid Glass in the Browser: Refraction with CSS and SVG
+   Points: 30
+   Comments: 5
+   URL: https://kube.io/blog/liquid-glass-css-svg/
+
+9. World Nuclear Association Welcomes Microsoft Corporation as Newest Member
+   Points: 57
+   Comments: 40
+   URL: https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member
+
+10. Ex-WhatsApp cybersecurity head says Meta endangered billions of users
+   Points: 120
+   Comments: 64
+   URL: https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp
+
+11. Will Amazon S3 Vectors kill vector databases or save them?
+   Points: 153
+   Comments: 84
+   URL: https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them
+
+12. Immich – High performance self-hosted photo and video management
+   Points: 426
+   Comments: 152
+   URL: https://github.com/immich-app/immich
+
+13. How RSS beat Microsoft
+   Points: 260
+   Comments: 150
+   URL: https://buttondown.com/blog/rss-vs-ice
+
+14. The key points of "Working Effectively with Legacy Code"
+   Points: 78
+   Comments: 27
+   URL: https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/
+
+15. David Walker's Paper Clip Collection
+   Points: 16
+   Comments: 2
+   URL: https://www.presentandcorrect.com/blogs/blog/david-walkers-paper-clip-collection
+
+16. Dark Academia Grows Up
+   Points: 37
+   Comments: 20
+   URL: https://www.publicbooks.org/dark-academia-grows-up/
+
+17. Setting up local LLMs for R and Python
+   Points: 55
+   Comments: 5
+   URL: https://posit.co/blog/setting-up-local-llms-for-r-and-python/
+
+18. Alterego: Thought to Text
+   Points: 65
+   Comments: 41
+   URL: https://www.alterego.io/
+
+19. Learning the soroban rapid mental calculation as an adult
+   Points: 43
+   Comments: 13
+   URL: https://github.com/whacked/cow/blob/main/learning%20the%20soroban%20as%20an%20adult.md
+
+20. Red Hat back-office team to be Big and Blue whether they like it or not
+   Points: 20
+   Comments: 7
+   URL: https://www.theregister.com/2025/09/08/red_hatters_to_be_big/
+
