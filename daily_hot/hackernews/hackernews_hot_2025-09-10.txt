@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-10
+==================================================
+
+1. iPhone Air
+   Points: 450
+   Comments: 1051
+   URL: https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/
+
+2. E-paper display reaches the realm of LCD screens
+   Points: 193
+   Comments: 76
+   URL: https://spectrum.ieee.org/e-paper-display-modos
+
+3. Axial twist theory
+   Points: 55
+   Comments: 3
+   URL: https://en.wikipedia.org/wiki/Axial_twist_theory
+
+4. Claude now has access to a server-side container environment
+   Points: 394
+   Comments: 235
+   URL: https://www.anthropic.com/news/create-files
+
+5. Memory Integrity Enforcement
+   Points: 288
+   Comments: 132
+   URL: https://security.apple.com/blog/memory-integrity-enforcement/
+
+6. We all dodged a bullet
+   Points: 532
+   Comments: 317
+   URL: https://xeiaso.net/notes/2025/we-dodged-a-bullet/
+
+7. Immunotherapy drug clinical trial results: half of tumors shrink or disappear
+   Points: 228
+   Comments: 45
+   URL: https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/
+
+8. Tomorrow's emoji today: Unicode 17.0
+   Points: 92
+   Comments: 125
+   URL: https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170
+
+9. US High school students' scores fall in reading and math
+   Points: 189
+   Comments: 257
+   URL: https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a
+
+10. Show HN: Bottlefire – Build single-executable microVMs from Docker images
+   Points: 36
+   Comments: 7
+   URL: https://bottlefire.dev/
+
+11. A new experimental Go API for JSON
+   Points: 171
+   Comments: 54
+   URL: https://go.dev/blog/jsonv2-exp
+
+12. DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware
+   Points: 296
+   Comments: 220
+   URL: https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c
+
+13. Anthropic is endorsing SB 53
+   Points: 35
+   Comments: 35
+   URL: https://www.anthropic.com/news/anthropic-is-endorsing-sb-53
+
+14. Microsoft is officially sending employees back to the office
+   Points: 201
+   Comments: 371
+   URL: https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9
+
+15. Anthropic judge rejects $1.5B AI copyright settlement
+   Points: 163
+   Comments: 183
+   URL: https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done
+
+16. Building a DOOM-like multiplayer shooter in pure SQL
+   Points: 134
+   Comments: 31
+   URL: https://cedardb.com/blog/doomql/
+
+17. YouTube is a mysterious monopoly
+   Points: 107
+   Comments: 171
+   URL: https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly
+
+18. An attacker’s blunder gave us a look into their operations
+   Points: 119
+   Comments: 80
+   URL: https://www.huntress.com/blog/rare-look-inside-attacker-operation
+
+19. Show HN: Ion, a Rust/Tokio powered JavaScript runtime for embedders
+   Points: 5
+   Comments: 0
+   URL: https://github.com/alshdavid/ion
+
+20. Hypervisor in 1k Lines
+   Points: 5
+   Comments: 0
+   URL: https://1000hv.seiya.me/en
+
