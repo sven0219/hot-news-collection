@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-11
+==================================================
+
+1. KDE launches its own distribution
+   Points: 149
+   Comments: 83
+   URL: https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/
+
+2. ChatGPT Developer Mode: Full MCP client access
+   Points: 365
+   Comments: 194
+   URL: https://platform.openai.com/docs/guides/developer-mode
+
+3. Show HN: Term.everything – Run any GUI app in the terminal
+   Points: 625
+   Comments: 100
+   URL: https://github.com/mmulet/term.everything
+
+4. DOOMscrolling: The Game
+   Points: 30
+   Comments: 6
+   URL: https://ironicsans.ghost.io/doomscrolling-the-game/
+
+5. Intel's E2200 "Mount Morgan" IPU at Hot Chips 2025
+   Points: 20
+   Comments: 9
+   URL: https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at
+
+6. Pontevedra, Spain declares its entire urban area a "reduced traffic zone"
+   Points: 659
+   Comments: 784
+   URL: https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/
+
+7. Fraudulent Publishing in the Mathematical Sciences
+   Points: 28
+   Comments: 11
+   URL: https://arxiv.org/abs/2509.07257
+
+8. A polyglot's guide to multiple-dispatch
+   Points: 16
+   Comments: 1
+   URL: https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/
+
+9. Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts
+   Points: 61
+   Comments: 29
+   URL: https://news.ycombinator.com/item?id=45199648
+
+10. The HackberryPi CM5 handheld computer
+   Points: 139
+   Comments: 41
+   URL: https://github.com/ZitaoTech/HackberryPiCM5
+
+11. Defeating Nondeterminism in LLM Inference
+   Points: 183
+   Comments: 74
+   URL: https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/
+
+12. OrioleDB Patent: now freely available to the Postgres community
+   Points: 361
+   Comments: 125
+   URL: https://supabase.com/blog/orioledb-patent-free
+
+13. Longhorn – A Kubernetes-Native Filesystem
+   Points: 31
+   Comments: 26
+   URL: https://vegard.blog.engen.priv.no/?p=518
+
+14. Mux (YC W16) Is Hiring Engineering ICs and Managers
+   Points: 1
+   Comments: 0
+   URL: https://mux.com/jobs
+
+15. Jiratui – A Textual UI for interacting with Atlassian Jira from your shell
+   Points: 129
+   Comments: 32
+   URL: https://jiratui.sh/
+
+16. Clojure's Solutions to the Expression Problem
+   Points: 58
+   Comments: 2
+   URL: https://www.infoq.com/presentations/Clojure-Expression-Problem/
+
+17. Dotter: Dotfile manager and templater written in Rust
+   Points: 51
+   Comments: 30
+   URL: https://github.com/SuperCuber/dotter
+
+18. Show HN: Haystack – Review pull requests like you wrote them yourself
+   Points: 47
+   Comments: 26
+   URL: https://haystackeditor.com
+
+19. Picat: A Logic-based Multi-paradigm Language (2014) [pdf]
+   Points: 14
+   Comments: 0
+   URL: https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf
+
+20. I didn't bring my son to a museum to look at screens
+   Points: 764
+   Comments: 265
+   URL: https://sethpurcell.com/writing/screens-in-museums/
+
