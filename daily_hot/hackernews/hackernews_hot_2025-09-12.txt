@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-12
+==================================================
+
+1. Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook
+   Points: 107
+   Comments: 23
+   URL: https://github.com/iannuttall/fartscroll-lid
+
+2. Danish supermarket chain is setting up "Emergency Stores"
+   Points: 72
+   Comments: 19
+   URL: https://swiss.social/@swaldorff/115186445638788782
+
+3. Top model scores may be skewed by Git history leaks in SWE-bench
+   Points: 283
+   Comments: 104
+   URL: https://github.com/SWE-bench/SWE-bench/issues/465
+
+4. Claude's memory architecture is the opposite of ChatGPT's
+   Points: 192
+   Comments: 99
+   URL: https://www.shloked.com/writing/claude-memory
+
+5. Nano Banana image examples
+   Points: 179
+   Comments: 94
+   URL: https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md
+
+6. Building my childhood dream PC
+   Points: 41
+   Comments: 5
+   URL: https://fabiensanglard.net/2168/
+
+7. Doorbell prankster that tormented residents of apartments turns out to be a slug
+   Points: 62
+   Comments: 7
+   URL: https://www.theguardian.com/world/2025/sep/08/doorbell-prankster-that-tormented-residents-of-german-apartments-turns-out-to-be-a-slug
+
+8. Rails on SQLite: new ways to cause outages
+   Points: 83
+   Comments: 27
+   URL: https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/
+
+9. Bulletproof host Stark Industries evades EU sanctions
+   Points: 147
+   Comments: 51
+   URL: https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/
+
+10. AirPods live translation blocked for EU users with EU Apple accounts
+   Points: 198
+   Comments: 219
+   URL: https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/
+
+11. Behind the scenes of Bun Install
+   Points: 319
+   Comments: 105
+   URL: https://bun.com/blog/behind-the-scenes-of-bun-install
+
+12. NT OS Kernel Information Disclosure Vulnerability
+   Points: 102
+   Comments: 22
+   URL: https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/
+
+13. How Palantir is mapping the nation’s data
+   Points: 137
+   Comments: 42
+   URL: https://theconversation.com/when-the-government-can-see-everything-how-one-company-palantir-is-mapping-the-nations-data-263178
+
+14. CRISPR offers new hope for treating diabetes
+   Points: 162
+   Comments: 44
+   URL: https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/
+
+15. 'Robber bees' invade apiarist's shop in attempted honey heist
+   Points: 111
+   Comments: 60
+   URL: https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532
+
+16. Making io_uring pervasive in QEMU [pdf]
+   Points: 47
+   Comments: 4
+   URL: https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf
+
+17. A Web Framework for Zig
+   Points: 64
+   Comments: 5
+   URL: https://www.jetzig.dev/
+
+18. From burner phones to decks of cards: NYC teens adjusting to the smartphone ban
+   Points: 163
+   Comments: 147
+   URL: https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban
+
+19. Adam (YC W25) Is Hiring to Build the Future of CAD
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer
+
+20. Conway's Game of Life, but musical
+   Points: 144
+   Comments: 29
+   URL: https://www.hudsong.dev/digital-darwin
+
