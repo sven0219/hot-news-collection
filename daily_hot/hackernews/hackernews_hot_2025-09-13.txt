@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-13
+==================================================
+
+1. UTF-8 is a brilliant design
+   Points: 362
+   Comments: 153
+   URL: https://iamvishnu.com/posts/utf8-is-brilliant-design
+
+2. QGIS is a free, open-source, cross platform geographical information system
+   Points: 287
+   Comments: 80
+   URL: https://github.com/qgis/QGIS
+
+3. I used standard Emacs extension-points to extend org-mode
+   Points: 109
+   Comments: 4
+   URL: https://edoput.it/2025/04/16/emacs-paradigm-shift.html
+
+4. FFglitch, FFmpeg fork for glitch arch
+   Points: 52
+   Comments: 7
+   URL: https://ffglitch.org/gallery/
+
+5. Many hard LeetCode problems are easy constraint problems
+   Points: 402
+   Comments: 343
+   URL: https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/
+
+6. Tips for installing Windows 98 in QEMU/UTM
+   Points: 18
+   Comments: 0
+   URL: https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/
+
+7. Corporations are trying to hide job openings from US citizens
+   Points: 319
+   Comments: 237
+   URL: https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/
+
+8. EU court rules nuclear energy is clean energy
+   Points: 611
+   Comments: 464
+   URL: https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy
+
+9. The treasury is expanding the Patriot Act to attack Bitcoin self custody
+   Points: 590
+   Comments: 445
+   URL: https://www.tftc.io/treasury-iexpanding-patriot-act/
+
+10. 3D modeling with paper
+   Points: 231
+   Comments: 32
+   URL: https://www.arvinpoddar.com/blog/3d-modeling-with-paper
+
+11. Reduce bandwidth costs with dm-cache: fast local SSD caching for network storage
+   Points: 17
+   Comments: 7
+   URL: https://devcenter.upsun.com/posts/cut-aws-bandwidth-costs-95-with-dm-cache/
+
+12. How FOSS Projects Handle Legal Takedown Requests
+   Points: 85
+   Comments: 8
+   URL: https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html
+
+13. First 'perovskite camera' can see inside the human body
+   Points: 38
+   Comments: 9
+   URL: https://news.northwestern.edu/stories/2025/09/first-perovskite-camera-can-see-inside-the-human-body/
+
+14. Rust: A quest for performant, reliable software [video]
+   Points: 92
+   Comments: 29
+   URL: https://www.youtube.com/watch?v=k_-6KI3m31M
+
+15. Unauthorized Windows/386
+   Points: 31
+   Comments: 4
+   URL: https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/
+
+16. Humanely dealing with humungus crawlers
+   Points: 70
+   Comments: 39
+   URL: https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers
+
+17. Show HN: Aris – a free AI-powered answer engine for kids
+   Points: 15
+   Comments: 22
+   URL: https://www.aris.chat
+
+18. OpenAI Grove
+   Points: 81
+   Comments: 79
+   URL: https://openai.com/index/openai-grove/
+
+19. Proton Mail suspended journalist accounts at request of cybersecurity agency
+   Points: 139
+   Comments: 65
+   URL: https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/
+
+20. Oq: Terminal OpenAPI Spec Viewer
+   Points: 89
+   Comments: 11
+   URL: https://github.com/plutov/oq
+
