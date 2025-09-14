@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-14
+==================================================
+
+1. Myocardial infarction may be an infectious disease
+   Points: 152
+   Comments: 67
+   URL: https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease
+
+2. Pass: Unix Password Manager
+   Points: 23
+   Comments: 0
+   URL: https://www.passwordstore.org/
+
+3. Show HN: A store that generates products from anything you type in search
+   Points: 721
+   Comments: 246
+   URL: https://anycrap.shop/
+
+4. RIP pthread_cancel
+   Points: 141
+   Comments: 67
+   URL: https://eissing.org/icing/posts/rip_pthread_cancel/
+
+5. US/* time zone deprecation affects fresh Debian 12 installs
+   Points: 4
+   Comments: 1
+   URL: https://rachelbythebay.com/w/2025/09/12/tz/
+
+6. Orange rivers signal toxic shift in Arctic wilderness
+   Points: 31
+   Comments: 1
+   URL: https://news.ucr.edu/articles/2025/09/08/orange-rivers-signal-toxic-shift-arctic-wilderness
+
+7. The case against social media is stronger than you think
+   Points: 132
+   Comments: 104
+   URL: https://arachnemag.substack.com/p/the-case-against-social-media-is
+
+8. 486Tang – 486 on a credit-card-sized FPGA board
+   Points: 140
+   Comments: 41
+   URL: https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/
+
+9. AMD's RDNA4 GPU Architecture at Hot Chips 2025
+   Points: 21
+   Comments: 0
+   URL: https://chipsandcheese.com/p/amds-rdna4-gpu-architecture-at-hot
+
+10. How Ruby executes JIT code
+   Points: 88
+   Comments: 10
+   URL: https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/
+
+11. Four-year wedding crasher mystery solved
+   Points: 237
+   Comments: 72
+   URL: https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland
+
+12. Will AI be the basis of many future industrial fortunes, or a net loser?
+   Points: 43
+   Comments: 51
+   URL: https://joincolossus.com/article/ai-will-not-make-you-rich/
+
+13. My first impressions of gleam
+   Points: 160
+   Comments: 60
+   URL: https://mtlynch.io/notes/gleam-first-impressions/
+
+14. Safe C++ proposal is not being continued
+   Points: 88
+   Comments: 65
+   URL: https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/
+
+15. EFF to court: The Supreme Court must rein in secondary copyright liability
+   Points: 16
+   Comments: 0
+   URL: https://www.eff.org/deeplinks/2025/09/eff-court-supreme-court-must-rein-expansive-secondary-copyright-liability
+
+16. Perrinn 424 – An open access electric hyper car designed for racing
+   Points: 9
+   Comments: 1
+   URL: https://discover.perrinn.com/home
+
+17. Adding OR logic forced us to confront why users preferred raw SQL
+   Points: 6
+   Comments: 0
+   URL: https://signoz.io/blog/query-builder-v5/
+
+18. Show HN: CLAVIER-36 – A programming environment for generative music
+   Points: 97
+   Comments: 20
+   URL: https://clavier36.com/p/LtZDdcRP3haTWHErgvdM
+
+19. An open-source maintainer's guide to saying “no”
+   Points: 137
+   Comments: 63
+   URL: https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no
+
+20. SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V
+   Points: 417
+   Comments: 84
+   URL: https://skiftos.org
+
