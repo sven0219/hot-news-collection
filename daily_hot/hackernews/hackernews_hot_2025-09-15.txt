@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-15
+==================================================
+
+1. Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days
+   Points: 108
+   Comments: 70
+   URL: https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem
+
+2. Betty Crocker broke recipes by shrinking boxes
+   Points: 111
+   Comments: 120
+   URL: https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058
+
+3. Rebutting 33 False Claims About Solar, Wind, and Electric Vehicles
+   Points: 12
+   Comments: 0
+   URL: https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=1218&context=sabin_climate_change
+
+4. Website is hosted on a disposable vape
+   Points: 90
+   Comments: 39
+   URL: http://ewaste.fka.wtf/
+
+5. Titania Programming Language
+   Points: 37
+   Comments: 4
+   URL: https://github.com/gingerBill/titania
+
+6. OCSP Service Has Reached End of Life
+   Points: 104
+   Comments: 28
+   URL: https://letsencrypt.org/2025/08/06/ocsp-service-has-reached-end-of-life
+
+7. Repetitive negative thinking associated with cognitive decline in older adults
+   Points: 311
+   Comments: 127
+   URL: https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06815-2
+
+8. Writing an operating system kernel from scratch
+   Points: 233
+   Comments: 47
+   URL: https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/
+
+9. Trigger Crossbar
+   Points: 21
+   Comments: 1
+   URL: https://serd.es/2025/09/14/Trigger-crossbar.html
+
+10. Irrlicht Engine – a cross-platform realtime 3D engine
+   Points: 23
+   Comments: 10
+   URL: https://irrlicht.sourceforge.io/?page_id=45
+
+11. Why We Spiral
+   Points: 211
+   Comments: 69
+   URL: https://behavioralscientist.org/why-we-spiral/
+
+12. Models of European metro stations
+   Points: 670
+   Comments: 131
+   URL: http://stations.albertguillaumes.cat/
+
+13. You’re a slow thinker. Now what?
+   Points: 245
+   Comments: 105
+   URL: https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what
+
+14. Cannabis use associated with quadrupled risk of developing type 2 diabetes
+   Points: 57
+   Comments: 37
+   URL: https://medicalxpress.com/news/2025-09-cannabis-quadrupled-diabetes-million-adults.html
+
+15. J-Link RTT for the Masses using Semihosting on ARM
+   Points: 4
+   Comments: 0
+   URL: https://bogdanthegeek.github.io/blog/insights/jlink-rtt-for-the-masses/
+
+16. Nicu's test website made with SVG (2007)
+   Points: 136
+   Comments: 75
+   URL: https://svg.nicubunu.ro/
+
+17. AMD Turin PSP binaries analysis from open-source firmware perspective
+   Points: 7
+   Comments: 1
+   URL: https://blog.3mdeb.com/2025/2025-09-11-gigabyte-mz33-ar1-blob-analysis/
+
+18. La-Proteina
+   Points: 16
+   Comments: 2
+   URL: https://github.com/NVIDIA-Digital-Bio/la-proteina
+
+19. FakeIt: C++ Mocking Made Easy
+   Points: 4
+   Comments: 1
+   URL: https://github.com/eranpeer/FakeIt
+
+20. Introduction to GrapheneOS
+   Points: 122
+   Comments: 136
+   URL: https://dataswamp.org/~solene/2025-01-12-intro-to-grapheneos.html
+
