@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-16
+==================================================
+
+1. Hosting a website on a disposable vape
+   Points: 640
+   Comments: 364
+   URL: https://bogdanthegeek.github.io/blog/projects/vapeserver/
+
+2. William Gibson Reads Neuromancer (2004)
+   Points: 122
+   Comments: 22
+   URL: http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html
+
+3. React is winning by default and slowing innovation
+   Points: 238
+   Comments: 247
+   URL: https://www.lorenstew.art/blog/react-won-by-default/
+
+4. macOS Tahoe
+   Points: 258
+   Comments: 332
+   URL: https://www.apple.com/os/macos/
+
+5. The Awe Keeps Dropping
+   Points: 8
+   Comments: 1
+   URL: https://morrick.me/archives/10137
+
+6. Wanted to spy on my dog, ended up spying on TP-Link
+   Points: 297
+   Comments: 106
+   URL: https://kennedn.com/blog/posts/tapo/
+
+7. Addendum to GPT-5 system card: GPT-5-Codex
+   Points: 170
+   Comments: 101
+   URL: https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/
+
+8. GPT-5-Codex
+   Points: 205
+   Comments: 64
+   URL: https://openai.com/index/introducing-upgrades-to-codex/
+
+9. PayPal to support Ethereum and Bitcoin
+   Points: 338
+   Comments: 282
+   URL: https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere
+
+10. The Rising Sea: Foundations of Algebraic Geometry Notes
+   Points: 17
+   Comments: 0
+   URL: https://math.stanford.edu/~vakil/216blog/
+
+11. Massive Attack turns concert into facial recognition surveillance experiment
+   Points: 122
+   Comments: 59
+   URL: https://www.gadgetreview.com/massive-attack-turns-concert-into-facial-recognition-surveillance-experiment
+
+12. How big a solar battery do I need to store all my home's electricity?
+   Points: 243
+   Comments: 367
+   URL: https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/
+
+13. I wish my web server were in the corner of my room (2022)
+   Points: 28
+   Comments: 12
+   URL: https://interconnected.org/home/2022/10/10/servers
+
+14. Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps
+   Points: 123
+   Comments: 49
+   URL: https://news.ycombinator.com/item?id=45250720
+
+15. Debian Upgrade Marathon: 3.1 Sarge
+   Points: 9
+   Comments: 1
+   URL: https://wrongthink.link/posts/debian-upgrade-marathon-sarge/
+
+16. Fighting human trafficking with self-contained applications
+   Points: 6
+   Comments: 1
+   URL: https://lwn.net/SubscriberLink/1036916/2b10f1356b7ab0e7/
+
+17. Show HN: Pooshit – Sync local code to remote Docker containers
+   Points: 33
+   Comments: 27
+   URL: https://news.ycombinator.com/item?id=45255337
+
+18. The Revised Report on Scheme or An UnCommon Lisp (1985) [pdf]
+   Points: 14
+   Comments: 1
+   URL: https://dspace.mit.edu/bitstream/handle/1721.1/5600/AIM-848.pdf
+
+19. How People Use ChatGPT [pdf]
+   Points: 55
+   Comments: 36
+   URL: https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf
+
+20. CubeSats are fascinating learning tools for space
+   Points: 161
+   Comments: 71
+   URL: https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space
+
