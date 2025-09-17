@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-17
+==================================================
+
+1. Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised
+   Points: 854
+   Comments: 653
+   URL: https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised
+
+2. How to make the Framework Desktop run even quieter
+   Points: 186
+   Comments: 47
+   URL: https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter
+
+3. Things you can do with a Software Defined Radio (2024)
+   Points: 588
+   Comments: 109
+   URL: https://blinry.org/50-things-with-sdr/
+
+4. Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out
+   Points: 468
+   Comments: 187
+   URL: https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out
+
+5. A dumb introduction to z3
+   Points: 95
+   Comments: 11
+   URL: https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/
+
+6. Doom crash after 2.5 years of real-world runtime confirmed on real hardware
+   Points: 47
+   Comments: 14
+   URL: https://lenowo.org/viewtopic.php?t=31
+
+7. Waymo has received our pilot permit allowing for commercial operations at SFO
+   Points: 551
+   Comments: 513
+   URL: https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit
+
+8. The "Most Hated" CSS Feature: Cos() and Sin()
+   Points: 56
+   Comments: 34
+   URL: https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/
+
+9. How Container Filesystem Works: Building a Docker-Like Container from Scratch
+   Points: 95
+   Comments: 19
+   URL: https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch
+
+10. I built my own phone because innovation is sad rn [video]
+   Points: 164
+   Comments: 34
+   URL: https://www.youtube.com/watch?v=qy_9w_c2ub0
+
+11. Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s
+   Points: 12
+   Comments: 0
+   URL: https://support.apple.com/en-us/125142
+
+12. Should We Drain the Everglades?
+   Points: 65
+   Comments: 52
+   URL: https://rabbitcavern.substack.com/p/should-we-drain-the-everglades
+
+13. A new experimental Google app for Windows
+   Points: 124
+   Comments: 158
+   URL: https://blog.google/products/search/google-app-windows-labs/
+
+14. Wind turbine blade transportation challenges
+   Points: 73
+   Comments: 98
+   URL: https://spectrum.ieee.org/wind-turbine-blade-transport-plane
+
+15. Micro-LEDs boost random number generation
+   Points: 12
+   Comments: 5
+   URL: https://discovery.kaust.edu.sa/en/article/25936/micro-leds-boost-random-number-generation/
+
+16. Launch HN: Rowboat (YC S24) – Open-source IDE for multi-agent systems
+   Points: 45
+   Comments: 22
+   URL: https://github.com/rowboatlabs/rowboat
+
+17. Scammed out of $130K via fake Google call, spoofed Google email and auth sync
+   Points: 270
+   Comments: 456
+   URL: https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google
+
+18. When the job search becomes impossible
+   Points: 144
+   Comments: 204
+   URL: https://www.jeffwofford.com/wp/?p=2240
+
+19. Plugin System
+   Points: 130
+   Comments: 31
+   URL: https://iina.io/plugins/
+
+20. I launched a Mac utility; now there are 5 clones on the App Store using my story
+   Points: 25
+   Comments: 10
+   URL: https://news.ycombinator.com/item?id=45269827
+
