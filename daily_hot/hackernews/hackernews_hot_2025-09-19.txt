@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-19
+==================================================
+
+1. Apple: SSH and FileVault
+   Points: 234
+   Comments: 66
+   URL: https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html
+
+2. The Sagrada Família Takes Its Final Shape
+   Points: 109
+   Comments: 45
+   URL: https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch
+
+3. Nvidia buys $5B in Intel
+   Points: 809
+   Comments: 470
+   URL: https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal
+
+4. Want to piss off your IT department? Are the links not malicious looking enough?
+   Points: 140
+   Comments: 30
+   URL: https://phishyurl.com/
+
+5. Learn Your Way: Reimagining Textbooks with Generative AI
+   Points: 231
+   Comments: 162
+   URL: https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/
+
+6. This map is not upside down
+   Points: 176
+   Comments: 273
+   URL: https://www.maps.com/this-map-is-not-upside-down/
+
+7. Meta’s live demo fails; “AI” recording plays before the actor takes the steps
+   Points: 258
+   Comments: 133
+   URL: https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/
+
+8. Rupert's snub cube and other Math Holes
+   Points: 41
+   Comments: 0
+   URL: http://tom7.org/ruperts/
+
+9. Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk
+   Points: 7
+   Comments: 0
+   URL: https://dr-schlange.github.io/nallely-midi/
+
+10. AI tools are making the world look weird
+   Points: 19
+   Comments: 8
+   URL: https://strat7.com/blogs/weird-in-weird-out/
+
+11. Show HN: Asxiv.org – Ask ArXiv papers questions through chat
+   Points: 74
+   Comments: 6
+   URL: https://asxiv.org/
+
+12. Visual lexicon of consumer aesthetics from the 1970s until now
+   Points: 13
+   Comments: 1
+   URL: https://cari.institute/
+
+13. Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs
+   Points: 5
+   Comments: 1
+   URL: https://github.com/hiyouga/LLaMA-Factory
+
+14. Show HN: I created a small 2D game about an ant
+   Points: 27
+   Comments: 5
+   URL: https://aanthonymax.github.io/ant-and-apples/
+
+15. Configuration files are user interfaces
+   Points: 138
+   Comments: 77
+   URL: https://ochagavia.nl/blog/configuration-files-are-user-interfaces/
+
+16. Classic recessive-or-dominant gene dynamics may not be so simple
+   Points: 8
+   Comments: 0
+   URL: https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research
+
+17. Launch HN: Cactus (YC S25) – AI inference on smartphones
+   Points: 81
+   Comments: 35
+   URL: https://github.com/cactus-compute/cactus
+
+18. TernFS – An exabyte scale, multi-region distributed filesystem
+   Points: 199
+   Comments: 73
+   URL: https://www.xtxmarkets.com/tech/2025-ternfs/
+
+19. KDE is now my favorite desktop
+   Points: 693
+   Comments: 556
+   URL: https://kokada.dev/blog/kde-is-now-my-favorite-desktop/
+
+20. Nvmath-Python: Nvidia Math Libraries for the Python Ecosystem
+   Points: 11
+   Comments: 0
+   URL: https://github.com/NVIDIA/nvmath-python
+
