@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-20
+==================================================
+
+1. Less is safer: how Obsidian reduces the risk of supply chain attacks
+   Points: 86
+   Comments: 54
+   URL: https://obsidian.md/blog/less-is-safer/
+
+2. Show HN: Zedis – A Redis clone I'm writing in Zig
+   Points: 43
+   Comments: 18
+   URL: https://github.com/barddoo/zedis
+
+3. Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration
+   Points: 57
+   Comments: 12
+   URL: https://www.codeintegrity.ai/blog/notion
+
+4. Xmonad seeking help for Wayland port
+   Points: 30
+   Comments: 17
+   URL: https://xmonad.org/news/2023/10/06/wayland.html
+
+5. Feedmaker: URL + CSS selectors = RSS feed
+   Points: 65
+   Comments: 14
+   URL: https://feedmaker.fly.dev
+
+6. Show HN: WeUseElixir - Elixir project directory
+   Points: 73
+   Comments: 11
+   URL: https://weuseelixir.com/
+
+7. Starfront Observatories
+   Points: 8
+   Comments: 1
+   URL: https://starfront.space/
+
+8. Ants that seem to defy biology – They lay eggs that hatch into another species
+   Points: 310
+   Comments: 98
+   URL: https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/
+
+9. An untidy history of AI across four books
+   Points: 80
+   Comments: 27
+   URL: https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity
+
+10. Tonemaps
+   Points: 24
+   Comments: 2
+   URL: https://mini.gmshaders.com/p/tonemaps
+
+11. Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease
+   Points: 50
+   Comments: 10
+   URL: https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/
+
+12. Internet Archive's big battle with music publishers ends in settlement
+   Points: 258
+   Comments: 108
+   URL: https://arstechnica.com/tech-policy/2025/09/internet-archives-big-battle-with-music-publishers-ends-in-settlement/
+
+13. R MCP Server
+   Points: 69
+   Comments: 7
+   URL: https://github.com/finite-sample/rmcp
+
+14. Ruby Central's Attack on RubyGems [pdf]
+   Points: 589
+   Comments: 191
+   URL: https://pup-e.com/goodbye-rubygems.pdf
+
+15. Your very own humane interface: Try Jef Raskin's ideas at home
+   Points: 57
+   Comments: 9
+   URL: https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/
+
+16. Time Spent on Hardening
+   Points: 39
+   Comments: 15
+   URL: https://third-bit.com/2025/09/18/time-spent-on-hardening/
+
+17. Restriction on Entry of Certain Nonimmigrant Workers
+   Points: 37
+   Comments: 26
+   URL: https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/
+
+18. The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]
+   Points: 38
+   Comments: 11
+   URL: https://kevinbryanecon.com/BryanAIBookReview.pdf
+
+19. Kernel: Introduce Multikernel Architecture Support
+   Points: 105
+   Comments: 24
+   URL: https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/
+
+20. YouTube downloaders (and how Google silenced the press)
+   Points: 168
+   Comments: 71
+   URL: https://windowsread.me/p/best-youtube-downloaders
+
