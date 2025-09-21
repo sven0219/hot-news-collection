@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-21
+==================================================
+
+1. $2 WeAct Display FS adds a 0.96-inch USB information display to your computer
+   Points: 135
+   Comments: 55
+   URL: https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/
+
+2. Ultrasonic Chef's Knife
+   Points: 358
+   Comments: 278
+   URL: https://seattleultrasonics.com/
+
+3. Teardown of Apple 40W dynamic power adapter with 60W max
+   Points: 77
+   Comments: 58
+   URL: https://www.chargerlab.com/teardown-of-apple-40w-dynamic-power-adapter-with-60w-max-a3365/
+
+4. Designing NotebookLM
+   Points: 150
+   Comments: 58
+   URL: https://jasonspielman.com/notebooklm
+
+5. A brief history of threads and threading
+   Points: 39
+   Comments: 3
+   URL: https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/
+
+6. Knitted Anatomy
+   Points: 55
+   Comments: 4
+   URL: https://www.knitted-anatomy.at/cardiovascular-system/
+
+7. A revolution in English bell ringing
+   Points: 44
+   Comments: 23
+   URL: https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/
+
+8. Solving a wooden puzzle using Haskell
+   Points: 47
+   Comments: 15
+   URL: https://glocq.github.io/en/blog/20250428/
+
+9. I’m Not a Robot
+   Points: 291
+   Comments: 156
+   URL: https://neal.fun/not-a-robot/
+
+10. After Babel Fish: The promise of cheap translations at the speed of the Web
+   Points: 33
+   Comments: 9
+   URL: https://hedgehogreview.com/issues/lessons-of-babel/articles/after-babel-fish
+
+11. Show HN: I Parallelized RNN Training from O(T) to O(log T) Using CUDA
+   Points: 15
+   Comments: 4
+   URL: https://dhruvmsheth.github.io/projects/gpu_pogramming_curnn/
+
+12. Why do some gamers invert their controls?
+   Points: 48
+   Comments: 71
+   URL: https://www.theguardian.com/games/2025/sep/18/why-do-some-gamers-invert-their-controls-scientists-now-have-answers-but-theyre-not-what-you-think
+
+13. Scream cipher
+   Points: 243
+   Comments: 93
+   URL: https://sethmlarson.dev/scream-cipher
+
+14. Escapee pregnancy test frogs colonised Wales for 50 years (2019)
+   Points: 111
+   Comments: 45
+   URL: https://www.bbc.com/news/uk-wales-44886585
+
+15. FLX1s phone is launched
+   Points: 152
+   Comments: 128
+   URL: https://furilabs.com/flx1s-is-launched/
+
+16. Images over DNS
+   Points: 156
+   Comments: 44
+   URL: https://dgl.cx/2025/09/images-over-dns
+
+17. Vapor chamber tech keeps iPhone 17 Pro cool
+   Points: 85
+   Comments: 181
+   URL: https://spectrum.ieee.org/iphone-17-pro-vapor-chamber
+
+18. MapSCII – World map in terminal
+   Points: 138
+   Comments: 19
+   URL: https://github.com/rastapasta/mapscii
+
+19. Bazel and Glibc Versions
+   Points: 6
+   Comments: 1
+   URL: https://blogsystem5.substack.com/p/glibc-versions-bazel
+
+20. Cormac McCarthy's tips on how to write a science paper (2019) [pdf]
+   Points: 192
+   Comments: 72
+   URL: https://gwern.net/doc/science/2019-savage.pdf
+
