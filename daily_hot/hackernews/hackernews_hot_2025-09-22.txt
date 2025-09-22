@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-22
+==================================================
+
+1. Sj.h: A tiny little JSON parsing library in ~150 lines of C99
+   Points: 281
+   Comments: 148
+   URL: https://github.com/rxi/sj.h
+
+2. Show HN: I wrote an OS in 1000 lines of Zig
+   Points: 88
+   Comments: 8
+   URL: https://github.com/botirk38/OS-1000-lines-zig
+
+3. Lightweight, highly accurate line and paragraph detection
+   Points: 37
+   Comments: 3
+   URL: https://arxiv.org/abs/2203.09638
+
+4. Be Careful with Go Struct Embedding
+   Points: 29
+   Comments: 18
+   URL: https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html
+
+5. Calculator Forensics (2002)
+   Points: 57
+   Comments: 24
+   URL: https://www.rskey.org/~mwsebastian/miscprj/results.htm
+
+6. 40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language
+   Points: 91
+   Comments: 50
+   URL: https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html
+
+7. DXGI debugging: Microsoft put me on a list
+   Points: 196
+   Comments: 63
+   URL: https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/
+
+8. Procedural Island Generation (VI)
+   Points: 24
+   Comments: 2
+   URL: https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html
+
+9. My new Git utility `what-changed-twice` needs a new name
+   Points: 16
+   Comments: 2
+   URL: https://blog.plover.com/2025/09/21/#what-changed-twice
+
+10. Timesketch: Collaborative forensic timeline analysis
+   Points: 99
+   Comments: 10
+   URL: https://github.com/google/timesketch
+
+11. I forced myself to spend a week in Instagram instead of Xcode
+   Points: 180
+   Comments: 65
+   URL: https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in
+
+12. Zig got a new ELF linker and it's fast
+   Points: 47
+   Comments: 9
+   URL: https://github.com/ziglang/zig/pull/25299
+
+13. Why your outdoorsy friend suddenly has a gummy bear power bank
+   Points: 153
+   Comments: 164
+   URL: https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank
+
+14. INapGPU: Text-mode graphics card, using only TTL gates
+   Points: 32
+   Comments: 4
+   URL: https://github.com/Leoneq/iNapGPU
+
+15. Model Flop Utilization Beyond 6ND
+   Points: 5
+   Comments: 0
+   URL: https://jott.live/markdown/mfu
+
+16. Node 20 will be deprecated on GitHub Actions runners
+   Points: 61
+   Comments: 15
+   URL: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+
+17. Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)
+   Points: 85
+   Comments: 11
+   URL: https://arxiv.org/abs/2503.05136
+
+18. Apple Silicon GPU Support in Mojo
+   Points: 84
+   Comments: 25
+   URL: https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295
+
+19. How Isaac Newton discovered the binomial power series (2022)
+   Points: 46
+   Comments: 8
+   URL: https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/
+
+20. Discovering new solutions to century-old problems in fluid dynamics
+   Points: 23
+   Comments: 0
+   URL: https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/
+
