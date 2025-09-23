@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-23
+==================================================
+
+1. Qwen3-Omni: Native Omni AI model for text, image and video
+   Points: 298
+   Comments: 75
+   URL: https://github.com/QwenLM/Qwen3-Omni
+
+2. The Magic Circle inducts Penn and Teller
+   Points: 51
+   Comments: 18
+   URL: https://www.nytimes.com/2025/09/19/arts/penn-teller-magic-circle.html
+
+3. Are We Chasing Language Hype over Solving Real Problems?
+   Points: 25
+   Comments: 12
+   URL: https://dayvster.com/blog/are-we-chasing-language-hype-over-solving-real-problems/
+
+4. In Maine, prisoners are thriving in remote jobs, other states are taking notice
+   Points: 132
+   Comments: 96
+   URL: https://www.mainepublic.org/2025-08-29/in-maine-prisoners-are-thriving-in-remote-jobs-and-other-states-are-taking-notice
+
+5. Paper2Agent: Stanford Reimagining Research Papers as Interactive AI Agents
+   Points: 44
+   Comments: 9
+   URL: https://arxiv.org/abs/2509.06917
+
+6. Federal judge lifts administration halt of offshore wind farm in New England
+   Points: 117
+   Comments: 28
+   URL: https://apnews.com/article/trump-renewable-energy-offshore-wind-revolution-wind-f1cbe85a829e3d5e5496f834bcb617d1
+
+7. The Beginner's Textbook for Fully Homomorphic Encryption
+   Points: 161
+   Comments: 28
+   URL: https://arxiv.org/abs/2503.05136
+
+8. Cap'n Web: a new RPC system for browsers and web servers
+   Points: 380
+   Comments: 180
+   URL: https://blog.cloudflare.com/capnweb-javascript-rpc-library/
+
+9. Why haven't local-first apps become popular?
+   Points: 293
+   Comments: 304
+   URL: https://marcobambini.substack.com/p/why-local-first-apps-havent-become
+
+10. I'm spoiled by Apple Silicon but still love Framework
+   Points: 174
+   Comments: 241
+   URL: https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/
+
+11. OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems
+   Points: 381
+   Comments: 497
+   URL: https://openai.com/index/openai-nvidia-systems-partnership/
+
+12. Is a movie prop the ultimate laptop bag?
+   Points: 145
+   Comments: 162
+   URL: https://blog.jgc.org/2025/09/is-movie-prop-ultimate-laptop-bag.html
+
+13. Testing is better than data structures and algorithms
+   Points: 86
+   Comments: 84
+   URL: https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html
+
+14. Diffusion Beats Autoregressive in Data-Constrained Settings
+   Points: 50
+   Comments: 13
+   URL: https://blog.ml.cmu.edu/2025/09/22/diffusion-beats-autoregressive-in-data-constrained-settings/
+
+15. A board member's perspective of the RubyGems controversy
+   Points: 67
+   Comments: 93
+   URL: https://apiguy.substack.com/p/a-board-members-perspective-of-the
+
+16. What happens when coding agents stop feeling like dialup?
+   Points: 88
+   Comments: 84
+   URL: https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/
+
+17. Choose Your Own Adventure
+   Points: 120
+   Comments: 65
+   URL: https://www.filfre.net/2025/09/choose-your-own-adventure/
+
+18. Jailhouse confessions of a teen hacker
+   Points: 60
+   Comments: 18
+   URL: https://www.bloomberg.com/news/features/2025-09-19/multimillion-dollar-hacking-spree-scattered-spider-teen-s-jailhouse-confessions
+
+19. Show HN: Python Audio Transcription: Convert Speech to Text Locally
+   Points: 35
+   Comments: 16
+   URL: https://www.pavlinbg.com/posts/python-speech-to-text-guide
+
+20. Cloudflare is sponsoring Ladybird and Omarchy
+   Points: 603
+   Comments: 375
+   URL: https://blog.cloudflare.com/supporting-the-future-of-the-open-web/
+
