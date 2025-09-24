@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-24
+==================================================
+
+1. Find SF parking cops
+   Points: 535
+   Comments: 310
+   URL: https://walzr.com/sf-parking/
+
+2. NYC Telecom Raid: What's Up with Those Weird SIM Banks?
+   Points: 34
+   Comments: 16
+   URL: https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/
+
+3. From Rust to reality: The hidden journey of fetch_max
+   Points: 91
+   Comments: 10
+   URL: https://questdb.com/blog/rust-fetch-max-compiler-journey/
+
+4. Qwen3-VL
+   Points: 131
+   Comments: 34
+   URL: https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list
+
+5. Libghostty is coming
+   Points: 513
+   Comments: 153
+   URL: https://mitchellh.com/writing/libghostty-is-coming
+
+6. Markov chains are the original language models
+   Points: 237
+   Comments: 103
+   URL: https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models
+
+7. Baldur's Gate 3 Steam Deck – Native Version
+   Points: 7
+   Comments: 1
+   URL: https://larian.com/support/faqs/steam-deck-native-version_121
+
+8. Getting AI to work in complex codebases
+   Points: 211
+   Comments: 219
+   URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
+
+9. The Top Programming Languages 2025
+   Points: 17
+   Comments: 7
+   URL: https://spectrum.ieee.org/top-programming-languages-2025
+
+10. MLB approves robot umpires for 2026 as part of challenge system
+   Points: 6
+   Comments: 2
+   URL: https://www.espn.com/mlb/story/_/id/46357017/mlb-approves-robot-umpires-2026-part-challenge-system
+
+11. Go has added Valgrind support
+   Points: 463
+   Comments: 120
+   URL: https://go-review.googlesource.com/c/go/+/674077
+
+12. Kitty – GPU based terminal emulator
+   Points: 40
+   Comments: 27
+   URL: https://sw.kovidgoyal.net/kitty/
+
+13. How to draw construction equipment for kids
+   Points: 79
+   Comments: 36
+   URL: https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment
+
+14. Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools
+   Points: 115
+   Comments: 59
+   URL: https://news.ycombinator.com/item?id=45347914
+
+15. Is Fortran better than Python for teaching basics of numerical linear algebra?
+   Points: 40
+   Comments: 37
+   URL: https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html
+
+16. Show HN: A Vibrator Helped Me Debug a Motorcycle Brake Light System
+   Points: 7
+   Comments: 3
+   URL: https://bikesafe.me/blogs/news/how-a-vibrator-helped-me-debug-a-motorcycle-brake-light-system
+
+17. Apple A19 SoC die shot
+   Points: 70
+   Comments: 34
+   URL: https://chipwise.tech/our-portfolio/apple-a19-dieshot/
+
+18. Context Engineering for AI Agents: Lessons
+   Points: 33
+   Comments: 1
+   URL: https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
+
+19. Always Invite Anna
+   Points: 598
+   Comments: 60
+   URL: https://sharif.io/anna-alexei
+
+20. From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more
+   Points: 115
+   Comments: 31
+   URL: https://verialabs.com/blog/from-mcp-to-shell/
+
