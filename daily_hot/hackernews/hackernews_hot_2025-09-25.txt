@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-25
+==================================================
+
+1. Everything that's wrong with Google Search in one image
+   Points: 362
+   Comments: 225
+   URL: https://bitbytebit.substack.com/p/everything-thats-wrong-with-google
+
+2. Do YC after you graduate: Early decision for students
+   Points: 32
+   Comments: 26
+   URL: https://www.ycombinator.com/early-decision
+
+3. Quicksort explained IKEA-style
+   Points: 309
+   Comments: 66
+   URL: https://idea-instructions.com/quick-sort/
+
+4. SonyShell – An effort to “SSH into my Sony DSLR”
+   Points: 51
+   Comments: 16
+   URL: https://github.com/goudvuur/sonyshell
+
+5. Huntington's disease treated for first time
+   Points: 427
+   Comments: 93
+   URL: https://www.bbc.com/news/articles/cevz13xkxpro
+
+6. Docker Hub Is Down
+   Points: 83
+   Comments: 31
+   URL: https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68d47a2f93c09e05486d93a9
+
+7. How did sports betting become legal in the US?
+   Points: 22
+   Comments: 4
+   URL: https://shreyashariharan.substack.com/p/how-did-sports-betting-become-legal
+
+8. Helium Browser
+   Points: 79
+   Comments: 51
+   URL: https://helium.computer/
+
+9. SedonaDB: A new geospatial DataFrame library written in Rust
+   Points: 123
+   Comments: 37
+   URL: https://sedona.apache.org/latest/blog/2025/09/24/introducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen/
+
+10. Python on the Edge: Fast, sandboxed, and powered by WebAssembly
+   Points: 203
+   Comments: 82
+   URL: https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly
+
+11. Terence Tao: The role of small organizations in society has shrunk significantly
+   Points: 684
+   Comments: 381
+   URL: https://mathstodon.xyz/@tao/115259943398316677
+
+12. New bacteria, and two potential antibiotics, discovered in soil
+   Points: 119
+   Comments: 35
+   URL: https://www.rockefeller.edu/news/38239-hundreds-of-new-bacteria-and-two-potential-antibiotics-found-in-soil/
+
+13. Low Earth Orbit Visualization
+   Points: 11
+   Comments: 1
+   URL: https://platform.leolabs.space/visualization
+
+14. Harvard's Public Health Dean Was Paid $150k to Testify Tylenol Causes Autism
+   Points: 26
+   Comments: 5
+   URL: https://www.thecrimson.com/article/2025/9/24/autism-dean-public-health/
+
+15. Launch HN: Flywheel (YC S25) – Waymo for Excavators
+   Points: 57
+   Comments: 39
+   URL: https://news.ycombinator.com/item?id=45362914
+
+16. Snapdragon X2 Elite ARM Laptop CPU
+   Points: 72
+   Comments: 75
+   URL: https://www.qualcomm.com/products/mobile/snapdragon/laptops-and-tablets/snapdragon-x2-elite
+
+17. How to Lead in a Room Full of Experts
+   Points: 244
+   Comments: 61
+   URL: https://idiallo.com/blog/how-to-lead-in-a-room-full-of-experts
+
+18. Learning Persian with Anki, ChatGPT and YouTube
+   Points: 178
+   Comments: 65
+   URL: https://cjauvin.github.io/posts/learning-persian/
+
+19. How fast is Go? simulating particles on a smart TV
+   Points: 48
+   Comments: 11
+   URL: https://dgerrells.com/blog/how-fast-is-go-simulating-millions-of-particles-on-a-smart-tv
+
+20. How AWS S3 serves 1 petabyte per second on top of slow HDDs
+   Points: 239
+   Comments: 105
+   URL: https://bigdata.2minutestreaming.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives
+
