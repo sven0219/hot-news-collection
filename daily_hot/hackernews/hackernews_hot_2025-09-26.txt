@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-26
+==================================================
+
+1. Bluesky Alt Text Stream
+   Points: 40
+   Comments: 6
+   URL: https://bobbiec.github.io/bluesky-alt-text.html
+
+2. Improved Gemini 2.5 Flash and Flash-Lite
+   Points: 341
+   Comments: 188
+   URL: https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/
+
+3. RedoxFS is the default filesystem of Redox OS, inspired by ZFS
+   Points: 79
+   Comments: 42
+   URL: https://doc.redox-os.org/book/redoxfs.html
+
+4. Ollama Web Search
+   Points: 166
+   Comments: 100
+   URL: https://ollama.com/blog/web-search
+
+5. Apple Demands EU Repeal the Digital Markets Act
+   Points: 28
+   Comments: 4
+   URL: https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/
+
+6. ChatGPT Pulse
+   Points: 353
+   Comments: 342
+   URL: https://openai.com/index/introducing-chatgpt-pulse/
+
+7. The Word Made Lifeless. Are we becoming stochastic parrots?
+   Points: 19
+   Comments: 1
+   URL: https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless
+
+8. Cloudflare Email Service: private beta
+   Points: 444
+   Comments: 357
+   URL: https://blog.cloudflare.com/email-service/
+
+9. Conspiracy content drives anti-establishment sentiment on TikTok, YouTube
+   Points: 26
+   Comments: 11
+   URL: https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/
+
+10. Cosmic simulations that once needed supercomputers now run on a laptop
+   Points: 71
+   Comments: 18
+   URL: https://www.sciencedaily.com/releases/2025/09/250918225001.htm
+
+11. Athlon 64: How AMD turned the tables on Intel
+   Points: 182
+   Comments: 116
+   URL: https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/
+
+12. Brutalita Sans: An Experimental Font and Font Editor
+   Points: 536
+   Comments: 72
+   URL: https://brutalita.com/
+
+13. Can a model trained on satellite data really find brambles on the ground?
+   Points: 90
+   Comments: 28
+   URL: https://toao.com/blog/can-we-really-see-brambles-from-space
+
+14. Demand for human radiologists is at an all-time high
+   Points: 241
+   Comments: 265
+   URL: https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists
+
+15. Factory Raises $50M Series B
+   Points: 28
+   Comments: 11
+   URL: https://factory.ai/news/series-b
+
+16. Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web
+   Points: 76
+   Comments: 45
+   URL: https://news.ycombinator.com/item?id=45373008
+
+17. Redox OS Development Priorities for 2025/26
+   Points: 61
+   Comments: 4
+   URL: https://www.redox-os.org/news/development-priorities-2025-09/
+
+18. Tracing JITs in the Real World CPython Core Dev Sprint
+   Points: 56
+   Comments: 11
+   URL: https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/
+
+19. ChatControl: EU wants to scan all private messages, even in encrypted apps
+   Points: 816
+   Comments: 440
+   URL: https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/
+
+20. Identity Types
+   Points: 39
+   Comments: 4
+   URL: https://bartoszmilewski.com/2025/09/22/identity-types/
+
