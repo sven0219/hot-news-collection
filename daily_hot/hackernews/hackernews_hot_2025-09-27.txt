@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-27
+==================================================
+
+1. SimpleFold: Folding proteins is simpler than you think
+   Points: 252
+   Comments: 96
+   URL: https://github.com/apple/ml-simplefold
+
+2. New math revives geometry's oldest problems
+   Points: 32
+   Comments: 0
+   URL: https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/
+
+3. Open Social
+   Points: 406
+   Comments: 211
+   URL: https://overreacted.io/open-social/
+
+4. The Beauty of Programming (2001)
+   Points: 81
+   Comments: 16
+   URL: https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming
+
+5. Why do we remember some life moments but not others?
+   Points: 26
+   Comments: 12
+   URL: https://www.bu.edu/articles/2025/why-do-we-remember-some-moments-but-not-others/
+
+6. Clean Hydrogen at a Crossroads: Why Methane Pyrolysis Deserves Attention
+   Points: 9
+   Comments: 12
+   URL: https://www.c2es.org/2025/09/clean-hydrogen-at-a-crossroads-why-methane-pyrolysis-deserves-attention/
+
+7. If you are harassed by lasers
+   Points: 107
+   Comments: 102
+   URL: https://www.laserpointersafety.com/harassment.html
+
+8. RNA structure prediction is hard. How much does that matter?
+   Points: 32
+   Comments: 6
+   URL: https://www.owlposting.com/p/rna-structure-prediction-is-hard
+
+9. How insurance risk is transformed into investable assets
+   Points: 39
+   Comments: 10
+   URL: https://riskvest.io/riskvest-insights/transforming-insurance-risk
+
+10. Britain to introduce compulsory digital ID for workers
+   Points: 340
+   Comments: 621
+   URL: https://www.reuters.com/world/uk/britain-introduce-mandatory-digital-id-cards-2025-09-26/
+
+11. Moondream 3 Preview: Frontier-level reasoning at a blazing speed
+   Points: 23
+   Comments: 4
+   URL: https://moondream.ai/blog/moondream-3-preview
+
+12. RPi 500 arrives with mechanical switches, RGB LED backlit keys
+   Points: 9
+   Comments: 4
+   URL: https://thepihut.com/products/raspberry-pi-500-plus
+
+13. The Obsessively Complete Infocom Catalog
+   Points: 6
+   Comments: 1
+   URL: https://eblong.com/infocom/
+
+14. Auth.js is now part of Better Auth
+   Points: 74
+   Comments: 22
+   URL: https://www.better-auth.com/blog/authjs-joins-better-auth
+
+15. Modular Manifolds
+   Points: 120
+   Comments: 49
+   URL: https://thinkingmachines.ai/blog/modular-manifolds/
+
+16. CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells
+   Points: 120
+   Comments: 37
+   URL: https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain
+
+17. US cities pay too much for buses
+   Points: 189
+   Comments: 365
+   URL: https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses
+
+18. Suno Studio, a Generative AI DAW
+   Points: 80
+   Comments: 101
+   URL: https://suno.com/studio-welcome
+
+19. How to make sense of any mess
+   Points: 400
+   Comments: 117
+   URL: https://www.howtomakesenseofanymess.com
+
+20. Amiga SPICE is a program for simulating electronic circuits
+   Points: 12
+   Comments: 4
+   URL: https://www.edsa.uk/blog/amiga-spice
+
