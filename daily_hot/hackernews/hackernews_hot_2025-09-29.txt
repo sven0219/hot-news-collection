@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-29
+==================================================
+
+1. Play snake in the URL address bar
+   Points: 284
+   Comments: 35
+   URL: https://demian.ferrei.ro/snake/
+
+2. Go ahead, write the “stupid” code
+   Points: 40
+   Comments: 15
+   URL: https://spikepuppet.io/posts/write-the-stupid-code/
+
+3. Privacy Badger is a free browser extension made by EFF to stop spying
+   Points: 545
+   Comments: 222
+   URL: https://privacybadger.org/
+
+4. Autism may be the price of human intelligence, linked to human brain evolution
+   Points: 32
+   Comments: 8
+   URL: https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false
+
+5. Bayesian Data Analysis, Third edition (2013) [pdf]
+   Points: 188
+   Comments: 37
+   URL: https://sites.stat.columbia.edu/gelman/book/BDA3.pdf
+
+6. When I say “alphabetical order”, I mean “alphabetical order”
+   Points: 329
+   Comments: 222
+   URL: https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/
+
+7. The AI coding trap
+   Points: 443
+   Comments: 279
+   URL: https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap
+
+8. Farewell friends
+   Points: 107
+   Comments: 19
+   URL: https://humbledollar.com/forum/farewell-friends/
+
+9. The QMA Singularity
+   Points: 53
+   Comments: 25
+   URL: https://scottaaronson.blog/?p=9183
+
+10. Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC
+   Points: 126
+   Comments: 10
+   URL: https://git.lain.faith/iitalics/scm2wasm
+
+11. Supermicro server motherboards can be infected with unremovable malware
+   Points: 172
+   Comments: 72
+   URL: https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/
+
+12. Imagination as General Intelligence: Reconciling Consciousness and Free Will
+   Points: 4
+   Comments: 1
+   URL: https://zenodo.org/records/17109096
+
+13. VMScape and why Xen dodged it
+   Points: 80
+   Comments: 14
+   URL: https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/
+
+14. Roe (YC W24) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=45407951
+
+15. Corral.BAS
+   Points: 10
+   Comments: 0
+   URL: https://basic-code.bearblog.dev/corral/
+
+16. Comparing Rust to Carbon
+   Points: 38
+   Comments: 3
+   URL: https://lwn.net/Articles/1036912/
+
+17. Show HN: Toolbrew – Free little tools without signups or ads
+   Points: 157
+   Comments: 43
+   URL: https://toolbrew.co/
+
+18. Rustroid, a Rust IDE for Android
+   Points: 70
+   Comments: 29
+   URL: https://rustroid.is-a.dev/story
+
+19. How many elephants?
+   Points: 21
+   Comments: 5
+   URL: http://howmanyelephants.co.uk
+
+20. Patagonian Welsh
+   Points: 3
+   Comments: 0
+   URL: https://en.wikipedia.org/wiki/Patagonian_Welsh
+
