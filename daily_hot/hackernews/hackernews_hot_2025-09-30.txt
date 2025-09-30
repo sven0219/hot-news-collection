@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-09-30
+==================================================
+
+1. Claude Sonnet 4.5
+   Points: 1005
+   Comments: 537
+   URL: https://www.anthropic.com/news/claude-sonnet-4-5
+
+2. California governor signs AI transparency bill into law
+   Points: 183
+   Comments: 115
+   URL: https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/
+
+3. Claude Code 2.0
+   Points: 489
+   Comments: 182
+   URL: https://www.npmjs.com/package/@anthropic-ai/claude-code
+
+4. Voronoi map generation in Civilization VII
+   Points: 85
+   Comments: 5
+   URL: https://civilization.2k.com/civ-vii/from-the-devs/map-generation/
+
+5. Ask HN: What are you working on? (September 2025)
+   Points: 94
+   Comments: 266
+   URL: https://news.ycombinator.com/item?id=45418675
+
+6. Loadmo.re: design inspiration for unconventional web
+   Points: 260
+   Comments: 36
+   URL: https://loadmo.re
+
+7. How to Create an OS from Scratch
+   Points: 11
+   Comments: 1
+   URL: https://github.com/cfenollosa/os-tutorial
+
+8. Instant Checkout and the Agentic Commerce Protocol
+   Points: 141
+   Comments: 254
+   URL: https://openai.com/index/buy-it-in-chatgpt/
+
+9. John Jumper: AI is revolutionizing scientific discovery [video]
+   Points: 59
+   Comments: 32
+   URL: https://www.youtube.com/watch?v=2Yguz5U-Nic
+
+10. Jax: Fast Combinations Calculation
+   Points: 30
+   Comments: 3
+   URL: https://github.com/phoenicyan/combinadics
+
+11. A SQL Heuristic: ORs Are Expensive
+   Points: 60
+   Comments: 33
+   URL: https://ethanseal.com/articles/ors-are-expensive
+
+12. Code golfing a tiny demo using maths and a pinch of insanity
+   Points: 14
+   Comments: 7
+   URL: https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html
+
+13. `std::flip`
+   Points: 88
+   Comments: 73
+   URL: https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html
+
+14. Diagnosing a Linux Performance Regression
+   Points: 31
+   Comments: 3
+   URL: https://automattic.com/2024/03/14/systems-report-linux-performance-regression/
+
+15. C2PA Investigations
+   Points: 12
+   Comments: 0
+   URL: https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations
+
+16. Subtleties of SQLite Indexes
+   Points: 81
+   Comments: 44
+   URL: https://emschwartz.me/subtleties-of-sqlite-indexes/
+
+17. ML on Apple ][+
+   Points: 93
+   Comments: 21
+   URL: https://mdcramer.github.io/apple-2-blog/k-means/
+
+18. Not all OCuLink eGPU docks are created equal
+   Points: 95
+   Comments: 24
+   URL: https://www.jeffgeerling.com/blog/2025/not-all-oculink-egpu-docks-are-created-equal
+
+19. Managing Dotfiles with Make
+   Points: 10
+   Comments: 4
+   URL: https://www.matheusmoreira.com/articles/managing-dotfiles-with-make
+
+20. Google to merge Android and ChromeOS in 2026
+   Points: 65
+   Comments: 20
+   URL: https://www.theregister.com/2025/09/25/google_android_chromeos/
+
