@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-03
+==================================================
+
+1. Signal Protocol and Post-Quantum Ratchets
+   Points: 423
+   Comments: 184
+   URL: https://signal.org/blog/spqr/
+
+2. The strangest letter of the alphabet: The rise and fall of yogh
+   Points: 71
+   Comments: 39
+   URL: https://www.deadlanguagesociety.com/p/history-of-letter-yogh
+
+3. Babel is why I keep blogging with Emacs
+   Points: 167
+   Comments: 40
+   URL: https://entropicthoughts.com/why-stick-to-emacs-blog
+
+4. Why most product planning is bad and what to do about it
+   Points: 90
+   Comments: 26
+   URL: https://blog.railway.com/p/product-planning-improvement
+
+5. Playball – Watch MLB games from a terminal
+   Points: 209
+   Comments: 97
+   URL: https://github.com/paaatrick/playball
+
+6. We bought the whole GPU, so we're damn well going to use the whole GPU
+   Points: 452
+   Comments: 80
+   URL: https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main
+
+7. Pre-Record Your Demos
+   Points: 19
+   Comments: 16
+   URL: https://www.steveharrison.dev/pre-record-your-demos/
+
+8. The history of cataract surgery
+   Points: 192
+   Comments: 120
+   URL: https://www.asimov.press/p/cataracts
+
+9. RISC-V Conditional Moves
+   Points: 49
+   Comments: 16
+   URL: https://www.corsix.org/content/riscv-conditional-moves
+
+10. OpenAI's H1 2025: $4.3B in income, $13.5B in loss
+   Points: 265
+   Comments: 281
+   URL: https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025
+
+11. N8n added native persistent storage with DataTables
+   Points: 129
+   Comments: 58
+   URL: https://community.n8n.io/t/data-tables-are-here/192256
+
+12. Why I chose Lua for this blog
+   Points: 109
+   Comments: 67
+   URL: https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html
+
+13. Class Dismissed: Profile of Joe Liemandt and Alpha School
+   Points: 25
+   Comments: 8
+   URL: https://joincolossus.com/article/joe-liemandt-class-dismissed/
+
+14. A simple habit that saves my evenings
+   Points: 113
+   Comments: 49
+   URL: https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/
+
+15. Launch HN: Simplex (YC S24) – Browser automation platform for developers
+   Points: 28
+   Comments: 21
+   URL: https://www.simplex.sh/
+
+16. Solveit – A course and platform for solving problems with code
+   Points: 65
+   Comments: 67
+   URL: https://www.answer.ai/posts/2025-10-01-solveit-full.html
+
+17. A primer for using weather surveillance radar to study bird migration
+   Points: 6
+   Comments: 0
+   URL: https://birdcast.info/news/a-primer-for-using-weather-surveillance-radar-to-study-bird-migration/
+
+18. How Israeli actions caused famine in Gaza, visualized
+   Points: 761
+   Comments: 660
+   URL: https://www.cnn.com/2025/10/02/middleeast/gaza-famine-causes-vis-intl
+
+19. Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys
+   Points: 182
+   Comments: 150
+   URL: https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys
+
+20. Show HN: Traceroute Visualizer
+   Points: 56
+   Comments: 11
+   URL: https://kriztalz.sh/traceroute-visualizer/
+
