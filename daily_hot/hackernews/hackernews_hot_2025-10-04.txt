@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-04
+==================================================
+
+1. Offline card payments should be possible no later than 1 July 2026
+   Points: 202
+   Comments: 214
+   URL: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/
+
+2. Zig builds are getting faster
+   Points: 59
+   Comments: 9
+   URL: https://mitchellh.com/writing/zig-builds-getting-faster
+
+3. Where it's at://
+   Points: 68
+   Comments: 35
+   URL: https://overreacted.io/where-its-at/
+
+4. Fluid Glass
+   Points: 160
+   Comments: 24
+   URL: https://chiuhans111.github.io/fluidglass/
+
+5. PEP 810 – Explicit lazy imports
+   Points: 254
+   Comments: 139
+   URL: https://pep-previews--4622.org.readthedocs.build/pep-0810/
+
+6. AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip
+   Points: 68
+   Comments: 6
+   URL: https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core
+
+7. Interstellar Object 3I/Atlas Passed Mars Last Night
+   Points: 78
+   Comments: 58
+   URL: https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/
+
+8. LoRA Without Regret
+   Points: 46
+   Comments: 15
+   URL: https://thinkingmachines.ai/blog/lora/
+
+9. Litestream v0.5.0
+   Points: 357
+   Comments: 165
+   URL: https://fly.io/blog/litestream-v050-is-here/
+
+10. Open Printer is an open source inkjet printer with DRM-free ink
+   Points: 153
+   Comments: 40
+   URL: https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html
+
+11. Jules, remote coding agent from Google Labs, announces API
+   Points: 73
+   Comments: 11
+   URL: https://jules.google/docs/changelog/
+
+12. When private practices merge with hospital systems, costs go up
+   Points: 55
+   Comments: 18
+   URL: https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up
+
+13. TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr
+
+14. WireGuard topologies for self-hosting at home
+   Points: 26
+   Comments: 17
+   URL: https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/
+
+15. Niri – A scrollable-tiling Wayland compositor
+   Points: 422
+   Comments: 206
+   URL: https://github.com/YaLTeR/niri
+
+16. Cancelling async Rust
+   Points: 159
+   Comments: 60
+   URL: https://sunshowers.io/posts/cancelling-async-rust/
+
+17. Arenas in Rust
+   Points: 47
+   Comments: 13
+   URL: https://russellw.github.io/arenas
+
+18. Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)
+   Points: 24
+   Comments: 1
+   URL: https://salykova.github.io/gemm-cpu
+
+19. I turned the Lego Game Boy into a working Game Boy
+   Points: 198
+   Comments: 15
+   URL: https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/
+
+20. Effective context engineering for AI agents
+   Points: 21
+   Comments: 2
+   URL: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+
