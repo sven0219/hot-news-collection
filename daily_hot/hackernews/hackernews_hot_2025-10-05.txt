@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-05
+==================================================
+
+1. ProofOfThought: LLM-based reasoning using Z3 theorem proving
+   Points: 176
+   Comments: 95
+   URL: https://github.com/DebarghaG/proofofthought
+
+2. A comparison of Ada and Rust, using solutions to the Advent of Code
+   Points: 190
+   Comments: 124
+   URL: https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md
+
+3. XiangShan Vector Floating-Point Unit Design
+   Points: 21
+   Comments: 1
+   URL: https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/
+
+4. Newton: physics simulation engine built upon NVIDIA Warp
+   Points: 37
+   Comments: 4
+   URL: https://github.com/newton-physics/newton
+
+5. Blog Feeds
+   Points: 85
+   Comments: 40
+   URL: https://blogfeeds.net
+
+6. Show HN: Run – a CLI universal code runner I built while learning Rust
+   Points: 55
+   Comments: 19
+   URL: https://github.com/Esubaalew/run
+
+7. How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs
+   Points: 61
+   Comments: 16
+   URL: https://arxiv.org/abs/2509.19371
+
+8. Matrix Core Programming on AMD GPUs
+   Points: 23
+   Comments: 0
+   URL: https://salykova.github.io/matrix-cores-cdna
+
+9. Self-hosting email like it's 1984
+   Points: 165
+   Comments: 105
+   URL: https://maxadamski.com/blog/2025/10/email.html
+
+10. OpenAI's hunger for computing power has Sam Altman dashing around the globe
+   Points: 36
+   Comments: 17
+   URL: https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809
+
+11. Earth was born dry until a cosmic collision made it a blue planet
+   Points: 198
+   Comments: 177
+   URL: https://www.sciencedaily.com/releases/2025/09/250928095654.htm
+
+12. Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces
+   Points: 53
+   Comments: 7
+   URL: https://github.com/lsartory/Clavier
+
+13. Paged Out Issue #7 [pdf]
+   Points: 225
+   Comments: 19
+   URL: https://pagedout.institute/download/PagedOut_007.pdf
+
+14. Alibaba cloud FPGA: the $200 Kintex UltraScale+
+   Points: 241
+   Comments: 79
+   URL: https://essenceia.github.io/projects/alibaba_cloud_fpga/
+
+15. Zig builds are getting faster
+   Points: 409
+   Comments: 191
+   URL: https://mitchellh.com/writing/zig-builds-getting-faster
+
+16. Offline card payments should be possible no later than 1 July 2026
+   Points: 473
+   Comments: 537
+   URL: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/
+
+17. Thunderscan: A clever device transforms a printer into a scanner (2004)
+   Points: 133
+   Comments: 23
+   URL: https://www.folklore.org/Thunderscan.html
+
+18. The Art of Color... Science?
+   Points: 8
+   Comments: 0
+   URL: https://nikonrumors.com/2025/09/30/the-art-of-color-science.aspx/
+
+19. The UK is still trying to backdoor encryption for Apple users
+   Points: 245
+   Comments: 82
+   URL: https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users
+
+20. Fluid Glass
+   Points: 659
+   Comments: 109
+   URL: https://chiuhans111.github.io/fluidglass/
+
