@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-06
+==================================================
+
+1. Fire destroys S. Korean government's cloud storage system, no backups available
+   Points: 871
+   Comments: 402
+   URL: https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936
+
+2. Germany outfitted half a million balconies with solar panels
+   Points: 67
+   Comments: 44
+   URL: https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/
+
+3. Ken Parker, famed luthier, has died
+   Points: 47
+   Comments: 10
+   URL: https://kenparkerarchtops.com
+
+4. What GPT-OSS leaks about OpenAI's training data
+   Points: 151
+   Comments: 41
+   URL: https://fi-le.net/oss/
+
+5. The G in GPU is for Graphics damnit
+   Points: 42
+   Comments: 1
+   URL: https://ut21.github.io/blog/triton.html
+
+6. Toybox: All-in-one Linux command line
+   Points: 41
+   Comments: 13
+   URL: https://github.com/landley/toybox
+
+7. The QNX Operating System
+   Points: 159
+   Comments: 39
+   URL: https://www.abortretry.fail/p/the-qnx-operating-system
+
+8. NFS at 40 – Remembering the Sun Microsystems Network File System
+   Points: 75
+   Comments: 62
+   URL: https://nfs40.online/
+
+9. The death of industrial design and the era of dull electronics
+   Points: 72
+   Comments: 29
+   URL: https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/
+
+10. Generative AI's Energy Needs Are Reshaping Our World
+   Points: 9
+   Comments: 0
+   URL: https://spectrum.ieee.org/ai-energy-use
+
+11. Social Cooling (2017)
+   Points: 372
+   Comments: 185
+   URL: https://www.socialcooling.com/
+
+12. Intro to BirdNET-Pi: Eavesdropping on my feathered friends
+   Points: 60
+   Comments: 12
+   URL: https://hannahilea.com/blog/birdnet-intro/
+
+13. Show HN: ut – Rust based CLI utilities for devs and IT
+   Points: 103
+   Comments: 30
+   URL: https://github.com/ksdme/ut
+
+14. Show HN: ASCII Drawing Board
+   Points: 62
+   Comments: 29
+   URL: https://www.delopsu.com/draw.html
+
+15. Callbacks in C++ using template functors (1994)
+   Points: 37
+   Comments: 27
+   URL: http://www.tutok.sk/fastgl/callback.html
+
+16. 86 GB/s bitpacking with ARM SIMD (single thread)
+   Points: 95
+   Comments: 24
+   URL: https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack
+
+17. Self hosting 10TB in S3 on a framework laptop and disks
+   Points: 182
+   Comments: 83
+   URL: https://jamesoclaire.com/2025/10/05/self-hosting-10tb-in-s3-on-a-framework-laptop-disks/
+
+18. Explainer: Inodes and Inode Numbers
+   Points: 11
+   Comments: 0
+   URL: https://eclecticlight.co/2025/10/04/explainer-inodes-and-inode-numbers/
+
+19. BYD builds fastest car
+   Points: 110
+   Comments: 78
+   URL: https://www.autotrader.co.uk/content/news/byd-builds-world-s-fastest-car
+
+20. AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip
+   Points: 8
+   Comments: 1
+   URL: https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core
+
