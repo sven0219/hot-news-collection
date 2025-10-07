@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-07
+==================================================
+
+1. Apps SDK
+   Points: 252
+   Comments: 222
+   URL: https://developers.openai.com/apps-sdk/
+
+2. Analytical Review of Depression and Suicidality from Finasteride
+   Points: 16
+   Comments: 0
+   URL: https://www.psychiatrist.com/jcp/analytical-review-depression-suicidality-finasteride/
+
+3. Kirigami-inspired parachute falls on target
+   Points: 128
+   Comments: 33
+   URL: https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/
+
+4. CodeMender: an AI agent for code security
+   Points: 85
+   Comments: 17
+   URL: https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/
+
+5. OpenZL: An open source format-aware compression framework
+   Points: 230
+   Comments: 55
+   URL: https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/
+
+6. Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)
+   Points: 194
+   Comments: 130
+   URL: https://windscribe.com/blog/the-vpn-relationship-map/
+
+7. How to tile matrix multiplication (2023)
+   Points: 38
+   Comments: 1
+   URL: https://alvinwan.com/how-to-tile-matrix-multiplication/
+
+8. Why did Crunchyroll's subtitles just get worse?
+   Points: 62
+   Comments: 42
+   URL: https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles
+
+9. Ladybird passes the Apple 90% threshold on web-platform-tests
+   Points: 664
+   Comments: 186
+   URL: https://twitter.com/awesomekling/status/1974781722953953601
+
+10. Mise: Monorepo Tasks
+   Points: 288
+   Comments: 61
+   URL: https://github.com/jdx/mise/discussions/6564
+
+11. RediShell: Critical remote code execution vulnerability in Redis
+   Points: 21
+   Comments: 8
+   URL: https://www.wiz.io/blog/wiz-research-redis-rce-cve-2025-49844
+
+12. Translating Cython to Mojo, a first attempt
+   Points: 32
+   Comments: 2
+   URL: https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/
+
+13. Valorant's 128-Tick Servers (2020)
+   Points: 166
+   Comments: 84
+   URL: https://technology.riotgames.com/news/valorants-128-tick-servers
+
+14. Indefinite Backpack Travel
+   Points: 263
+   Comments: 235
+   URL: https://jeremymaluf.com/onebag/
+
+15. Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)
+   Points: 182
+   Comments: 34
+   URL: https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b
+
+16. WebGPU and the Price of Compiling WGSL
+   Points: 27
+   Comments: 10
+   URL: https://hugodaniel.com/posts/webgpu-diagnostics/
+
+17. Nobel Prize in Physiology or Medicine 2025
+   Points: 324
+   Comments: 72
+   URL: https://www.nobelprize.org/prizes/medicine/2025/press-release/
+
+18. My Life in Ambigrammia
+   Points: 27
+   Comments: 8
+   URL: https://www.theatlantic.com/ideas/archive/2025/10/ambigrams-words-double-meanings-art/684404/
+
+19. Launch HN: Grapevine (YC S19) – A company GPT that actually works
+   Points: 64
+   Comments: 46
+   URL: https://getgrapevine.ai/
+
+20. Show HN: I've build a platform for writing technical/scientific documents
+   Points: 32
+   Comments: 17
+   URL: https://www.monsterwriter.com
+
