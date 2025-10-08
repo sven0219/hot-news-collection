@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-08
+==================================================
+
+1. Gemini 2.5 Computer Use model
+   Points: 307
+   Comments: 169
+   URL: https://blog.google/technology/google-deepmind/gemini-computer-use-model/
+
+2. Qualcomm to acquire Arduino
+   Points: 963
+   Comments: 412
+   URL: https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i
+
+3. Global Village Construction Set
+   Points: 55
+   Comments: 11
+   URL: https://www.opensourceecology.org/gvcs/
+
+4. Seeing like a software company
+   Points: 29
+   Comments: 10
+   URL: https://www.seangoedecke.com/seeing-like-a-software-company/
+
+5. IKEA Catalogs 1951-2021
+   Points: 282
+   Comments: 64
+   URL: https://ikeamuseum.com/en/explore/ikea-catalogue/
+
+6. Vibe engineering
+   Points: 43
+   Comments: 31
+   URL: https://simonwillison.net/2025/Oct/7/vibe-engineering/
+
+7. An illustrated introduction to linear algebra
+   Points: 222
+   Comments: 37
+   URL: https://www.ducktyped.org/p/an-illustrated-introduction-to-linear
+
+8. Show HN: I'm building a browser for reverse engineers
+   Points: 144
+   Comments: 22
+   URL: https://nullpt.rs/reverse-engineering-browser
+
+9. Show HN: Timelinize – Privately organize your own data from everywhere, locally
+   Points: 307
+   Comments: 67
+   URL: https://timelinize.com
+
+10. German government comes out against Chat Control
+   Points: 669
+   Comments: 190
+   URL: https://xcancel.com/paddi_hansen/status/1975595307800142205
+
+11. Less is more: Recursive reasoning with tiny networks
+   Points: 156
+   Comments: 32
+   URL: https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html
+
+12. Eliminating contrails from flying could be cheap
+   Points: 84
+   Comments: 115
+   URL: https://www.sustainabilitybynumbers.com/p/eliminating-contrails
+
+13. The murky economics of the data-centre investment boom
+   Points: 86
+   Comments: 51
+   URL: https://www.economist.com/business/2025/09/30/the-murky-economics-of-the-data-centre-investment-boom
+
+14. Metriport (YC S22) is hiring a founding recruiter
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter
+
+15. Become unbannable from your email
+   Points: 136
+   Comments: 90
+   URL: https://karboosx.net/post/PJOveGVa/become-unbannable-from-your-emailgmail
+
+16. Memorizing phone numbers
+   Points: 9
+   Comments: 1
+   URL: https://phong.bearblog.dev/memorizing-phone-numbers/
+
+17. Study of 1M-year-old skull points to earlier origins of modern humans
+   Points: 7
+   Comments: 0
+   URL: https://www.theguardian.com/science/2025/sep/25/study-of-1m-year-old-skull-points-to-earlier-origins-of-modern-humans
+
+18. Nobel Prize in Physics 2025
+   Points: 340
+   Comments: 79
+   URL: https://www.nobelprize.org/prizes/physics/2025/popular-information/
+
+19. Is pawn promotion to rook or bishop something that is seen in play? (2012)
+   Points: 62
+   Comments: 26
+   URL: https://boardgames.stackexchange.com/questions/6739/is-pawn-promotion-to-rook-or-bishop-something-that-is-seen-in-play
+
+20. Launch HN: LlamaFarm (YC W22) – Open-source framework for distributed AI
+   Points: 58
+   Comments: 36
+   URL: https://github.com/llama-farm/llamafarm
+
