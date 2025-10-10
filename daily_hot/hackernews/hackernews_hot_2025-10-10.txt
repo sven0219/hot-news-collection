@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-10
+==================================================
+
+1. A small number of samples can poison LLMs of any size
+   Points: 650
+   Comments: 194
+   URL: https://www.anthropic.com/research/small-samples-poison
+
+2. Python 3.14 is here. How fast is it?
+   Points: 349
+   Comments: 273
+   URL: https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it
+
+3. A built-in 'off switch' to stop persistent pain
+   Points: 93
+   Comments: 26
+   URL: https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain
+
+4. Show HN: 100% open source, logical multi-master PostgreSQL replication
+   Points: 27
+   Comments: 2
+   URL: https://github.com/pgEdge/spock
+
+5. How to Write in Cuneiform, the Oldest Writing System in the World
+   Points: 23
+   Comments: 13
+   URL: https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html
+
+6. Show HN: I've built a tiny hand-held keyboard
+   Points: 256
+   Comments: 78
+   URL: https://github.com/mafik/keyer
+
+7. My first contribution to Linux
+   Points: 353
+   Comments: 41
+   URL: https://vkoskiv.com/first-linux-patch/
+
+8. Hacker News Live Feed
+   Points: 137
+   Comments: 60
+   URL: https://jerbear2008.github.io/hn-live/
+
+9. Subway Builder: A realistic subway simulation game
+   Points: 165
+   Comments: 79
+   URL: https://www.subwaybuilder.com/
+
+10. LLMs are mortally terrified of exceptions
+   Points: 113
+   Comments: 65
+   URL: https://twitter.com/karpathy/status/1976077806443569355
+
+11. Figure 03, our 3rd generation humanoid robot
+   Points: 265
+   Comments: 276
+   URL: https://www.figure.ai/news/introducing-figure-03
+
+12. The Burrows-Wheeler Transform
+   Points: 57
+   Comments: 13
+   URL: https://sandbox.bio/concepts/bwt
+
+13. Embracing the parallel coding agent lifestyle
+   Points: 87
+   Comments: 76
+   URL: https://simonwillison.net/2025/Oct/5/parallel-coding-agents/
+
+14. Finding a VS Code Memory Leak
+   Points: 40
+   Comments: 5
+   URL: https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/
+
+15. ESP32 and Termux
+   Points: 83
+   Comments: 20
+   URL: https://blog.gavide.dev/blog/esp32-and-termux
+
+16. Show HN: GYST – Digital organizer that replicates the feeling of a physical desk
+   Points: 16
+   Comments: 6
+   URL: https://gyst.fr/
+
+17. Show HN: I built a web framework in C
+   Points: 271
+   Comments: 147
+   URL: https://github.com/ashtonjamesd/lavandula
+
+18. Neutts-air – Open-source, on device TTS
+   Points: 40
+   Comments: 10
+   URL: https://github.com/neuphonic/neutts-air
+
+19. The government ate my name
+   Points: 85
+   Comments: 92
+   URL: https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html
+
+20. Show HN: Turn your OpenAPI spec into negative tests
+   Points: 25
+   Comments: 1
+   URL: https://github.com/dochia-dev/dochia-cli
+
