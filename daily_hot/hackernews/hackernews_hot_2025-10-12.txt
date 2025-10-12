@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-12
+==================================================
+
+1. Meta Superintelligence's surprising first paper
+   Points: 65
+   Comments: 11
+   URL: https://paddedinputs.substack.com/p/meta-superintelligences-surprising
+
+2. The <output> Tag
+   Points: 704
+   Comments: 158
+   URL: https://denodell.com/blog/html-best-kept-secret-output-tag
+
+3. My First Murder
+   Points: 16
+   Comments: 2
+   URL: https://www.texasmonthly.com/true-crime/skip-hollandsworth-new-book-she-kills/
+
+4. Microsoft only lets you opt out of AI photo scanning 3x a year
+   Points: 356
+   Comments: 116
+   URL: https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users
+
+5. How Apple designs a virtual knob (2012)
+   Points: 101
+   Comments: 71
+   URL: https://jherrm.github.io/knobs/
+
+6. Testing two 18 TB white label SATA hard drives from datablocks.dev
+   Points: 138
+   Comments: 80
+   URL: https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/
+
+7. Google blocks Android hack that let Pixel users enable VoLTE anywhere
+   Points: 20
+   Comments: 2
+   URL: https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/
+
+8. LineageOS 23
+   Points: 35
+   Comments: 4
+   URL: https://lineageos.org/Changelog-30/
+
+9. Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]
+   Points: 7
+   Comments: 1
+   URL: https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf
+
+10. Rating 26 years of Java changes
+   Points: 138
+   Comments: 154
+   URL: https://neilmadden.blog/2025/09/12/rating-26-years-of-java-changes/
+
+11. AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline
+   Points: 288
+   Comments: 357
+   URL: https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/
+
+12. The World Trade Center under construction through photos, 1966-1979
+   Points: 185
+   Comments: 93
+   URL: https://rarehistoricalphotos.com/twin-towers-construction-photographs/
+
+13. GNU Health
+   Points: 325
+   Comments: 95
+   URL: https://www.gnuhealth.org/about-us.html
+
+14. A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS
+   Points: 18
+   Comments: 4
+   URL: https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/
+
+15. People regret buying Amazon smart displays after being bombarded with ads
+   Points: 169
+   Comments: 80
+   URL: https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/
+
+16. Windows Subsystem for FreeBSD
+   Points: 211
+   Comments: 82
+   URL: https://github.com/BalajeS/WSL-For-FreeBSD
+
+17. Superpowers: How I'm using coding agents in October 2025
+   Points: 269
+   Comments: 152
+   URL: https://blog.fsck.com/2025/10/09/superpowers/
+
+18. ElementaryOS – Thoughtful, capable and ethical replacement for Windows/macOS
+   Points: 73
+   Comments: 61
+   URL: https://elementary.io/
+
+19. Every LLM Is Its Own Media Channel
+   Points: 7
+   Comments: 1
+   URL: https://www.aivojournal.org/every-llm-is-its-own-media-channel/
+
+20. Japan's summers have lengthened by 3 weeks over 42 years, say resaerchers
+   Points: 74
+   Comments: 7
+   URL: https://english.kyodonews.net/articles/-/62626
+
