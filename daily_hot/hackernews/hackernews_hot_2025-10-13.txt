@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-13
+==================================================
+
+1. Wireguard FPGA
+   Points: 319
+   Comments: 88
+   URL: https://github.com/chili-chips-ba/wireguard-fpga
+
+2. Edge AI for Beginners
+   Points: 92
+   Comments: 26
+   URL: https://github.com/microsoft/edgeai-for-beginners
+
+3. Ask HN: What are you working on? (October 2025)
+   Points: 93
+   Comments: 214
+   URL: https://news.ycombinator.com/item?id=45561428
+
+4. Emacs agent-shell (powered by ACP)
+   Points: 95
+   Comments: 7
+   URL: https://xenodium.com/introducing-agent-shell
+
+5. Everything You Need to Know About [California] SB 79
+   Points: 4
+   Comments: 1
+   URL: https://mnolangray.substack.com/p/everything-you-need-to-know-about
+
+6. Three ways formally verified code can go wrong in practice
+   Points: 54
+   Comments: 27
+   URL: https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/
+
+7. Show HN: Baby's First International Landline
+   Points: 14
+   Comments: 1
+   URL: https://wip.tf/posts/telefonefix-building-babys-first-international-landline/
+
+8. Bird Photographer of the Year Gives a Lesson in Planning and Patience
+   Points: 50
+   Comments: 10
+   URL: https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/
+
+9. 3D-Printed Automatic Weather Station
+   Points: 27
+   Comments: 5
+   URL: https://3dpaws.comet.ucar.edu
+
+10. Macro Splats 2025
+   Points: 373
+   Comments: 60
+   URL: https://danybittel.ch/macro.html
+
+11. Database Linting and Analysis for PostgreSQL
+   Points: 17
+   Comments: 3
+   URL: https://pglinter.readthedocs.io/en/latest/
+
+12. Tiny Teams Playbook
+   Points: 67
+   Comments: 20
+   URL: https://www.latent.space/p/tiny
+
+13. Free software hasn't won
+   Points: 112
+   Comments: 127
+   URL: https://dorotac.eu/posts/fosswon/
+
+14. Completing a BASIC language interpreter in 2025
+   Points: 49
+   Comments: 3
+   URL: https://nanochess.org/ecs_basic_2.html
+
+15. Show HN: I built a simple ambient sound app with no ads or subscriptions
+   Points: 92
+   Comments: 41
+   URL: https://ambisounds.app/
+
+16. A whirlwind introduction to dataflow graphs (2018)
+   Points: 22
+   Comments: 0
+   URL: https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/
+
+17. Constraint satisfaction to optimize item selection for bundles in Minecraft
+   Points: 18
+   Comments: 8
+   URL: https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/
+
+18. AdapTive-LeArning Speculator System (ATLAS): Faster LLM inference
+   Points: 189
+   Comments: 43
+   URL: https://www.together.ai/blog/adaptive-learning-speculator-system-atlas
+
+19. Wall Street is worried the private credit bubble will burst
+   Points: 28
+   Comments: 10
+   URL: https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds
+
+20. The neurons that let us see what isn't there
+   Points: 31
+   Comments: 1
+   URL: https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/
+
