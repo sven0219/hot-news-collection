@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-15
+==================================================
+
+1. FSF announces Librephone project
+   Points: 67
+   Comments: 13
+   URL: https://www.fsf.org/news/librephone-project
+
+2. Beliefs that are true for regular software but false when applied to AI
+   Points: 181
+   Comments: 160
+   URL: https://boydkane.com/essays/boss
+
+3. How bad can a $2.97 ADC be?
+   Points: 179
+   Comments: 96
+   URL: https://excamera.substack.com/p/how-bad-can-a-297-adc-be
+
+4. Hacking the Humane AI Pin
+   Points: 46
+   Comments: 9
+   URL: https://writings.agg.im/posts/hacking_ai_pin/
+
+5. How AI hears accents: An audible visualization of accent clusters
+   Points: 146
+   Comments: 57
+   URL: https://accent-explorer.boldvoice.com/
+
+6. Surveillance data challenges what we thought we knew about location tracking
+   Points: 273
+   Comments: 56
+   URL: https://www.lighthousereports.com/investigation/surveillance-secrets/
+
+7. GrapheneOS is finally ready to break free from Pixels and it may never look back
+   Points: 99
+   Comments: 57
+   URL: https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/
+
+8. Meditating with mongooses: Backyard wildlife phtotography lessons
+   Points: 3
+   Comments: 0
+   URL: https://wildgundmi.com/meditating-with-mongooses
+
+9. Unpacking Cloudflare Workers CPU Performance Benchmarks
+   Points: 73
+   Comments: 10
+   URL: https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/
+
+10. SmolBSD – build your own minimal BSD system
+   Points: 108
+   Comments: 6
+   URL: https://smolbsd.org
+
+11. What Americans die from vs. what the news reports on
+   Points: 352
+   Comments: 201
+   URL: https://ourworldindata.org/does-the-news-reflect-what-we-die-from
+
+12. Ultrasound is ushering a new era of surgery-free cancer treatment
+   Points: 372
+   Comments: 102
+   URL: https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment
+
+13. A 12,000-year-old obelisk with a human face was found in Karahan Tepe
+   Points: 225
+   Comments: 92
+   URL: https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html
+
+14. Astronomers 'image' a mysterious dark object in the distant Universe
+   Points: 188
+   Comments: 99
+   URL: https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x
+
+15. Interior cancels largest solar project in North America
+   Points: 29
+   Comments: 14
+   URL: https://www.politico.com/news/2025/10/10/trump-interior-department-cancels-largest-solar-project-in-north-america-00602071
+
+16. AppLovin nonconsensual installs
+   Points: 107
+   Comments: 39
+   URL: https://www.benedelman.org/applovin-nonconsensual-installs/
+
+17. ADS-B Exposed
+   Points: 276
+   Comments: 68
+   URL: https://adsb.exposed/
+
+18. Show HN: Metorial (YC F25) – Vercel for MCP
+   Points: 43
+   Comments: 15
+   URL: https://github.com/metorial/metorial
+
+19. AI and Home-Cooked Software
+   Points: 27
+   Comments: 17
+   URL: https://mrkaran.dev/posts/ai-home-cooked-software/
+
+20. Show HN: An open source access logs analytics script to block bot attacks
+   Points: 18
+   Comments: 1
+   URL: https://github.com/tempesta-tech/webshield
+
