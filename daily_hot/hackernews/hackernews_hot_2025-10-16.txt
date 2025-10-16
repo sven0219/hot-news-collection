@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-16
+==================================================
+
+1. IRS Open Sources its Fact Graph
+   Points: 95
+   Comments: 19
+   URL: https://github.com/IRS-Public/fact-graph
+
+2. Apple M5 chip
+   Points: 926
+   Comments: 1019
+   URL: https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
+
+3. Claude Haiku 4.5
+   Points: 408
+   Comments: 178
+   URL: https://www.anthropic.com/news/claude-haiku-4-5
+
+4. Blood-Sharing Drug Trend Fuels Global HIV Surge
+   Points: 29
+   Comments: 13
+   URL: https://www.nytimes.com/2025/10/08/world/asia/bluetoothing-drug-blood-sharing.html
+
+5. ImapGoose
+   Points: 26
+   Comments: 5
+   URL: https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/
+
+6. Next Steps for the Caddy Project Maintainership
+   Points: 80
+   Comments: 9
+   URL: https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076
+
+7. Writing an LLM from scratch, part 22 – training our LLM
+   Points: 32
+   Comments: 0
+   URL: https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm
+
+8. Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)
+   Points: 34
+   Comments: 6
+   URL: https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch
+
+9. I almost got hacked by a 'job interview'
+   Points: 702
+   Comments: 374
+   URL: https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview
+
+10. Bringing NumPy's type-completeness score to nearly 90%
+   Points: 36
+   Comments: 19
+   URL: https://pyrefly.org/blog/numpy-type-completeness/
+
+11. Zed is now available on Windows
+   Points: 161
+   Comments: 49
+   URL: https://zed.dev/blog/zed-for-windows-is-here
+
+12. Are hard drives getting better?
+   Points: 111
+   Comments: 53
+   URL: https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/
+
+13. Pwning the Nix ecosystem
+   Points: 235
+   Comments: 42
+   URL: https://ptrpa.ws/nixpkgs-actions-abuse
+
+14. Show HN: Halloy – Modern IRC client
+   Points: 275
+   Comments: 76
+   URL: https://github.com/squidowl/halloy
+
+15. Recursive Language Models (RLMs)
+   Points: 65
+   Comments: 18
+   URL: https://alexzhang13.github.io/blog/2025/rlm/
+
+16. F5 says hackers stole undisclosed BIG-IP flaws, source code
+   Points: 125
+   Comments: 62
+   URL: https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/
+
+17. Leaving serverless led to performance improvement and a simplified architecture
+   Points: 285
+   Comments: 181
+   URL: https://www.unkey.com/blog/serverless-exit
+
+18. US Dept of Interior denies canceling largest solar project after axing review
+   Points: 36
+   Comments: 12
+   URL: https://www.utilitydive.com/news/department-interior-cancels-review-nevada-solar-project-trump/802704/
+
+19. A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers
+   Points: 129
+   Comments: 11
+   URL: https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html
+
+20. How First Wap tracks phones around the world
+   Points: 56
+   Comments: 11
+   URL: https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/
+
