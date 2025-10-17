@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-17
+==================================================
+
+1. How I bypassed Amazon's Kindle web DRM
+   Points: 451
+   Comments: 133
+   URL: https://blog.pixelmelt.dev/kindle-web-drm/
+
+2. America's Semiconductor Boom is Real [video]
+   Points: 31
+   Comments: 0
+   URL: https://www.youtube.com/watch?v=T-jt3qBzJ4A
+
+3. Claude Skills
+   Points: 438
+   Comments: 269
+   URL: https://www.anthropic.com/news/skills
+
+4. Cloudflare Sandbox SDK
+   Points: 100
+   Comments: 39
+   URL: https://sandbox.cloudflare.com/
+
+5. Lead Limited Brain and Language Development in Neanderthals and Other Hominids?
+   Points: 18
+   Comments: 1
+   URL: https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids
+
+6. Gemini 3.0 spotted in the wild through A/B testing
+   Points: 262
+   Comments: 160
+   URL: https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/
+
+7. Your data model is your destiny
+   Points: 144
+   Comments: 16
+   URL: https://notes.mtb.xyz/p/your-data-model-is-your-destiny
+
+8. A 4k-Room Text Adventure Written by One Human in QBasic No AI
+   Points: 27
+   Comments: 13
+   URL: https://the-ventureweaver.itch.io/tlote4111
+
+9. DoorDash and Waymo launch autonomous delivery service in Phoenix
+   Points: 204
+   Comments: 478
+   URL: https://about.doordash.com/en-us/news/waymo
+
+10. Codex Is Live in Zed
+   Points: 164
+   Comments: 20
+   URL: https://zed.dev/blog/codex-is-live-in-zed
+
+11. Benjie's Humanoid Olympic Games
+   Points: 94
+   Comments: 71
+   URL: https://generalrobots.substack.com/p/benjies-humanoid-olympic-games
+
+12. Talent
+   Points: 101
+   Comments: 38
+   URL: https://www.felixstocker.com/blog/talent
+
+13. Hyperflask – Full stack Flask and Htmx framework
+   Points: 271
+   Comments: 86
+   URL: https://hyperflask.dev/
+
+14. Microwave technique allows energy-efficient chemical reactions
+   Points: 24
+   Comments: 1
+   URL: https://phys.org/news/2025-10-microwave-technique-energy-efficient-chemical.html
+
+15. A conspiracy to kill IE6 (2019)
+   Points: 143
+   Comments: 78
+   URL: https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6
+
+16. Post office in France rolls out croissant-scented stamp
+   Points: 81
+   Comments: 32
+   URL: https://www.ctvnews.ca/world/article/french-post-office-rolls-out-croissant-scented-stamp/
+
+17. Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl
+   Points: 19
+   Comments: 1
+   URL: https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+
+18. Syntax highlighting is a waste of an information channel (2020)
+   Points: 198
+   Comments: 72
+   URL: https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/
+
+19. Electricity can heal wounds three times as fast (2023)
+   Points: 116
+   Comments: 80
+   URL: https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/
+
+20. Hacker News – The Good Parts
+   Points: 78
+   Comments: 95
+   URL: https://smartmic.bearblog.dev/why-hacker-news/
+
