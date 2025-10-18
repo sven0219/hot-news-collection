@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-18
+==================================================
+
+1. Exploring PostgreSQL 18's new UUIDv7 support
+   Points: 159
+   Comments: 110
+   URL: https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support
+
+2. PlayStation 3 Architecture (2021)
+   Points: 74
+   Comments: 12
+   URL: https://www.copetti.org/writings/consoles/playstation-3
+
+3. The pivot
+   Points: 133
+   Comments: 55
+   URL: https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html
+
+4. Every vibe-coded website is the same page with different words. So I made that
+   Points: 33
+   Comments: 24
+   URL: https://vibe-coded.lol/
+
+5. Claude Skills are awesome, maybe a bigger deal than MCP
+   Points: 383
+   Comments: 229
+   URL: https://simonwillison.net/2025/Oct/16/claude-skills/
+
+6. Live Stream from the Namib Desert
+   Points: 391
+   Comments: 76
+   URL: https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html
+
+7. WebMCP
+   Points: 27
+   Comments: 8
+   URL: https://github.com/jasonjmcghee/WebMCP
+
+8. Claude Code vs. Codex: I built a sentiment dashboard from Reddit comments
+   Points: 49
+   Comments: 15
+   URL: https://www.aiengineering.report/p/claude-code-vs-codex-sentiment-analysis-reddit
+
+9. Career Asymtotes
+   Points: 21
+   Comments: 9
+   URL: https://molochinations.substack.com/p/career-asymptotes
+
+10. When if is just a function
+   Points: 15
+   Comments: 16
+   URL: https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/
+
+11. Asking AI to build scrapers should be easy right?
+   Points: 71
+   Comments: 33
+   URL: https://www.skyvern.com/blog/asking-ai-to-build-scrapers-should-be-easy-right/
+
+12. The Wi-Fi Revolution (2003)
+   Points: 56
+   Comments: 21
+   URL: https://www.wired.com/2003/05/wifirevolution/
+
+13. The Rapper 50 Cent, Adjusted for Inflation
+   Points: 454
+   Comments: 129
+   URL: https://50centadjustedforinflation.com/
+
+14. EVs are depreciating faster than gas-powered cars
+   Points: 269
+   Comments: 635
+   URL: https://restofworld.org/2025/ev-depreciation-blusmart-collapse/
+
+15. Intercellular communication in the brain through a dendritic nanotubular network
+   Points: 255
+   Comments: 194
+   URL: https://www.science.org/doi/10.1126/science.adr7403
+
+16. Meow.camera
+   Points: 607
+   Comments: 203
+   URL: https://meow.camera/
+
+17. 4Chan Lawyer publishes Ofcom correspondence
+   Points: 318
+   Comments: 424
+   URL: https://alecmuffett.com/article/117792
+
+18. Researchers Discover the Optimal Way to Optimize
+   Points: 6
+   Comments: 1
+   URL: https://www.quantamagazine.org/researchers-discover-the-optimal-way-to-optimize-20251013/
+
+19. GOG Has Had to Hire Private Investigators to Track Down IP Rights Holders
+   Points: 166
+   Comments: 74
+   URL: https://www.thegamer.com/gog-private-investigators-off-the-grid-ip-rights-holders/
+
+20. Promoted on Sunday, Fired on Monday: Inside a NASA Office's Sudden Closure
+   Points: 29
+   Comments: 11
+   URL: https://www.planetary.org/articles/promoted-on-sunday-fired-on-monday-inside-a-nasa-offices-sudden-closure
+
