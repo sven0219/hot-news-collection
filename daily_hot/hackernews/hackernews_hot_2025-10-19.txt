@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-19
+==================================================
+
+1. Chen-Ning Yang, Nobel laureate, dies at 103
+   Points: 113
+   Comments: 31
+   URL: https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html
+
+2. Root System Drawings
+   Points: 270
+   Comments: 49
+   URL: https://images.wur.nl/digital/collection/coll13/search
+
+3. The reason GCC is not a library (2000)
+   Points: 37
+   Comments: 12
+   URL: https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html
+
+4. How to sequence your DNA for <$2k
+   Points: 94
+   Comments: 47
+   URL: https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k
+
+5. Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site
+   Points: 160
+   Comments: 97
+   URL: https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion
+
+6. Tinnitus Neuromodulator
+   Points: 233
+   Comments: 154
+   URL: https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php
+
+7. Flowistry: An IDE plugin for Rust that focuses on relevant code
+   Points: 155
+   Comments: 25
+   URL: https://github.com/willcrichton/flowistry
+
+8. Adding Breadcrumbs to a Rails Application
+   Points: 27
+   Comments: 1
+   URL: https://avohq.io/blog/breadcrumbs-rails
+
+9. ./watch
+   Points: 301
+   Comments: 82
+   URL: https://dotslashwatch.com/
+
+10. Who invented deep residual learning?
+   Points: 70
+   Comments: 24
+   URL: https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html
+
+11. Most users cannot identify AI bias, even in training data
+   Points: 32
+   Comments: 16
+   URL: https://www.psu.edu/news/bellisario-college-communications/story/most-users-cannot-identify-ai-bias-even-training-data
+
+12. Why the open social web matters now
+   Points: 90
+   Comments: 31
+   URL: https://werd.io/why-the-open-social-web-matters-now/
+
+13. Is Postgres read heavy or write heavy?
+   Points: 100
+   Comments: 26
+   URL: https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care
+
+14. K8s with 1M nodes
+   Points: 101
+   Comments: 27
+   URL: https://bchess.github.io/k8s-1m/
+
+15. Secret diplomatic message deciphered after 350 years
+   Points: 86
+   Comments: 10
+   URL: https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/
+
+16. Solution to CIA’s Kryptos sculpture is found in Smithsonian vault
+   Points: 109
+   Comments: 45
+   URL: https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html
+
+17. When you opened a screen shot of a video in Paint, the video was playing in it
+   Points: 142
+   Comments: 15
+   URL: https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681
+
+18. Satellite images show ancient hunting traps used by South American social groups
+   Points: 14
+   Comments: 0
+   URL: https://phys.org/news/2025-10-satellite-images-reveal-ancient-south.html
+
+19. Moonlander.BAS
+   Points: 27
+   Comments: 3
+   URL: https://basic-code.bearblog.dev/moonlander/
+
+20. Coral NPU: A full-stack platform for Edge AI
+   Points: 94
+   Comments: 13
+   URL: https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/
+
