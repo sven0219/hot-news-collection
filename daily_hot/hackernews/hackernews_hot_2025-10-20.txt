@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-20
+==================================================
+
+1. Novo Nordisk's Canadian Mistake
+   Points: 206
+   Comments: 94
+   URL: https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake
+
+2. Original C64 Lode Runner Source Code
+   Points: 46
+   Comments: 15
+   URL: https://github.com/Piddewitt/Loderunner
+
+3. QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files
+   Points: 13
+   Comments: 3
+   URL: https://github.com/wiesmann/QuickDrawViewer
+
+4. Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%
+   Points: 72
+   Comments: 23
+   URL: https://github.com/Gillou68310/DukeNukemZeroHour
+
+5. Doing well in your courses: Andrej's advice for success (2013)
+   Points: 351
+   Comments: 121
+   URL: https://cs.stanford.edu/people/karpathy/advice.html
+
+6. Airliner hit by possible space debris
+   Points: 187
+   Comments: 99
+   URL: https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/
+
+7. Dosbian: Boot to DOSBox on Raspberry Pi
+   Points: 95
+   Comments: 36
+   URL: https://cmaiolino.wordpress.com/dosbian/
+
+8. Deterministic multithreading is hard (2024)
+   Points: 41
+   Comments: 6
+   URL: https://www.factorio.com/blog/post/fff-415
+
+9. Compare Single Board Computers
+   Points: 101
+   Comments: 42
+   URL: https://sbc.compare/
+
+10. Gleam OTP – Fault Tolerant Multicore Programs with Actors
+   Points: 19
+   Comments: 1
+   URL: https://github.com/gleam-lang/otp
+
+11. Could the XZ backdoor been detected with better Git/Deb packaging practices?
+   Points: 68
+   Comments: 46
+   URL: https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/
+
+12. GNU Octave Meets JupyterLite: Compute Anywhere, Anytime
+   Points: 102
+   Comments: 21
+   URL: https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc
+
+13. What's Behind the Mysterious Ancient Wall in the Gobi Desert?
+   Points: 8
+   Comments: 2
+   URL: https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588
+
+14. The Spilhaus Projection: A world map according to fish
+   Points: 91
+   Comments: 10
+   URL: https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish
+
+15. The working-class hero of Bletchley Park you didn't see in the movies
+   Points: 82
+   Comments: 33
+   URL: https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies
+
+16. Comparing the power consumption of a 30 year old refrigerator to a new one
+   Points: 107
+   Comments: 138
+   URL: https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/
+
+17. The Cancer Imaging Archive (TCIA)
+   Points: 22
+   Comments: 0
+   URL: https://www.cancerimagingarchive.net/
+
+18. Replua.nvim – an Emacs-style scratch buffer for executing Lua
+   Points: 7
+   Comments: 1
+   URL: https://github.com/mghaight/replua.nvim
+
+19. Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB
+   Points: 175
+   Comments: 54
+   URL: https://demo.duckui.com
+
+20. Designing EventQL, an Event Query Language
+   Points: 13
+   Comments: 6
+   URL: https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/
+
