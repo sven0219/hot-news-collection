@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-21
+==================================================
+
+1. Intel and AMD standardise ChkTag to bring Memory Safety to x86
+   Points: 125
+   Comments: 58
+   URL: https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490
+
+2. Building a message queue with only two UNIX signals
+   Points: 49
+   Comments: 28
+   URL: https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals
+
+3. Claude Code on the web
+   Points: 345
+   Comments: 206
+   URL: https://www.anthropic.com/news/claude-code-on-the-web
+
+4. My trick for getting consistent classification from LLMs
+   Points: 91
+   Comments: 22
+   URL: https://verdik.substack.com/p/how-to-get-consistent-classification
+
+5. Production RAG: what I learned from processing 5M+ documents
+   Points: 289
+   Comments: 80
+   URL: https://blog.abdellatif.io/production-rag-processing-5m-documents
+
+6. BERT is just a single text diffusion step
+   Points: 340
+   Comments: 82
+   URL: https://nathan.rs/posts/roberta-diffusion/
+
+7. A laser pointer at 2B FPS [video]
+   Points: 186
+   Comments: 24
+   URL: https://www.youtube.com/watch?v=o4TdHrMi6do
+
+8. Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system
+   Points: 328
+   Comments: 228
+   URL: https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent
+
+9. Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)
+   Points: 58
+   Comments: 6
+   URL: https://judojj.com
+
+10. Postman which I thought worked locally on my computer, is down
+   Points: 178
+   Comments: 82
+   URL: https://status.postman.com
+
+11. Today is when the Amazon brain drain sent AWS down the spout
+   Points: 263
+   Comments: 109
+   URL: https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/
+
+12. x86-64 Playground – An online assembly editor and GDB-like debugger
+   Points: 102
+   Comments: 8
+   URL: https://x64.halb.it/
+
+13. The scariest "user support" email I've ever received
+   Points: 144
+   Comments: 108
+   URL: https://www.devas.life/the-scariest-user-support-email-ive-ever-received/
+
+14. AWS Multiple Services Down in us-east-1
+   Points: 1573
+   Comments: 1775
+   URL: https://health.aws.amazon.com/health/status?ts=20251020
+
+15. Code from MIT's 1986 SICP video lectures
+   Points: 81
+   Comments: 6
+   URL: https://github.com/felipap/sicp-code
+
+16. Art Must Act
+   Points: 20
+   Comments: 0
+   URL: https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche
+
+17. TernFS – an exabyte scale, multi-region distributed filesystem
+   Points: 88
+   Comments: 12
+   URL: https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped
+
+18. How to stop Linux threads cleanly
+   Points: 164
+   Comments: 60
+   URL: https://mazzo.li/posts/stopping-linux-threads.html
+
+19. Optical diffraction patterns made with a MOPA laser engraving machine [video]
+   Points: 106
+   Comments: 17
+   URL: https://www.youtube.com/watch?v=RsGHr7dXLuI
+
+20. Americans can't afford their cars any more and Wall Street is worried
+   Points: 55
+   Comments: 48
+   URL: https://www.telegraph.co.uk/business/2025/10/20/americans-cant-afford-cars-any-more-wall-street-worried/
+
