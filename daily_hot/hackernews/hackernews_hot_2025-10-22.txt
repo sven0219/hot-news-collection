@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-22
+==================================================
+
+1. rlsw – Raylib software OpenGL renderer in less than 5k LOC
+   Points: 77
+   Comments: 16
+   URL: https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h
+
+2. Replacing a $3000/mo Heroku bill with a $55/mo server
+   Points: 346
+   Comments: 269
+   URL: https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/
+
+3. "Butt breathing" might soon be a real medical treatment
+   Points: 25
+   Comments: 4
+   URL: https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/
+
+4. PoE basics and beyond: What every engineer should know
+   Points: 23
+   Comments: 5
+   URL: https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/
+
+5. LLMs can get "brain rot"
+   Points: 273
+   Comments: 155
+   URL: https://llm-brain-rot.github.io/
+
+6. Neural audio codecs: how to get audio into LLMs
+   Points: 327
+   Comments: 97
+   URL: https://kyutai.org/next/codec-explainer
+
+7. Ask HN: Our AWS account got compromised after their outage
+   Points: 167
+   Comments: 49
+   URL: https://news.ycombinator.com/item?id=45657345
+
+8. ChatGPT Atlas
+   Points: 529
+   Comments: 512
+   URL: https://chatgpt.com/atlas
+
+9. NASA chief suggests SpaceX may be booted from moon mission
+   Points: 202
+   Comments: 626
+   URL: https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy
+
+10. Doomsday scoreboard
+   Points: 175
+   Comments: 73
+   URL: https://doomsday.march1studios.com/
+
+11. Mathematicians have found a hidden 'reset button' for undoing rotation
+   Points: 96
+   Comments: 70
+   URL: https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/
+
+12. Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB
+   Points: 5
+   Comments: 0
+   URL: https://cdb.cr.yp.to/
+
+13. Wikipedia says traffic is falling due to AI search summaries and social video
+   Points: 250
+   Comments: 249
+   URL: https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/
+
+14. Build your own database
+   Points: 352
+   Comments: 61
+   URL: https://www.nan.fyi/database
+
+15. Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code
+   Points: 116
+   Comments: 17
+   URL: https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/
+
+16. Minds, brains, and programs (1980) [pdf]
+   Points: 41
+   Comments: 11
+   URL: https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf
+
+17. Foreign hackers breached a US nuclear weapons plant via SharePoint flaws
+   Points: 311
+   Comments: 204
+   URL: https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html
+
+18. Understanding conflict resolution and avoidance in PostgreSQL: a complete guide
+   Points: 10
+   Comments: 1
+   URL: https://www.pgedge.com/blog/living-on-the-edge
+
+19. Do not accept terms and conditions
+   Points: 71
+   Comments: 50
+   URL: https://www.termsandconditions.game/
+
+20. We need (at least) ergonomic, explicit handles [in Rust]
+   Points: 24
+   Comments: 1
+   URL: https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/
+
