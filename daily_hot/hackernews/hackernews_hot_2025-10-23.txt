@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-23
+==================================================
+
+1. Ovi: Twin backbone cross-modal fusion for audio-video generation
+   Points: 236
+   Comments: 80
+   URL: https://github.com/character-ai/Ovi
+
+2. Google flags Immich sites as dangerous
+   Points: 113
+   Comments: 28
+   URL: https://immich.app/blog/google-flags-immich-as-dangerous
+
+3. Willow quantum chip demonstrates verifiable quantum advantage on hardware
+   Points: 367
+   Comments: 174
+   URL: https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+
+4. JMAP for Calendars, Contacts and Files Now in Stalwart
+   Points: 236
+   Comments: 102
+   URL: https://stalw.art/blog/jmap-collaboration/
+
+5. Mass Assignment Vulnerability Exposes Max Verstappen Passport and F1 Drivers PII
+   Points: 217
+   Comments: 48
+   URL: https://ian.sh/fia
+
+6. Why SSA Compilers?
+   Points: 93
+   Comments: 37
+   URL: https://mcyoung.xyz/2025/10/21/ssa-1/
+
+7. Scripts I wrote that I use all the time
+   Points: 439
+   Comments: 153
+   URL: https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+
+8. Play abstract strategy board games online with friends or against bots
+   Points: 19
+   Comments: 3
+   URL: https://abstractboardgames.com/
+
+9. Element: setHTML() method
+   Points: 113
+   Comments: 48
+   URL: https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML
+
+10. Rivian's TM-B electric bike
+   Points: 134
+   Comments: 220
+   URL: https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad
+
+11. VortexNet: Neural network based on fluid dynamics
+   Points: 10
+   Comments: 0
+   URL: https://github.com/samim23/vortexnet
+
+12. Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?
+   Points: 99
+   Comments: 22
+   URL: https://twitter.com/karpathy/status/1980397031542989305
+
+13. Common yeast can survive Martian conditions
+   Points: 48
+   Comments: 23
+   URL: https://phys.org/news/2025-10-common-yeast-survive-martian-conditions.html
+
+14. InpharmD (YC W21) Is Hiring – NLP Engineer
+   Points: 1
+   Comments: 0
+   URL: https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer
+
+15. YASA beats own power density record pushing electric motor to 59kW/kg benchmark
+   Points: 25
+   Comments: 11
+   URL: https://yasa.com/news/yasa-smashes-own-unofficial-power-density-world-record-pushing-state-of-the-art-electric-motor-to-staggering-new-59kw-kg-benchmark/
+
+16. Iceland reports the presence of mosquitoes as climate warms
+   Points: 64
+   Comments: 18
+   URL: https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time
+
+17. Show HN: Cuq – Formal Verification of Rust GPU Kernels
+   Points: 36
+   Comments: 28
+   URL: https://github.com/neelsomani/cuq
+
+18. HP SitePrint
+   Points: 146
+   Comments: 101
+   URL: https://www.hp.com/us-en/printers/site-print/layout-robot.html
+
+19. I, Sharpie
+   Points: 17
+   Comments: 13
+   URL: https://www.commonplace.org/p/chris-griswold-i-sharpie
+
+20. LibCube: Find new sounds from audio synths easier
+   Points: 11
+   Comments: 3
+   URL: https://github.com/cslr/libcube-public/wiki
+
