@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-24
+==================================================
+
+1. Betty White's shoulder bag is a time capsule of World War II
+   Points: 47
+   Comments: 1
+   URL: https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii
+
+2. Claude Memory
+   Points: 348
+   Comments: 190
+   URL: https://www.anthropic.com/news/memory
+
+3. How memory maps (mmap) deliver faster file access in Go
+   Points: 52
+   Comments: 26
+   URL: https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go
+
+4. /dev/null is an ACID compliant database
+   Points: 106
+   Comments: 57
+   URL: https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/
+
+5. Can “second life” EV batteries work as grid-scale energy storage?
+   Points: 99
+   Comments: 106
+   URL: https://www.volts.wtf/p/can-second-life-ev-batteries-work
+
+6. Apple loses UK App Store monopoly case, penalty might near $2B
+   Points: 146
+   Comments: 96
+   URL: https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/
+
+7. When is it better to think without words?
+   Points: 45
+   Comments: 17
+   URL: https://www.henrikkarlsson.xyz/p/wordless-thought
+
+8. Zram Performance Analysis
+   Points: 50
+   Comments: 9
+   URL: https://notes.xeome.dev/notes/Zram
+
+9. React Flow, open source libraries for node-based UIs with React or Svelte
+   Points: 9
+   Comments: 0
+   URL: https://github.com/xyflow/xyflow
+
+10. OpenAI acquires Sky.app
+   Points: 123
+   Comments: 58
+   URL: https://openai.com/index/openai-acquires-software-applications-incorporated
+
+11. Pyscripter – Open-source Python IDE written in Delphi
+   Points: 42
+   Comments: 6
+   URL: https://github.com/pyscripter/pyscripter
+
+12. PyTorch Monarch
+   Points: 309
+   Comments: 40
+   URL: https://pytorch.org/blog/introducing-pytorch-monarch/
+
+13. Cheap DIY solar fence design
+   Points: 5
+   Comments: 3
+   URL: https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/
+
+14. Kaitai Struct: declarative binary format parsing language
+   Points: 68
+   Comments: 23
+   URL: https://kaitai.io/
+
+15. New updates and more access to Google Earth AI
+   Points: 122
+   Comments: 38
+   URL: https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/
+
+16. Armed police swarm student after AI mistakes bag of Doritos for a weapon
+   Points: 442
+   Comments: 266
+   URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/
+
+17. Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region
+   Points: 390
+   Comments: 99
+   URL: https://aws.amazon.com/message/101925/
+
+18. US probes Waymo robotaxis over school bus safety
+   Points: 61
+   Comments: 96
+   URL: https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html
+
+19. Trump pardons convicted Binance founder
+   Points: 690
+   Comments: 673
+   URL: https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63
+
+20. I managed to grow countable yeast colonies
+   Points: 22
+   Comments: 6
+   URL: https://chillphysicsenjoyer.substack.com/p/i-managed-to-grow-countable-yeast
+
