@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-26
+==================================================
+
+1. The Linux Boot Process: From Power Button to Kernel
+   Points: 47
+   Comments: 21
+   URL: https://www.0xkato.xyz/linux-boot/
+
+2. California invests in battery energy storage, leaving rolling blackouts behind
+   Points: 170
+   Comments: 121
+   URL: https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert
+
+3. The Journey Before main()
+   Points: 138
+   Comments: 48
+   URL: https://amit.prasad.me/blog/before-main
+
+4. Show HN: Diagram as code tool with draggable customizations
+   Points: 102
+   Comments: 21
+   URL: https://github.com/RohanAdwankar/oxdraw
+
+5. How programs get run: ELF binaries (2015)
+   Points: 49
+   Comments: 1
+   URL: https://lwn.net/Articles/631631/
+
+6. An Update on TinyKVM
+   Points: 55
+   Comments: 13
+   URL: https://fwsgonzo.medium.com/an-update-on-tinykvm-7a38518e57e9
+
+7. Agent Lightning: Train agents with RL (no code changes needed)
+   Points: 45
+   Comments: 7
+   URL: https://github.com/microsoft/agent-lightning
+
+8. Show HN: Shadcn/UI theme editor – Design and share Shadcn themes
+   Points: 70
+   Comments: 19
+   URL: https://shadcnthemer.com
+
+9. ARM Memory Tagging: how it improves C/C++ memory safety (2018) [pdf]
+   Points: 39
+   Comments: 11
+   URL: https://llvm.org/devmtg/2018-10/slides/Serebryany-Stepanov-Tsyrklevich-Memory-Tagging-Slides-LLVM-2018.pdf
+
+10. Doctor Who archive expert shares positive update on missing episode
+   Points: 35
+   Comments: 12
+   URL: https://www.radiotimes.com/tv/sci-fi/doctor-who-missing-episodes-update-teases-announcement-newsupdate/
+
+11. D2: Diagram Scripting Language
+   Points: 23
+   Comments: 6
+   URL: https://d2lang.com/tour/intro/
+
+12. An Efficient Implementation of SELF (1989) [pdf]
+   Points: 29
+   Comments: 13
+   URL: https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf
+
+13. Rock Tumbler Instructions
+   Points: 144
+   Comments: 71
+   URL: https://rocktumbler.com/tips/rock-tumbler-instructions/
+
+14. We do not have sufficient links to the UK for Online Safety Act to be applicable
+   Points: 185
+   Comments: 55
+   URL: https://libera.chat/news/advised
+
+15. Belittled Magazine: Thirty years after the Sokal affair
+   Points: 30
+   Comments: 10
+   URL: https://thebaffler.com/salvos/belittled-magazine-robbins
+
+16. In memory of the Christmas Island shrew
+   Points: 44
+   Comments: 11
+   URL: https://news.mongabay.com/2025/10/in-memory-of-the-christmas-island-shrew/
+
+17. WebDAV isn't dead yet
+   Points: 88
+   Comments: 44
+   URL: https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/
+
+18. Project Amplify: Powered footwear for running and walking
+   Points: 44
+   Comments: 31
+   URL: https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images
+
+19. AI, Wikipedia, and uncorrected machine translations of vulnerable languages
+   Points: 47
+   Comments: 23
+   URL: https://www.technologyreview.com/2025/09/25/1124005/ai-wikipedia-vulnerable-languages-doom-spiral/
+
+20. Honda's ASIMO (2021)
+   Points: 33
+   Comments: 5
+   URL: https://www.robotsgottalents.com/post/asimo
+
