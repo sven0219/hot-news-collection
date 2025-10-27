@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-27
+==================================================
+
+1. Microsoft 365 Copilot – Arbitrary Data Exfiltration via Mermaid Diagrams
+   Points: 43
+   Comments: 7
+   URL: https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/
+
+2. Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)
+   Points: 82
+   Comments: 8
+   URL: https://github.com/dvir-biton/MyraOS
+
+3. Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon
+   Points: 23
+   Comments: 1
+   URL: https://github.com/rochus-keller/Are-we-fast-yet
+
+4. A definition of AGI
+   Points: 122
+   Comments: 195
+   URL: https://arxiv.org/abs/2510.18212
+
+5. NORAD’s Cheyenne Mountain Combat Center, c.1966
+   Points: 78
+   Comments: 38
+   URL: https://flashbak.com/norad-cheyenne-mountain-combat-center-478804/
+
+6. Ken Thompson recalls Unix's rowdy, lock-picking origins
+   Points: 64
+   Comments: 2
+   URL: https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/
+
+7. Sandhill Cranes Have Adopted a Canada Gosling
+   Points: 7
+   Comments: 1
+   URL: https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/
+
+8. AI Mafia Network – An interactive visualization
+   Points: 63
+   Comments: 6
+   URL: https://dipakwani.com/ai-mafia/
+
+9. System.LongBool
+   Points: 32
+   Comments: 23
+   URL: https://docwiki.embarcadero.com/Libraries/Sydney/en/System.LongBool
+
+10. A bug that taught me more about PyTorch than years of using it
+   Points: 320
+   Comments: 66
+   URL: https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/
+
+11. Poison, Poison Everywhere
+   Points: 69
+   Comments: 27
+   URL: https://loeber.substack.com/p/29-poison-poison-everywhere
+
+12. Show HN: Helium Browser for Android with extensions support, based on Vanadium
+   Points: 18
+   Comments: 2
+   URL: https://github.com/jqssun/android-helium-browser
+
+13. Wren: A classy little scripting language
+   Points: 111
+   Comments: 30
+   URL: https://wren.io/
+
+14. Asbestosis
+   Points: 211
+   Comments: 156
+   URL: https://diamondgeezer.blogspot.com/2025/10/asbestosis.html
+
+15. Making the Electron Microscope
+   Points: 54
+   Comments: 6
+   URL: https://www.asimov.press/p/electron-microscope
+
+16. Feed the bots
+   Points: 142
+   Comments: 102
+   URL: https://maurycyz.com/misc/the_cost_of_trash/
+
+17. Alzheimer's disrupts circadian rhythms of plaque-clearing brain cells
+   Points: 139
+   Comments: 26
+   URL: https://medicine.washu.edu/news/alzheimers-disrupts-circadian-rhythms-of-plaque-clearing-brain-cells/
+
+18. Eavesdropping on Internal Networks via Unencrypted Satellites
+   Points: 173
+   Comments: 28
+   URL: https://satcom.sysnet.ucsd.edu/
+
+19. Downloadable movie posters from the 40s, 50s, 60s, and 70s
+   Points: 403
+   Comments: 79
+   URL: https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search
+
+20. Pico-Banana-400k
+   Points: 351
+   Comments: 60
+   URL: https://github.com/apple/pico-banana-400k
+
