@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-29
+==================================================
+
+1. What we talk about when we talk about sideloading
+   Points: 615
+   Comments: 302
+   URL: https://f-droid.org/2025/10/28/sideloading.html
+
+2. Generative AI Image Editing Showdown
+   Points: 121
+   Comments: 25
+   URL: https://genai-showdown.specr.net/image-editing
+
+3. Tinkering is a way to acquire good taste
+   Points: 81
+   Comments: 67
+   URL: https://seated.ro/blog/tinkering-a-lost-art
+
+4. Keeping the Internet fast and secure: introducing Merkle Tree Certificates
+   Points: 37
+   Comments: 6
+   URL: https://blog.cloudflare.com/bootstrap-mtc/
+
+5. Boring is what we wanted
+   Points: 169
+   Comments: 79
+   URL: https://512pixels.net/2025/10/boring-is-what-we-wanted/
+
+6. Mapping the off-target effects of every FDA-approved drug in existence
+   Points: 101
+   Comments: 15
+   URL: https://www.owlposting.com/p/mapping-the-off-target-effects-of
+
+7. Samsung makes ads on smart fridges official with upcoming software update
+   Points: 362
+   Comments: 302
+   URL: https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/
+
+8. EuroLLM: LLM made in Europe built to support all 24 official EU languages
+   Points: 498
+   Comments: 393
+   URL: https://eurollm.io/
+
+9. Fil-C: A memory-safe C implementation
+   Points: 111
+   Comments: 28
+   URL: https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/
+
+10. Show HN: Butter – A Behavior Cache for LLMs
+   Points: 10
+   Comments: 5
+   URL: https://www.butter.dev/
+
+11. The Continual Learning Problem
+   Points: 44
+   Comments: 3
+   URL: https://jessylin.com/2025/10/20/continual-learning/
+
+12. A brief history of random numbers (2018)
+   Points: 177
+   Comments: 59
+   URL: https://crates.io/crates/oorandom#a-brief-history-of-random-numbers
+
+13. Our LLM-controlled office robot can't pass butter
+   Points: 166
+   Comments: 87
+   URL: https://andonlabs.com/evals/butter-bench
+
+14. Using AI to negotiate a $195k hospital bill down to $33k
+   Points: 780
+   Comments: 704
+   URL: https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw
+
+15. Cheese Crystals (2019)
+   Points: 65
+   Comments: 46
+   URL: https://snipettemag.com/cheese-crystals/
+
+16. Nearly 90% of Windows Games Now Run on Linux
+   Points: 208
+   Comments: 105
+   URL: https://www.tomshardware.com/software/linux/nearly-90-percent-of-windows-games-now-run-on-linux-latest-data-shows-as-windows-10-dies-gaming-on-linux-is-more-viable-than-ever
+
+17. Tor Browser 15.0
+   Points: 58
+   Comments: 9
+   URL: https://blog.torproject.org/new-release-tor-browser-150/
+
+18. Ubiquiti SFP Wizard
+   Points: 195
+   Comments: 145
+   URL: https://blog.ui.com/article/welcome-to-sfp-liberation-day
+
+19. Why do some radio towers blink?
+   Points: 93
+   Comments: 74
+   URL: https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink
+
+20. Sick: Indexed deduplicated binary storage for JSON-like data structures
+   Points: 107
+   Comments: 54
+   URL: https://github.com/7mind/sick
+
