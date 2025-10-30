@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-30
+==================================================
+
+1. Uv is the best thing to happen to the Python ecosystem in a decade
+   Points: 991
+   Comments: 590
+   URL: https://emily.space/posts/251023-uv
+
+2. Meta and TikTok are obstructing researchers' access to data, EU commission rules
+   Points: 96
+   Comments: 32
+   URL: https://www.science.org/content/article/meta-and-tiktok-are-obstructing-researchers-access-data-european-commission-rules
+
+3. China has added forest the size of Texas since 1990
+   Points: 301
+   Comments: 187
+   URL: https://e360.yale.edu/digest/china-new-forest-report
+
+4. Tell HN: Azure outage
+   Points: 616
+   Comments: 611
+   URL: https://news.ycombinator.com/item?id=45748661
+
+5. A century of reforestation helped keep the eastern US cool
+   Points: 45
+   Comments: 2
+   URL: https://news.agu.org/press-release/a-century-of-reforestation-helped-keep-the-eastern-us-cool/
+
+6. Crunchyroll is destroying its subtitles for no good reason
+   Points: 58
+   Comments: 9
+   URL: https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/
+
+7. Minecraft removing obfuscation in Java Edition
+   Points: 524
+   Comments: 180
+   URL: https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition
+
+8. Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet
+   Points: 27
+   Comments: 5
+   URL: https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet
+
+9. Responses from LLMs are not facts
+   Points: 99
+   Comments: 55
+   URL: https://stopcitingai.com/
+
+10. Dithering – Part 1
+   Points: 190
+   Comments: 41
+   URL: https://visualrambling.space/dithering-part-1/
+
+11. How the U.S. National Science Foundation Enabled Software-Defined Networking
+   Points: 40
+   Comments: 6
+   URL: https://cacm.acm.org/federal-funding-of-academic-research/how-the-u-s-national-science-foundation-enabled-software-defined-networking/
+
+12. AWS to bare metal two years later: Answering your questions about leaving AWS
+   Points: 580
+   Comments: 417
+   URL: https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view
+
+13. AOL to be sold to Bending Spoons for $1.5B
+   Points: 172
+   Comments: 158
+   URL: https://www.axios.com/2025/10/29/aol-bending-spoons-deal
+
+14. Tailscale Peer Relays
+   Points: 240
+   Comments: 70
+   URL: https://tailscale.com/blog/peer-relays-beta
+
+15. OpenAI’s promise to stay in California helped clear the path for its IPO
+   Points: 141
+   Comments: 177
+   URL: https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c
+
+16. Kafka is Fast – I'll use Postgres
+   Points: 281
+   Comments: 239
+   URL: https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks
+
+17. How to Obsessively Tune WezTerm
+   Points: 69
+   Comments: 41
+   URL: https://rashil2000.me/blogs/tune-wezterm
+
+18. Board: New game console recognizes physical pieces, with an open SDK
+   Points: 126
+   Comments: 46
+   URL: https://board.fun/
+
+19. GLP-1 therapeutics: Their emerging role in alcohol and substance use disorders
+   Points: 137
+   Comments: 43
+   URL: https://academic.oup.com/jes/article/9/11/bvaf141/8277723?login=false
+
+20. How blocks are chained in a blockchain
+   Points: 42
+   Comments: 19
+   URL: https://www.johndcook.com/blog/2025/10/27/blockchain/
+
