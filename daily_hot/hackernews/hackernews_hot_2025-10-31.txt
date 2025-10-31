@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-10-31
+==================================================
+
+1. Affinity Studio now free
+   Points: 738
+   Comments: 540
+   URL: https://www.affinity.studio/get-affinity
+
+2. The ear does not do a Fourier transform (2024)
+   Points: 336
+   Comments: 114
+   URL: https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform
+
+3. Phone numbers for use in TV shows, films and creative works
+   Points: 58
+   Comments: 34
+   URL: https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works
+
+4. Jack Kerouac, Malcolm Cowley, and the difficult birth of On the Road
+   Points: 18
+   Comments: 1
+   URL: https://theamericanscholar.org/scrolling-through/
+
+5. Springs and bounces in native CSS
+   Points: 119
+   Comments: 21
+   URL: https://www.joshwcomeau.com/animation/linear-timing-function/
+
+6. NPM flooded with malicious packages downloaded more than 86k times
+   Points: 141
+   Comments: 77
+   URL: https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/
+
+7. 987654321 / 123456789
+   Points: 486
+   Comments: 83
+   URL: https://www.johndcook.com/blog/2025/10/26/987654321/
+
+8. Minecraft HDL, an HDL for Redstone
+   Points: 103
+   Comments: 13
+   URL: https://github.com/itsfrank/MinecraftHDL
+
+9. The Psychology of Portnoy: On the Making of Philip Roth's Groundbreaking Novel
+   Points: 18
+   Comments: 0
+   URL: https://lithub.com/the-psychology-of-portnoy-on-the-making-of-philip-roths-groundbreaking-novel/
+
+10. Denmark reportedly withdraws Chat Control proposal following controversy
+   Points: 145
+   Comments: 32
+   URL: https://therecord.media/demark-reportedly-withdraws-chat-control-proposal
+
+11. Free software scares normal people
+   Points: 438
+   Comments: 303
+   URL: https://danieldelaney.net/normal/
+
+12. A change of address led to our Wise accounts being shut down
+   Points: 163
+   Comments: 87
+   URL: https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/
+
+13. Lenses in Julia
+   Points: 56
+   Comments: 10
+   URL: https://juliaobjects.github.io/Accessors.jl/stable/lenses/
+
+14. Show HN: I made a heatmap diff viewer for code reviews
+   Points: 169
+   Comments: 48
+   URL: https://0github.com
+
+15. Launch HN: Propolis (YC X25) – Browser agents that QA your web app autonomously
+   Points: 87
+   Comments: 25
+   URL: https://app.propolis.tech/#/launch
+
+16. Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders
+   Points: 627
+   Comments: 244
+   URL: https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code
+
+17. A Defense of Philosophical Intuitions
+   Points: 11
+   Comments: 1
+   URL: https://hilariusbookbinder.substack.com/p/a-defense-of-philosophical-intuitions
+
+18. Show HN: Run a GitHub Actions step in a gVisor sandbox
+   Points: 47
+   Comments: 0
+   URL: https://github.com/geomys/sandboxed-step
+
+19. Show HN: Front End Fuzzy and Substring and Prefix Search
+   Points: 13
+   Comments: 1
+   URL: https://github.com/m31coding/fuzzy-search
+
+20. How to Use Zorn's Lemma (2008)
+   Points: 11
+   Comments: 1
+   URL: https://gowers.wordpress.com/2008/08/12/how-to-use-zorns-lemma/
+
