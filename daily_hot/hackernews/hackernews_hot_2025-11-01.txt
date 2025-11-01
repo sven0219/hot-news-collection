@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-01
+==================================================
+
+1. Show HN: Strange Attractors
+   Points: 97
+   Comments: 11
+   URL: https://blog.shashanktomar.com/posts/strange-attractors
+
+2. Futurelock: A subtle risk in async Rust
+   Points: 234
+   Comments: 97
+   URL: https://rfd.shared.oxide.computer/rfd/0609
+
+3. Introducing architecture variants
+   Points: 162
+   Comments: 106
+   URL: https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312
+
+4. A theoretical way to circumvent Android developer verification
+   Points: 73
+   Comments: 43
+   URL: https://enaix.github.io/2025/10/30/developer-verification.html
+
+5. The Last PCB You'll Ever Buy [video]
+   Points: 31
+   Comments: 9
+   URL: https://www.youtube.com/watch?v=A_IUIyyqw0M
+
+6. Addiction Markets
+   Points: 150
+   Comments: 136
+   URL: https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate
+
+7. Use DuckDB-WASM to query TB of data in browser
+   Points: 132
+   Comments: 34
+   URL: https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/
+
+8. Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking
+   Points: 178
+   Comments: 96
+   URL: https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/
+
+9. My Impressions of the MacBook Pro M4
+   Points: 103
+   Comments: 150
+   URL: https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/
+
+10. Will Paramount Cancel Jon Stewart?
+   Points: 6
+   Comments: 3
+   URL: https://www.newyorker.com/culture/the-new-yorker-interview/will-paramount-cancel-jon-stewart
+
+11. S.a.r.c.a.s.m: Slightly Annoying Rubik's Cube Automatic Solving Machine
+   Points: 9
+   Comments: 1
+   URL: https://github.com/vindar/SARCASM
+
+12. Hacking India's largest automaker: Tata Motors
+   Points: 124
+   Comments: 43
+   URL: https://eaton-works.com/2025/10/28/tata-motors-hack/
+
+13. How We Found 7 TiB of Memory Just Sitting Around
+   Points: 96
+   Comments: 21
+   URL: https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around
+
+14. Perfetto: Swiss army knife for Linux client tracing
+   Points: 88
+   Comments: 9
+   URL: https://lalitm.com/perfetto-swiss-army-knife/
+
+15. Llamafile Returns
+   Points: 85
+   Comments: 13
+   URL: https://blog.mozilla.ai/llamafile-returns/
+
+16. Show HN: Pipelex – Declarative language for repeatable AI workflows
+   Points: 71
+   Comments: 15
+   URL: https://github.com/Pipelex/pipelex
+
+17. Nix Derivation Madness
+   Points: 149
+   Comments: 52
+   URL: https://fzakaria.com/2025/10/29/nix-derivation-madness
+
+18. AI scrapers request commented scripts
+   Points: 179
+   Comments: 124
+   URL: https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/
+
+19. Signs of introspection in large language models
+   Points: 99
+   Comments: 46
+   URL: https://www.anthropic.com/research/introspection
+
+20. Active listening: the Swiss Army Knife of communication
+   Points: 5
+   Comments: 1
+   URL: https://togetherlondon.com/insights/active-listening-swiss-army-knife
+
