@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-02
+==================================================
+
+1. SailfishOS: A Linux-based European alternative to dominant mobile OSes
+   Points: 146
+   Comments: 72
+   URL: https://sailfishos.org/info/
+
+2. OS maintained by a single developer since 1997: Visopsys
+   Points: 97
+   Comments: 9
+   URL: https://visopsys.org/
+
+3. Updated practice for review articles and position papers in ArXiv CS category
+   Points: 405
+   Comments: 195
+   URL: https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/
+
+4. Policy, privacy and post-quantum: anonymous credentials for everyone
+   Points: 4
+   Comments: 0
+   URL: https://blog.cloudflare.com/private-rate-limiting/
+
+5. Claude Code Can Debug Low-Level Cryptography
+   Points: 179
+   Comments: 104
+   URL: https://words.filippo.io/claude-debugging/
+
+6. GHC now runs in the browser
+   Points: 239
+   Comments: 66
+   URL: https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169
+
+7. Pomelli
+   Points: 22
+   Comments: 6
+   URL: https://labs.google.com/pomelli/about/
+
+8. Show HN: Why write code if the LLM can just do the thing? (web app experiment)
+   Points: 206
+   Comments: 164
+   URL: https://github.com/samrolken/nokode
+
+9. Beginner-friendly, unofficial documentation for Helix text editor
+   Points: 86
+   Comments: 29
+   URL: https://helix-editor.vercel.app/start-here/basics/
+
+10. SQLite concurrency and why you should care about it
+   Points: 247
+   Comments: 110
+   URL: https://jellyfin.org/posts/SQLite-locking/
+
+11. The Smol Training Playbook: The Secrets to Building World-Class LLMs
+   Points: 122
+   Comments: 6
+   URL: https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook
+
+12. OpenDesk by the Centre for Digital Sovereignty
+   Points: 20
+   Comments: 3
+   URL: https://www.opendesk.eu/en/product
+
+13. RegEx Crossword
+   Points: 12
+   Comments: 2
+   URL: https://jimbly.github.io/regex-crossword/
+
+14. The hardest program I've ever written (2015)
+   Points: 52
+   Comments: 35
+   URL: https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/
+
+15. Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets
+   Points: 8
+   Comments: 0
+   URL: https://github.com/Amal-David/keyleak-detector
+
+16. Austria: Pylons as sculpture for public acceptance of expanding electrification
+   Points: 86
+   Comments: 39
+   URL: https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals
+
+17. Chat Control proposal fails again after public opposition
+   Points: 433
+   Comments: 114
+   URL: https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/
+
+18. Word2vec-style vector arithmetic on docs embeddings
+   Points: 43
+   Comments: 11
+   URL: https://technicalwriting.dev/embeddings/arithmetic/index.html
+
+19. CharlotteOS – An Experimental Modern Operating System
+   Points: 147
+   Comments: 64
+   URL: https://github.com/charlotte-os/Catten
+
+20. Hard Rust requirements from May onward
+   Points: 314
+   Comments: 547
+   URL: https://lists.debian.org/debian-devel/2025/10/msg00285.html
+
