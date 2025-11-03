@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-03
+==================================================
+
+1. Paris had a moving sidewalk in 1900, and a Thomas edison film captured it (2020)
+   Points: 163
+   Comments: 60
+   URL: https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html
+
+2. Using FreeBSD to make self-hosting fun again
+   Points: 203
+   Comments: 48
+   URL: https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/
+
+3. Facts about throwing good parties
+   Points: 62
+   Comments: 19
+   URL: https://www.atvbt.com/21-facts-about-throwing-good-parties/
+
+4. Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody
+   Points: 72
+   Comments: 12
+   URL: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+
+5. Why don't you use dependent types?
+   Points: 177
+   Comments: 57
+   URL: https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
+
+6. Lisp: Notes on its Past and Future (1980)
+   Points: 114
+   Comments: 50
+   URL: https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html
+
+7. Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
+   Points: 241
+   Comments: 87
+   URL: https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+
+8. Reproducing the AWS Outage Race Condition with a Model Checker
+   Points: 78
+   Comments: 11
+   URL: https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
+
+9. Amazon Rivian electric delivery vans arrive in Canada
+   Points: 38
+   Comments: 29
+   URL: https://cleantechnica.com/2025/10/30/rivian-electric-delivery-vans-arrive-in-canada/
+
+10. URLs are state containers
+   Points: 320
+   Comments: 143
+   URL: https://alfy.blog/2025/10/31/your-url-is-your-state.html
+
+11. X.org Security Advisory: multiple security issues X.Org X server and Xwayland
+   Points: 131
+   Comments: 77
+   URL: https://lists.x.org/archives/xorg-announce/2025-October/003635.html
+
+12. Scents of Arabia: Interdisciplinary approaches to ancient olfactory worlds
+   Points: 5
+   Comments: 0
+   URL: https://www.scientificamerican.com/article/how-archaeology-is-reviving-the-smell-of-history/
+
+13. FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI
+   Points: 1
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=45793652
+
+14. Solar-powered QR reading postboxes being rolled out across UK
+   Points: 26
+   Comments: 16
+   URL: https://www.bbc.co.uk/news/articles/cgln72rgrero
+
+15. Notes by djb on using Fil-C
+   Points: 288
+   Comments: 171
+   URL: https://cr.yp.to/2025/fil-c.html
+
+16. Anti-cybercrime laws are being weaponized to repress journalism
+   Points: 217
+   Comments: 62
+   URL: https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php
+
+17. The x86 Interrupt List, aka “Ralf Brown's Interrupt List” (2018)
+   Points: 42
+   Comments: 6
+   URL: http://www.cs.cmu.edu/~ralf/files.html
+
+18. Is Your Bluetooth Chip Leaking Secrets via RF Signals?
+   Points: 65
+   Comments: 14
+   URL: https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2
+
+19. React-Native-Godot
+   Points: 42
+   Comments: 4
+   URL: https://github.com/borndotcom/react-native-godot
+
+20. Autodesk's John Walker Explained HP and IBM in 1991 (2015)
+   Points: 110
+   Comments: 57
+   URL: https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/
+
