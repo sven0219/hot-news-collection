@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-04
+==================================================
+
+1. Guideline has been acquired by Gusto
+   Points: 58
+   Comments: 44
+   URL: https://help.guideline.com/en/articles/12694322-guideline-has-joined-gusto-faqs-about-our-recent-acquisition
+
+2. AI's Dial-Up Era
+   Points: 110
+   Comments: 94
+   URL: https://www.wreflection.com/p/ai-dial-up-era
+
+3. The Mack Super Pumper was a locomotive engined fire fighter (2018)
+   Points: 95
+   Comments: 64
+   URL: https://bangshift.com/bangshiftxl/mack-super-pumper-system-locomotive-engine-powered-pumper-extinguish-hell-often/
+
+4. A Friendly Tour of Process Memory on Linux
+   Points: 23
+   Comments: 4
+   URL: https://www.0xkato.xyz/linux-process-memory/
+
+5. Things you can do with diodes
+   Points: 16
+   Comments: 5
+   URL: https://lcamtuf.substack.com/p/things-you-can-do-with-diodes
+
+6. Ask HN: Who is hiring? (November 2025)
+   Points: 281
+   Comments: 316
+   URL: https://news.ycombinator.com/item?id=45800465
+
+7. Linkers: A 20 Part Series (2007)
+   Points: 17
+   Comments: 1
+   URL: https://www.airs.com/blog/archives/38
+
+8. Maintaining a Music Library, Ten Years On
+   Points: 45
+   Comments: 30
+   URL: https://brianschrader.com/archive/maintaining-a-music-library-ten-years-on/
+
+9. Learning to read Arthur Whitney's C to become smart (2024)
+   Points: 219
+   Comments: 83
+   URL: https://needleful.net/blog/2024/01/arthur_whitney.html
+
+10. Ask HN: Who wants to be hired? (November 2025)
+   Points: 120
+   Comments: 242
+   URL: https://news.ycombinator.com/item?id=45800464
+
+11. Gallery of wonderful drawings our little thermal printer received
+   Points: 73
+   Comments: 22
+   URL: https://guestbook.goodenough.us
+
+12. Tiny electric motor can produce more than 1,000 horsepower
+   Points: 536
+   Comments: 513
+   URL: https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/
+
+13. The MP3.com Rescue Barge Barge
+   Points: 78
+   Comments: 23
+   URL: https://blog.somnolescent.net/2025/09/mp3-com-rescue-barge-barge/
+
+14. State of Terminal Emulators in 2025: The Errant Champions
+   Points: 146
+   Comments: 118
+   URL: https://www.jeffquast.com/post/state-of-terminal-emulation-2025/
+
+15. The Case Against PGVector
+   Points: 262
+   Comments: 103
+   URL: https://alex-jacobs.com/posts/the-case-against-pgvector/
+
+16. Agent-o-rama: build, trace, evaluate, and monitor LLM agents in Java or Clojure
+   Points: 39
+   Comments: 3
+   URL: https://blog.redplanetlabs.com/2025/11/03/introducing-agent-o-rama-build-trace-evaluate-and-monitor-stateful-llm-agents-in-java-or-clojure/
+
+17. Israels top military lawyer resigns, goes missing, is found and thrown into jail
+   Points: 54
+   Comments: 7
+   URL: https://apnews.com/article/israel-military-scandal-prisoners-abuse-7becb2de4079b76b656910cc3c640d0d
+
+18. A visualization of the RGB space covered by named colors
+   Points: 207
+   Comments: 49
+   URL: https://codepen.io/meodai/full/zdgXJj/
+
+19. WebAssembly (WASM) arch support for the Linux kernel
+   Points: 213
+   Comments: 50
+   URL: https://github.com/joelseverin/linux-wasm
+
+20. Pixi: Reproducible Package Management for Robotics
+   Points: 12
+   Comments: 2
+   URL: https://prefix.dev/blog/reproducible-package-management-for-robotics
+
