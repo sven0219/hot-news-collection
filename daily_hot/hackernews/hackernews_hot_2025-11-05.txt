@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-05
+==================================================
+
+1. Mr Tiff
+   Points: 106
+   Comments: 6
+   URL: https://inventingthefuture.ghost.io/mr-tiff/
+
+2. Patching 68K Software – SimpleText
+   Points: 35
+   Comments: 1
+   URL: https://tinkerdifferent.com/threads/patching-68k-software-simpletext.4793/
+
+3. This Day in 1988, the Morris worm infected 10% of the Internet within 24 hours
+   Points: 281
+   Comments: 138
+   URL: https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours
+
+4. Apple uses 3D Gaussian splatting for Personas and 3D conversions of photos
+   Points: 17
+   Comments: 1
+   URL: https://www.cnet.com/tech/computing/apple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed/
+
+5. Pg_lake: Postgres with Iceberg and data lake access
+   Points: 263
+   Comments: 78
+   URL: https://github.com/Snowflake-Labs/pg_lake
+
+6. Whole Earth Index
+   Points: 127
+   Comments: 28
+   URL: https://wholeearth.info/
+
+7. Uncle Sam wants to scan your iris and collect your DNA, citizen or not
+   Points: 62
+   Comments: 38
+   URL: https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/
+
+8. Codemaps: Understand Code, Before You Vibe It
+   Points: 185
+   Comments: 61
+   URL: https://cognition.ai/blog/codemaps
+
+9. Show HN: A CSS-Only Terrain Generator
+   Points: 269
+   Comments: 75
+   URL: https://terra.layoutit.com
+
+10. By the Power of Grayscale
+   Points: 97
+   Comments: 21
+   URL: https://zserge.com/posts/grayskull/
+
+11. BlackRock's Larry Fink: "Tokenization", Digital IDs, & Social Credit
+   Points: 25
+   Comments: 8
+   URL: https://thewinepress.substack.com/p/tokenization-blackrocks-larry-fink
+
+12. I took all my projects off the cloud, saving thousands of dollars
+   Points: 103
+   Comments: 112
+   URL: https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/
+
+13. Singing bus horns in West Sumatra
+   Points: 44
+   Comments: 2
+   URL: https://www.auralarchipelago.com/auralarchipelago/kalason
+
+14. Launch HN: Plexe (YC X25) – Build production-grade ML models from prompts
+   Points: 62
+   Comments: 25
+   URL: https://www.plexe.ai/
+
+15. Frozen String Literals: Past, Present, Future?
+   Points: 20
+   Comments: 1
+   URL: https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html
+
+16. Bluetui – A TUI for managing Bluetooth on Linux
+   Points: 10
+   Comments: 0
+   URL: https://github.com/pythops/bluetui
+
+17. Analyzing the Performance of WebAssembly vs. Native Code
+   Points: 43
+   Comments: 23
+   URL: https://ar5iv.labs.arxiv.org/html/1901.09056
+
+18. NoLongerEvil-Thermostat – Nest Generation 1 and 2 Firmware
+   Points: 302
+   Comments: 98
+   URL: https://github.com/codykociemba/NoLongerEvil-Thermostat
+
+19. What is a manifold?
+   Points: 327
+   Comments: 117
+   URL: https://www.quantamagazine.org/what-is-a-manifold-20251103/
+
+20. Google Removed 749M Anna's Archive URLs from Its Search Results
+   Points: 56
+   Comments: 19
+   URL: https://torrentfreak.com/google-removed-749-million-annas-archive-urls-from-its-search-results/
+
