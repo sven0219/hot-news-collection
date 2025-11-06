@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-06
+==================================================
+
+1. Solarpunk is happening in Africa
+   Points: 475
+   Comments: 235
+   URL: https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
+
+2. Photos: New Phoenix Microcenter is a 'tech-heaven' for geeks
+   Points: 26
+   Comments: 22
+   URL: https://www.phoenixnewtimes.com/arts-culture/micro-center-in-phoenix-a-look-inside-the-new-tech-heaven-40618548/
+
+3. Dillo, a multi-platform graphical web browser
+   Points: 214
+   Comments: 77
+   URL: https://github.com/dillo-browser/dillo
+
+4. ChatGPT terms disallow its use in providing legal and medical advice to others
+   Points: 188
+   Comments: 183
+   URL: https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/
+
+5. New gel restores dental enamel and could revolutionise tooth repair
+   Points: 291
+   Comments: 131
+   URL: https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair
+
+6. The state of SIMD in Rust in 2025
+   Points: 144
+   Comments: 79
+   URL: https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d
+
+7. Firefox profiles: Private, focused spaces for all the ways you browse
+   Points: 97
+   Comments: 40
+   URL: https://blog.mozilla.org/en/firefox/profile-management/
+
+8. Why aren't smart people happier?
+   Points: 162
+   Comments: 285
+   URL: https://www.theseedsofscience.pub/p/why-arent-smart-people-happier
+
+9. Ruby and Its Neighbors: Smalltalk
+   Points: 164
+   Comments: 94
+   URL: https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/
+
+10. A Lost IBM PC/at Model? Analyzing a Newfound Old Bios
+   Points: 54
+   Comments: 9
+   URL: https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/
+
+11. The Basic Laws of Human Stupidity (1987) [pdf]
+   Points: 15
+   Comments: 5
+   URL: https://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf
+
+12. The Last Literary Lion of New York, Gay Talese
+   Points: 4
+   Comments: 0
+   URL: https://www.metropolitanreview.org/p/the-last-literary-lion-of-new-york
+
+13. The shadows lurking in the equations
+   Points: 248
+   Comments: 81
+   URL: https://gods.art/articles/equation_shadows.html
+
+14. Unicode Footguns in Python
+   Points: 16
+   Comments: 5
+   URL: https://pythonkoans.substack.com/p/koan-15-the-invisible-ink
+
+15. Timing Wheels
+   Points: 22
+   Comments: 0
+   URL: https://pncnmnp.github.io/blogs/timing-wheels.html
+
+16. An eBPF Loophole: Using XDP for Egress Traffic
+   Points: 195
+   Comments: 67
+   URL: https://loopholelabs.io/blog/xdp-for-egress-traffic
+
+17. NY smartphone ban has made lunch loud again
+   Points: 195
+   Comments: 143
+   URL: https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again
+
+18. I want a good parallel language [video]
+   Points: 52
+   Comments: 32
+   URL: https://www.youtube.com/watch?v=0-eViUyPwso
+
+19. Carice TC2 – A non-digital electric car
+   Points: 176
+   Comments: 134
+   URL: https://www.caricecars.com/
+
+20. Vacuum bricked after user blocks data collection – user mods it to run anyway
+   Points: 149
+   Comments: 35
+   URL: https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline
+
