@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-07
+==================================================
+
+1. You should write an agent
+   Points: 223
+   Comments: 110
+   URL: https://fly.io/blog/everyone-write-an-agent/
+
+2. Two billion email addresses were exposed
+   Points: 305
+   Comments: 220
+   URL: https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/
+
+3. Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model
+   Points: 553
+   Comments: 217
+   URL: https://moonshotai.github.io/Kimi-K2/thinking.html
+
+4. Game design is simple
+   Points: 69
+   Comments: 22
+   URL: https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/
+
+5. Show HN: I scraped 3B Goodreads reviews to train a better recommendation model
+   Points: 202
+   Comments: 84
+   URL: https://book.sv
+
+6. Universe's expansion 'is now slowing, not speeding up'
+   Points: 77
+   Comments: 84
+   URL: https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding
+
+7. Swift on FreeBSD Preview
+   Points: 173
+   Comments: 97
+   URL: https://forums.swift.org/t/swift-on-freebsd-preview/83064
+
+8. Open Source Implementation of Apple's Private Compute Cloud
+   Points: 346
+   Comments: 68
+   URL: https://github.com/openpcc/openpcc
+
+9. LLMs encode how difficult problems are
+   Points: 90
+   Comments: 15
+   URL: https://arxiv.org/abs/2510.18147
+
+10. The Parallel Search API
+   Points: 84
+   Comments: 34
+   URL: https://parallel.ai/blog/introducing-parallel-search
+
+11. FBI tries to unmask owner of archive.is
+   Points: 662
+   Comments: 346
+   URL: https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html
+
+12. Eating stinging nettles
+   Points: 164
+   Comments: 161
+   URL: https://rachel.blog/2018/04/29/eating-stinging-nettles/
+
+13. Hightouch (YC S19) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://job-boards.greenhouse.io/hightouch/jobs/5542602004
+
+14. I analyzed the lineups at the most popular nightclubs
+   Points: 139
+   Comments: 67
+   URL: https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/
+
+15. The Learning Loop and LLMs
+   Points: 88
+   Comments: 55
+   URL: https://martinfowler.com/articles/llm-learning-loop.html
+
+16. ICC ditches Microsoft 365 for openDesk
+   Points: 515
+   Comments: 158
+   URL: https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365
+
+17. The Geometry of Schemes [pdf]
+   Points: 6
+   Comments: 0
+   URL: https://webhomes.maths.ed.ac.uk/~v1ranick/papers/eisenbudharris.pdf
+
+18. Mathematical exploration and discovery at scale
+   Points: 219
+   Comments: 107
+   URL: https://terrytao.wordpress.com/2025/11/05/mathematical-exploration-and-discovery-at-scale/
+
+19. Auraphone: A simple app to collect people's info at events
+   Points: 28
+   Comments: 14
+   URL: https://andrewarrow.dev/2025/11/simple-app-collect-peoples-info-at-events/
+
+20. Show HN: TabPFN-2.5 – SOTA foundation model for tabular data
+   Points: 59
+   Comments: 11
+   URL: https://priorlabs.ai/technical-reports/tabpfn-2-5-model-report
+
