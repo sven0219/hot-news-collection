@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-08
+==================================================
+
+1. Why is Zig so Cool?
+   Points: 85
+   Comments: 19
+   URL: https://nilostolte.github.io/tech/articles/ZigCool.html
+
+2. Becoming a Compiler Engineer
+   Points: 76
+   Comments: 17
+   URL: https://rona.substack.com/p/becoming-a-compiler-engineer
+
+3. Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication
+   Points: 15
+   Comments: 1
+   URL: https://researchers.one/articles/24.01.00001v4
+
+4. Myna: Monospace typeface designed for symbol-heavy programming languages
+   Points: 187
+   Comments: 74
+   URL: https://github.com/sayyadirfanali/Myna
+
+5. How did I get here?
+   Points: 106
+   Comments: 30
+   URL: https://how-did-i-get-here.net/
+
+6. How a devboard works (and how to make your own)
+   Points: 26
+   Comments: 2
+   URL: https://kaipereira.com/journal/build-a-devboard
+
+7. Ruby Solved My Problem
+   Points: 154
+   Comments: 58
+   URL: https://newsletter.masilotti.com/p/ruby-already-solved-my-problem
+
+8. YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'
+   Points: 336
+   Comments: 121
+   URL: https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/
+
+9. Ribir: Non-intrusive GUI framework for Rust/WASM
+   Points: 42
+   Comments: 4
+   URL: https://github.com/RibirX/Ribir
+
+10. FAA restricts commercial rocket launches indefinitely due to air traffic risks
+   Points: 66
+   Comments: 12
+   URL: https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown
+
+11. Venn Diagram for 7 Sets
+   Points: 87
+   Comments: 14
+   URL: https://moebio.com/research/sevensets/
+
+12. Transducer: Composition, Abstraction, Performance
+   Points: 65
+   Comments: 0
+   URL: https://funktionale-programmierung.de/en/2018/03/22/transducer.html
+
+13. He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems
+   Points: 10
+   Comments: 4
+   URL: https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content
+
+14. VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025
+   Points: 220
+   Comments: 36
+   URL: https://fsfe.org/news/2025/news-20251107-01.en.html
+
+15. I Love OCaml
+   Points: 288
+   Comments: 196
+   URL: https://mccd.space/posts/ocaml-the-worlds-best/
+
+16. James Watson has died
+   Points: 214
+   Comments: 113
+   URL: https://www.nytimes.com/2025/11/07/science/james-watson-dead.html
+
+17. FSF40 Hackathon
+   Points: 37
+   Comments: 0
+   URL: https://www.fsf.org/events/fsf40-hackathon
+
+18. Using the Web Monetization API for fun and profit
+   Points: 18
+   Comments: 1
+   URL: https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/
+
+19. Mind captioning: Evolving descriptive text of mental content of brain activity
+   Points: 9
+   Comments: 4
+   URL: https://www.science.org/doi/10.1126/sciadv.adw1464
+
+20. Angel Investors, a Field Guide
+   Points: 91
+   Comments: 18
+   URL: https://www.jeanyang.com/posts/angel-investors-a-field-guide/
+
