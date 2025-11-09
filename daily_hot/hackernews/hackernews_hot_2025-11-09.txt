@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-09
+==================================================
+
+1. Ironclad – formally verified, real-time capable, Unix-like OS kernel
+   Points: 66
+   Comments: 8
+   URL: https://ironclad-os.org/
+
+2. Marko – A declarative, HTML‑based language
+   Points: 178
+   Comments: 94
+   URL: https://markojs.com/
+
+3. WriterdeckOS
+   Points: 110
+   Comments: 56
+   URL: https://writerdeckos.com
+
+4. Largest Cargo Sailboat Completes Historic First Atlantic Crossing
+   Points: 72
+   Comments: 32
+   URL: https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/
+
+5. Study identifies weaknesses in how AI systems are evaluated
+   Points: 285
+   Comments: 150
+   URL: https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
+
+6. Control structures in programming languages: from goto to algebraic effects
+   Points: 78
+   Comments: 2
+   URL: http://xavierleroy.org/control-structures/
+
+7. Characterizing the American Upper Paleolithic
+   Points: 4
+   Comments: 1
+   URL: https://www.science.org/doi/10.1126/sciadv.ady9545
+
+8. Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs
+   Points: 15
+   Comments: 0
+   URL: https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/
+
+9. GPS 'kill' switch allows state police cruisers to go dark and disable tracking
+   Points: 34
+   Comments: 13
+   URL: https://www.boston25news.com/news/local/25-investigates-gps-kill-switch-allows-msp-cruisers-go-dark-disable-tracking/5OKMJEUJDNAVXPLN4WKFADNPLM/
+
+10. Avería: The Average Font (2011)
+   Points: 106
+   Comments: 22
+   URL: http://iotic.com/averia/
+
+11. Open-source communications by bouncing signals off the Moon
+   Points: 36
+   Comments: 13
+   URL: https://open.space/
+
+12. Cloudflare scrubs Aisuru botnet from top domains list
+   Points: 110
+   Comments: 26
+   URL: https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/
+
+13. IP Blocking the UK Is Not Enough to Comply with the Online Safety Act
+   Points: 153
+   Comments: 156
+   URL: https://prestonbyrne.com/2025/11/06/the-ofcom-files-part-2-ip-blocking-the-uk-is-not-enough-to-comply-with-the-online-safety-act/
+
+14. My first fifteen compilers (2019)
+   Points: 39
+   Comments: 3
+   URL: https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/
+
+15. An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]
+   Points: 79
+   Comments: 9
+   URL: https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf
+
+16. Valdi – A cross-platform UI framework that delivers native performance
+   Points: 455
+   Comments: 186
+   URL: https://github.com/Snapchat/Valdi
+
+17. Ticker: Don't die of heart disease
+   Points: 367
+   Comments: 319
+   URL: https://myticker.com/
+
+18. How to declutter, quiet down, and take the AI out of Windows 11 25H2
+   Points: 50
+   Comments: 34
+   URL: https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/
+
+19. Why is Zig so cool?
+   Points: 487
+   Comments: 424
+   URL: https://nilostolte.github.io/tech/articles/ZigCool.html
+
+20. Otto Nemenz, Supplier and Designer of Cameras and Lenses for Hollywood, Dies
+   Points: 4
+   Comments: 1
+   URL: https://www.hollywoodreporter.com/movies/movie-news/otto-nemenz-dead-cameras-lenses-hollywood-1236417089/
+
