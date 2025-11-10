@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-10
+==================================================
+
+1. Marble Fountain
+   Points: 470
+   Comments: 53
+   URL: https://willmorrison.net/posts/marble-fountain/
+
+2. Ask HN: What Are You Working On? (Nov 2025)
+   Points: 103
+   Comments: 318
+   URL: https://news.ycombinator.com/item?id=45869146
+
+3. JVM exceptions are weird: a decompiler perspective
+   Points: 64
+   Comments: 11
+   URL: https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
+
+4. Montana becomes first state to enshrine 'right to compute' into law
+   Points: 329
+   Comments: 156
+   URL: https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/
+
+5. Building a 2.5kWh battery from disposable vapes to power my workshop [video]
+   Points: 110
+   Comments: 61
+   URL: https://www.youtube.com/watch?v=dy-wFixuRVU
+
+6. Drilling down on Uncle Sam's proposed TP-Link ban
+   Points: 108
+   Comments: 100
+   URL: https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/
+
+7. The Manuscripts of Edsger W. Dijkstra
+   Points: 180
+   Comments: 68
+   URL: https://www.cs.utexas.edu/~EWD/
+
+8. The Principles of Diffusion Models
+   Points: 130
+   Comments: 12
+   URL: https://arxiv.org/abs/2510.21890
+
+9. The Sega Master System
+   Points: 52
+   Comments: 13
+   URL: https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/
+
+10. Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck
+   Points: 97
+   Comments: 19
+   URL: https://github.com/samcervantes/bumble-berry-pi
+
+11. If You're Not Active, You're Sick – You Just Don't Know It Yet
+   Points: 42
+   Comments: 8
+   URL: https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you
+
+12. Sued by Nintendo
+   Points: 12
+   Comments: 0
+   URL: https://www.suedbynintendo.com/
+
+13. Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology
+   Points: 130
+   Comments: 50
+   URL: https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/
+
+14. CHIP8 – writing emulator, assembler, example game and VHDL hardware impl
+   Points: 49
+   Comments: 3
+   URL: http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl
+
+15. Zensical – A modern static site generator built by the Material for MkDocs team
+   Points: 122
+   Comments: 40
+   URL: https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/
+
+16. The Computer Church – Pennsylvania Computer and Technology Museum
+   Points: 37
+   Comments: 5
+   URL: https://www.thecomputerchurch.org/
+
+17. Visualize FastAPI endpoints with FastAPI-Voyager
+   Points: 106
+   Comments: 15
+   URL: https://www.newsyeah.fun/voyager/
+
+18. Email verification protocol
+   Points: 127
+   Comments: 92
+   URL: https://github.com/WICG/email-verification-protocol
+
+19. Using bubblewrap to add sandboxing to NetBSD
+   Points: 77
+   Comments: 22
+   URL: https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing
+
+20. Solving Every Sudoku Puzzle (2006)
+   Points: 28
+   Comments: 6
+   URL: https://norvig.com/sudoku.html
+
