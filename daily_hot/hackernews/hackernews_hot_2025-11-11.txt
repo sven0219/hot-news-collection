@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-11
+==================================================
+
+1. High-performance 2D graphics rendering on the CPU using sparse strips [pdf]
+   Points: 105
+   Comments: 14
+   URL: https://github.com/LaurenzV/master-thesis/blob/main/main.pdf
+
+2. Unexpected things that are people
+   Points: 421
+   Comments: 211
+   URL: https://bengoldhaber.substack.com/p/unexpected-things-that-are-people
+
+3. Writing your own BEAM
+   Points: 132
+   Comments: 23
+   URL: https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html
+
+4. Spatial intelligence is AI’s next frontier
+   Points: 102
+   Comments: 58
+   URL: https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence
+
+5. The lazy Git UI you didn't know you need
+   Points: 201
+   Comments: 79
+   URL: https://www.bwplotka.dev/2025/lazygit/
+
+6. Dependent types and how to get rid of them
+   Points: 40
+   Comments: 10
+   URL: https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased
+
+7. Unix v4 Tape Found
+   Points: 142
+   Comments: 18
+   URL: https://discuss.systems/@ricci/115504720054699983
+
+8. Using Generative AI in Content Production
+   Points: 79
+   Comments: 45
+   URL: https://partnerhelp.netflixstudios.com/hc/en-us/articles/43393929218323-Using-Generative-AI-in-Content-Production
+
+9. Zeroing in on Zero-Point Motion Inside a Crystal
+   Points: 31
+   Comments: 1
+   URL: https://physics.aps.org/articles/v18/178
+
+10. The Physics of News, Rumors, and Opinions
+   Points: 13
+   Comments: 0
+   URL: https://arxiv.org/abs/2510.15053
+
+11. Error ABI
+   Points: 64
+   Comments: 23
+   URL: https://matklad.github.io/2025/11/09/error-ABI.html
+
+12. Launch HN: Hypercubic (YC F25) – AI for COBOL and Mainframes
+   Points: 75
+   Comments: 46
+   URL: https://news.ycombinator.com/item?id=45877517
+
+13. Building a high-performance ticketing system with TigerBeetle
+   Points: 77
+   Comments: 10
+   URL: https://renerocks.ai/blog/2025-11-02--tigerfans/
+
+14. Omnilingual ASR: Advancing automatic speech recognition for 1600 languages
+   Points: 64
+   Comments: 16
+   URL: https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/?_fb_noscript=1
+
+15. Linux in a Pixel Shader – A RISC-V Emulator for VRChat
+   Points: 31
+   Comments: 7
+   URL: https://blog.pimaker.at/texts/rvc1/
+
+16. Rademacher Complexity and Models of Group Competition
+   Points: 3
+   Comments: 0
+   URL: https://www.symmetrybroken.com/group-selection/
+
+17. Benchmarking leading AI agents against Google reCAPTCHA v2
+   Points: 91
+   Comments: 67
+   URL: https://research.roundtable.ai/captcha-benchmarking/
+
+18. Head in the Zed Cloud
+   Points: 53
+   Comments: 13
+   URL: https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/
+
+19. Registered OAuth Parameters
+   Points: 34
+   Comments: 6
+   URL: https://www.iana.org/assignments/oauth-parameters/oauth-parameters.xhtml#parameters
+
+20. Sysgpu – Experimental descendant of WebGPU written in Zig
+   Points: 12
+   Comments: 2
+   URL: https://github.com/hexops-graveyard/mach-sysgpu
+
