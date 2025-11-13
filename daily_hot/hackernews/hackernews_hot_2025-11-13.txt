@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-13
+==================================================
+
+1. The last-ever penny will be minted today in Philadelphia
+   Points: 525
+   Comments: 709
+   URL: https://www.cnn.com/2025/11/12/business/last-penny-minted
+
+2. Marble: A Multimodal World Model
+   Points: 59
+   Comments: 3
+   URL: https://www.worldlabs.ai/blog/marble-world-model
+
+3. Project Euler
+   Points: 293
+   Comments: 75
+   URL: https://projecteuler.net
+
+4. Steam Machine
+   Points: 1278
+   Comments: 653
+   URL: https://store.steampowered.com/sale/steammachine
+
+5. Yt-dlp: External JavaScript runtime now required for full YouTube support
+   Points: 847
+   Comments: 518
+   URL: https://github.com/yt-dlp/yt-dlp/issues/15012
+
+6. Steam Frame
+   Points: 931
+   Comments: 345
+   URL: https://store.steampowered.com/sale/steamframe
+
+7. Disassembling terabytes of random data with Zig and Capstone to prove a point
+   Points: 29
+   Comments: 7
+   URL: https://jstrieb.github.io/posts/random-instructions/
+
+8. Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software
+   Points: 114
+   Comments: 105
+   URL: https://github.com/Homebrew/brew/issues/20755
+
+9. Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React
+   Points: 72
+   Comments: 58
+   URL: https://news.ycombinator.com/item?id=45903161
+
+10. A brief look at FreeBSD
+   Points: 109
+   Comments: 54
+   URL: https://yorickpeterse.com/articles/a-brief-look-at-freebsd/
+
+11. Voyager 1 is a light-day away by November 2026
+   Points: 47
+   Comments: 12
+   URL: https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432
+
+12. Blasting Yeast with UV Light
+   Points: 56
+   Comments: 11
+   URL: https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with
+
+13. Ioannis Yannas invented artificial skin for treatment of burns–dies at 90
+   Points: 129
+   Comments: 11
+   URL: https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027
+
+14. OmniAI (YC W24) Is Hiring Forward Deployed Engineers
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer
+
+15. .NET 10
+   Points: 508
+   Comments: 450
+   URL: https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/
+
+16. Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase
+   Points: 11
+   Comments: 1
+   URL: https://arxiv.org/abs/2510.27002
+
+17. Valve Announces New Steam Machine, Steam Controller and Steam Frame
+   Points: 313
+   Comments: 96
+   URL: https://www.phoronix.com/news/Steam-Machines-Frame-2026
+
+18. How Tube Amplifiers Work
+   Points: 59
+   Comments: 36
+   URL: https://robrobinette.com/How_Amps_Work.htm
+
+19. Making the Clang AST Leaner and Faster
+   Points: 29
+   Comments: 5
+   URL: https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html
+
+20. Louisiana Took Months to Sound Alarm Amid Whooping Cough Outbreak
+   Points: 16
+   Comments: 3
+   URL: https://undark.org/2025/11/11/louisiana-whooping-cough-slow/
+
