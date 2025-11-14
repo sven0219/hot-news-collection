@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-14
+==================================================
+
+1. Nano Banana can be prompt engineered for nuanced AI image generation
+   Points: 422
+   Comments: 109
+   URL: https://minimaxir.com/2025/11/nano-banana-prompts/
+
+2. Zed is our office
+   Points: 454
+   Comments: 219
+   URL: https://zed.dev/blog/zed-is-our-office
+
+3. OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios
+   Points: 58
+   Comments: 19
+   URL: https://openmanet.net/
+
+4. 650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark
+   Points: 49
+   Comments: 10
+   URL: https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars
+
+5. Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web
+   Points: 159
+   Comments: 129
+   URL: https://www.tweeks.io/onboarding
+
+6. Checkout.com hacked, refuses ransom payment, donates to security labs
+   Points: 535
+   Comments: 235
+   URL: https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion
+
+7. Blue Origin lands New Glenn rocket booster on second try
+   Points: 185
+   Comments: 73
+   URL: https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/
+
+8. SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds
+   Points: 163
+   Comments: 59
+   URL: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/
+
+9. Show HN: DBOS Java – Postgres-Backed Durable Workflows
+   Points: 45
+   Comments: 21
+   URL: https://github.com/dbos-inc/dbos-transact-java
+
+10. Why do we need dithering?
+   Points: 38
+   Comments: 31
+   URL: https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k
+
+11. Think in math, write in code
+   Points: 96
+   Comments: 40
+   URL: https://www.jmeiners.com/think-in-math/
+
+12. Blender Lab
+   Points: 196
+   Comments: 43
+   URL: https://www.blender.org/news/introducing-blender-lab/
+
+13. Rust in Android: move fast and fix things
+   Points: 273
+   Comments: 188
+   URL: https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html
+
+14. Piramidal (YC W24) Hiring: Front End Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface
+
+15. Itiner-E – The Digital Atlas of Ancient Roads
+   Points: 11
+   Comments: 0
+   URL: https://itiner-e.org/
+
+16. SlopStop: Community-driven AI slop detection in Kagi Search
+   Points: 257
+   Comments: 120
+   URL: https://blog.kagi.com/slopstop
+
+17. GitHub Partial Outage
+   Points: 179
+   Comments: 74
+   URL: https://www.githubstatus.com/incidents/1jw8ltnr1qrj
+
+18. The emergence and diversification of dog morphology
+   Points: 10
+   Comments: 1
+   URL: https://www.science.org/doi/10.1126/science.adt0995
+
+19. How to fix subsystem request failed on channel 0
+   Points: 4
+   Comments: 0
+   URL: https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html
+
+20. Remind: A sophisticated calendar and alarm program
+   Points: 33
+   Comments: 3
+   URL: https://dianne.skoll.ca/projects/remind/
+
