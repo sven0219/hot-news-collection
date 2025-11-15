@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-15
+==================================================
+
+1. AI World Clocks
+   Points: 604
+   Comments: 245
+   URL: https://clocks.brianmoore.com/
+
+2. SSL Configuration Generator
+   Points: 37
+   Comments: 0
+   URL: https://ssl-config.mozilla.org/
+
+3. A race condition in Aurora RDS
+   Points: 185
+   Comments: 63
+   URL: https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds
+
+4. HipKittens: Fast and furious AMD kernels
+   Points: 63
+   Comments: 21
+   URL: https://hazyresearch.stanford.edu/blog/2025-11-09-hk
+
+5. Has Google solved two of AI's oldest problems?
+   Points: 125
+   Comments: 80
+   URL: https://generativehistory.substack.com/p/has-google-quietly-solved-two-of
+
+6. Unofficial Microsoft Teams Client for Linux
+   Points: 19
+   Comments: 28
+   URL: https://github.com/IsmaelMartinez/teams-for-linux
+
+7. Structured Outputs on the Claude Developer Platform (API)
+   Points: 82
+   Comments: 44
+   URL: https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform
+
+8. All praise to the lunch ladies
+   Points: 109
+   Comments: 46
+   URL: https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies
+
+9. Manganese is Lyme disease's double-edge sword
+   Points: 117
+   Comments: 61
+   URL: https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword
+
+10. Show HN: Tiny Diffusion – A character-level text diffusion model from scratch
+   Points: 87
+   Comments: 10
+   URL: https://github.com/nathan-barry/tiny-diffusion
+
+11. Go's Sweet 16
+   Points: 67
+   Comments: 24
+   URL: https://go.dev/blog/16years
+
+12. The disguised return of EU Chat Control
+   Points: 497
+   Comments: 213
+   URL: https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot
+
+13. US Tech Market Treemap
+   Points: 102
+   Comments: 44
+   URL: https://caplocus.com/
+
+14. Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth
+
+15. Xqerl – Erlang XQuery 3.1 Processor
+   Points: 29
+   Comments: 5
+   URL: https://zadean.github.io/xqerl/
+
+16. Minisforum Stuffs Entire Arm Homelab in the MS-R1
+   Points: 66
+   Comments: 36
+   URL: https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1
+
+17. Awk Technical Notes (2023)
+   Points: 95
+   Comments: 35
+   URL: https://maximullaris.com/awk_tech_notes.html
+
+18. Bitchat for Gaza – messaging without internet
+   Points: 336
+   Comments: 179
+   URL: https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/
+
+19. Genergo: Propellantless space-propulsion system
+   Points: 63
+   Comments: 49
+   URL: https://www.satcom.digital/news/genergo-an-italian-company-builds-the-worlds-first-known-propellantless-space-propulsion-system-flight-tested-and-validated-on-orbit
+
+20. GEN-0 / Embodied Foundation Models That Scale with Physical Interaction
+   Points: 3
+   Comments: 0
+   URL: https://generalistai.com/blog/nov-04-2025-GEN-0
+
