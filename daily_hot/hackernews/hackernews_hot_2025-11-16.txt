@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-16
+==================================================
+
+1. When UPS charged me a $684 tariff on $355 of vintage computer parts
+   Points: 34
+   Comments: 12
+   URL: http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html
+
+2. Our investigation into the suspicious pressure on Archive.today
+   Points: 1275
+   Comments: 352
+   URL: https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
+
+3. libwifi: an 802.11 frame parsing and generation library written in C
+   Points: 38
+   Comments: 4
+   URL: https://libwifi.so/
+
+4. Show HN: Unflip – a puzzle game about XOR patterns of squares
+   Points: 68
+   Comments: 11
+   URL: https://unflipgame.com/
+
+5. When did people favor composition over inheritance?
+   Points: 50
+   Comments: 18
+   URL: https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
+
+6. Transgenerational Epigenetic Inheritance: the story of learned avoidance
+   Points: 110
+   Comments: 64
+   URL: https://elifesciences.org/articles/109427
+
+7. Things that aren't doing the thing
+   Points: 99
+   Comments: 53
+   URL: https://strangestloop.io/essays/things-that-arent-doing-the-thing
+
+8. AsciiMath
+   Points: 30
+   Comments: 3
+   URL: https://asciimath.org/
+
+9. Boa: A standard-conforming embeddable JavaScript engine written in Rust
+   Points: 152
+   Comments: 51
+   URL: https://github.com/boa-dev/boa
+
+10. Archimedes – A Python toolkit for hardware engineering
+   Points: 47
+   Comments: 9
+   URL: https://pinetreelabs.github.io/archimedes/blog/2025/introduction.html
+
+11. JVM exceptions are weird: a decompiler perspective
+   Points: 51
+   Comments: 3
+   URL: https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
+
+12. Show HN: I made a better DOM morphing algorithm
+   Points: 54
+   Comments: 22
+   URL: https://joel.drapper.me/p/morphlex/
+
+13. AMD continues to chip away at Intel's x86 market share
+   Points: 97
+   Comments: 39
+   URL: https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems
+
+14. Linux on the Fujitsu Lifebook U729
+   Points: 163
+   Comments: 119
+   URL: https://borretti.me/article/linux-on-the-fujitsu-lifebook-u729
+
+15. Weighting an average to minimize variance
+   Points: 75
+   Comments: 35
+   URL: https://www.johndcook.com/blog/2025/11/12/minimum-variance/
+
+16. TCP, the workhorse of the internet
+   Points: 274
+   Comments: 137
+   URL: https://cefboud.com/posts/tcp-deep-dive-internals/
+
+17. Feature Extraction with KNN
+   Points: 9
+   Comments: 0
+   URL: https://davpinto.github.io/fastknn/articles/knn-extraction.html
+
+18. Nevada Governor's office covered up Boring Co safety violations
+   Points: 112
+   Comments: 9
+   URL: https://fortune.com/2025/11/12/elon-musk-boring-company-tunnels-injuries-osha-citations-fines-rescinded-nevada-governor-office-documents-altered/
+
+19. Messing with scraper bots
+   Points: 198
+   Comments: 70
+   URL: https://herman.bearblog.dev/messing-with-bots/
+
+20. Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time
+
