@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-17
+==================================================
+
+1. Open-source Zig book
+   Points: 316
+   Comments: 105
+   URL: https://www.zigbook.net
+
+2. Britney Spears' Guide to Semiconductor Physics
+   Points: 72
+   Comments: 26
+   URL: https://britneyspears.ac/lasers.htm
+
+3. Browser fingerprinting via favicon
+   Points: 183
+   Comments: 42
+   URL: https://github.com/jonasstrehle/supercookie
+
+4. Heretic: Automatic censorship removal for language models
+   Points: 383
+   Comments: 150
+   URL: https://github.com/p-e-w/heretic
+
+5. What if you don't need MCP at all?
+   Points: 117
+   Comments: 67
+   URL: https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/
+
+6. Dark Pattern Games
+   Points: 93
+   Comments: 48
+   URL: https://www.darkpattern.games
+
+7. PicoIDE – An open IDE/ATAPI drive emulator
+   Points: 10
+   Comments: 0
+   URL: https://picoide.com/
+
+8. The Pragmatic Programmer: 20th Anniversary Edition (2023)
+   Points: 61
+   Comments: 8
+   URL: https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html
+
+9. How Your Brain Creates 'Aha' Moments and Why They Stick
+   Points: 19
+   Comments: 0
+   URL: https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/
+
+10. Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?
+   Points: 93
+   Comments: 47
+   URL: https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html
+
+11. Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines
+   Points: 79
+   Comments: 3
+   URL: https://ericpony.github.io/z3py-tutorial/guide-examples.htm
+
+12. The fate of "small" open source
+   Points: 133
+   Comments: 90
+   URL: https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/
+
+13. Why your mock breaks later
+   Points: 15
+   Comments: 5
+   URL: https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html
+
+14. I finally understand Cloudflare Zero Trust tunnels
+   Points: 102
+   Comments: 35
+   URL: https://david.coffee/cloudflare-zero-trust-tunnels
+
+15. FPGA Based IBM-PC-XT
+   Points: 132
+   Comments: 27
+   URL: https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/
+
+16. I have recordings proving Coinbase knew about breach months before disclosure
+   Points: 299
+   Comments: 104
+   URL: https://jonathanclark.com/posts/coinbase-breach-timeline.html
+
+17. A File Format Uncracked for 20 Years
+   Points: 13
+   Comments: 1
+   URL: https://landaire.net/a-file-format-uncracked-for-20-years/
+
+18. Shell Grotto, Margate
+   Points: 33
+   Comments: 4
+   URL: https://en.wikipedia.org/wiki/Shell_Grotto,_Margate
+
+19. Fourier Transforms
+   Points: 95
+   Comments: 13
+   URL: https://www.continuummechanics.org/fourierxforms.html
+
+20. Linux mode setting, from the comfort of OCaml
+   Points: 39
+   Comments: 4
+   URL: https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/
+
