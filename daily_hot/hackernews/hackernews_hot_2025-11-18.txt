@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-18
+==================================================
+
+1. Compiling Ruby to machine language
+   Points: 166
+   Comments: 21
+   URL: https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language
+
+2. Show HN: I built a synth for my daughter
+   Points: 913
+   Comments: 168
+   URL: https://bitsnpieces.dev/posts/a-synth-for-my-daughter/
+
+3. Azure hit by 15 Tbps DDoS attack using 500k IP addresses
+   Points: 197
+   Comments: 161
+   URL: https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/
+
+4. “One Student One Chip” Course Homepage
+   Points: 105
+   Comments: 22
+   URL: https://ysyx.oscc.cc/docs/en/
+
+5. Run ancient Unix on modern hardware
+   Points: 33
+   Comments: 2
+   URL: https://github.com/felipenlunkes/run-ancient-unix
+
+6. Project Gemini
+   Points: 206
+   Comments: 121
+   URL: https://geminiprotocol.net/
+
+7. Ion: Modern System Shell in Rust
+   Points: 23
+   Comments: 19
+   URL: https://github.com/redox-os/ion
+
+8. Show HN: Continuous Claude – run Claude Code in a loop
+   Points: 83
+   Comments: 35
+   URL: https://github.com/AnandChowdhary/continuous-claude
+
+9. FreeMDU: Open-source Miele appliance diagnostic tools
+   Points: 235
+   Comments: 62
+   URL: https://github.com/medusalix/FreeMDU
+
+10. Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis
+   Points: 114
+   Comments: 30
+   URL: https://github.com/francescopace/espectre
+
+11. WeatherNext 2: Our most advanced weather forecasting model
+   Points: 202
+   Comments: 90
+   URL: https://blog.google/technology/google-deepmind/weathernext-2/
+
+12. Astrophotographer snaps skydiver falling in front of the sun
+   Points: 207
+   Comments: 48
+   URL: https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570
+
+13. Show HN: Parqeye – A CLI tool to visualize and inspect Parquet files
+   Points: 12
+   Comments: 3
+   URL: https://github.com/kaushiksrini/parqeye
+
+14. My kind of REPL (2023)
+   Points: 26
+   Comments: 4
+   URL: https://ianthehenry.com/posts/my-kind-of-repl/
+
+15. My stages of learning to be a socially normal person
+   Points: 274
+   Comments: 160
+   URL: https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a
+
+16. How to escape the Linux networking stack
+   Points: 92
+   Comments: 17
+   URL: https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/
+
+17. Show HN: Reversing a Cinema Camera's Peripherals Port
+   Points: 6
+   Comments: 0
+   URL: https://3nt3.de/blog/reversing-fs7-comms
+
+18. An official atlas of North Korea
+   Points: 167
+   Comments: 100
+   URL: https://www.cartographerstale.com/p/an-official-atlas-of-north-korea
+
+19. Windows 11 adds AI agent that runs in background with access to personal folders
+   Points: 39
+   Comments: 20
+   URL: https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
+
+20. Giving C a superpower: custom header file (safe_c.h)
+   Points: 237
+   Comments: 202
+   URL: https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/
+
