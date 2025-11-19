@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-19
+==================================================
+
+1. Cloudflare outage on November 18, 2025 post mortem
+   Points: 221
+   Comments: 110
+   URL: https://blog.cloudflare.com/18-november-2025-outage/
+
+2. Rebecca Heineman – from homelessness to porting Doom
+   Points: 46
+   Comments: 4
+   URL: https://corecursive.com/doomed-to-fail-with-burger-becky/
+
+3. Gemini 3
+   Points: 1119
+   Comments: 731
+   URL: https://blog.google/products/gemini/gemini-3/
+
+4. Blender 5.0
+   Points: 377
+   Comments: 89
+   URL: https://www.blender.org/download/releases/5-0/
+
+5. Google Antigravity
+   Points: 661
+   Comments: 723
+   URL: https://antigravity.google/
+
+6. Pebble, Rebble, and a path forward
+   Points: 304
+   Comments: 140
+   URL: https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/
+
+7. Lucent 7 R/E 5ESS Telephone Switch Rescue
+   Points: 13
+   Comments: 4
+   URL: http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/
+
+8. Gemini 3 Pro Model Card [pdf]
+   Points: 148
+   Comments: 309
+   URL: https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf
+
+9. The code and open-source tools I used to produce a science fiction anthology
+   Points: 66
+   Comments: 7
+   URL: https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html
+
+10. GitHub: Git operation failures
+   Points: 312
+   Comments: 259
+   URL: https://www.githubstatus.com/incidents/5q7nmlxz30sk
+
+11. I am stepping down as the CEO of Mastodon
+   Points: 300
+   Comments: 226
+   URL: https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/
+
+12. Cloudflare Global Network experiencing issues
+   Points: 2296
+   Comments: 1589
+   URL: https://www.cloudflarestatus.com/incidents/8gmgl950y3h7
+
+13. Bild AI (YC W25) is hiring – Make housing affordable
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai
+
+14. OrthoRoute – GPU-accelerated autorouting for KiCad
+   Points: 101
+   Comments: 10
+   URL: https://bbenchoff.github.io/pages/OrthoRoute.html
+
+15. Monotype font licencing shake-down
+   Points: 80
+   Comments: 12
+   URL: https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down
+
+16. Chuck Moore: Colorforth has stopped working [video]
+   Points: 62
+   Comments: 30
+   URL: https://www.youtube.com/watch?v=MvkGBWXb2oQ#t=22
+
+17. What I learned about creativity from a man painting on a treadmill (2024)
+   Points: 19
+   Comments: 2
+   URL: https://quinnmaclay.com/texts/lets-paint
+
+18. Mysterious holes in the Andes may have been an ancient marketplace
+   Points: 32
+   Comments: 8
+   URL: https://www.sydney.edu.au/news-opinion/news/2025/11/10/mysterious-holes-in-the-andes-may-have-been-an-ancient-marketplace-new-research-suggests.html
+
+19. Solving a million-step LLM task with zero errors
+   Points: 120
+   Comments: 42
+   URL: https://arxiv.org/abs/2511.09030
+
+20. Show HN: A subtly obvious e-paper room air monitor
+   Points: 29
+   Comments: 6
+   URL: https://www.nicolin-dora.ch/blog/en-epaper-room-air-monitor-part-1/
+
