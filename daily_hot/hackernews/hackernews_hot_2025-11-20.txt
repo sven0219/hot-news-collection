@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-20
+==================================================
+
+1. Loose wire leads to blackout, contact with Francis Scott Key bridge
+   Points: 198
+   Comments: 79
+   URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx
+
+2. Verifying your Matrix devices is becoming mandatory
+   Points: 10
+   Comments: 0
+   URL: https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/
+
+3. Researchers discover security vulnerability in WhatsApp
+   Points: 106
+   Comments: 22
+   URL: https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp
+
+4. Europe is scaling back GDPR and relaxing AI laws
+   Points: 489
+   Comments: 502
+   URL: https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes
+
+5. Workday to Acquire Pipedream
+   Points: 6
+   Comments: 1
+   URL: https://newsroom.workday.com/2025-11-19-Workday-Signs-Definitive-Agreement-to-Acquire-Pipedream
+
+6. Building more with GPT-5.1-Codex-Max
+   Points: 324
+   Comments: 188
+   URL: https://openai.com/index/gpt-5-1-codex-max/
+
+7. Why CUDA translation wont unlock AMD
+   Points: 32
+   Comments: 17
+   URL: https://eliovp.com/why-cuda-translation-wont-unlock-amds-real-potential/
+
+8. Meta Segment Anything Model 3
+   Points: 221
+   Comments: 46
+   URL: https://ai.meta.com/sam3/
+
+9. How Slide Rules Work
+   Points: 32
+   Comments: 6
+   URL: https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/
+
+10. Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu
+   Points: 113
+   Comments: 37
+   URL: https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/
+
+11. Jailbreaking AI Models to Phish Elderly Victims
+   Points: 3
+   Comments: 0
+   URL: https://simonlermen.substack.com/p/can-ai-models-be-jailbroken-to-phish
+
+12. Roblox Requires Age Checks for Communication, Ushering in New Safety Standard
+   Points: 23
+   Comments: 17
+   URL: https://corp.roblox.com/newsroom/2025/11/roblox-requires-age-checks-limits-minor-and-adult-chat
+
+13. Cognitive and mental health correlates of short-form video use
+   Points: 194
+   Comments: 149
+   URL: https://psycnet.apa.org/fulltext/2026-89350-001.html
+
+14. Larry Summers resigns from OpenAI board
+   Points: 219
+   Comments: 222
+   URL: https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html
+
+15. Racing karts on a Rust GPU kernel driver
+   Points: 35
+   Comments: 3
+   URL: https://www.collabora.com/news-and-blog/news-and-events/racing-karts-on-a-rust-gpu-kernel-driver.html
+
+16. Thunderbird adds native Microsoft Exchange email support
+   Points: 311
+   Comments: 87
+   URL: https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/
+
+17. Gaming on Linux has never been more approachable
+   Points: 201
+   Comments: 147
+   URL: https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos
+
+18. The patent office is about to make bad patents untouchable
+   Points: 166
+   Comments: 16
+   URL: https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable
+
+19. Launch HN: Mosaic (YC W25) – Agentic Video Editing
+   Points: 104
+   Comments: 96
+   URL: https://mosaic.so
+
+20. Vortex: An extensible, state of the art columnar file format
+   Points: 30
+   Comments: 4
+   URL: https://github.com/vortex-data/vortex
+
