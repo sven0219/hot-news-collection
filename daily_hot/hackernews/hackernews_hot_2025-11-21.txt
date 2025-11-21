@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-21
+==================================================
+
+1. Nano Banana Pro
+   Points: 793
+   Comments: 499
+   URL: https://blog.google/technology/ai/nano-banana-pro/
+
+2. Android and iPhone users can now share files, starting with the Pixel 10
+   Points: 390
+   Comments: 260
+   URL: https://blog.google/products/android/quick-share-airdrop/
+
+3. New Glenn Update
+   Points: 95
+   Comments: 42
+   URL: https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance
+
+4. New OS aims to provide (some) compatibility with macOS
+   Points: 109
+   Comments: 38
+   URL: https://github.com/ravynsoft/ravynos
+
+5. FEX-emu – run x86 applications on ARM64 Linux devices
+   Points: 30
+   Comments: 5
+   URL: https://fex-emu.com/
+
+6. Data-at-Rest Encryption in DuckDB
+   Points: 112
+   Comments: 15
+   URL: https://duckdb.org/2025/11/19/encryption-in-duckdb
+
+7. GitHut – Programming Languages and GitHub (2014)
+   Points: 44
+   Comments: 16
+   URL: https://githut.info/
+
+8. NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]
+   Points: 119
+   Comments: 144
+   URL: https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf
+
+9. The Lions Operating System
+   Points: 108
+   Comments: 21
+   URL: https://lionsos.org
+
+10. Over-Regulation Is Doubling the Cost by Peter Reinhardt
+   Points: 30
+   Comments: 20
+   URL: https://rein.pk/over-regulation-is-doubling-the-cost
+
+11. Readonly Characters Are a Big Deal
+   Points: 29
+   Comments: 2
+   URL: https://matklad.github.io/2025/11/10/readonly-characters.html
+
+12. Okta's NextJS-0auth troubles
+   Points: 208
+   Comments: 74
+   URL: https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability
+
+13. Microsoft makes Zork open-source
+   Points: 394
+   Comments: 173
+   URL: https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source
+
+14. Launch HN: Poly (YC S22) – Cursor for Files
+   Points: 39
+   Comments: 41
+   URL: https://news.ycombinator.com/item?id=45995394
+
+15. Free interactive tool that shows you how PCIe lanes work on motherboards
+   Points: 134
+   Comments: 24
+   URL: https://mobomaps.com
+
+16. Show HN: F32 – An Extremely Small ESP32 Board
+   Points: 176
+   Comments: 27
+   URL: https://github.com/PegorK/f32
+
+17. Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs
+   Points: 229
+   Comments: 120
+   URL: https://arxiv.org/abs/2511.15304
+
+18. OOP is shifting between domains, not disappearing
+   Points: 51
+   Comments: 95
+   URL: https://blog.jsbarretto.com/post/actors
+
+19. Show HN: My hobby OS that runs Minecraft
+   Points: 115
+   Comments: 15
+   URL: https://astral-os.org/posts/2025/10/31/astral-minecraft.html
+
+20. Run Docker containers natively in Proxmox 9.1 (OCI images)
+   Points: 92
+   Comments: 28
+   URL: https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html
+
