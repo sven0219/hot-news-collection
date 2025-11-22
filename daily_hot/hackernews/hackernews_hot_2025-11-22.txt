@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-22
+==================================================
+
+1. California DMV approves map increase in Waymo driverless operations
+   Points: 106
+   Comments: 58
+   URL: https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/
+
+2. Childhood Friends, Not Moms, Shape Attachment Styles Most
+   Points: 82
+   Comments: 32
+   URL: https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/
+
+3. Helping Valve to power up Steam devices
+   Points: 394
+   Comments: 120
+   URL: https://www.igalia.com/2025/11/helpingvalve.html
+
+4. Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker
+   Points: 418
+   Comments: 144
+   URL: https://wealthfolio.app/?v=2.0
+
+5. Samsung's 60% DRAM price hike signals a new phase of global memory tightening
+   Points: 110
+   Comments: 74
+   URL: https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/
+
+6. Personal blogs are back, should niche blogs be next?
+   Points: 39
+   Comments: 29
+   URL: https://disassociated.com/personal-blogs-back-niche-blogs-next/
+
+7. Arduino published updated terms and conditions: no longer an open commons
+   Points: 300
+   Comments: 100
+   URL: https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html
+
+8. Explaining, at some length, Techmeme's 20 years of consistency
+   Points: 10
+   Comments: 0
+   URL: https://news.techmeme.com/250912/20-years
+
+9. Pixar: The Early Days A never-before-seen 1996 interview
+   Points: 64
+   Comments: 2
+   URL: https://stevejobsarchive.com/stories/pixar-early-days
+
+10. We should all be using dependency cooldowns
+   Points: 260
+   Comments: 181
+   URL: https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
+
+11. You can make PS2 games in JavaScript
+   Points: 219
+   Comments: 51
+   URL: https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript
+
+12. You only live once, self host a NAT Gateway
+   Points: 32
+   Comments: 11
+   URL: https://www.awsistoohard.com/blog/self-hosting-nat-gateway
+
+13. I learned Vulkan and wrote a small game engine with it
+   Points: 8
+   Comments: 4
+   URL: https://edw.is/learning-vulkan/
+
+14. Tuxedo Computers Cancels Snapdragon X1 Linux Laptop
+   Points: 57
+   Comments: 17
+   URL: https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo
+
+15. Is Matrix Multiplication Ugly?
+   Points: 19
+   Comments: 10
+   URL: https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/
+
+16. Building a Durable Execution Engine with SQLite
+   Points: 100
+   Comments: 33
+   URL: https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/
+
+17. RRules (yes handling RSCALE) using only PL/pgSQL
+   Points: 5
+   Comments: 1
+   URL: https://github.com/sirrodgepodge/rrule_plpgsql
+
+18. The Untold History of Arduino (2016)
+   Points: 52
+   Comments: 4
+   URL: https://arduinohistory.github.io/
+
+19. Shop Sans is a typeface for curved text paths
+   Points: 101
+   Comments: 32
+   URL: https://www.futurefonts.com/hex/shop-sans
+
+20. Solving Fizz Buzz with Cosines
+   Points: 110
+   Comments: 30
+   URL: https://susam.net/fizz-buzz-with-cosines.html
+
