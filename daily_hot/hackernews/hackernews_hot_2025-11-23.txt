@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-23
+==================================================
+
+1. WorldGen – Text to Immersive 3D Worlds
+   Points: 111
+   Comments: 44
+   URL: https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/
+
+2. The privacy nightmare of browser fingerprinting
+   Points: 408
+   Comments: 247
+   URL: https://kevinboone.me/fingerprinting.html
+
+3. We Induced Smells With Ultrasound
+   Points: 175
+   Comments: 44
+   URL: https://writetobrain.com/olfactory
+
+4. The Mozilla Cycle, Part III: Mozilla Dies in Ignominy
+   Points: 123
+   Comments: 73
+   URL: https://taggart-tech.com/mozilla-cycle-pt3/
+
+5. Show HN: Forty.News – Daily news, but on a 40-year delay
+   Points: 157
+   Comments: 66
+   URL: https://forty.news
+
+6. Show HN: Build the habit of writing meaningful commit messages
+   Points: 48
+   Comments: 33
+   URL: https://github.com/arpxspace/smartcommit
+
+7. A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture
+   Points: 44
+   Comments: 8
+   URL: https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/
+
+8. $1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux
+   Points: 185
+   Comments: 83
+   URL: https://github.com/nadimkobeissi/16iax10h-linux-sound-saga
+
+9. How to Spot a Counterfeit Lithium-Ion Battery
+   Points: 13
+   Comments: 6
+   URL: https://spectrum.ieee.org/counterfeit-lithium-ion-batteries
+
+10. TIL: `satisfies` is my favorite TypeScript keyword
+   Points: 83
+   Comments: 54
+   URL: https://sjer.red/blog/2024-12-21/
+
+11. Pixel Art Tips for Programmers
+   Points: 21
+   Comments: 3
+   URL: https://jslegenddev.substack.com/p/5-pixel-art-tips-for-programmers-3d6
+
+12. China reaches energy milestone by "breeding" uranium from thorium
+   Points: 193
+   Comments: 133
+   URL: https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium
+
+13. Tektronix equipment has been used in many movies and shows
+   Points: 58
+   Comments: 16
+   URL: https://vintagetek.org/tektronix-in-movies-shows/
+
+14. The realities of being a pop star
+   Points: 113
+   Comments: 33
+   URL: https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star
+
+15. Windows ARM64 Internals: Deconstructing Pointer Authentication
+   Points: 19
+   Comments: 0
+   URL: https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
+
+16. Kids who own smartphones before age 13 have worse mental health outcomes: Study
+   Points: 76
+   Comments: 30
+   URL: https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082
+
+17. Personal blogs are back, should niche blogs be next?
+   Points: 586
+   Comments: 351
+   URL: https://disassociated.com/personal-blogs-back-niche-blogs-next/
+
+18. Agent design is still hard
+   Points: 337
+   Comments: 195
+   URL: https://lucumr.pocoo.org/2025/11/21/agents-are-hard/
+
+19. Depot (YC W23) Is Hiring a Staff Infrastructure Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer
+
+20. Gwern's "Stem Humor" Directory
+   Points: 33
+   Comments: 5
+   URL: https://gwern.net/doc/math/humor/index
+
