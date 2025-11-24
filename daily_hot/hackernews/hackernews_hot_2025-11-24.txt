@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-24
+==================================================
+
+1. Fran Sans – font inspired by San Francisco light rail displays
+   Points: 510
+   Comments: 72
+   URL: https://emilysneddon.com/fran-sans-essay
+
+2. Native Secure Enclave backed SSH keys on macOS
+   Points: 293
+   Comments: 123
+   URL: https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf
+
+3. A desktop app for isolated, parallel agentic development
+   Points: 23
+   Comments: 5
+   URL: https://github.com/coder/mux
+
+4. Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]
+   Points: 216
+   Comments: 42
+   URL: https://mathcs.holycross.edu/~ahwang/print/calc.pdf
+
+5. µcad: New open source programming language that can generate 2D sketches and 3D
+   Points: 40
+   Comments: 5
+   URL: https://microcad.xyz/
+
+6. Show HN: Gitlogue – A terminal tool that replays your Git commits with animation
+   Points: 85
+   Comments: 10
+   URL: https://github.com/unhappychoice/gitlogue
+
+7. Show HN: I wrote a minimal memory allocator in C
+   Points: 23
+   Comments: 2
+   URL: https://github.com/t9nzin/memory
+
+8. Particle Life – Sandbox Science
+   Points: 29
+   Comments: 3
+   URL: https://sandbox-science.com/particle-life
+
+9. Sunsetting Supermaven
+   Points: 24
+   Comments: 6
+   URL: https://supermaven.com/blog/sunsetting-supermaven
+
+10. Shaders: How to draw high fidelity graphics with just x and y coordinates
+   Points: 329
+   Comments: 73
+   URL: https://www.makingsoftware.com/chapters/shaders
+
+11. Liva AI (YC S25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern
+
+12. Racket v9.0
+   Points: 265
+   Comments: 91
+   URL: https://blog.racket-lang.org/2025/11/racket-v9-0.html
+
+13. Iowa City made its buses free. traffic cleared, and so did the air
+   Points: 123
+   Comments: 113
+   URL: https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html
+
+14. Mount Proton Drive on Linux using rclone and systemd
+   Points: 101
+   Comments: 33
+   URL: https://github.com/dadtronics/protondrive-linux
+
+15. ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare
+   Points: 23
+   Comments: 4
+   URL: https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/
+
+16. X's new country-of-origin feature reveals many 'US' accounts to be foreign-run
+   Points: 254
+   Comments: 121
+   URL: https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html
+
+17. A time-travelling door bug in Half Life 2
+   Points: 312
+   Comments: 35
+   URL: https://mastodon.gamedev.place/@TomF/115589875974658415
+
+18. 1M Downloads of Zorin OS 18
+   Points: 201
+   Comments: 165
+   URL: https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/
+
+19. After my dad died, we found the love letters
+   Points: 757
+   Comments: 365
+   URL: https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/
+
+20. New magnetic component discovered in the Faraday effect after nearly 2 centuries
+   Points: 12
+   Comments: 0
+   URL: https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html
+
