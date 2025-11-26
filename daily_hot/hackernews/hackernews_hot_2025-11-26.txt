@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-26
+==================================================
+
+1. Reinventing how .NET builds and ships (again)
+   Points: 46
+   Comments: 21
+   URL: https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/
+
+2. A new bridge links the math of infinity to computer science
+   Points: 109
+   Comments: 18
+   URL: https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/
+
+3. What They Don't Tell You About Maintaining an Open Source Project
+   Points: 36
+   Comments: 13
+   URL: https://andrej.sh/blog/maintaining-open-source-project/
+
+4. Unifying our mobile and desktop domains
+   Points: 73
+   Comments: 18
+   URL: https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/
+
+5. Show HN: We built an open source, zero webhooks payment processor
+   Points: 210
+   Comments: 137
+   URL: https://github.com/flowglad/flowglad
+
+6. The fall of Labubus and the mush of modern internet trends
+   Points: 30
+   Comments: 24
+   URL: https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/
+
+7. Google Antigravity exfiltrates data via indirect prompt injection attack
+   Points: 540
+   Comments: 146
+   URL: https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data
+
+8. The Generative Burrito Test
+   Points: 62
+   Comments: 34
+   URL: https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html
+
+9. Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled
+   Points: 231
+   Comments: 116
+   URL: https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html
+
+10. How to repurpose your old phone into a web server
+   Points: 163
+   Comments: 68
+   URL: https://far.computer/how-to/
+
+11. Ilya Sutskever: We're moving from the age of scaling to the age of research
+   Points: 170
+   Comments: 140
+   URL: https://www.dwarkesh.com/p/ilya-sutskever-2
+
+12. FLUX.2: Frontier Visual Intelligence
+   Points: 224
+   Comments: 68
+   URL: https://bfl.ai/blog/flux-2
+
+13. Trillions spent and big software projects are still failing
+   Points: 288
+   Comments: 261
+   URL: https://spectrum.ieee.org/it-management-software-failures
+
+14. Launch HN: Onyx (YC W24) – Open-source chat UI
+   Points: 165
+   Comments: 115
+   URL: https://news.ycombinator.com/item?id=46045987
+
+15. Jakarta is now the biggest city in the world
+   Points: 223
+   Comments: 138
+   URL: https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population
+
+16. 1,700-year-old Roman sarcophagus is unearthed in Budapest
+   Points: 14
+   Comments: 7
+   URL: https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54
+
+17. A DOOM vector engine for rendering in KiCad, and over an audio jack
+   Points: 27
+   Comments: 1
+   URL: https://www.mikeayles.com/#kidoom
+
+18. LLVM Adds Constant-Time Support for Protecting Cryptographic Code
+   Points: 11
+   Comments: 3
+   URL: https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/
+
+19. Constant-time support coming to LLVM: Protecting cryptographic code
+   Points: 36
+   Comments: 15
+   URL: https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/
+
+20. Notes on the Troubleshooting and Repair of Computer and Video Monitors
+   Points: 10
+   Comments: 0
+   URL: https://www.repairfaq.org/sam/monfaq.htm
+
