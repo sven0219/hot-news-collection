@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-27
+==================================================
+
+1. Bring Bathroom Doors Back to Hotels
+   Points: 195
+   Comments: 148
+   URL: https://bringbackdoors.com/
+
+2. Voyager 1 is about to reach one light-day from earth
+   Points: 750
+   Comments: 264
+   URL: https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/
+
+3. Running Unsupported iOS on Deprecated Devices
+   Points: 49
+   Comments: 4
+   URL: https://nyansatan.github.io/run-unsupported-ios/
+
+4. S&box is now an open source game engine
+   Points: 205
+   Comments: 62
+   URL: https://sbox.game/news/update-25-11-26
+
+5. C100 Developer Terminal
+   Points: 23
+   Comments: 18
+   URL: https://caligra.com/
+
+6. Gemini CLI Tips and Tricks for Agentic Coding
+   Points: 175
+   Comments: 57
+   URL: https://github.com/addyosmani/gemini-cli-tips
+
+7. The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop
+   Points: 225
+   Comments: 105
+   URL: https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/
+
+8. A Fast 64-Bit Date Algorithm (30–40% faster by counting dates backwards)
+   Points: 244
+   Comments: 54
+   URL: https://www.benjoffe.com/fast-date-64
+
+9. Alan.app – Add a Border to macOS Active Window
+   Points: 71
+   Comments: 38
+   URL: https://tyler.io/2025/11/alan/
+
+10. Fara-7B: An efficient agentic model for computer use
+   Points: 45
+   Comments: 15
+   URL: https://github.com/microsoft/fara
+
+11. Compressed filesystems à la language models
+   Points: 33
+   Comments: 2
+   URL: https://grohan.co/2025/11/25/llmfuse/
+
+12. Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results
+   Points: 9
+   Comments: 1
+   URL: https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus
+
+13. A woman on a mission to photograph every species of hummingbird
+   Points: 81
+   Comments: 17
+   URL: https://www.audubon.org/magazine/meet-woman-mission-photograph-every-species-of-hummingbird-world
+
+14. A cell so minimal that it challenges definitions of life
+   Points: 246
+   Comments: 111
+   URL: https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/
+
+15. Crypto hoarders dump tokens as shares tumble
+   Points: 14
+   Comments: 4
+   URL: https://arstechnica.com/information-technology/2025/11/crypto-hoarders-dump-tokens-as-shares-tumble/
+
+16. How Does Microwaving Grapes Create Plumes of Plasma?
+   Points: 8
+   Comments: 2
+   URL: https://www.pbs.org/wgbh/nova/article/how-does-microwaving-grapes-create-plumes-plasma/
+
+17. Don't Download Apps
+   Points: 221
+   Comments: 116
+   URL: https://blog.calebjay.com/posts/dont-download-apps/
+
+18. Show HN: Safe-NPM – only install packages that are +90 days old
+   Points: 41
+   Comments: 29
+   URL: https://github.com/kevinslin/safe-npm
+
+19. Show HN: I turned algae into a bio-altimeter and put it on a weather balloon
+   Points: 96
+   Comments: 8
+   URL: https://radi8.dev/blog/stratospore/
+
+20. Statistical Process Control in Python
+   Points: 192
+   Comments: 58
+   URL: https://timothyfraser.com/sigma/statistical-process-control-in-python.html
+
