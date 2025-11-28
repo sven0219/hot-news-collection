@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-28
+==================================================
+
+1. 250MWh 'Sand Battery' to start construction in Finland
+   Points: 98
+   Comments: 38
+   URL: https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/
+
+2. Vsora Jotunn-8 5nm European inference chip
+   Points: 22
+   Comments: 5
+   URL: https://vsora.com/products/jotunn-8/
+
+3. Same-day upstream Linux support for Snapdragon 8 Elite Gen 5
+   Points: 317
+   Comments: 144
+   URL: https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support
+
+4. How Charles M Schulz created Charlie Brown and Snoopy (2024)
+   Points: 10
+   Comments: 0
+   URL: https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy
+
+5. LinkedIn is loud, and corporate is hell
+   Points: 152
+   Comments: 86
+   URL: https://ramones.dev/posts/linkedin-is-loud/
+
+6. Physicists drive antihydrogen breakthrough at CERN
+   Points: 111
+   Comments: 23
+   URL: https://phys.org/news/2025-11-physicists-antihydrogen-breakthrough-cern-technique.html
+
+7. Underrated reasons to be thankful V
+   Points: 109
+   Comments: 50
+   URL: https://dynomight.net/thanks-5/
+
+8. A Programmer-Friendly I/O Abstraction Over io_uring and kqueue
+   Points: 21
+   Comments: 2
+   URL: https://tigerbeetle.com/blog/2022-11-23-a-friendly-abstraction-over-iouring-and-kqueue/
+
+9. Quake Engine Indicators
+   Points: 182
+   Comments: 38
+   URL: https://fabiensanglard.net/quake_indicators/index.html
+
+10. Memories of .us
+   Points: 101
+   Comments: 28
+   URL: https://computer.rip/2025-11-11-dot-us.html
+
+11. Feedback doesn't scale
+   Points: 99
+   Comments: 24
+   URL: https://another.rodeo/feedback/
+
+12. Why Strong Consistency?
+   Points: 75
+   Comments: 42
+   URL: https://brooker.co.za/blog/2025/11/18/consistency.html
+
+13. Tell HN: Happy Thanksgiving
+   Points: 483
+   Comments: 110
+   URL: https://news.ycombinator.com/item?id=46065955
+
+14. Linux Kernel Explorer
+   Points: 525
+   Comments: 79
+   URL: https://reverser.dev/linux-kernel-explorer
+
+15. DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning [pdf]
+   Points: 96
+   Comments: 18
+   URL: https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf
+
+16. Indie, Alone, and Figuring It Out
+   Points: 22
+   Comments: 1
+   URL: https://danijelavrzan.com/posts/2025/11/indie-dev/
+
+17. Bird flu viruses are resistant to fever, making them a major threat to humans
+   Points: 13
+   Comments: 4
+   URL: https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html
+
+18. TPUs vs. GPUs and why Google is positioned to win AI race in the long term
+   Points: 245
+   Comments: 195
+   URL: https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference
+
+19. DIY NAS: 2026 Edition
+   Points: 388
+   Comments: 249
+   URL: https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html
+
+20. Inspired by Spider-Man, scientists recreate web-slinging technology
+   Points: 36
+   Comments: 8
+   URL: https://scienceclock.com/inspired-by-spider-man-scientists-recreate-web-slinging-technology/
+
