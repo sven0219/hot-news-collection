@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-11-29
+==================================================
+
+1. A triangle whose interior angles sum to zero
+   Points: 8
+   Comments: 1
+   URL: https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/
+
+2. Imgur geo-blocked the UK, so I geo-unblocked my network
+   Points: 253
+   Comments: 89
+   URL: https://blog.tymscar.com/posts/imgurukproxy/
+
+3. How good engineers write bad code at big companies
+   Points: 203
+   Comments: 120
+   URL: https://www.seangoedecke.com/bad-code-at-big-companies/
+
+4. Confessions of a Software Developer: No More Self-Censorship
+   Points: 66
+   Comments: 60
+   URL: https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/
+
+5. Molly: An Improved Signal App
+   Points: 212
+   Comments: 107
+   URL: https://molly.im/
+
+6. Airbus A320 – intense solar radiation may corrupt data critical for flight
+   Points: 49
+   Comments: 2
+   URL: https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action
+
+7. So you wanna build a local RAG?
+   Points: 187
+   Comments: 34
+   URL: https://blog.yakkomajuri.com/blog/local-rag
+
+8. A first look at Django's new background tasks
+   Points: 46
+   Comments: 6
+   URL: https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/
+
+9. The original ABC language, Python's predecessor (1991)
+   Points: 62
+   Comments: 11
+   URL: https://github.com/gvanrossum/abc-unix
+
+10. Flight disruption warning as Airbus requests modifications to 6k planes
+   Points: 145
+   Comments: 52
+   URL: https://www.bbc.com/news/live/cvg4y6g74ert
+
+11. 28M Hacker News comments as vector embedding search dataset
+   Points: 302
+   Comments: 126
+   URL: https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset
+
+12. Airloom – 3D Flight Tracker
+   Points: 139
+   Comments: 39
+   URL: https://objectiveunclear.com/airloom.html
+
+13. I mathematically proved the best "Guess Who?" strategy [video]
+   Points: 28
+   Comments: 3
+   URL: https://www.youtube.com/watch?v=_3RNB8eOSx0
+
+14. The Fatal Trap UBI Boosters Keep Falling Into
+   Points: 7
+   Comments: 2
+   URL: https://thereader.mitpress.mit.edu/the-fatal-trap-ubi-boosters-keep-falling-into/
+
+15. Effective harnesses for long-running agents
+   Points: 64
+   Comments: 18
+   URL: https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+
+16. How to Short the Bubbliest Firms
+   Points: 18
+   Comments: 15
+   URL: https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms
+
+17. Fabric Project
+   Points: 14
+   Comments: 0
+   URL: https://github.com/Fabric-Project/Fabric
+
+18. True P2P Email on Top of Yggdrasil Network
+   Points: 101
+   Comments: 21
+   URL: https://github.com/JB-SelfCompany/Tyr
+
+19. Don't tug on that, you never know what it might be attached to (2016)
+   Points: 101
+   Comments: 34
+   URL: https://blog.plover.com/2016/07/01/#tmpdir
+
+20. AltSendme: Another Alternative to MAgic Wormhole?
+   Points: 6
+   Comments: 2
+   URL: https://github.com/tonyantony300/alt-sendme
+
