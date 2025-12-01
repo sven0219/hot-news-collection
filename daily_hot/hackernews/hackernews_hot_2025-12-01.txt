@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-01
+==================================================
+
+1. A Love Letter to FreeBSD
+   Points: 144
+   Comments: 74
+   URL: https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/
+
+2. Algorithms for Optimization [pdf]
+   Points: 39
+   Comments: 1
+   URL: https://algorithmsbook.com/optimization/files/optimization.pdf
+
+3. Writing a good Claude.md
+   Points: 283
+   Comments: 89
+   URL: https://www.humanlayer.dev/blog/writing-a-good-claude-md
+
+4. Advent of Code 2025
+   Points: 705
+   Comments: 240
+   URL: https://adventofcode.com/2025/about
+
+5. Bricklink suspends Marketplace operations in 35 countries (developing story)
+   Points: 41
+   Comments: 10
+   URL: https://jaysbrickblog.com/news/bricklink-suspends-marketplace-operations-in-35-countries/
+
+6. Windows drive letters are not limited to A-Z
+   Points: 362
+   Comments: 174
+   URL: https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/
+
+7. LLVM-MOS – Clang LLVM fork targeting the 6502
+   Points: 105
+   Comments: 35
+   URL: https://llvm-mos.org/wiki/Welcome
+
+8. Migrating Dillo from GitHub
+   Points: 261
+   Comments: 158
+   URL: https://dillo-browser.org/news/migration-from-github/
+
+9. ESA Sentinel-1D delivers first high-resolution images
+   Points: 76
+   Comments: 20
+   URL: https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen
+
+10. GitHub to Codeberg: my experience
+   Points: 126
+   Comments: 52
+   URL: https://eldred.fr/blog/forge-migration/
+
+11. Stop Hacklore – An Open Letter
+   Points: 94
+   Comments: 58
+   URL: https://www.hacklore.org/letter
+
+12. Program-of-Thought Prompting Outperforms Chain-of-Thought by 15% (2022)
+   Points: 65
+   Comments: 18
+   URL: https://arxiv.org/abs/2211.12588
+
+13. ETH-Zurich: Digital Design and Computer Architecture; 227-0003-10L, Spring, 2025
+   Points: 111
+   Comments: 17
+   URL: https://safari.ethz.ch/ddca/spring2025/doku.php?id=start
+
+14. CachyOS: Fast and Customizable Linux Distribution
+   Points: 260
+   Comments: 229
+   URL: https://cachyos.org/
+
+15. "Boobs check" – Technique to verify if sites behind CDN are hosted in Iran
+   Points: 187
+   Comments: 60
+   URL: https://twitter.com/hkashfi/status/1995109785679573167
+
+16. The Thinking Game Film – Google DeepMind documentary
+   Points: 139
+   Comments: 105
+   URL: https://thinkinggamefilm.com
+
+17. People keep flocking to Linux, not just to escape Windows
+   Points: 122
+   Comments: 87
+   URL: https://www.zdnet.com/article/why-people-keep-flocking-to-linux-in-2025-and-its-not-just-to-escape-windows/
+
+18. Show HN: Fixing Google Nano Banana Pixel Art with Rust
+   Points: 120
+   Comments: 21
+   URL: https://github.com/Hugo-Dz/spritefusion-pixel-snapper
+
+19. Stereo Images of Giant Galaxies
+   Points: 3
+   Comments: 1
+   URL: https://www.bbc.com/future/article/20251121-sir-brian-mays-stereo-vision-of-galaxies
+
+20. Show HN: Real-time system that tracks how news spreads across 200k websites
+   Points: 217
+   Comments: 55
+   URL: https://yandori.io/news-flow/
+
