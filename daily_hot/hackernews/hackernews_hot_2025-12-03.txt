@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-03
+==================================================
+
+1. Anthropic acquires Bun
+   Points: 1330
+   Comments: 657
+   URL: https://bun.com/blog/bun-joins-anthropic
+
+2. Paged Out
+   Points: 187
+   Comments: 26
+   URL: https://pagedout.institute
+
+3. IBM CEO says there is 'no way' spending on AI data centers will pay off
+   Points: 167
+   Comments: 215
+   URL: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+
+4. I designed and printed a custom nose guard to help my dog with DLE
+   Points: 376
+   Comments: 50
+   URL: https://snoutcover.com/billie-story
+
+5. OpenAI declares 'code red' as Google catches up in AI race
+   Points: 409
+   Comments: 493
+   URL: https://www.theverge.com/news/836212/openai-code-red-chatgpt
+
+6. Free static site generator for small restaurants and cafes
+   Points: 70
+   Comments: 39
+   URL: https://lite.localcafe.org/
+
+7. Amazon launches Trainium3
+   Points: 118
+   Comments: 50
+   URL: https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/
+
+8. DOOM could have had PC Speaker Music
+   Points: 14
+   Comments: 11
+   URL: https://lenowo.org/viewtopic.php?t=45
+
+9. Ecosia: The greenest AI is here
+   Points: 54
+   Comments: 30
+   URL: https://blog.ecosia.org/ecosia-ai/
+
+10. Learning music with Strudel
+   Points: 377
+   Comments: 95
+   URL: https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92
+
+11. Qwen3-VL can scan two-hour videos and pinpoint nearly every detail
+   Points: 84
+   Comments: 21
+   URL: https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/
+
+12. Exploring Large HTML Documents on the Web
+   Points: 21
+   Comments: 2
+   URL: https://calendar.perfplanet.com/2025/exploring-large-html-documents-on-the-web/
+
+13. Practical Intro to Operational Transformation
+   Points: 12
+   Comments: 1
+   URL: https://archive.casouri.cc/note/2025/practical-intro-ot/
+
+14. Delty (YC X25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer
+
+15. Zig's new plan for asynchronous programs
+   Points: 205
+   Comments: 153
+   URL: https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/
+
+16. Zenroom – No-code cryptographic virtual machine
+   Points: 5
+   Comments: 1
+   URL: https://zenroom.org/
+
+17. All about automotive lidar
+   Points: 73
+   Comments: 42
+   URL: https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/
+
+18. 100k TPS over a billion rows: the unreasonable effectiveness of SQLite
+   Points: 263
+   Comments: 98
+   URL: https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html
+
+19. School cell phone bans and student achievement
+   Points: 75
+   Comments: 77
+   URL: https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement
+
+20. AI generated font using Nano Banana
+   Points: 40
+   Comments: 17
+   URL: https://constanttime.notion.site/Worlds-first-Ai-generated-font-using-nano-banana-2ba6f8e15af18012864bdb760fa9c9ba?pvs=74
+
