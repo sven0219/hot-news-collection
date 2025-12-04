@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-04
+==================================================
+
+1. Ghostty is now non-profit
+   Points: 712
+   Comments: 138
+   URL: https://mitchellh.com/writing/ghostty-non-profit
+
+2. Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
+   Points: 461
+   Comments: 145
+   URL: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+
+3. Valve reveals it’s the architect behind a push to bring Windows games to Arm
+   Points: 375
+   Comments: 426
+   URL: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
+
+4. Acme, a brief history of one of the protocols which has changed the Internet
+   Points: 32
+   Comments: 5
+   URL: https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/
+
+5. Micron Announces Exit from Crucial Consumer Business
+   Points: 320
+   Comments: 147
+   URL: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+
+6. 1D Conway's Life glider found, 3.7B cells long
+   Points: 303
+   Comments: 112
+   URL: https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136
+
+7. RCE Vulnerability in React and Next.js
+   Points: 373
+   Comments: 111
+   URL: https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp
+
+8. Greeting Vocalizations in Domestic Cats Are More Frequent with Male Caregivers
+   Points: 46
+   Comments: 25
+   URL: https://onlinelibrary.wiley.com/doi/10.1111/eth.70033
+
+9. Show HN: I built a dashboard to compare mortgage rates across 120 credit unions
+   Points: 86
+   Comments: 34
+   URL: https://finfam.app/blog/credit-union-mortgages
+
+10. Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server
+   Points: 11
+   Comments: 5
+   URL: https://www.isc.org/kea/
+
+11. Lie groups are crucial to some of the most fundamental theories in physics
+   Points: 83
+   Comments: 30
+   URL: https://www.quantamagazine.org/what-are-lie-groups-20251203/
+
+12. Launch HN: Phind 3 (YC S22) – Every answer is a mini-app
+   Points: 72
+   Comments: 65
+   URL: https://news.ycombinator.com/item?id=46137548
+
+13. Everyone in Seattle hates AI
+   Points: 541
+   Comments: 519
+   URL: https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html
+
+14. Checked-size array parameters in C
+   Points: 40
+   Comments: 21
+   URL: https://lwn.net/SubscriberLink/1046840/3eb9029084cc9e1e/
+
+15. How to Synthesize a House Loop
+   Points: 165
+   Comments: 64
+   URL: https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop
+
+16. 8086 Microcode Browser
+   Points: 32
+   Comments: 0
+   URL: https://nand2mario.github.io/posts/2025/8086_microcode_browser/
+
+17. Why are my headphones buzzing whenever I run my game?
+   Points: 132
+   Comments: 105
+   URL: https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html
+
+18. MinIO is now in maintenance-mode
+   Points: 399
+   Comments: 235
+   URL: https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2
+
+19. You can't fool the optimizer
+   Points: 225
+   Comments: 136
+   URL: https://xania.org/202512/03-more-adding-integers
+
+20. Anthropic taps IPO lawyers as it races OpenAI to go public
+   Points: 267
+   Comments: 220
+   URL: https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f
+
