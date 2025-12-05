@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-05
+==================================================
+
+1. AV1 – Now Powering 30% of Netflix Streaming
+   Points: 30
+   Comments: 1
+   URL: https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80
+
+2. CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL
+   Points: 69
+   Comments: 10
+   URL: https://github.com/deepreinforce-ai/CUDA-L2
+
+3. State of AI: An Empirical 100T Token Study with OpenRouter
+   Points: 81
+   Comments: 18
+   URL: https://openrouter.ai/state-of-ai
+
+4. Multivox: Volumetric Display
+   Points: 218
+   Comments: 30
+   URL: https://github.com/AncientJames/multivox
+
+5. Coca Cola has an executive dedicated to McDonald's
+   Points: 32
+   Comments: 38
+   URL: https://www.coca-colacompany.com/about-us/leadership/roberto-mercade
+
+6. Thoughts on Go vs. Rust vs. Zig
+   Points: 191
+   Comments: 185
+   URL: https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/
+
+7. Transparent leadership beats servant leadership
+   Points: 356
+   Comments: 169
+   URL: https://entropicthoughts.com/transparent-leadership-beats-servant-leadership
+
+8. It’s time to free JavaScript (2024)
+   Points: 642
+   Comments: 330
+   URL: https://javascript.tm/letter
+
+9. We gave 5 LLMs $100K to trade stocks for 8 months
+   Points: 104
+   Comments: 93
+   URL: https://www.aitradearena.com/research/we-ran-llms-for-8-months
+
+10. Django 6
+   Points: 205
+   Comments: 96
+   URL: https://docs.djangoproject.com/en/6.0/releases/6.0/
+
+11. StardustOS: Library operating system for building light-weight Unikernels
+   Points: 13
+   Comments: 0
+   URL: https://github.com/StardustOS
+
+12. Why are 38 percent of Stanford students saying they're disabled?
+   Points: 438
+   Comments: 672
+   URL: https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/
+
+13. How elites could shape mass preferences as AI reduces persuasion costs
+   Points: 479
+   Comments: 470
+   URL: https://arxiv.org/abs/2512.04047
+
+14. A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat
+   Points: 213
+   Comments: 167
+   URL: https://www.bbc.com/news/articles/c1w932vqye0o
+
+15. PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners
+   Points: 56
+   Comments: 16
+   URL: https://github.com/SJRiz/pytogether
+
+16. Trick users and bypass warnings – Modern SVG Clickjacking attacks
+   Points: 9
+   Comments: 0
+   URL: https://lyra.horse/blog/2025/12/svg-clickjacking/
+
+17. Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later
+   Points: 123
+   Comments: 102
+   URL: https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903
+
+18. Help, My Java Object Vanished (and the GC Is Not at Fault)
+   Points: 9
+   Comments: 1
+   URL: https://arraying.de/posts/markword/
+
+19. I ignore the spotlight as a staff engineer
+   Points: 402
+   Comments: 195
+   URL: https://lalitm.com/software-engineering-outside-the-spotlight/
+
+20. Fighting the age-gated internet
+   Points: 157
+   Comments: 156
+   URL: https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/
+
