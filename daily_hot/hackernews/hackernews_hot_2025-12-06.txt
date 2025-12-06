@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-06
+==================================================
+
+1. Netflix to Acquire Warner Bros
+   Points: 1413
+   Comments: 1116
+   URL: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros
+
+2. Cloudflare outage on December 5, 2025
+   Points: 530
+   Comments: 397
+   URL: https://blog.cloudflare.com/5-december-2025-outage/
+
+3. Adenosine on the common path of rapid antidepressant action: The coffee paradox
+   Points: 41
+   Comments: 11
+   URL: https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml
+
+4. Gemini 3 Pro: the frontier of vision AI
+   Points: 316
+   Comments: 163
+   URL: https://blog.google/technology/developers/gemini-3-pro-vision/
+
+5. Leaving Intel
+   Points: 57
+   Comments: 8
+   URL: https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html
+
+6. Perpetual Futures
+   Points: 46
+   Comments: 11
+   URL: https://www.bitsaboutmoney.com/archive/perpetual-futures-explained/
+
+7. Fizz Buzz in CSS
+   Points: 58
+   Comments: 17
+   URL: https://susam.net/fizz-buzz-in-css.html
+
+8. Idempotency Keys for Exactly-Once Processing
+   Points: 77
+   Comments: 34
+   URL: https://www.morling.dev/blog/on-idempotency-keys/
+
+9. Patterns for Defensive Programming in Rust
+   Points: 193
+   Comments: 36
+   URL: https://corrode.dev/blog/defensive-programming/
+
+10. Most technical problems are people problems
+   Points: 310
+   Comments: 238
+   URL: https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html
+
+11. Frank Gehry has died
+   Points: 110
+   Comments: 38
+   URL: https://www.bbc.co.uk/news/articles/c5y2p22z9gno
+
+12. I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA
+   Points: 160
+   Comments: 205
+   URL: https://news.ycombinator.com/item?id=46163121
+
+13. Sam Altman's Dirty DRAM Deal
+   Points: 6
+   Comments: 1
+   URL: https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal
+
+14. Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month
+   Points: 99
+   Comments: 32
+   URL: https://hackclub.com/fiscal-sponsorship/mobile/
+
+15. Tides are weirder than you think
+   Points: 60
+   Comments: 15
+   URL: https://signoregalilei.com/2025/11/12/tides-are-weirder-than-you-think/
+
+16. The missing standard library for multithreading in JavaScript
+   Points: 26
+   Comments: 3
+   URL: https://github.com/W4G1/multithreading
+
+17. Framework Sponsors CachyOS
+   Points: 135
+   Comments: 112
+   URL: https://discuss.cachyos.org/t/framework-sponsorship-for-cachyos/19376
+
+18. Why we built Lightpanda in Zig
+   Points: 159
+   Comments: 86
+   URL: https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig
+
+19. Frinkiac – 3M "The Simpsons" Screencaps
+   Points: 5
+   Comments: 0
+   URL: https://frinkiac.com/
+
+20. Making RSS More Fun
+   Points: 174
+   Comments: 88
+   URL: https://matduggan.com/making-rss-more-fun/
+
