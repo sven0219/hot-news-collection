@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-07
+==================================================
+
+1. Screenshots from developers: 2002 vs. 2015 (2015)
+   Points: 109
+   Comments: 36
+   URL: https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/
+
+2. Kilauea erupts, destroying webcam [video]
+   Points: 62
+   Comments: 10
+   URL: https://www.youtube.com/watch?v=TK2N99BDw7A
+
+3. Trains cancelled over fake bridge collapse image
+   Points: 7
+   Comments: 3
+   URL: https://www.bbc.com/news/articles/cwygqqll9k2o
+
+4. GrapheneOS is the only Android OS providing full security patches
+   Points: 444
+   Comments: 180
+   URL: https://grapheneos.social/@GrapheneOS/115647408229616018
+
+5. United States Antarctic Program Field Manual (2024) [pdf]
+   Points: 26
+   Comments: 1
+   URL: https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf
+
+6. Zebra-Llama: Towards Efficient Hybrid Models
+   Points: 70
+   Comments: 32
+   URL: https://arxiv.org/abs/2505.17272
+
+7. Tiny Core Linux: a 23 MB Linux distro with graphical desktop
+   Points: 344
+   Comments: 162
+   URL: http://www.tinycorelinux.net/
+
+8. Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels
+   Points: 8
+   Comments: 1
+   URL: https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139
+
+9. OMSCS Open Courseware
+   Points: 121
+   Comments: 42
+   URL: https://sites.gatech.edu/omscsopencourseware/
+
+10. Z-Image: Powerful and highly efficient image generation model with 6B parameters
+   Points: 232
+   Comments: 88
+   URL: https://github.com/Tongyi-MAI/Z-Image
+
+11. Saving Japan's exceptionally rare 'snow monsters'
+   Points: 15
+   Comments: 0
+   URL: https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters
+
+12. HTML as an Accessible Format for Papers
+   Points: 195
+   Comments: 106
+   URL: https://info.arxiv.org/about/accessible_HTML.html
+
+13. Coffee linked to slower biological ageing among those with severe mental illness
+   Points: 80
+   Comments: 48
+   URL: https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit
+
+14. Mathematics Without Numbers (1959)
+   Points: 22
+   Comments: 4
+   URL: https://www.jstor.org/stable/20026529?seq=1
+
+15. PatchworkOS: An OS for x86_64, built from scratch in C and assembly
+   Points: 9
+   Comments: 1
+   URL: https://github.com/KaiNorberg/PatchworkOS
+
+16. Catala – Law to Code
+   Points: 26
+   Comments: 8
+   URL: https://catala-lang.org
+
+17. Autism's confusing cousins
+   Points: 217
+   Comments: 225
+   URL: https://www.psychiatrymargins.com/p/autisms-confusing-cousins
+
+18. Bikeshedding, or why I want to build a laptop
+   Points: 38
+   Comments: 12
+   URL: https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html
+
+19. Show HN: Tascli, a command line based (human) task and record manager
+   Points: 21
+   Comments: 9
+   URL: https://github.com/Aperocky/tascli
+
+20. OpenTelemetry Distribution Builder
+   Points: 4
+   Comments: 1
+   URL: https://github.com/observIQ/otel-distro-builder
+
