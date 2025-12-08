@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-08
+==================================================
+
+1. I failed to recreate the 1996 Space Jam website with Claude
+   Points: 272
+   Comments: 234
+   URL: https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/
+
+2. Mechanical power generation using Earth's ambient radiation
+   Points: 33
+   Comments: 13
+   URL: https://www.science.org/doi/10.1126/sciadv.adw6833
+
+3. The C++ standard for the F-35 Fighter Jet [video]
+   Points: 171
+   Comments: 176
+   URL: https://www.youtube.com/watch?v=Gv4sDL9Ljww
+
+4. How I block all online ads
+   Points: 39
+   Comments: 11
+   URL: https://troubled.engineer/posts/no-ads/
+
+5. Dollar-stores overcharge cash-strapped customers while promising low prices
+   Points: 221
+   Comments: 351
+   URL: https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs
+
+6. Google Titans architecture, helping AI have long-term memory
+   Points: 371
+   Comments: 124
+   URL: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
+
+7. Bag of words, have mercy on us
+   Points: 20
+   Comments: 13
+   URL: https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us
+
+8. A two-person method to simulate die rolls (2023)
+   Points: 50
+   Comments: 25
+   URL: https://blog.42yeah.is/algorithm/2023/08/05/two-person-die.html
+
+9. An Interactive Guide to the Fourier Transform
+   Points: 132
+   Comments: 16
+   URL: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+
+10. Evidence from the One Laptop per Child program in rural Peru
+   Points: 87
+   Comments: 62
+   URL: https://www.nber.org/papers/w34495
+
+11. Build a DIY magnetometer with a couple of seasoning bottles
+   Points: 61
+   Comments: 17
+   URL: https://spectrum.ieee.org/listen-to-protons-diy-magnetometer
+
+12. Minimum Viable Arduino Project: Aeropress Timer
+   Points: 13
+   Comments: 5
+   URL: https://netninja.com/2025/12/01/minimum-viable-arduino-project-aeropress-timer/
+
+13. The Anatomy of a macOS App
+   Points: 181
+   Comments: 52
+   URL: https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/
+
+14. The state of Schleswig-Holstein is consistently relying on open source
+   Points: 510
+   Comments: 236
+   URL: https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html
+
+15. Nested Learning: A new ML paradigm for continual learning
+   Points: 72
+   Comments: 2
+   URL: https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/
+
+16. Scala 3 slowed us down?
+   Points: 170
+   Comments: 98
+   URL: https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html
+
+17. Java Hello World, LLVM Edition
+   Points: 163
+   Comments: 57
+   URL: https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html
+
+18. Work disincentives hit the near-poor hardest (2022)
+   Points: 9
+   Comments: 0
+   URL: https://www.niskanencenter.org/work-disincentives-hit-the-near-poor-hardest-why-and-what-to-do-about-it/
+
+19. Proxmox delivers its software-defined datacenter contender and VMware escape
+   Points: 49
+   Comments: 1
+   URL: https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/
+
+20. Context plumbing
+   Points: 11
+   Comments: 2
+   URL: https://interconnected.org/home/2025/11/28/plumbing
+
