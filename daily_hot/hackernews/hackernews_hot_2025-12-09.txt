@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-09
+==================================================
+
+1. Kroger acknowledges that its bet on robotics went too far
+   Points: 50
+   Comments: 39
+   URL: https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/
+
+2. The Universal Weight Subspace Hypothesis
+   Points: 11
+   Comments: 1
+   URL: https://arxiv.org/abs/2512.05117
+
+3. Icons in Menus Everywhere – Send Help
+   Points: 172
+   Comments: 67
+   URL: https://blog.jim-nielsen.com/2025/icons-in-menus/
+
+4. Jepsen: NATS 2.12.1
+   Points: 255
+   Comments: 93
+   URL: https://jepsen.io/analyses/nats-2.12.1
+
+5. Strong earthquake hits northern Japan, tsunami warning issued
+   Points: 257
+   Comments: 128
+   URL: https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/
+
+6. AMD GPU Debugger
+   Points: 208
+   Comments: 34
+   URL: https://thegeeko.me/blog/amd-gpu-debugging/
+
+7. Let's put Tailscale on a jailbroken Kindle
+   Points: 223
+   Comments: 53
+   URL: https://tailscale.com/blog/tailscale-jailbroken-kindle
+
+8. Scientific and Technical Amateur Radio
+   Points: 3
+   Comments: 0
+   URL: https://destevez.net/
+
+9. Hunting for North Korean Fiber Optic Cables
+   Points: 207
+   Comments: 41
+   URL: https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/
+
+10. Show HN: Fanfa – Interactive and animated Mermaid diagrams
+   Points: 53
+   Comments: 11
+   URL: https://fanfa.dev/
+
+11. Has the cost of building software dropped 90%?
+   Points: 140
+   Comments: 278
+   URL: https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/
+
+12. IBM to acquire Confluent
+   Points: 331
+   Comments: 267
+   URL: https://www.confluent.io/blog/ibm-to-acquire-confluent/
+
+13. Trials avoid high risk patients and underestimate drug harms
+   Points: 55
+   Comments: 24
+   URL: https://www.nber.org/papers/w34534
+
+14. Microsoft increases Office 365 and Microsoft 365 license prices
+   Points: 230
+   Comments: 275
+   URL: https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/
+
+15. Microsoft Download Center Archive
+   Points: 110
+   Comments: 14
+   URL: https://legacyupdate.net/download-center/
+
+16. A series of tricks and techniques I learned doing tiny GLSL demos
+   Points: 130
+   Comments: 14
+   URL: https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html
+
+17. Paramount launches hostile bid for Warner Bros
+   Points: 219
+   Comments: 204
+   URL: https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html
+
+18. Launch HN: Nia (YC S25) – Give better context to coding agents
+   Points: 83
+   Comments: 65
+   URL: https://www.trynia.ai/
+
+19. Amp, Inc. – Amp is spinning out of Sourcegraph
+   Points: 70
+   Comments: 26
+   URL: https://ampcode.com/news/amp-inc
+
+20. AI should only run as fast as we can catch up
+   Points: 98
+   Comments: 106
+   URL: https://higashi.blog/2025/12/07/ai-verification/
+
