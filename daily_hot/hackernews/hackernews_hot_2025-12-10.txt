@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-10
+==================================================
+
+1. Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now
+   Points: 1758
+   Comments: 620
+   URL: https://dosaygo-studio.github.io/hn-front-page-2035/news
+
+2. PeerTube is recognized as a digital public good by Digital Public Goods Alliance
+   Points: 378
+   Comments: 63
+   URL: https://www.digitalpublicgoods.net/r/peertube
+
+3. Django: what’s new in 6.0
+   Points: 137
+   Comments: 33
+   URL: https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+
+4. Mistral releases Devstral2 and Mistral Vibe CLI
+   Points: 478
+   Comments: 233
+   URL: https://mistral.ai/news/devstral-2-vibe-cli
+
+5. If you're going to vibe code, why not do it in C?
+   Points: 299
+   Comments: 345
+   URL: https://stephenramsay.net/posts/vibe-coding.html
+
+6. 10 Years of Let's Encrypt
+   Points: 432
+   Comments: 176
+   URL: https://letsencrypt.org/2025/12/09/10-years
+
+7. Handsdown one of the coolest 3D websites
+   Points: 378
+   Comments: 97
+   URL: https://bruno-simon.com/
+
+8. Pebble Index 01 – External memory for your brain
+   Points: 377
+   Comments: 367
+   URL: https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain
+
+9. Qt, Linux and everything: Debugging Qt WebAssembly
+   Points: 40
+   Comments: 11
+   URL: http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html
+
+10. Italy's longest-serving barista reflects on six decades behind the counter
+   Points: 54
+   Comments: 9
+   URL: https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/
+
+11. Donating the Model Context Protocol and establishing the Agentic AI Foundation
+   Points: 140
+   Comments: 63
+   URL: https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+
+12. The stack circuitry of the Intel 8087 floating point chip, reverse-engineered
+   Points: 76
+   Comments: 29
+   URL: https://www.righto.com/2025/12/8087-stack-circuitry.html
+
+13. Agentic AI Foundation
+   Points: 51
+   Comments: 9
+   URL: https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation
+
+14. So you want to speak at software conferences?
+   Points: 109
+   Comments: 42
+   URL: https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html
+
+15. LLM from scratch, part 28 – training a base model from scratch on an RTX 3090
+   Points: 466
+   Comments: 98
+   URL: https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch
+
+16. ULID: Universally Unique Lexicographically Sortable Identifier
+   Points: 45
+   Comments: 23
+   URL: https://packagemain.tech/p/ulid-identifier-golang-postgres
+
+17. OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution
+   Points: 11
+   Comments: 3
+   URL: https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html
+
+18. Linux CVEs, more than you ever wanted to know
+   Points: 18
+   Comments: 16
+   URL: http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/
+
+19. Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor
+   Points: 144
+   Comments: 61
+   URL: https://github.com/KaijuEngine/kaiju
+
+20. A supersonic engine core makes the perfect power turbine
+   Points: 52
+   Comments: 90
+   URL: https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that
+
