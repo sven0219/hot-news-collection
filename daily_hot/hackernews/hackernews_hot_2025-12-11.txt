@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-11
+==================================================
+
+1. Size of Life
+   Points: 1315
+   Comments: 171
+   URL: https://neal.fun/size-of-life/
+
+2. Australia begins enforcing world-first teen social media ban
+   Points: 530
+   Comments: 812
+   URL: https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/
+
+3. Getting a Gemini API key is an exercise in frustration
+   Points: 183
+   Comments: 82
+   URL: https://ankursethi.com/blog/gemini-api-key-frustration/
+
+4. Auto-grading decade-old Hacker News discussions with hindsight
+   Points: 270
+   Comments: 136
+   URL: https://karpathy.bearblog.dev/auto-grade-hn/
+
+5. Super Mario 64 for the PS1
+   Points: 151
+   Comments: 47
+   URL: https://github.com/malucard/sm64-psx
+
+6. Rubio stages font coup: Times New Roman ousts Calibri
+   Points: 135
+   Comments: 239
+   URL: https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/
+
+7. How Google Maps allocates survival across London's restaurants
+   Points: 101
+   Comments: 52
+   URL: https://laurenleek.substack.com/p/how-google-maps-quietly-allocates
+
+8. Common Lisp, ASDF, and Quicklisp: packaging explained
+   Points: 32
+   Comments: 5
+   URL: https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html
+
+9. When would you ever want bubblesort? (2023)
+   Points: 44
+   Comments: 22
+   URL: https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/
+
+10. Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model
+   Points: 190
+   Comments: 79
+   URL: https://qwen.ai/blog?id=qwen3-omni-flash-20251201
+
+11. Show HN: Automated license plate reader coverage in the USA
+   Points: 103
+   Comments: 59
+   URL: https://alpranalysis.com
+
+12. Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise
+   Points: 93
+   Comments: 17
+   URL: https://arxiv.org/abs/2512.08309
+
+13. Scientists create ultra fast memory using light
+   Points: 60
+   Comments: 12
+   URL: https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/
+
+14. The future of Terraform CDK
+   Points: 78
+   Comments: 82
+   URL: https://github.com/hashicorp/terraform-cdk
+
+15. Gundam is just the same as Jane Austen but happens to include giant mech suits
+   Points: 141
+   Comments: 103
+   URL: https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits
+
+16. Is it a bubble?
+   Points: 127
+   Comments: 164
+   URL: https://www.oaktreecapital.com/insights/memo/is-it-a-bubble
+
+17. Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux
+   Points: 494
+   Comments: 285
+   URL: https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html
+
+18. Sharding to Contain the Blast Radius of Data Breaches
+   Points: 6
+   Comments: 0
+   URL: https://www.mimirsec.com/2025/12/05/sharding-to-contain-the-blast-radius-of-data-breaches/
+
+19. Launch HN: InspectMind (YC W24) – AI agent for reviewing construction drawings
+   Points: 37
+   Comments: 42
+   URL: https://news.ycombinator.com/item?id=46219386
+
+20. Largest EV manufacturer is coming to the Western market
+   Points: 36
+   Comments: 39
+   URL: https://newatlas.com/motorcycles/yadea-comes-to-europe/
+
