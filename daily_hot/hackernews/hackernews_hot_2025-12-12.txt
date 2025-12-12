@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-12
+==================================================
+
+1. GPT-5.2
+   Points: 716
+   Comments: 577
+   URL: https://openai.com/index/introducing-gpt-5-2/
+
+2. Denial of service and source code exposure in React Server Components
+   Points: 182
+   Comments: 85
+   URL: https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components
+
+3. Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free
+   Points: 191
+   Comments: 262
+   URL: https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/
+
+4. Nokia N900 Necromancy – giving a new life to a classic Linux smartphone
+   Points: 14
+   Comments: 2
+   URL: https://yaky.dev/2025-12-11-nokia-n900-necromancy/
+
+5. The highest quality codebase
+   Points: 412
+   Comments: 286
+   URL: https://gricha.dev/blog/the-highest-quality-codebase
+
+6. An SVG is all you need
+   Points: 125
+   Comments: 53
+   URL: https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html
+
+7. Litestream VFS
+   Points: 214
+   Comments: 71
+   URL: https://fly.io/blog/litestream-vfs/
+
+8. Programmers and software developers lost the plot on naming their tools
+   Points: 133
+   Comments: 214
+   URL: https://larr.net/p/namings.html
+
+9. The architecture of “not bad”: Decoding the Chinese source code of the void
+   Points: 57
+   Comments: 54
+   URL: https://suggger.substack.com/p/the-architecture-of-not-bad-decoding
+
+10. Show HN: Sim – Apache-2.0 n8n alternative
+   Points: 136
+   Comments: 27
+   URL: https://github.com/simstudioai/sim
+
+11. Craft software that makes people feel something
+   Points: 230
+   Comments: 113
+   URL: https://rapha.land/craft-software-that-makes-people-feel-something/
+
+12. UK House of Lords attempting to ban use of VPNs by anyone under 16
+   Points: 247
+   Comments: 233
+   URL: https://alecmuffett.com/article/134925
+
+13. Powder and stone, or, why medieval rulers loved castles
+   Points: 22
+   Comments: 1
+   URL: https://1517.substack.com/p/powder-and-stone-or-why-medieval
+
+14. Almond (YC X25) Is Hiring SWEs and MechEs
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/almond-2/jobs
+
+15. My productivity app is a never-ending .txt file (2020)
+   Points: 148
+   Comments: 104
+   URL: https://jeffhuang.com/productivity_text_file/
+
+16. The Walt Disney Company and OpenAI Partner on Sora
+   Points: 137
+   Comments: 407
+   URL: https://openai.com/index/disney-sora-agreement/
+
+17. Auto-grading decade-old Hacker News discussions with hindsight
+   Points: 567
+   Comments: 250
+   URL: https://karpathy.bearblog.dev/auto-grade-hn/
+
+18. Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)
+   Points: 56
+   Comments: 21
+   URL: https://chicagoreader.com/news/prove-it-all-night/
+
+19. RFC 6677 DNS Transport over TCP – Implementation Requirements (2016)
+   Points: 15
+   Comments: 11
+   URL: https://www.ietf.org/rfc/rfc7766.txt
+
+20. French supermarket's Christmas advert is worldwide hit (without AI) [video]
+   Points: 199
+   Comments: 120
+   URL: https://www.youtube.com/watch?v=Na9VmMNJvsA
+
