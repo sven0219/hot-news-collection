@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-13
+==================================================
+
+1. macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt
+   Points: 235
+   Comments: 111
+   URL: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
+
+2. OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI
+   Points: 49
+   Comments: 19
+   URL: https://simonwillison.net/2025/Dec/12/openai-skills/
+
+3. GNU Unifont
+   Points: 141
+   Comments: 42
+   URL: https://unifoundry.com/unifont/index.html
+
+4. Rats Play DOOM
+   Points: 158
+   Comments: 65
+   URL: https://ratsplaydoom.com/
+
+5. Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig
+   Points: 52
+   Comments: 3
+   URL: https://github.com/ringtailsoftware/uvm32
+
+6. Show HN: I made a spreadsheet where formulas also update backwards
+   Points: 38
+   Comments: 11
+   URL: https://victorpoughon.github.io/bidicalc/
+
+7. Capsudo: Rethinking Sudo with Object Capabilities
+   Points: 29
+   Comments: 2
+   URL: https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html
+
+8. Ensuring a National Policy Framework for Artificial Intelligence
+   Points: 48
+   Comments: 72
+   URL: https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/
+
+9. 50 years of proof assistants
+   Points: 16
+   Comments: 1
+   URL: https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html
+
+10. Security issues with electronic invoices
+   Points: 71
+   Comments: 42
+   URL: https://invoice.secvuln.info/
+
+11. Freeing a Xiaomi humidifier from the cloud
+   Points: 18
+   Comments: 4
+   URL: https://0l.de/blog/2025/11/xiaomi-humidifier/
+
+12. SQLite JSON at full index speed using generated columns
+   Points: 305
+   Comments: 94
+   URL: https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing
+
+13. Go is portable, until it isn't
+   Points: 6
+   Comments: 7
+   URL: https://simpleobservability.com/blog/go-portable-until-isnt
+
+14. Motion (YC W20) Is Hiring Senior Staff Front End Engineers
+   Points: 1
+   Comments: 0
+   URL: https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39
+
+15. 4 billion if statements (2023)
+   Points: 576
+   Comments: 162
+   URL: https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html
+
+16. Building small Docker images faster
+   Points: 16
+   Comments: 4
+   URL: https://sgt.hootr.club/blog/docker-protips/
+
+17. Pg_ClickHouse: A Postgres extension for querying ClickHouse
+   Points: 65
+   Comments: 25
+   URL: https://clickhouse.com/blog/introducing-pg_clickhouse
+
+18. Fast Median Filter over arbitrary datatypes
+   Points: 19
+   Comments: 1
+   URL: https://martianlantern.github.io/2025/09/median-filter-over-arbitrary-datatypes/
+
+19. Sick of smart TVs? Here are your best options
+   Points: 79
+   Comments: 104
+   URL: https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/
+
+20. Home Depot GitHub token exposed for a year, granted access to internal systems
+   Points: 174
+   Comments: 105
+   URL: https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/
+
