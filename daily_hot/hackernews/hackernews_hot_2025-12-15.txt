@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-15
+==================================================
+
+1. Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services
+   Points: 213
+   Comments: 107
+   URL: https://status.claude.com/incidents/9g6qpr72ttbr
+
+2. 2002: Last.fm and Audioscrobbler Herald the Social Web
+   Points: 126
+   Comments: 73
+   URL: https://cybercultural.com/p/lastfm-audioscrobbler-2002/
+
+3. JSDoc is TypeScript
+   Points: 89
+   Comments: 125
+   URL: https://culi.bearblog.dev/jsdoc-is-typescript/
+
+4. History of Declarative Programming
+   Points: 22
+   Comments: 7
+   URL: https://shenlanguage.org/TBoS/tbos_15.html
+
+5. Hashcards: A plain-text spaced repetition system
+   Points: 230
+   Comments: 96
+   URL: https://borretti.me/article/hashcards-plain-text-spaced-repetition
+
+6. An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eter
+   Points: 10
+   Comments: 0
+   URL: https://im-just-lee.ing/forth-why-cb234c03.txt
+
+7. Ask HN: What Are You Working On? (December 2025)
+   Points: 129
+   Comments: 465
+   URL: https://news.ycombinator.com/item?id=46264491
+
+8. In the Beginning was the Command Line (1999)
+   Points: 82
+   Comments: 37
+   URL: https://web.stanford.edu/class/cs81n/command.txt
+
+9. Interview with Kent Overstreet (Bcachefs) [audio]
+   Points: 31
+   Comments: 16
+   URL: https://linuxunplugged.com/644
+
+10. The Typeframe PX-88 Portable Computing System
+   Points: 87
+   Comments: 25
+   URL: https://www.typeframe.net/
+
+11. Claude CLI deleted my home directory Wiped my whole Mac
+   Points: 102
+   Comments: 71
+   URL: https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/
+
+12. Developing a food-safe finish for my wooden spoons
+   Points: 139
+   Comments: 83
+   URL: https://alinpanaitiu.com/blog/developing-hardwax-oil/
+
+13. Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem
+   Points: 180
+   Comments: 110
+   URL: https://trigger.dev/blog/shai-hulud-postmortem
+
+14. AI and the ironies of automation – Part 2
+   Points: 201
+   Comments: 88
+   URL: https://www.ufried.com/blog/ironies_of_ai_2/
+
+15. Advent of Swift
+   Points: 47
+   Comments: 10
+   URL: https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html
+
+16. AI agents are starting to eat SaaS
+   Points: 44
+   Comments: 46
+   URL: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/
+
+17. Price of a bot army revealed across online platforms
+   Points: 82
+   Comments: 23
+   URL: https://www.cam.ac.uk/stories/price-bot-army-global-index
+
+18. GraphQL: The enterprise honeymoon is over
+   Points: 169
+   Comments: 152
+   URL: https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over
+
+19. DARPA GO: Generative Optogenetics
+   Points: 5
+   Comments: 0
+   URL: https://www.darpa.mil/research/programs/go
+
+20. Baumol's Cost Disease
+   Points: 78
+   Comments: 82
+   URL: https://en.wikipedia.org/wiki/Baumol_effect
+
