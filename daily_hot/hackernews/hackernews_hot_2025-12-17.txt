@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-17
+==================================================
+
+1. AI will make formal verification go mainstream
+   Points: 264
+   Comments: 146
+   URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
+
+2. No Graphics API
+   Points: 386
+   Comments: 66
+   URL: https://www.sebastianaaltonen.com/blog/no-graphics-api
+
+3. alpr.watch
+   Points: 599
+   Comments: 297
+   URL: https://alpr.watch/
+
+4. Announcing the Beta release of ty
+   Points: 260
+   Comments: 52
+   URL: https://astral.sh/blog/ty
+
+5. GPT Image 1.5
+   Points: 297
+   Comments: 158
+   URL: https://openai.com/index/new-chatgpt-images-is-here/
+
+6. Pricing Changes for GitHub Actions
+   Points: 465
+   Comments: 496
+   URL: https://resources.github.com/actions/2026-pricing-changes-for-github-actions/
+
+7. Midjourney is alemwjsl
+   Points: 39
+   Comments: 13
+   URL: https://www.aadillpickle.com/blog/midjourney-is-alemwjsl
+
+8. I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours
+   Points: 36
+   Comments: 5
+   URL: https://simonwillison.net/2025/Dec/15/porting-justhtml/
+
+9. No AI* Here – A Response to Mozilla's Next Chapter
+   Points: 62
+   Comments: 38
+   URL: https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/
+
+10. Americans overestimate how many social media users post harmful content
+   Points: 20
+   Comments: 29
+   URL: https://academic.oup.com/pnasnexus/article/4/12/pgaf310/8377954?login=false
+
+11. 40 percent of fMRI signals do not correspond to actual brain activity
+   Points: 388
+   Comments: 167
+   URL: https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity
+
+12. Mozilla appoints new CEO Anthony Enzor-Demeo
+   Points: 407
+   Comments: 625
+   URL: https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/
+
+13. Chat-tails: Throwback terminal chat, built on Tailscale
+   Points: 45
+   Comments: 10
+   URL: https://tailscale.com/blog/chat-tails-terminal-chat
+
+14. Dafny: Verification-Aware Programming Language
+   Points: 16
+   Comments: 2
+   URL: https://dafny.org/
+
+15. Thin desires are eating life
+   Points: 292
+   Comments: 119
+   URL: https://www.joanwestenberg.com/thin-desires-are-eating-your-life/
+
+16. MIT professor shot at his Massachusetts home dies
+   Points: 151
+   Comments: 68
+   URL: https://www.bbc.com/news/articles/cly08y25688o
+
+17. Writing a blatant Telegram clone using Qt, QML and Rust. And C++
+   Points: 77
+   Comments: 46
+   URL: https://kemble.net/blog/provoke/
+
+18. Japan to revise romanization rules for first time in 70 years
+   Points: 103
+   Comments: 81
+   URL: https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/
+
+19. The World Happiness Report is beset with methodological problems
+   Points: 83
+   Comments: 99
+   URL: https://yaschamounk.substack.com/p/the-world-happiness-report-is-a-sham
+
+20. Can I use HTTPS RRs?
+   Points: 18
+   Comments: 7
+   URL: https://www.netmeister.org/blog/https-caniuse.html
+
