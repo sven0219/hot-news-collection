@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-18
+==================================================
+
+1. Gemini 3 Flash: Frontier intelligence built for speed
+   Points: 731
+   Comments: 374
+   URL: https://blog.google/products/gemini/gemini-3-flash/
+
+2. OBS Studio Gets a New Renderer
+   Points: 67
+   Comments: 18
+   URL: https://obsproject.com/blog/obs-studio-gets-a-new-renderer
+
+3. Coursera to combine with Udemy
+   Points: 405
+   Comments: 227
+   URL: https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
+
+4. AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'
+   Points: 713
+   Comments: 399
+   URL: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
+
+5. Inside PostHog: SSRF, ClickHouse SQL Escape and Default Postgres Creds to RCE
+   Points: 69
+   Comments: 15
+   URL: https://mdisec.com/inside-posthog-how-ssrf-a-clickhouse-sql-escaping-0day-and-default-postgresql-credentials-formed-an-rce-chain-zdi-25-099-zdi-25-097-zdi-25-096/
+
+6. Show HN: High-Performance Wavelet Matrix for Python, Implemented in Rust
+   Points: 53
+   Comments: 0
+   URL: https://pypi.org/project/wavelet-matrix/
+
+7. I got hacked: My Hetzner server started mining Monero
+   Points: 155
+   Comments: 144
+   URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
+
+8. A Safer Container Ecosystem with Docker: Free Docker Hardened Images
+   Points: 267
+   Comments: 55
+   URL: https://www.docker.com/blog/docker-hardened-images-for-every-developer/
+
+9. Explaining the Widening Divides in US Midlife Mortality: Is There a Smoking Gun?
+   Points: 9
+   Comments: 3
+   URL: https://www.nber.org/papers/w34553
+
+10. Tell HN: HN was down
+   Points: 457
+   Comments: 277
+   URL: https://news.ycombinator.com/item?id=46301921
+
+11. Cloudflare Radar 2025 Year in Review
+   Points: 42
+   Comments: 13
+   URL: https://radar.cloudflare.com/year-in-review/2025
+
+12. Gut Bacteria from Amphibians and Reptiles Achieve Complete Tumor Elimination
+   Points: 13
+   Comments: 0
+   URL: https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html
+
+13. Fast Sequence Iteration in Common Lisp
+   Points: 26
+   Comments: 5
+   URL: https://world-playground-deceit.net/blog/2025/12/fast-sequence-iteration-in-common-lisp.html
+
+14. The Number That Turned Sideways
+   Points: 12
+   Comments: 3
+   URL: https://zuriby.github.io/math.github.io/the-number-that-turned-sideways.html
+
+15. How SQLite is tested
+   Points: 216
+   Comments: 53
+   URL: https://sqlite.org/testing.html
+
+16. Zmij: Faster floating point double-to-string conversion
+   Points: 82
+   Comments: 9
+   URL: https://vitaut.net/posts/2025/faster-dtoa/
+
+17. Launch HN: Kenobi (YC W22) – Personalize your website for every visitor
+   Points: 26
+   Comments: 49
+   URL: https://news.ycombinator.com/item?id=46301865
+
+18. Speed matters: Why working quickly is more important than it seems
+   Points: 27
+   Comments: 13
+   URL: https://jsomers.net/blog/speed-matters
+
+19. Pornhub extorted after hackers steal Premium member activity data
+   Points: 85
+   Comments: 31
+   URL: https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/
+
+20. Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer
+
