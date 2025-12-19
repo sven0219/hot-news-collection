@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-19
+==================================================
+
+1. Beginning January 2026, all ACM publications will be made open access
+   Points: 1286
+   Comments: 142
+   URL: https://dl.acm.org/openaccess
+
+2. 1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5
+   Points: 136
+   Comments: 43
+   URL: https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5
+
+3. We pwned X, Vercel, Cursor, and Discord through a supply-chain attack
+   Points: 555
+   Comments: 215
+   URL: https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+
+4. Trained LLMs exclusively on pre-1913 texts
+   Points: 125
+   Comments: 42
+   URL: https://github.com/DGoettlich/history-llms
+
+5. Texas is suing all of the big TV makers for spying on what you watch
+   Points: 461
+   Comments: 247
+   URL: https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying
+
+6. GPT-5.2-Codex
+   Points: 350
+   Comments: 203
+   URL: https://openai.com/index/introducing-gpt-5-2-codex/
+
+7. How China built its ‘Manhattan Project’ to rival the West in AI chips
+   Points: 182
+   Comments: 186
+   URL: https://www.japantimes.co.jp/business/2025/12/18/tech/china-west-ai-chips/
+
+8. Skills for organizations, partners, the ecosystem
+   Points: 226
+   Comments: 138
+   URL: https://claude.com/blog/organization-skills-and-directory
+
+9. Classical statues were not painted horribly
+   Points: 549
+   Comments: 264
+   URL: https://worksinprogress.co/issue/were-classical-statues-painted-horribly/
+
+10. Great ideas in theoretical computer science
+   Points: 27
+   Comments: 1
+   URL: https://www.cs251.com/
+
+11. T5Gemma 2: The next generation of encoder-decoder models
+   Points: 90
+   Comments: 14
+   URL: https://blog.google/technology/developers/t5gemma-2/
+
+12. AI vending machine was tricked into giving away everything
+   Points: 58
+   Comments: 2
+   URL: https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything
+
+13. Show HN: Picknplace.js, an alternative to drag-and-drop
+   Points: 108
+   Comments: 59
+   URL: https://jgthms.com/picknplace.js/
+
+14. Delty (YC X25) Is Hiring an ML Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer
+
+15. Firefox will have an option to disable all AI features
+   Points: 256
+   Comments: 224
+   URL: https://mastodon.social/@firefoxwebdevs/115740500373677782
+
+16. Show HN: Stop AI scrapers from hammering your self-hosted blog (using porn)
+   Points: 114
+   Comments: 86
+   URL: https://github.com/vivienhenz24/fuzzy-canary
+
+17. How did IRC ping timeouts end up in a lawsuit?
+   Points: 120
+   Comments: 12
+   URL: https://mjg59.dreamwidth.org/73777.html
+
+18. FunctionGemma 270M Model
+   Points: 147
+   Comments: 39
+   URL: https://blog.google/technology/developers/functiongemma/
+
+19. The Scottish Highlands, the Appalachians, Atlas are the same mountain range
+   Points: 81
+   Comments: 21
+   URL: https://vividmaps.com/central-pangean-mountains/
+
+20. Meta Segment Anything Model Audio
+   Points: 135
+   Comments: 19
+   URL: https://ai.meta.com/samaudio/
+
