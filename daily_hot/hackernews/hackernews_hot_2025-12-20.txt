@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-20
+==================================================
+
+1. CSS Grid Lanes
+   Points: 197
+   Comments: 59
+   URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/
+
+2. Mistral OCR 3
+   Points: 361
+   Comments: 63
+   URL: https://mistral.ai/news/mistral-ocr-3
+
+3. Garage – An S3 object store so reliable you can run it outside datacenters
+   Points: 439
+   Comments: 90
+   URL: https://garagehq.deuxfleurs.fr/
+
+4. A Better Zip Bomb
+   Points: 70
+   Comments: 23
+   URL: https://www.bamsoftware.com/hacks/zipbomb/
+
+5. We ran Anthropic’s interviews through structured LLM analysis
+   Points: 37
+   Comments: 39
+   URL: https://www.playbookatlas.com/research/ai-adoption-explorer
+
+6. TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy
+   Points: 207
+   Comments: 60
+   URL: https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
+
+7. 8-bit Boléro
+   Points: 157
+   Comments: 27
+   URL: https://linusakesson.net/music/bolero/index.php
+
+8. Amazon will allow ePub and PDF downloads for DRM-free eBooks
+   Points: 524
+   Comments: 275
+   URL: https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US
+
+9. GotaTun – Mullvad's WireGuard Implementation in Rust
+   Points: 531
+   Comments: 110
+   URL: https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn
+
+10. Graphite is joining Cursor
+   Points: 164
+   Comments: 191
+   URL: https://cursor.com/blog/graphite
+
+11. Brown/MIT shooting suspect found dead, officials say
+   Points: 84
+   Comments: 86
+   URL: https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/
+
+12. Qwen-Image-Layered: transparency and layer aware open diffusion model
+   Points: 57
+   Comments: 7
+   URL: https://huggingface.co/papers/2512.15603
+
+13. NOAA deploys new generation of AI-driven global weather models
+   Points: 79
+   Comments: 51
+   URL: https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models
+
+14. Show HN: TinyPDF – 3kb pdf library (70x smaller than jsPDF)
+   Points: 104
+   Comments: 14
+   URL: https://github.com/Lulzx/tinypdf
+
+15. Performance Hints (2023)
+   Points: 44
+   Comments: 24
+   URL: https://abseil.io/fast/hints.html
+
+16. Rust's Block Pattern
+   Points: 105
+   Comments: 45
+   URL: https://notgull.net/block-pattern/
+
+17. The FreeBSD Foundation's Laptop Support and Usability Project
+   Points: 131
+   Comments: 42
+   URL: https://github.com/FreeBSDFoundation/proj-laptop
+
+18. Believe the Checkbook
+   Points: 114
+   Comments: 48
+   URL: https://robertgreiner.com/believe-the-checkbook/
+
+19. Man Made Troubles (1953) [video]
+   Points: 6
+   Comments: 0
+   URL: https://www.youtube.com/watch?v=AW-dvD2ZLZY
+
+20. Buteyko Method
+   Points: 29
+   Comments: 12
+   URL: https://en.wikipedia.org/wiki/Buteyko_method
+
