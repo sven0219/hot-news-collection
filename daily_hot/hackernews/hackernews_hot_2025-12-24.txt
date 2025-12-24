@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-24
+==================================================
+
+1. Fabrice Bellard Releases MicroQuickJS
+   Points: 745
+   Comments: 290
+   URL: https://github.com/bellard/mquickjs/blob/main/README.md
+
+2. X-ray: a Python library for finding bad redactions in PDF documents
+   Points: 139
+   Comments: 38
+   URL: https://github.com/freelawproject/x-ray
+
+3. Texas app store age verification law blocked by federal judge
+   Points: 97
+   Comments: 64
+   URL: https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/
+
+4. Is Northern Virginia Still the Least Reliable AWS Region?
+   Points: 32
+   Comments: 10
+   URL: https://statusgator.com/blog/aws-least-reliable-region-in-2025/
+
+5. Learn Lisp/Fennel Programming Against Neovim
+   Points: 14
+   Comments: 0
+   URL: https://github.com/humorless/fennel-fp-neovim
+
+6. Perfect Software – Software for an Audience of One
+   Points: 92
+   Comments: 31
+   URL: https://outofdesk.netlify.app/blog/perfect-software
+
+7. Lua 5.5
+   Points: 194
+   Comments: 51
+   URL: https://lua.org/versions.html#5.5
+
+8. We replaced H.264 streaming with JPEG screenshots (and it worked better)
+   Points: 309
+   Comments: 192
+   URL: https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen
+
+9. Terrence Malick's Disciples
+   Points: 68
+   Comments: 14
+   URL: https://yalereview.org/article/bilge-ebiri-terrence-malick
+
+10. Help My c64 caught on fire
+   Points: 64
+   Comments: 24
+   URL: https://c0de517e.com/026_c64fire.htm
+
+11. HTTP Caching, a Refresher
+   Points: 51
+   Comments: 5
+   URL: https://danburzo.ro/http-caching-refresher/
+
+12. Stronk.app – open-source gym lifts journal
+   Points: 8
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=46371139
+
+13. Adobe Photoshop 1.0 Source Code (1990)
+   Points: 416
+   Comments: 127
+   URL: https://computerhistory.org/blog/adobe-photoshop-source-code/
+
+14. Towards a secure peer-to-peer app platform for Clan
+   Points: 75
+   Comments: 16
+   URL: https://clan.lol/blog/towards-app-platform-vmtech/
+
+15. Instant database clones with PostgreSQL 18
+   Points: 376
+   Comments: 147
+   URL: https://boringsql.com/posts/instant-database-clones/
+
+16. Microspeak: North Star – The Old New Thing (2015)
+   Points: 15
+   Comments: 4
+   URL: https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861
+
+17. Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers
+   Points: 529
+   Comments: 283
+   URL: https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server
+
+18. Fifty problems with standard web APIs in 2025
+   Points: 61
+   Comments: 15
+   URL: https://zerotrickpony.com/articles/browser-bugs/
+
+19. Toad is a unified experience for AI in the terminal
+   Points: 146
+   Comments: 39
+   URL: https://willmcgugan.github.io/toad-released/
+
+20. Go-boot: bare metal Go UEFI boot manager
+   Points: 61
+   Comments: 19
+   URL: https://github.com/usbarmory/go-boot
+
