@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-26
+==================================================
+
+1. Maybe the default settings are too high
+   Points: 136
+   Comments: 27
+   URL: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/
+
+2. Memory Safety
+   Points: 35
+   Comments: 28
+   URL: https://www.memorysafety.org/
+
+3. Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster
+   Points: 312
+   Comments: 100
+   URL: https://fidget-spinner.github.io/posts/no-longer-sorry.html
+
+4. Fahrplan – 39C3
+   Points: 120
+   Comments: 11
+   URL: https://fahrplan.events.ccc.de/congress/2025/fahrplan/
+
+5. Paperbacks and TikTok
+   Points: 48
+   Comments: 20
+   URL: https://calnewport.com/on-paperbacks-and-tiktok/
+
+6. CUDA Tile Open Sourced
+   Points: 139
+   Comments: 37
+   URL: https://github.com/NVIDIA/cuda-tile
+
+7. The entire New Yorker archive is now digitized
+   Points: 319
+   Comments: 47
+   URL: https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized
+
+8. The Program 2025 annual review: How much money does an audio drama podcast make?
+   Points: 32
+   Comments: 12
+   URL: https://programaudioseries.com/the-program-results-7/
+
+9. Archiving Git branches as tags
+   Points: 72
+   Comments: 21
+   URL: https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/
+
+10. Asahi Linux with Sway on the MacBook Air M2 (2024)
+   Points: 171
+   Comments: 151
+   URL: https://daniel.lawrence.lu/blog/2024-12-01-asahi-linux-with-sway-on-the-macbook-air-m2/
+
+11. Show HN: Lamp Carousel – DIY kinetic sculpture powered by lamp heat (2024)
+   Points: 65
+   Comments: 12
+   URL: https://evan.widloski.com/posts/spinners/
+
+12. Dasharo TrustRoot Ephemeral Key Incident
+   Points: 11
+   Comments: 2
+   URL: https://blog.3mdeb.com/2025/2025-12-18-eom-key-issue/
+
+13. Choosing the Right Python Docker Image for Finance Workloads
+   Points: 5
+   Comments: 1
+   URL: https://jiripik.com/2025/12/19/choosing-the-right-python-docker-image-for-finance-workloads/
+
+14. I sell onions on the Internet (2019)
+   Points: 356
+   Comments: 106
+   URL: https://www.deepsouthventures.com/i-sell-onions-on-the-internet/
+
+15. Phoenix: A modern X server written from scratch in Zig
+   Points: 624
+   Comments: 374
+   URL: https://git.dec05eba.com/phoenix/about/
+
+16. Google is 'gradually rolling out' option to change your gmail.com address
+   Points: 82
+   Comments: 73
+   URL: https://9to5google.com/2025/12/24/google-change-gmail-addresses/
+
+17. Alzheimer’s disease can be reversed in animal models? Study
+   Points: 417
+   Comments: 104
+   URL: https://case.edu/news/new-study-shows-alzheimers-disease-can-be-reversed-achieve-full-neurological-recovery-not-just-prevented-or-slowed-animal-models
+
+18. Geometric Algorithms for Translucency Sorting in Minecraft [pdf]
+   Points: 30
+   Comments: 7
+   URL: https://douira.dev/assets/document/douira-master-thesis.pdf
+
+19. All I Want for Christmas Is Your Secrets: LangGrinch hits LangChain Core
+   Points: 65
+   Comments: 41
+   URL: https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/
+
+20. Tell HN: Merry Christmas
+   Points: 1874
+   Comments: 406
+   URL: https://news.ycombinator.com/item?id=46380168
+
