@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-27
+==================================================
+
+1. How uv got so fast
+   Points: 491
+   Comments: 169
+   URL: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
+
+2. Exe.dev/
+   Points: 40
+   Comments: 24
+   URL: https://exe.dev/
+
+3. The Best Things and Stuff of 2025
+   Points: 96
+   Comments: 10
+   URL: https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html
+
+4. Experts explore new mushroom which causes fairytale-like hallucinations
+   Points: 281
+   Comments: 127
+   URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
+
+5. Always Bet on Text
+   Points: 26
+   Comments: 8
+   URL: https://graydon2.dreamwidth.org/193447.html
+
+6. How Lewis Carroll computed determinants (2023)
+   Points: 132
+   Comments: 26
+   URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/
+
+7. Drawing with zero-width characters
+   Points: 57
+   Comments: 23
+   URL: https://zw.swerdlow.dev
+
+8. -tucky (2023)
+   Points: 19
+   Comments: 15
+   URL: https://languagelog.ldc.upenn.edu/nll/?p=58650
+
+9. Package managers keep using Git as a database, it never works out
+   Points: 563
+   Comments: 319
+   URL: https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
+
+10. Show HN: Witr – Explain why a process is running on your Linux system
+   Points: 174
+   Comments: 24
+   URL: https://github.com/pranshuparmar/witr
+
+11. Parasites plagued Roman soldiers at Hadrian's Wall
+   Points: 36
+   Comments: 22
+   URL: https://arstechnica.com/science/2025/12/study-roman-soldiers-battled-parasites-at-hadrians-wall/
+
+12. LearnixOS
+   Points: 193
+   Comments: 72
+   URL: https://www.learnix-os.com
+
+13. My insulin pump controller uses the Linux kernel. It also violates the GPL
+   Points: 291
+   Comments: 110
+   URL: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/
+
+14. Perfect Aircrete, Kitchen Ingredients [video]
+   Points: 70
+   Comments: 22
+   URL: https://www.youtube.com/watch?v=z4_GxPHwqkA
+
+15. Gaussian Splatting 3 Ways
+   Points: 44
+   Comments: 3
+   URL: https://github.com/NullandKale/NullSplats
+
+16. FFmpeg has issued a DMCA takedown on GitHub
+   Points: 367
+   Comments: 108
+   URL: https://twitter.com/FFmpeg/status/2004599109559496984
+
+17. Ask HN: What did you read in 2025?
+   Points: 145
+   Comments: 189
+   URL: https://news.ycombinator.com/item?id=46391572
+
+18. MongoBleed
+   Points: 51
+   Comments: 7
+   URL: https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py
+
+19. Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines
+   Points: 85
+   Comments: 16
+   URL: https://github.com/valdanylchuk/xcc700
+
+20. Grok and the Naked King: The Ultimate Argument Against AI Alignment
+   Points: 52
+   Comments: 25
+   URL: https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/
+
