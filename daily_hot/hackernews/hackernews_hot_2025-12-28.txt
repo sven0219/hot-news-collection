@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-28
+==================================================
+
+1. How we lost communication to entertainment
+   Points: 249
+   Comments: 126
+   URL: https://ploum.net/2025-12-15-communication-entertainment.html
+
+2. Floor796
+   Points: 515
+   Comments: 68
+   URL: https://floor796.com/
+
+3. Gpg.fail
+   Points: 267
+   Comments: 137
+   URL: https://gpg.fail
+
+4. Project Vend: Phase Two
+   Points: 41
+   Comments: 11
+   URL: https://www.anthropic.com/research/project-vend-2
+
+5. Text rendering hates you
+   Points: 60
+   Comments: 16
+   URL: https://faultlore.com/blah/text-hates-you/
+
+6. Show HN: Waycore – an open-source, offline-first modular field computer
+   Points: 22
+   Comments: 11
+   URL: https://news.ycombinator.com/item?id=46406486
+
+7. Rainbow Six Siege hacked as players get billions of credits and random bans
+   Points: 74
+   Comments: 23
+   URL: https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/
+
+8. Windows 2 for the Apricot PC/Xi
+   Points: 87
+   Comments: 20
+   URL: https://www.ninakalinina.com/notes/win2apri/
+
+9. Clock synchronization is a nightmare
+   Points: 115
+   Comments: 65
+   URL: https://arpitbhayani.me/blogs/clock-sync-nightmare/
+
+10. Nvidia's $20B antitrust loophole
+   Points: 318
+   Comments: 113
+   URL: https://ossa-ma.github.io/blog/groq
+
+11. Janet Jackson had the power to crash laptop computers (2022)
+   Points: 221
+   Comments: 89
+   URL: https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994
+
+12. Show HN: Ez FFmpeg – Video editing in plain English
+   Points: 333
+   Comments: 159
+   URL: http://npmjs.com/package/ezff
+
+13. The Dangers of SSL Certificates
+   Points: 17
+   Comments: 23
+   URL: https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/
+
+14. Rust the Process
+   Points: 14
+   Comments: 2
+   URL: https://www.amalbansode.com/writing/2025-12-24-rust-the-process/
+
+15. An ounce of silver is now worth more than a barrel of oil
+   Points: 67
+   Comments: 57
+   URL: https://www.wsj.com/finance/commodities-futures/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-196e149e
+
+16. Toll roads are spreading in America
+   Points: 115
+   Comments: 332
+   URL: https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america
+
+17. OrangePi 6 Plus Review
+   Points: 129
+   Comments: 106
+   URL: https://boilingsteam.com/orange-pi-6-plus-review/
+
+18. Pfizer ended up passing on my GLP-1 work back in the early '90s (2024)
+   Points: 44
+   Comments: 20
+   URL: https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/
+
+19. immer – a library of persistent and immutable data structures written in C++
+   Points: 5
+   Comments: 1
+   URL: https://github.com/arximboldi/immer
+
+20. They made me an offer I couldn't refuse (1997)
+   Points: 33
+   Comments: 21
+   URL: https://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/
+
