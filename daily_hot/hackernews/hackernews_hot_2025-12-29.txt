@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-29
+==================================================
+
+1. What an unprocessed photo looks like
+   Points: 342
+   Comments: 87
+   URL: https://maurycyz.com/misc/raw_photo/
+
+2. Show HN: My app just won best iOS Japanese learning tool of 2025 award
+   Points: 23
+   Comments: 1
+   URL: https://skerritt.blog/best-japanese-learning-tools-2025-award-show/
+
+3. Stepping down as Mockito maintainer after 10 years
+   Points: 192
+   Comments: 90
+   URL: https://github.com/mockito/mockito/issues/3777
+
+4. Unity's Mono problem: Why your C# code runs slower than it should
+   Points: 84
+   Comments: 32
+   URL: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/
+
+5. 62 years in the making: NYC's newest water tunnel nears the finish line
+   Points: 37
+   Comments: 10
+   URL: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-
+
+6. Spherical Cow
+   Points: 24
+   Comments: 1
+   URL: https://lib.rs/crates/spherical-cow
+
+7. MongoBleed Explained Simply
+   Points: 76
+   Comments: 17
+   URL: https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply
+
+8. PySDR: A Guide to SDR and DSP Using Python
+   Points: 92
+   Comments: 6
+   URL: https://pysdr.org/content/intro.html
+
+9. Slaughtering Competition Problems with Quantifier Elimination
+   Points: 15
+   Comments: 0
+   URL: https://grossack.site/2021/12/22/qe-competition.html
+
+10. Researchers Discover Molecular Difference in Autistic Brains
+   Points: 30
+   Comments: 7
+   URL: https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/
+
+11. Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert
+   Points: 677
+   Comments: 295
+   URL: https://substack.com/inbox/post/182743659
+
+12. Why I Disappeared – My week with minimal internet in a remote island chain
+   Points: 28
+   Comments: 1
+   URL: https://www.kenklippenstein.com/p/why-i-disappeared
+
+13. Time in C++: Inter-Clock Conversions, Epochs, and Durations
+   Points: 20
+   Comments: 3
+   URL: https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions
+
+14. Remembering Lou Gerstner
+   Points: 62
+   Comments: 28
+   URL: https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner
+
+15. Building a macOS app to know when my Mac is thermal throttling
+   Points: 223
+   Comments: 98
+   URL: https://stanislas.blog/2025/12/macos-thermal-throttling-app/
+
+16. CEOs are hugely expensive. Why not automate them?
+   Points: 149
+   Comments: 117
+   URL: https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots
+
+17. Dolphin Progress Report: Release 2512
+   Points: 69
+   Comments: 5
+   URL: https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/
+
+18. Doublespeak: In-Context Representation Hijacking
+   Points: 45
+   Comments: 5
+   URL: https://mentaleap.ai/doublespeak/
+
+19. Intermission: Battle Pulses
+   Points: 6
+   Comments: 0
+   URL: https://acoup.blog/2025/12/18/intermission-battle-pulses/
+
+20. Learn computer graphics from scratch and for free
+   Points: 168
+   Comments: 22
+   URL: https://www.scratchapixel.com
+
