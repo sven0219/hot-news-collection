@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-30
+==================================================
+
+1. Google is dead. Where do we go now?
+   Points: 436
+   Comments: 418
+   URL: https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/
+
+2. Show HN: Stop Claude Code from forgetting everything
+   Points: 58
+   Comments: 61
+   URL: https://github.com/mutable-state-inc/ensue-skill
+
+3. Stranger Things Creator Says Turn Off "Garbage" Settings
+   Points: 21
+   Comments: 6
+   URL: https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/
+
+4. MongoDB Server Security Update, December 2025
+   Points: 9
+   Comments: 1
+   URL: https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025
+
+5. Geology of the Gulf of the Farallones National Marine Sanctuary
+   Points: 21
+   Comments: 8
+   URL: https://pubs.usgs.gov/fs/farallones/
+
+6. Parsing Advances
+   Points: 22
+   Comments: 0
+   URL: https://matklad.github.io/2025/12/28/parsing-advances.html
+
+7. Static Allocation with Zig
+   Points: 154
+   Comments: 78
+   URL: https://nickmonad.blog/2025/static-allocation-with-zig-kv/
+
+8. When someone says they hate your product
+   Points: 82
+   Comments: 66
+   URL: https://www.getflack.com/p/responding-to-negative-feedback
+
+9. Flame Graphs vs Tree Maps vs Sunburst (2017)
+   Points: 97
+   Comments: 23
+   URL: https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html
+
+10. List of domains censored by German ISPs
+   Points: 281
+   Comments: 111
+   URL: https://cuiiliste.de/domains
+
+11. Vitest Browser Mode Guide
+   Points: 9
+   Comments: 0
+   URL: https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info
+
+12. All Delisted Steam Games
+   Points: 176
+   Comments: 72
+   URL: https://delistedgames.com/all-delisted-steam-games/
+
+13. Kidnapped by Deutsche Bahn
+   Points: 916
+   Comments: 830
+   URL: https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/
+
+14. A production bug that made me care about undefined behavior
+   Points: 94
+   Comments: 57
+   URL: https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html
+
+15. ManusAI Joins Meta
+   Points: 99
+   Comments: 54
+   URL: https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation
+
+16. Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting
+   Points: 60
+   Comments: 31
+   URL: https://github.com/Sakura-sx/Aroma
+
+17. Intelligence – A Mystery Investigation Game
+   Points: 11
+   Comments: 0
+   URL: https://intelligencegame.tech/
+
+18. Donald Knuth's Annual Christmas Lecture 2025 – Adventures with Knight's Tours
+   Points: 11
+   Comments: 1
+   URL: https://www.youtube.com/watch?v=MKiRte-tnMY
+
+19. Lead-Free Organic–Inorganic Halobismuthate for Large Piezoelectric Effect
+   Points: 8
+   Comments: 3
+   URL: https://pubs.acs.org/doi/10.1021/jacs.5c15484
+
+20. Which Humans? (2023)
+   Points: 31
+   Comments: 14
+   URL: https://osf.io/preprints/psyarxiv/5b26t_v1
+
