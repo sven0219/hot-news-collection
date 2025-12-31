@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2025-12-31
+==================================================
+
+1. FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service
+   Points: 203
+   Comments: 47
+   URL: https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/
+
+2. A faster heart for F-Droid. Our new server is here
+   Points: 227
+   Comments: 94
+   URL: https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html
+
+3. Project ideas to appreciate the art of programming
+   Points: 68
+   Comments: 18
+   URL: https://codecrafters.io/blog/programming-project-ideas
+
+4. Show HN: 22 GB of Hacker News in SQLite
+   Points: 290
+   Comments: 91
+   URL: https://hackerbook.dosaygo.com
+
+5. A Vulnerability in Libsodium
+   Points: 185
+   Comments: 19
+   URL: https://00f.net/2025/12/30/libsodium-vulnerability/
+
+6. Electrolysis can solve one of our biggest contamination problems
+   Points: 115
+   Comments: 21
+   URL: https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html
+
+7. Honey's Dieselgate: Detecting and tricking testers
+   Points: 81
+   Comments: 17
+   URL: https://vptdigital.com/blog/honey-detecting-testers/
+
+8. Sabotaging Bitcoin
+   Points: 53
+   Comments: 28
+   URL: https://blog.dshr.org/2025/12/sabotaging-bitcoin.html
+
+9. OpenAI's cash burn will be one of the big bubble questions of 2026
+   Points: 123
+   Comments: 152
+   URL: https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026
+
+10. Toro: Deploy Applications as Unikernels
+   Points: 116
+   Comments: 102
+   URL: https://github.com/torokernel/torokernel
+
+11. Loss32: Let's Build a Win32/Linux
+   Points: 192
+   Comments: 292
+   URL: https://loss32.org/
+
+12. Zpdf: PDF text extraction in Zig – 5x faster than MuPDF
+   Points: 99
+   Comments: 42
+   URL: https://github.com/Lulzx/zpdf
+
+13. Reverse Engineering a Mysterious UDP Stream in My Hotel (2016)
+   Points: 163
+   Comments: 22
+   URL: https://www.gkbrk.com/hotel-music
+
+14. Professional software developers don't vibe, they control
+   Points: 101
+   Comments: 138
+   URL: https://arxiv.org/abs/2512.14012
+
+15. Non-Zero-Sum Games
+   Points: 317
+   Comments: 163
+   URL: https://nonzerosum.games/
+
+16. Everything as code: How we manage our company in one monorepo
+   Points: 164
+   Comments: 159
+   URL: https://www.kasava.dev/blog/everything-as-code-monorepo
+
+17. Mitsubishi Diatone D-160 (1985)
+   Points: 9
+   Comments: 3
+   URL: https://audio-database.com/MITSUBISHI-DIATONE/diatonesp/d-160-e.html
+
+18. The British empire's resilient subsea telegraph network
+   Points: 156
+   Comments: 40
+   URL: https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html
+
+19. Escaping containment: A security analysis of FreeBSD jails [video]
+   Points: 35
+   Comments: 0
+   URL: https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails
+
+20. Approachable Swift Concurrency
+   Points: 157
+   Comments: 68
+   URL: https://fuckingapproachableswiftconcurrency.com/en/
+
