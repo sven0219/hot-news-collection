@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-01
+==================================================
+
+1. The Delete Act
+   Points: 55
+   Comments: 24
+   URL: https://privacy.ca.gov/drop/about-drop-and-the-delete-act/
+
+2. Warren Buffett steps down as Berkshire Hathaway CEO after six decades
+   Points: 306
+   Comments: 160
+   URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades
+
+3. Scientists unlock brain's natural clean-up system for new treatments for stroke
+   Points: 36
+   Comments: 2
+   URL: https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases
+
+4. Resistance training load does not determine hypertrophy
+   Points: 44
+   Comments: 30
+   URL: https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684
+
+5. I canceled my book deal
+   Points: 313
+   Comments: 213
+   URL: https://austinhenley.com/blog/canceledbookdeal.html
+
+6. GoGoGrandparent (YC S16) Is Hiring Tech Leads
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads
+
+7. 2025: The Year in LLMs
+   Points: 14
+   Comments: 1
+   URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/
+
+8. All-optical synthesis chip for large-scale intelligent semantic vision
+   Points: 49
+   Comments: 9
+   URL: https://www.science.org/doi/10.1126/science.adv7434
+
+9. Observed Agent Sandbox Bypasses
+   Points: 21
+   Comments: 10
+   URL: https://voratiq.com/blog/yolo-in-the-sandbox/
+
+10. Demystifying DVDs
+   Points: 95
+   Comments: 8
+   URL: https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs
+
+11. Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring
+   Points: 4
+   Comments: 0
+   URL: https://bustermq.sh/
+
+12. My role as a founder-CTO: year 8
+   Points: 88
+   Comments: 81
+   URL: https://miguelcarranza.es/cto-year-8
+
+13. Ÿnsect, a French insect farming startup, has been been placed into liquidation
+   Points: 60
+   Comments: 59
+   URL: https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/
+
+14. PyPI in 2025: A Year in Review
+   Points: 37
+   Comments: 5
+   URL: https://blog.pypi.org/posts/2025-12-31-pypi-2025-in-review/
+
+15. Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris
+   Points: 113
+   Comments: 27
+   URL: https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/
+
+16. Akin's Laws of Spacecraft Design (2011) [pdf]
+   Points: 257
+   Comments: 77
+   URL: https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf
+
+17. When square pixels aren't square
+   Points: 106
+   Comments: 49
+   URL: https://alexwlchan.net/2025/square-pixels/
+
+18. Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.
+   Points: 292
+   Comments: 107
+   URL: https://exopriors.com/scry
+
+19. Microtonal Spiral Piano
+   Points: 67
+   Comments: 13
+   URL: https://shih1.github.io/spiral/
+
+20. The most famous transcendental numbers
+   Points: 138
+   Comments: 77
+   URL: https://sprott.physics.wisc.edu/pickover/trans.html
+
