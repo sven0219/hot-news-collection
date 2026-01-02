@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-02
+==================================================
+
+1. A website to destroy all websites
+   Points: 277
+   Comments: 164
+   URL: https://henry.codes/writing/a-website-to-destroy-all-websites/
+
+2. Can Bundler be as fast as uv?
+   Points: 113
+   Comments: 46
+   URL: https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/
+
+3. Finland detains ship and its crew after critical undersea cable damaged
+   Points: 230
+   Comments: 183
+   URL: https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl
+
+4. Cameras and Lenses (2020)
+   Points: 334
+   Comments: 40
+   URL: https://ciechanow.ski/cameras-and-lenses/
+
+5. Linux is good now
+   Points: 410
+   Comments: 344
+   URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/
+
+6. WebAssembly as a Python Extension Platform
+   Points: 22
+   Comments: 0
+   URL: https://nullprogram.com/blog/2026/01/01/
+
+7. Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust
+   Points: 359
+   Comments: 112
+   URL: https://openworkers.com/introducing-openworkers
+
+8. Dell's version of the DGX Spark fixes pain points
+   Points: 84
+   Comments: 29
+   URL: https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points
+
+9. BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal
+   Points: 157
+   Comments: 231
+   URL: https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal
+
+10. Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt
+   Points: 16
+   Comments: 3
+   URL: https://enroll.sh
+
+11. Python numbers every programmer should know
+   Points: 269
+   Comments: 122
+   URL: https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/
+
+12. 2025 Letter
+   Points: 242
+   Comments: 148
+   URL: https://danwang.co/2025-letter/
+
+13. Straussian Memes
+   Points: 15
+   Comments: 21
+   URL: https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion
+
+14. Bluetooth Headphone Jacking: A Key to Your Phone [video]
+   Points: 421
+   Comments: 139
+   URL: https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone
+
+15. Moving Images Related to the Apollo Missions, 1967–1969
+   Points: 27
+   Comments: 2
+   URL: https://catalog.archives.gov/id/133360601
+
+16. Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs
+   Points: 106
+   Comments: 19
+   URL: https://github.com/quickemu-project/quickemu
+
+17. 50% of U.S. vinyl buyers don't own a record player
+   Points: 95
+   Comments: 123
+   URL: https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752
+
+18. I rebooted my social life
+   Points: 329
+   Comments: 270
+   URL: https://takes.jamesomalley.co.uk/p/this-might-be-oversharing
+
+19. C-events, yet another event loop, simpler, smaller, faster, safer
+   Points: 54
+   Comments: 11
+   URL: https://zelang-dev.github.io/c-events/
+
+20. iOS allows alternative browser engines in Japan
+   Points: 345
+   Comments: 288
+   URL: https://developer.apple.com/support/alternative-browser-engines-jp/
+
