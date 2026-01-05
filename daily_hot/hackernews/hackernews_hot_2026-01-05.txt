@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-05
+==================================================
+
+1. Show HN: Terminal UI for AWS
+   Points: 169
+   Comments: 79
+   URL: https://github.com/huseyinbabal/taws
+
+2. Why does a least squares fit appear to have a bias when applied to simple data?
+   Points: 112
+   Comments: 22
+   URL: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
+
+3. Lessons from 14 Years at Google
+   Points: 772
+   Comments: 362
+   URL: https://addyosmani.com/blog/21-lessons/
+
+4. Eurostar AI vulnerability: When a chatbot goes off the rails
+   Points: 81
+   Comments: 21
+   URL: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
+
+5. Linear Address Spaces: Unsafe at any speed (2022)
+   Points: 109
+   Comments: 64
+   URL: https://queue.acm.org/detail.cfm?id=3534854
+
+6. The Unbearable Joy of Sitting Alone in a Café
+   Points: 409
+   Comments: 245
+   URL: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
+
+7. Street Fighter II, the World Warrier (2021)
+   Points: 299
+   Comments: 46
+   URL: https://fabiensanglard.net/sf2_warrier/
+
+8. Ripple, a puzzle game about 2nd and 3rd order effects
+   Points: 71
+   Comments: 12
+   URL: https://ripplegame.app/
+
+9. The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)
+   Points: 81
+   Comments: 45
+   URL: https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/
+
+10. Millennium Challenge: A corrupted military exercise and its legacy (2015)
+   Points: 6
+   Comments: 0
+   URL: https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/
+
+11. Web development is fun again
+   Points: 263
+   Comments: 340
+   URL: https://ma.ttias.be/web-development-is-fun-again/
+
+12. Ask HN: In the real world we pay for everything so why not software?
+   Points: 9
+   Comments: 30
+   URL: https://news.ycombinator.com/item?id=46423175
+
+13. Server-rendered multiplayer games with Lua (no client code)
+   Points: 48
+   Comments: 26
+   URL: https://cleoselene.com/
+
+14. Show HN: An interactive guide to how browsers work
+   Points: 165
+   Comments: 27
+   URL: https://howbrowserswork.com/
+
+15. Six Harmless Bugs Lead to Remote Code Execution
+   Points: 11
+   Comments: 1
+   URL: https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
+
+16. Stop Forwarding Errors, Start Designing Them
+   Points: 66
+   Comments: 42
+   URL: https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/
+
+17. Claude Code On-the-Go
+   Points: 195
+   Comments: 134
+   URL: https://granda.org/en/2026/01/02/claude-code-on-the-go/
+
+18. Agentic Patterns
+   Points: 58
+   Comments: 2
+   URL: https://github.com/nibzard/awesome-agentic-patterns
+
+19. OpenGitOps
+   Points: 29
+   Comments: 25
+   URL: https://opengitops.dev/
+
+20. Show HN: An LLM-Powered PCB Schematic Checker (Major Update)
+   Points: 24
+   Comments: 8
+   URL: https://traceformer.io/
+
