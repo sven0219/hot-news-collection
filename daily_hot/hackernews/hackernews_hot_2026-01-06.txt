@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-06
+==================================================
+
+1. There were BGP anomalies during the Venezuela blackout
+   Points: 418
+   Comments: 215
+   URL: https://loworbitsecurity.com/radar/radar16/
+
+2. Worlds's first all-solid-state battery ready to power up production vehicles now
+   Points: 81
+   Comments: 44
+   URL: https://www.donutlab.com/ces-battery-announcement/
+
+3. Six-decade math puzzle solved by Korean mathematician
+   Points: 48
+   Comments: 6
+   URL: https://www.koreaherald.com/article/10648326
+
+4. Try to take my position: The best promotion advice I ever got
+   Points: 236
+   Comments: 123
+   URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/
+
+5. Strange.website
+   Points: 22
+   Comments: 0
+   URL: https://strange.website/
+
+6. Adding insular script like it's 1626
+   Points: 30
+   Comments: 0
+   URL: https://www.djmurphy.net/blog/clo-gaelach/
+
+7. Google broke my heart
+   Points: 230
+   Comments: 99
+   URL: https://perishablepress.com/google-broke-my-heart/
+
+8. The Lottery Ticket Hypothesis: finding sparse trainable NNs with 90% less params
+   Points: 40
+   Comments: 5
+   URL: https://arxiv.org/abs/1803.03635
+
+9. Show HN: Tailsnitch – A security auditor for Tailscale
+   Points: 201
+   Comments: 19
+   URL: https://github.com/Adversis/tailsnitch
+
+10. It's hard to justify Tahoe icons
+   Points: 2152
+   Comments: 839
+   URL: https://tonsky.me/blog/tahoe-icons/
+
+11. Brave overhauled its Rust adblock engine with FlatBuffers, cutting memory 75%
+   Points: 168
+   Comments: 71
+   URL: https://brave.com/privacy-updates/36-adblock-memory-reduction/
+
+12. Keeping Syria connected during war: Surviving ISIS and Intelligence
+   Points: 30
+   Comments: 6
+   URL: https://syriauntold.com/2025/12/27/keeping-syria-connected-during-war/
+
+13. Show HN: DoNotNotify – log and intelligently block notifications on Android
+   Points: 274
+   Comments: 116
+   URL: https://donotnotify.com/
+
+14. Pipe Dreams – The life and times of Yahoo Pipes (2023)
+   Points: 88
+   Comments: 19
+   URL: https://retool.com/pipes
+
+15. Migrating cells and the new science of microchimerism
+   Points: 18
+   Comments: 0
+   URL: https://www.nature.com/articles/d41586-025-04102-4
+
+16. I switched from VSCode to Zed
+   Points: 240
+   Comments: 240
+   URL: https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/
+
+17. Sega co-founder David Rosen has died
+   Points: 170
+   Comments: 23
+   URL: https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies
+
+18. What to Do When the Trisector Comes (1983) [pdf]
+   Points: 23
+   Comments: 2
+   URL: https://www.ufv.ca/media/faculty/gregschlitt/information/WhatToDoWhenTrisectorComes.pdf
+
+19. Pebble Round 2
+   Points: 313
+   Comments: 145
+   URL: https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever
+
+20. Welcome to Gas Town
+   Points: 157
+   Comments: 53
+   URL: https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04
+
