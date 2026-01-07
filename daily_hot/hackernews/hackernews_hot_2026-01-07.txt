@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-07
+==================================================
+
+1. Spherical Snake
+   Points: 454
+   Comments: 99
+   URL: https://kevinalbs.com/spherical_snake/
+
+2. Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone
+   Points: 232
+   Comments: 192
+   URL: https://github.com/rberg27/doom-coding
+
+3. Oral microbiome sequencing after taking probiotics
+   Points: 84
+   Comments: 27
+   URL: https://blog.booleanbiotech.com/oral-microbiome-biogaia
+
+4. Calling All Hackers: How money works (2024)
+   Points: 132
+   Comments: 48
+   URL: https://phrack.org/issues/71/17
+
+5. A 30B Qwen model walks into a Raspberry Pi and runs in real time
+   Points: 72
+   Comments: 22
+   URL: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
+
+6. Opus 4.5 is not the normal AI agent experience that I have had thus far
+   Points: 288
+   Comments: 398
+   URL: https://burkeholland.github.io/posts/opus-4-5-change-everything/
+
+7. Comparing AI agents to cybersecurity professionals in real-world pen testing
+   Points: 59
+   Comments: 34
+   URL: https://arxiv.org/abs/2512.09882
+
+8. Vietnam bans unskippable ads
+   Points: 1037
+   Comments: 569
+   URL: https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds
+
+9. CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs
+   Points: 47
+   Comments: 32
+   URL: https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds
+
+10. Space Forge plans to manufacture semiconductors from space
+   Points: 7
+   Comments: 1
+   URL: https://www.scientificamerican.com/article/the-push-to-make-semiconductors-in-space-just-took-a-serious-leap-forward/
+
+11. Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]
+   Points: 9
+   Comments: 2
+   URL: https://www.youtube.com/watch?v=9e0SQn9uUlw
+
+12. Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth
+
+13. Why the trans flag emoji is the 5-codepoint sequence it is
+   Points: 26
+   Comments: 0
+   URL: https://hecate.pink/blog/2026/trans-flag-emoji/
+
+14. Locating a Photo of a Vehicle in 30 Seconds with GeoSpy
+   Points: 85
+   Comments: 86
+   URL: https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy
+
+15. Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion
+   Points: 16
+   Comments: 1
+   URL: https://github.com/tdortman/cuckoo-filter
+
+16. Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery
+   Points: 48
+   Comments: 14
+   URL: https://news.ycombinator.com/item?id=46515777
+
+17. Vulnerability in Ruby that has existed since 2002
+   Points: 9
+   Comments: 0
+   URL: https://nastystereo.com/security/ruby-pack.html
+
+18. Building a rain predictor on a C64 with 1985's "XPER," expert system software
+   Points: 11
+   Comments: 3
+   URL: https://stonetools.ghost.io/xper-c64/
+
+19. High-Performance DBMSs with io_uring: When and How to use it
+   Points: 76
+   Comments: 15
+   URL: https://arxiv.org/abs/2512.04859
+
+20. Are we tired of social media once and for all? On the downfall of social media
+   Points: 23
+   Comments: 12
+   URL: https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all
+
