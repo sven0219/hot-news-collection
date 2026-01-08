@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-08
+==================================================
+
+1. Tailscale state file encryption no longer enabled by default
+   Points: 189
+   Comments: 82
+   URL: https://tailscale.com/changelog
+
+2. Sugar industry influenced researchers and blamed fat for CVD (2016)
+   Points: 627
+   Comments: 381
+   URL: https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus
+
+3. Eat Real Food
+   Points: 469
+   Comments: 764
+   URL: https://realfood.gov
+
+4. Shipmap.org
+   Points: 439
+   Comments: 74
+   URL: https://www.shipmap.org/
+
+5. Notion AI: Unpatched data exfiltration
+   Points: 90
+   Comments: 10
+   URL: https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration
+
+6. NPM to implement staged publishing after turbulent shift off classic tokens
+   Points: 122
+   Comments: 22
+   URL: https://socket.dev/blog/npm-to-implement-staged-publishing
+
+7. The Q, K, V Matrices
+   Points: 13
+   Comments: 2
+   URL: https://arpitbhayani.me/blogs/qkv-matrices/
+
+8. US will ban Wall Street investors from buying single-family homes
+   Points: 547
+   Comments: 589
+   URL: https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/
+
+9. LaTeX Coffee Stains (2021) [pdf]
+   Points: 275
+   Comments: 64
+   URL: https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf
+
+10. Health care data breach affects over 600k patients, Illinois agency says
+   Points: 150
+   Comments: 52
+   URL: https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says
+
+11. Play Aardwolf MUD
+   Points: 20
+   Comments: 4
+   URL: https://www.aardwolf.com/
+
+12. We found cryptography bugs in the elliptic library using Wycheproof
+   Points: 48
+   Comments: 4
+   URL: https://blog.trailofbits.com/2025/11/18/we-found-cryptography-bugs-in-the-elliptic-library-using-wycheproof/
+
+13. Native Amiga Filesystems on macOS / Linux / Windows with FUSE
+   Points: 69
+   Comments: 29
+   URL: https://github.com/reinauer/amifuse
+
+14. LMArena is a cancer on AI
+   Points: 150
+   Comments: 60
+   URL: https://surgehq.ai/blog/lmarena-is-a-plague-on-ai
+
+15. Creators of Tailwind laid off 75% of their engineering team
+   Points: 912
+   Comments: 569
+   URL: https://github.com/tailwindlabs/tailwindcss.com/pull/2388
+
+16. ICE Is Going on a Surveillance Shopping Spree
+   Points: 78
+   Comments: 12
+   URL: https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree
+
+17. A4 Paper Stories
+   Points: 285
+   Comments: 142
+   URL: https://susam.net/a4-paper-stories.html
+
+18. Michel Siffre’s self-experiments in a cave with no light (2018)
+   Points: 37
+   Comments: 5
+   URL: https://www.newscientist.com/article/mg23931900-400-this-man-spent-months-alone-underground-and-it-warped-his-mind/
+
+19. What *is* code? (2015)
+   Points: 113
+   Comments: 46
+   URL: https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+20. Many hells of WebDAV
+   Points: 120
+   Comments: 62
+   URL: https://candid.dev/blog/many-hells-of-webdav
+
