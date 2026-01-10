@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-10
+==================================================
+
+1. "Erdos problem #728 was solved more or less autonomously by AI"
+   Points: 163
+   Comments: 110
+   URL: https://mathstodon.xyz/@tao/115855840223258103
+
+2. JavaScript Demos in 140 Characters
+   Points: 163
+   Comments: 35
+   URL: https://beta.dwitter.net
+
+3. RTX 5090 and Raspberry Pi: Can It Game?
+   Points: 122
+   Comments: 60
+   URL: https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/
+
+4. Caltrain shows why every region should be moving toward regional rail
+   Points: 19
+   Comments: 8
+   URL: https://www.hsrail.org/blog/caltrain-shows-why-every-region-should-be-moving-toward-regional-rail/
+
+5. Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times
+   Points: 158
+   Comments: 52
+   URL: https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure
+
+6. Scientists discover oldest poison, on 60k-year-old arrows
+   Points: 85
+   Comments: 25
+   URL: https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html
+
+7. How will the miracle happen today?
+   Points: 326
+   Comments: 180
+   URL: https://kk.org/thetechnium/how-will-the-miracle-happen-today/
+
+8. See it with your lying ears
+   Points: 10
+   Comments: 0
+   URL: https://lcamtuf.substack.com/p/see-it-with-your-lying-ears
+
+9. The (likely?) cheapest home-made Michelson interferometer
+   Points: 76
+   Comments: 37
+   URL: https://guille.site/posts/3d-printed-michelson/
+
+10. How Markdown took over the world
+   Points: 120
+   Comments: 74
+   URL: https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/
+
+11. QtNat – Open you port with Qt UPnP
+   Points: 37
+   Comments: 22
+   URL: http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/
+
+12. Show HN: Scroll Wikipedia like TikTok
+   Points: 127
+   Comments: 31
+   URL: https://quack.sdan.io
+
+13. Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)
+   Points: 56
+   Comments: 33
+   URL: https://github.com/Hiepler/EuConform
+
+14. Washington National Opera Is Leaving the Kennedy Center
+   Points: 32
+   Comments: 3
+   URL: https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html
+
+15. Ragdoll Mayhem Maker – a physics-based level editor for my indie game
+   Points: 14
+   Comments: 5
+   URL: https://ragdollmayhemmaker.com/
+
+16. Show HN: I made a memory game to teach you to play piano by ear
+   Points: 388
+   Comments: 139
+   URL: https://lend-me-your-ears.specr.net
+
+17. Show HN: Rocket Launch and Orbit Simulator
+   Points: 81
+   Comments: 26
+   URL: https://www.donutthejedi.com/
+
+18. Turn a single image into a navigable 3D Gaussian Splat with depth
+   Points: 50
+   Comments: 35
+   URL: https://lab.revelium.studio/ml-sharp
+
+19. Amiga Pointer Archive
+   Points: 36
+   Comments: 16
+   URL: https://heckmeck.de/pointers/
+
+20. Replit (YC W18) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://jobs.ashbyhq.com/replit
+
