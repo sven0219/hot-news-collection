@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-11
+==================================================
+
+1. Private equity firms acquired more than 500 autism centers in past decade: study
+   Points: 103
+   Comments: 48
+   URL: https://www.brown.edu/news/2026-01-07/private-equity-autism-centers
+
+2. Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more
+   Points: 21
+   Comments: 8
+   URL: https://news.ycombinator.com/item?id=46571149
+
+3. Show HN: I used Claude Code to discover connections between 100 books
+   Points: 194
+   Comments: 68
+   URL: https://trails.pieterma.es/
+
+4. Finding and fixing Ghostty's largest memory leak
+   Points: 203
+   Comments: 46
+   URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
+
+5. Open Chaos: A self-evolving open-source project
+   Points: 299
+   Comments: 62
+   URL: https://www.openchaos.dev/
+
+6. Overdose deaths are falling in America because of a 'supply shock': study
+   Points: 59
+   Comments: 36
+   URL: https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america
+
+7. Show HN: Play poker with LLMs, or watch them play against each other
+   Points: 51
+   Comments: 30
+   URL: https://llmholdem.com/
+
+8. AI is a business model stress test
+   Points: 147
+   Comments: 185
+   URL: https://dri.es/ai-is-a-business-model-stress-test
+
+9. Eulogy for Dark Sky, a data visualization masterpiece (2023)
+   Points: 363
+   Comments: 156
+   URL: https://nightingaledvs.com/dark-sky-weather-data-viz/
+
+10. Code and Let Live
+   Points: 201
+   Comments: 67
+   URL: https://fly.io/blog/code-and-let-live/
+
+11. Show HN: GlyphLang – An AI-first programming language
+   Points: 12
+   Comments: 7
+   URL: https://news.ycombinator.com/item?id=46571166
+
+12. Code Is Clay
+   Points: 23
+   Comments: 10
+   URL: https://campedersen.com/code-is-clay
+
+13. 1970 Paris, cut into a grid and photographed
+   Points: 13
+   Comments: 4
+   URL: https://paris1970.jeantho.eu/index.html
+
+14. Rats caught on camera hunting flying bats
+   Points: 70
+   Comments: 8
+   URL: https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/
+
+15. ASCII-Driven Development
+   Points: 87
+   Comments: 61
+   URL: https://medium.com/@calufa/ascii-driven-development-850f66661351
+
+16. ChatGPT Health is a marketplace, guess who is the product?
+   Points: 218
+   Comments: 226
+   URL: https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/
+
+17. I replaced Windows with Linux and everything's going great
+   Points: 524
+   Comments: 443
+   URL: https://www.theverge.com/tech/858910/linux-diary-gaming-desktop
+
+18. New information extracted from Snowden PDFs through metadata version analysis
+   Points: 273
+   Comments: 115
+   URL: https://libroot.org/posts/going-through-snowden-documents-part-4/
+
+19. Org Mode Syntax Is One of the Most Reasonable Markup Languages for Text (2017)
+   Points: 242
+   Comments: 172
+   URL: https://karl-voit.at/2017/09/23/orgmode-as-markup-only/
+
+20. Show HN: mcpc – Universal command-line client for Model Context Protocol (MCP)
+   Points: 3
+   Comments: 2
+   URL: https://github.com/apify/mcp-cli
+
