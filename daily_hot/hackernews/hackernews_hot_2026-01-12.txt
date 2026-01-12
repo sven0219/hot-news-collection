@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-12
+==================================================
+
+1. The struggle of resizing windows on macOS Tahoe
+   Points: 723
+   Comments: 329
+   URL: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
+
+2. CLI agents like Claude Code make self-hosting on a home server easier and fun
+   Points: 229
+   Comments: 145
+   URL: https://fulghum.io/self-hosting
+
+3. This game is a single 13 KiB file that runs on Windows, Linux and in the Browser
+   Points: 68
+   Comments: 23
+   URL: https://iczelia.net/posts/snake-polyglot/
+
+4. iCloud Photos Downloader
+   Points: 289
+   Comments: 147
+   URL: https://github.com/icloud-photos-downloader/icloud_photos_downloader
+
+5. I Cannot SSH into My Server Anymore (and That's Fine)
+   Points: 64
+   Comments: 24
+   URL: https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html
+
+6. FUSE is All You Need – Giving agents access to anything via filesystems
+   Points: 57
+   Comments: 19
+   URL: https://jakobemmerling.de/posts/fuse-is-all-you-need/
+
+7. Sampling at negative temperature
+   Points: 106
+   Comments: 38
+   URL: https://cavendishlabs.org/blog/negative-temperature/
+
+8. I'm making a game engine based on dynamic signed distance fields (SDFs) [video]
+   Points: 161
+   Comments: 21
+   URL: https://www.youtube.com/watch?v=il-TXbn5iMA
+
+9. I'd tell you a UDP joke…
+   Points: 74
+   Comments: 24
+   URL: https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get
+
+10. Don't fall into the anti-AI hype
+   Points: 550
+   Comments: 726
+   URL: https://antirez.com/news/158
+
+11. Elo – A data expression language which compiles to JavaScript, Ruby, and SQL
+   Points: 41
+   Comments: 5
+   URL: https://elo-lang.org/
+
+12. The Next Two Years of Software Engineering
+   Points: 45
+   Comments: 17
+   URL: https://addyosmani.com/blog/next-two-years/
+
+13. Gentoo Linux 2025 Review
+   Points: 291
+   Comments: 146
+   URL: https://www.gentoo.org/news/2026/01/05/new-year.html
+
+14. Insights into Claude Opus 4.5 from Pokémon
+   Points: 24
+   Comments: 5
+   URL: https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon
+
+15. A set of Idiomatic prod-grade katas for experienced devs transitioning to Go
+   Points: 101
+   Comments: 13
+   URL: https://github.com/MedUnes/go-kata
+
+16. Perfectly Replicating Coca Cola [video]
+   Points: 127
+   Comments: 66
+   URL: https://www.youtube.com/watch?v=TDkH3EbWTYc
+
+17. A 2026 look at three bio-ML opinions I had in 2024
+   Points: 17
+   Comments: 1
+   URL: https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions
+
+18. Ask HN: What are you working on? (January 2026)
+   Points: 139
+   Comments: 462
+   URL: https://news.ycombinator.com/item?id=46577242
+
+19. Rare Iron Age war trumpet and boar standard found
+   Points: 7
+   Comments: 0
+   URL: https://www.bbc.com/news/articles/cr7jvj8d39eo
+
+20. BYD's cheapest electric cars to have Lidar self-driving tech
+   Points: 108
+   Comments: 120
+   URL: https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/
+
