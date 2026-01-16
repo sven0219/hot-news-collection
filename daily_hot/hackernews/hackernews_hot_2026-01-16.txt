@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-16
+==================================================
+
+1. Apple is fighting for TSMC capacity as Nvidia takes center stage
+   Points: 536
+   Comments: 333
+   URL: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+
+2. Pocket TTS: A high quality TTS that gives your CPU a voice
+   Points: 147
+   Comments: 29
+   URL: https://kyutai.org/blog/2026-01-13-pocket-tts
+
+3. Inside The Internet Archive's Infrastructure
+   Points: 233
+   Comments: 52
+   URL: https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+
+4. Linux boxes via SSH: suspended when disconected
+   Points: 95
+   Comments: 63
+   URL: https://shellbox.dev/
+
+5. JuiceFS is a distributed POSIX file system built on top of Redis and S3
+   Points: 98
+   Comments: 54
+   URL: https://github.com/juicedata/juicefs
+
+6. CVEs affecting the Svelte ecosystem
+   Points: 134
+   Comments: 26
+   URL: https://svelte.dev/blog/cves-affecting-the-svelte-ecosystem
+
+7. Go-legacy-winxp: Compile Golang 1.24 code for Windows XP
+   Points: 60
+   Comments: 15
+   URL: https://github.com/syncguy/go-legacy-winxp/tree/winxp-compat
+
+8. Ask HN: How can we solve the loneliness epidemic?
+   Points: 350
+   Comments: 640
+   URL: https://news.ycombinator.com/item?id=46635345
+
+9. Data is the only moat
+   Points: 63
+   Comments: 16
+   URL: https://frontierai.substack.com/p/data-is-your-only-moat
+
+10. Claude is good at assembling blocks, but still falls apart at creating them
+   Points: 147
+   Comments: 119
+   URL: https://www.approachwithalacrity.com/claude-ne/
+
+11. Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark
+   Points: 75
+   Comments: 18
+   URL: https://briarproject.org/manual/fa/
+
+12. My Gripes with Prolog
+   Points: 12
+   Comments: 3
+   URL: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/
+
+13. Show HN: OpenWork – an open-source alternative to Claude Cowork
+   Points: 115
+   Comments: 23
+   URL: https://github.com/different-ai/openwork
+
+14. Aviator (YC S21) is hiring to build multiplayer AI coding platform
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/aviator/jobs
+
+15. Photos capture the breathtaking scale of China's wind and solar buildout
+   Points: 471
+   Comments: 375
+   URL: https://e360.yale.edu/digest/china-renewable-photo-essay
+
+16. Why senior engineers let bad projects fail
+   Points: 91
+   Comments: 77
+   URL: https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/
+
+17. First impressions of Claude Cowork
+   Points: 125
+   Comments: 73
+   URL: https://simonw.substack.com/p/first-impressions-of-claude-cowork
+
+18. Use of Bayesian methodology in clinical trials of drug and biological products [pdf]
+   Points: 38
+   Comments: 10
+   URL: https://www.fda.gov/media/190505/download
+
+19. A Unique Performance Optimization for a 3D Geometry Language
+   Points: 21
+   Comments: 2
+   URL: https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/
+
+20. Show HN: Control Claude permissions using a cloud-based decision table UI
+   Points: 10
+   Comments: 3
+   URL: https://github.com/rulebricks/claude-code-guardrails
+
