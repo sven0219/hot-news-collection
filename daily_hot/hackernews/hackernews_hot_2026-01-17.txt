@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-17
+==================================================
+
+1. East Germany balloon escape
+   Points: 261
+   Comments: 87
+   URL: https://en.wikipedia.org/wiki/East_Germany_balloon_escape
+
+2. Left in the cold: Study finds most renters shut out of energy-saving upgrades
+   Points: 55
+   Comments: 65
+   URL: https://www.binghamton.edu/news/story/6011/left-in-the-cold-study-finds-most-renters-shut-out-of-energy-saving-upgrades
+
+3. Cloudflare acquires Astro
+   Points: 685
+   Comments: 325
+   URL: https://astro.build/blog/joining-cloudflare/
+
+4. Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation
+   Points: 59
+   Comments: 31
+   URL: https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables
+
+5. LLM Structured Outputs Handbook
+   Points: 80
+   Comments: 18
+   URL: https://nanonets.com/cookbooks/structured-llm-outputs
+
+6. 6-Day and IP Address Certificates Are Generally Available
+   Points: 325
+   Comments: 197
+   URL: https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+
+7. Cursor's latest “browser experiment” implied success without evidence
+   Points: 376
+   Comments: 160
+   URL: https://embedding-shapes.github.io/cursor-implied-success-without-evidence/
+
+8. Michelangelo's first painting, created when he was 12 or 13
+   Points: 296
+   Comments: 154
+   URL: https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html
+
+9. Just the Browser
+   Points: 475
+   Comments: 236
+   URL: https://justthebrowser.com/
+
+10. Install.md: A standard for LLM-executable installation
+   Points: 23
+   Comments: 45
+   URL: https://www.mintlify.com/blog/install-md-standard-for-llm-executable-installation
+
+11. Patching the Wii News Channel to serve local news (2025)
+   Points: 48
+   Comments: 12
+   URL: https://raulnegron.me/2025/wii-news-pr/
+
+12. Dell UltraSharp 52 Thunderbolt Hub Monitor
+   Points: 116
+   Comments: 152
+   URL: https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories
+
+13. STFU
+   Points: 613
+   Comments: 418
+   URL: https://github.com/Pankajtanwarbanna/stfu
+
+14. HTTP RateLimit Headers
+   Points: 24
+   Comments: 9
+   URL: https://dotat.at/@/2026-01-13-http-ratelimit.html
+
+15. Reading across books with Claude Code
+   Points: 56
+   Comments: 17
+   URL: https://pieterma.es/syntopic-reading-claude/
+
+16. Lock-Picking Robot
+   Points: 250
+   Comments: 115
+   URL: https://github.com/etinaude/Lock-Picking-Robot
+
+17. Elasticsearch was never a database
+   Points: 96
+   Comments: 75
+   URL: https://www.paradedb.com/blog/elasticsearch-was-never-a-database
+
+18. Slop is everywhere for those with eyes to see
+   Points: 175
+   Comments: 94
+   URL: https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/
+
+19. Why DuckDB is my first choice for data processing
+   Points: 206
+   Comments: 75
+   URL: https://www.robinlinacre.com/recommend_duckdb/
+
+20. Launch HN: Indy (YC S21) – A support app designed for ADHD brains
+   Points: 65
+   Comments: 75
+   URL: https://www.shimmer.care/indy-redirect
+
