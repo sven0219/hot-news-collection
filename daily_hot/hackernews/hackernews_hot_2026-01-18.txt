@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-18
+==================================================
+
+1. A programming language based on grammatical cases of Turkish
+   Points: 108
+   Comments: 29
+   URL: https://github.com/kip-dili/kip
+
+2. If you put Apple icons in reverse it looks like someone getting good at design
+   Points: 23
+   Comments: 4
+   URL: https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1
+
+3. ASCII characters are not pixels: a deep dive into ASCII rendering
+   Points: 800
+   Comments: 98
+   URL: https://alexharri.com/blog/ascii-rendering
+
+4. Xous Operating System
+   Points: 59
+   Comments: 16
+   URL: https://xous.dev/
+
+5. Light Mode InFFFFFFlation
+   Points: 131
+   Comments: 84
+   URL: https://willhbr.net/2025/10/20/light-mode-infffffflation/
+
+6. We put Claude Code in Rollercoaster Tycoon
+   Points: 353
+   Comments: 199
+   URL: https://labs.ramp.com/rct
+
+7. Show HN: ChunkHound, a local-first tool for understanding large codebases
+   Points: 38
+   Comments: 5
+   URL: https://github.com/chunkhound/chunkhound
+
+8. The Olivetti Company
+   Points: 131
+   Comments: 22
+   URL: https://www.abortretry.fail/p/the-olivetti-company
+
+9. The recurring dream of replacing developers
+   Points: 260
+   Comments: 218
+   URL: https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html
+
+10. An Elizabethan mansion's secrets for staying warm
+   Points: 106
+   Comments: 124
+   URL: https://www.bbc.com/future/article/20260116-an-elizabethan-mansions-secrets-for-staying-warm
+
+11. Below the Surface: Archeological Finds from the Amsterdam Noord/Zuid Metro Line
+   Points: 56
+   Comments: 8
+   URL: https://belowthesurface.amsterdam/en/vondsten
+
+12. Raising money fucked me up
+   Points: 89
+   Comments: 32
+   URL: https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up
+
+13. IRISC: An ARMv7 assembly interpreter and computer architecture simulator
+   Points: 3
+   Comments: 1
+   URL: https://polysoftit.co.uk/irisc-web/
+
+14. The thing that brought me joy
+   Points: 52
+   Comments: 22
+   URL: https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/
+
+15. M8SBC-486 (Homebrew 486 computer)
+   Points: 84
+   Comments: 8
+   URL: https://maniek86.xyz/projects/m8sbc_486.php
+
+16. Counterfactual evaluation for recommendation systems
+   Points: 60
+   Comments: 4
+   URL: https://eugeneyan.com/writing/counterfactual-evaluation/
+
+17. East Germany balloon escape
+   Points: 684
+   Comments: 284
+   URL: https://en.wikipedia.org/wiki/East_Germany_balloon_escape
+
+18. There's no single best way to store information
+   Points: 71
+   Comments: 43
+   URL: https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/
+
+19. Common misunderstandings about large software companies
+   Points: 60
+   Comments: 32
+   URL: https://philipotoole.com/common-misunderstandings-about-large-software-companies/
+
+20. What are Tithe Maps (2021)
+   Points: 10
+   Comments: 0
+   URL: https://mapreading.co.uk/what-are-tithe-maps/
+
