@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-19
+==================================================
+
+1. Gaussian Splatting – A$AP Rocky "Helicopter" music video
+   Points: 417
+   Comments: 143
+   URL: https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting
+
+2. Flux 2 Klein pure C inference
+   Points: 204
+   Comments: 88
+   URL: https://github.com/antirez/flux2.c
+
+3. A Social Filesystem
+   Points: 255
+   Comments: 126
+   URL: https://overreacted.io/a-social-filesystem/
+
+4. Show HN: I quit coding years ago. AI brought me back
+   Points: 3
+   Comments: 0
+   URL: https://calquio.com
+
+5. Wine 11.0
+   Points: 178
+   Comments: 31
+   URL: https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0
+
+6. Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used
+   Points: 194
+   Comments: 45
+   URL: https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/
+
+7. Gas Town Decoded
+   Points: 24
+   Comments: 21
+   URL: https://www.alilleybrinker.com/mini/gas-town-decoded/
+
+8. jQuery 4
+   Points: 714
+   Comments: 232
+   URL: https://blog.jquery.com/2026/01/17/jquery-4-0-0/
+
+9. Breaking the Zimmermann Telegram (2018)
+   Points: 60
+   Comments: 4
+   URL: https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614
+
+10. Simple GIS on Potato
+   Points: 13
+   Comments: 4
+   URL: https://github.com/blue-monads/potato-apps/tree/master/cimple-gis
+
+11. The Cathedral, the Megachurch, and the Bazaar
+   Points: 119
+   Comments: 110
+   URL: https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/
+
+12. Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup
+   Points: 84
+   Comments: 19
+   URL: https://cua.ai/docs/lume/guide/getting-started/introduction
+
+13. Stirling Cycle Machine Analysis
+   Points: 22
+   Comments: 9
+   URL: https://ohioopen.library.ohio.edu/opentextbooks/9/
+
+14. Fil-Qt: A Qt Base build with Fil-C experience
+   Points: 7
+   Comments: 3
+   URL: https://git.qt.io/cradam/fil-qt
+
+15. Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)
+   Points: 291
+   Comments: 204
+   URL: https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
+
+16. Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss
+   Points: 41
+   Comments: 38
+   URL: https://getdock.io/
+
+17. Dead Internet Theory
+   Points: 53
+   Comments: 52
+   URL: https://kudmitry.com/articles/dead-internet-theory/
+
+18. Predicting OpenAI's ad strategy
+   Points: 472
+   Comments: 402
+   URL: https://ossa-ma.github.io/blog/openads
+
+19. A free and open-source rootkit for Linux
+   Points: 158
+   Comments: 34
+   URL: https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/
+
+20. Prediction markets are ushering in a world in which news becomes about gambling
+   Points: 147
+   Comments: 150
+   URL: https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb
+
