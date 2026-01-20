@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-20
+==================================================
+
+1. Level S4 solar radiation event
+   Points: 183
+   Comments: 69
+   URL: https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026
+
+2. Nanolang: A tiny experimental language designed to be targeted by coding LLMs
+   Points: 55
+   Comments: 23
+   URL: https://github.com/jordanhubbard/nanolang
+
+3. Nearly a third of social media research has undisclosed ties to industry
+   Points: 176
+   Comments: 78
+   URL: https://www.science.org/content/article/nearly-third-social-media-research-has-undisclosed-ties-industry-preprint-claims
+
+4. Reticulum, a secure and anonymous mesh networking stack
+   Points: 18
+   Comments: 3
+   URL: https://github.com/markqvist/Reticulum
+
+5. What came first: the CNAME or the A record?
+   Points: 266
+   Comments: 95
+   URL: https://blog.cloudflare.com/cname-a-record-order-dns-standards/
+
+6. The assistant axis: situating and stabilizing the character of LLMs
+   Points: 45
+   Comments: 6
+   URL: https://www.anthropic.com/research/assistant-axis
+
+7. British redcoat's lost memoir reveals harsh realities of life as a disabled vet
+   Points: 28
+   Comments: 17
+   URL: https://phys.org/news/2026-01-british-redcoat-lost-memoir-reveals.html
+
+8. How we made Python's packaging library 3x faster
+   Points: 25
+   Comments: 1
+   URL: https://iscinumpy.dev/post/packaging-faster/
+
+9. From Nevada to Kansas by Glider
+   Points: 92
+   Comments: 15
+   URL: https://www.weglide.org/flight/978820
+
+10. The coming industrialisation of exploit generation with LLMs
+   Points: 60
+   Comments: 49
+   URL: https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/
+
+11. Use Social Media Mindfully
+   Points: 21
+   Comments: 9
+   URL: https://danielleheberling.xyz/blog/mindful-social-media/
+
+12. Notes on Apple's Nano Texture (2025)
+   Points: 121
+   Comments: 76
+   URL: https://jon.bo/posts/nano-texture/
+
+13. Conditions in the Intel 8087 floating-point chip's microcode
+   Points: 83
+   Comments: 22
+   URL: https://www.righto.com/2025/12/8087-microcode-conditions.html
+
+14. Show HN: An interactive physics simulator with 1000's of balls, in your terminal
+   Points: 23
+   Comments: 4
+   URL: https://github.com/minimaxir/ballin
+
+15. Weight Transfer for RL Post-Training in under 2 seconds
+   Points: 16
+   Comments: 0
+   URL: https://research.perplexity.ai/articles/weight-transfer-for-rl-post-training-in-under-2-seconds
+
+16. Graphics In Flatland – 2D ray tracing [video]
+   Points: 51
+   Comments: 11
+   URL: https://www.youtube.com/watch?v=WYTOykSqf2Y
+
+17. Sending Data over Offline Finding Networks
+   Points: 62
+   Comments: 6
+   URL: https://cc-sw.com/find-my-and-find-hub-network-research/
+
+18. CSS Web Components for marketing sites (2024)
+   Points: 97
+   Comments: 47
+   URL: https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/
+
+19. Simple Sabotage Field Manual (1944) [pdf]
+   Points: 95
+   Comments: 42
+   URL: https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf
+
+20. Radicle 1.6.0 – Amaryllis
+   Points: 19
+   Comments: 3
+   URL: https://radicle.xyz/2026/01/14/radicle-1.6.0
+
