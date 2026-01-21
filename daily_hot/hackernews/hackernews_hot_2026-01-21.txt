@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-21
+==================================================
+
+1. A 26,000-year astronomical monument hidden in plain sight (2019)
+   Points: 320
+   Comments: 69
+   URL: https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/
+
+2. California is free of drought for the first time in 25 years
+   Points: 201
+   Comments: 87
+   URL: https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years
+
+3. Instabridge has acquired Nova Launcher
+   Points: 120
+   Comments: 88
+   URL: https://novalauncher.com/nova-is-here-to-stay
+
+4. Electricity use of AI coding agents
+   Points: 48
+   Comments: 28
+   URL: https://www.simonpcouch.com/blog/2026-01-20-cc-impact/
+
+5. The challenges of soft delete
+   Points: 73
+   Comments: 45
+   URL: https://atlas9.dev/blog/soft-delete.html
+
+6. Provably unmasking malicious behavior through execution traces
+   Points: 16
+   Comments: 3
+   URL: https://arxiv.org/abs/2512.13821
+
+7. The Unix Pipe Card Game
+   Points: 174
+   Comments: 50
+   URL: https://punkx.org/unix-pipe-game/
+
+8. Which AI Lies Best? A game theory classic designed by John Nash
+   Points: 32
+   Comments: 21
+   URL: https://so-long-sucker.vercel.app/
+
+9. Cloudflare zero-day: Accessing any host globally
+   Points: 41
+   Comments: 10
+   URL: https://fearsoff.org/research/cloudflare-acme
+
+10. I'm addicted to being useful
+   Points: 480
+   Comments: 233
+   URL: https://www.seangoedecke.com/addicted-to-being-useful/
+
+11. Are Arrays Functions?
+   Points: 12
+   Comments: 2
+   URL: https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html
+
+12. Building Robust Helm Charts
+   Points: 14
+   Comments: 0
+   URL: https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html
+
+13. RCS for Business
+   Points: 27
+   Comments: 28
+   URL: https://developers.google.com/business-communications/rcs-business-messaging
+
+14. Running Claude Code dangerously (safely)
+   Points: 272
+   Comments: 226
+   URL: https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/
+
+15. Claude Chill: Fix Claude Code's Flickering in Terminal
+   Points: 11
+   Comments: 1
+   URL: https://github.com/davidbeesley/claude-chill
+
+16. Our approach to age prediction
+   Points: 55
+   Comments: 112
+   URL: https://openai.com/index/our-approach-to-age-prediction/
+
+17. Inside the secret world of Japanese snack bars
+   Points: 85
+   Comments: 55
+   URL: https://www.bbc.com/travel/article/20260116-inside-the-secret-world-of-japanese-snack-bars
+
+18. Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs
+   Points: 73
+   Comments: 32
+   URL: https://github.com/mastra-ai/mastra
+
+19. Maintenance: Of Everything, Part One
+   Points: 57
+   Comments: 13
+   URL: https://press.stripe.com/maintenance-part-one
+
+20. Unconventional PostgreSQL Optimizations
+   Points: 258
+   Comments: 39
+   URL: https://hakibenita.com/postgresql-unconventional-optimizations
+
