@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-22
+==================================================
+
+1. Take potentially dangerous PDFs, and convert them to safe PDFs
+   Points: 53
+   Comments: 16
+   URL: https://github.com/freedomofpress/dangerzone
+
+2. Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)
+   Points: 487
+   Comments: 143
+   URL: https://github.com/ChartGPU/ChartGPU
+
+3. Claude's new constitution
+   Points: 279
+   Comments: 279
+   URL: https://www.anthropic.com/news/claude-new-constitution
+
+4. Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby
+   Points: 51
+   Comments: 5
+   URL: https://www.ratatui-ruby.dev/
+
+5. Golfing APL/K in 90 Lines of Python
+   Points: 46
+   Comments: 8
+   URL: https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python
+
+6. Skip is now free and open source
+   Points: 266
+   Comments: 110
+   URL: https://skip.dev/blog/skip-is-free/
+
+7. Letting Claude play text adventures
+   Points: 68
+   Comments: 25
+   URL: https://borretti.me/article/letting-claude-play-text-adventures
+
+8. The WebRacket language is a subset of Racket that compiles to WebAssembly
+   Points: 87
+   Comments: 20
+   URL: https://github.com/soegaard/webracket
+
+9. Challenges in join optimization
+   Points: 40
+   Comments: 9
+   URL: https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect
+
+10. Show HN: Rails UI
+   Points: 100
+   Comments: 64
+   URL: https://railsui.com/
+
+11. Three types of LLM workloads and how to serve them
+   Points: 34
+   Comments: 1
+   URL: https://modal.com/llm-almanac/workloads
+
+12. TrustTunnel: AdGuard VPN protocol goes open-source
+   Points: 57
+   Comments: 13
+   URL: https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html
+
+13. Jerry (YC S17) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace
+
+14. Mystery of the Head Activator
+   Points: 14
+   Comments: 1
+   URL: https://www.asimov.press/p/head-activator
+
+15. An explanation of cheating in Doom2 Deathmatch (1999)
+   Points: 20
+   Comments: 1
+   URL: https://www.doom2.net/doom2/cheating.html
+
+16. Waiting for dawn in search: Search index, Google rulings and impact on Kagi
+   Points: 215
+   Comments: 139
+   URL: https://blog.kagi.com/waiting-dawn-search
+
+17. Setting Up a Cluster of Tiny PCs for Parallel Computing
+   Points: 26
+   Comments: 13
+   URL: https://www.kenkoonwong.com/blog/parallel-computing/
+
+18. Tell HN: 2 years building a kids audio app as a solo dev – lessons learned
+   Points: 37
+   Comments: 26
+   URL: https://news.ycombinator.com/item?id=46705676
+
+19. SIMD programming in pure Rust
+   Points: 48
+   Comments: 14
+   URL: https://kerkour.com/introduction-rust-simd
+
+20. Stevey's Birthday Blog
+   Points: 21
+   Comments: 6
+   URL: https://steve-yegge.medium.com/steveys-birthday-blog-34f437139cb5
+
