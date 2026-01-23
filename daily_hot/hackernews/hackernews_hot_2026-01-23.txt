@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-23
+==================================================
+
+1. GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers
+   Points: 678
+   Comments: 370
+   URL: https://gptzero.me/news/neurips/
+
+2. Why medieval city-builder video games are historically inaccurate (2020)
+   Points: 24
+   Comments: 4
+   URL: https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate
+
+3. Show HN: isometric.nyc – giant isometric pixel art map of NYC
+   Points: 608
+   Comments: 149
+   URL: https://cannoneyed.com/isometric-nyc/
+
+4. Why does SSH send 100 packets per keystroke?
+   Points: 261
+   Comments: 174
+   URL: https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/
+
+5. Capital One to acquire Brex for $5.15B
+   Points: 86
+   Comments: 55
+   URL: https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/
+
+6. I was banned from Claude for scaffolding a Claude.md file?
+   Points: 315
+   Comments: 246
+   URL: https://hugodaniel.com/posts/claude-code-banned-me/
+
+7. Viking Ship Museum in Denmark announces the discovery of the largest cog
+   Points: 42
+   Comments: 15
+   URL: https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/
+
+8. Qwen3-TTS family is now open sourced: Voice design, clone, and generation
+   Points: 455
+   Comments: 137
+   URL: https://qwen.ai/blog?id=qwen3tts-0115
+
+9. Improving the usability of C libraries in Swift
+   Points: 24
+   Comments: 0
+   URL: https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/
+
+10. Anthropic Economic Index economic primitives
+   Points: 43
+   Comments: 32
+   URL: https://www.anthropic.com/research/anthropic-economic-index-january-2026-report
+
+11. Turso is an in-process SQL database, compatible with SQLite
+   Points: 18
+   Comments: 4
+   URL: https://github.com/tursodatabase/turso
+
+12. Composing APIs and CLIs in the LLM era
+   Points: 24
+   Comments: 3
+   URL: https://walters.app/blog/composing-apis-clis
+
+13. Douglas Adams on the English–American cultural divide over "heroes"
+   Points: 311
+   Comments: 336
+   URL: https://shreevatsa.net/post/douglas-adams-cultural-divide/
+
+14. My first year in sales as technical founder
+   Points: 63
+   Comments: 24
+   URL: https://www.fabiandietrich.com/blog/first-year-in-sales.html
+
+15. Compiling Scheme to WebAssembly
+   Points: 62
+   Comments: 10
+   URL: https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/
+
+16. CSS Optical Illusions
+   Points: 131
+   Comments: 12
+   URL: https://alvaromontoro.com/blog/68091/css-optical-illusions
+
+17. 'Active' sitting is better for brain health: review of studies
+   Points: 64
+   Comments: 29
+   URL: https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health
+
+18. Recent discoveries on the acquisition of the highest levels of human performance
+   Points: 98
+   Comments: 45
+   URL: https://www.science.org/doi/abs/10.1126/science.adt7790
+
+19. Your app subscription is now my weekend project
+   Points: 195
+   Comments: 156
+   URL: https://rselbach.com/your-sub-is-now-my-weekend-project
+
+20. Vibe a Guitar Pedal
+   Points: 4
+   Comments: 1
+   URL: https://polyend.com/endless/
+
