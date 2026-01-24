@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-24
+==================================================
+
+1. Unrolling the Codex agent loop
+   Points: 182
+   Comments: 67
+   URL: https://openai.com/index/unrolling-the-codex-agent-loop/
+
+2. New YC homepage
+   Points: 144
+   Comments: 64
+   URL: https://www.ycombinator.com/
+
+3. Banned C++ Features in Chromium
+   Points: 92
+   Comments: 73
+   URL: https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md
+
+4. Gas Town's agent patterns, design bottlenecks, and vibecoding at scale
+   Points: 238
+   Comments: 263
+   URL: https://maggieappleton.com/gastown
+
+5. Proof of Corn
+   Points: 307
+   Comments: 223
+   URL: https://proofofcorn.com/
+
+6. Some C habits I employ for the modern day
+   Points: 35
+   Comments: 9
+   URL: https://www.unix.dog/~yosh/blog/c-habits-for-me.html
+
+7. Route leak incident on January 22, 2026
+   Points: 110
+   Comments: 26
+   URL: https://blog.cloudflare.com/route-leak-incident-january-22-2026/
+
+8. Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops
+   Points: 595
+   Comments: 418
+   URL: https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/
+
+9. Mental Models (2018)
+   Points: 34
+   Comments: 9
+   URL: https://fs.blog/mental-models/
+
+10. OpenAI to Take a Percentage from Customer AI-Assisted R&D Outcomes
+   Points: 10
+   Comments: 12
+   URL: https://news.aibase.com/news/24859
+
+11. TikTok Is Now Collecting More Data About Its Users
+   Points: 62
+   Comments: 17
+   URL: https://www.wired.com/story/tiktok-new-privacy-policy/
+
+12. Certificate Transparency Log Explorer
+   Points: 13
+   Comments: 3
+   URL: https://certs.swerdlow.dev
+
+13. KORG phase8 – Acoustic Synthesizer
+   Points: 181
+   Comments: 86
+   URL: https://www.korg.com/us/products/dj/phase8/
+
+14. TrueVault (YC W14) is hiring a Growth Lead to test different growth channels
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead
+
+15. Booting from a vinyl record (2020)
+   Points: 270
+   Comments: 103
+   URL: https://boginjr.com/it/sw/dev/vinyl-boot/
+
+16. Gold fever, cold, and the true adventures of Jack London in the wild
+   Points: 33
+   Comments: 6
+   URL: https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/
+
+17. Ask HN: What's the current best local/open speech-to-speech setup?
+   Points: 45
+   Comments: 11
+   URL: https://news.ycombinator.com/item?id=46731068
+
+18. Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG
+   Points: 64
+   Comments: 16
+   URL: https://markgascoyne.co.uk/posts/ebpf-bng/
+
+19. Proton Spam and the AI Consent Problem
+   Points: 467
+   Comments: 324
+   URL: https://dbushell.com/2026/01/22/proton-spam/
+
+20. Notes on the Intel 8086 processor's arithmetic-logic unit
+   Points: 70
+   Comments: 9
+   URL: https://www.righto.com/2026/01/notes-on-intel-8086-processors.html
+
