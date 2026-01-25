@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-25
+==================================================
+
+1. BirdyChat becomes first European chat app that is interoperable with WhatsApp
+   Points: 381
+   Comments: 230
+   URL: https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp
+
+2. Postmortem: Our first VLEO satellite mission (with imagery and flight data)
+   Points: 116
+   Comments: 37
+   URL: https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next
+
+3. We X-Rayed a Suspicious FTDI USB Cable
+   Points: 8
+   Comments: 1
+   URL: https://eclypsium.com/blog/xray-counterfeit-usb-cable/
+
+4. Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison
+   Points: 118
+   Comments: 60
+   URL: https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/
+
+5. High-bandwidth flash progress and future
+   Points: 8
+   Comments: 2
+   URL: https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/
+
+6. Memory layout in Zig with formulas
+   Points: 74
+   Comments: 20
+   URL: https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html
+
+7. Doing gigabit Ethernet over my British phone wires
+   Points: 415
+   Comments: 239
+   URL: https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/
+
+8. Claude Code's new hidden feature: Swarms
+   Points: 281
+   Comments: 207
+   URL: https://twitter.com/NicerInPerson/status/2014989679796347375
+
+9. Poland's energy grid was targeted by never-before-seen wiper malware
+   Points: 111
+   Comments: 22
+   URL: https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/
+
+10. Europe wants to end its dangerous reliance on US internet technology
+   Points: 109
+   Comments: 69
+   URL: https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042
+
+11. I added a Bluesky comment section to my blog
+   Points: 202
+   Comments: 73
+   URL: https://micahcantor.com/blog/bluesky-comment-section.html
+
+12. How I estimate work
+   Points: 397
+   Comments: 244
+   URL: https://www.seangoedecke.com/how-i-estimate-work/
+
+13. Ask HN: Gmail spam filtering suddenly marking everything as spam?
+   Points: 122
+   Comments: 87
+   URL: https://news.ycombinator.com/item?id=46744807
+
+14. First Design Engineer Hire – Build Games at Gym Class (YC W22)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal
+
+15. I don't write code anymore – I sculpt it
+   Points: 29
+   Comments: 19
+   URL: https://www.jerpint.io/blog/2026-01-24-i-dont-write-code-anymore-i-sculpt-it/
+
+16. Agent orchestration for the timid
+   Points: 64
+   Comments: 14
+   URL: https://substack.com/inbox/post/185649875
+
+17. Small Kafka: Tansu and SQLite on a free t3.micro
+   Points: 54
+   Comments: 4
+   URL: https://blog.tansu.io/articles/broker-aws-free-tier
+
+18. JSON-render: LLM-based JSON-to-UI tool
+   Points: 55
+   Comments: 11
+   URL: https://json-render.dev/
+
+19. Shared Claude: A website controlled by the public
+   Points: 40
+   Comments: 13
+   URL: https://sharedclaude.com/
+
+20. Understanding Rust Closures
+   Points: 34
+   Comments: 11
+   URL: https://antoine.vandecreme.net/blog/rust-closures/
+
