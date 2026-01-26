@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-26
+==================================================
+
+1. First, make me care
+   Points: 290
+   Comments: 99
+   URL: https://gwern.net/blog/2026/make-me-care
+
+2. A macOS app that blurs your screen when you slouch
+   Points: 460
+   Comments: 159
+   URL: https://github.com/tldev/posturr
+
+3. Show HN: A small programming language where everything is pass-by-value
+   Points: 29
+   Comments: 8
+   URL: https://github.com/Jcparkyn/herd
+
+4. Clawdbot - open source personal AI assistant
+   Points: 6
+   Comments: 2
+   URL: https://github.com/clawdbot/clawdbot
+
+5. Case study: Creative math – How AI fakes proofs
+   Points: 24
+   Comments: 11
+   URL: https://tomaszmachnik.pl/case-study-math-en.html
+
+6. Doom has been ported to an earbud
+   Points: 334
+   Comments: 104
+   URL: https://doombuds.com
+
+7. Oneplus phone update introduces hardware anti-rollback
+   Points: 332
+   Comments: 146
+   URL: https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback
+
+8. A flawed paper in management science has been cited more than 6k times
+   Points: 617
+   Comments: 326
+   URL: https://statmodeling.stat.columbia.edu/2026/01/22/aking/
+
+9. Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems
+   Points: 159
+   Comments: 49
+   URL: https://www.diljitpr.net/blog-post-postgresql-dlq
+
+10. The behavioral cost of personalized pricing
+   Points: 51
+   Comments: 29
+   URL: https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing
+
+11. Spanish track was fractured before high-speed train disaster, report finds
+   Points: 123
+   Comments: 110
+   URL: https://www.bbc.com/news/articles/c1m77dmxlvlo
+
+12. The '3.5% rule': How a small minority can change the world (2019)
+   Points: 159
+   Comments: 124
+   URL: https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world
+
+13. Bitwise conversion of doubles using only FP multiplication and addition (2020)
+   Points: 15
+   Comments: 0
+   URL: https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/
+
+14. I was right about ATProto key management
+   Points: 104
+   Comments: 62
+   URL: https://notes.nora.codes/atproto-again/
+
+15. Scientists identify brain waves that define the limits of 'you'
+   Points: 4
+   Comments: 0
+   URL: https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you
+
+16. Guix for Development
+   Points: 10
+   Comments: 1
+   URL: https://dthompson.us/posts/guix-for-development.html
+
+17. Show HN: An interactive map of US lighthouses and navigational aids
+   Points: 25
+   Comments: 8
+   URL: https://www.lighthouses.app/
+
+18. Web-based image editor modeled after Deluxe Paint
+   Points: 171
+   Comments: 15
+   URL: https://github.com/steffest/DPaint-js
+
+19. Infinite pancakes, anyone?
+   Points: 15
+   Comments: 3
+   URL: https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html
+
+20. Show HN: Elo ranking for landing pages
+   Points: 4
+   Comments: 0
+   URL: https://landingleaderboard.com/
+
