@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-27
+==================================================
+
+1. Television is 100 years old today
+   Points: 472
+   Comments: 157
+   URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html
+
+2. ChatGPT Containers can now run bash, pip/npm install packages and download files
+   Points: 143
+   Comments: 117
+   URL: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+
+3. AI code and software craft
+   Points: 53
+   Comments: 22
+   URL: https://alexwennerberg.com/blog/2026-01-25-slop.html
+
+4. The Hidden Engineering of Runways
+   Points: 154
+   Comments: 36
+   URL: https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways
+
+5. People who know the formula for WD-40
+   Points: 68
+   Comments: 130
+   URL: https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54
+
+6. There is an AI code review bubble
+   Points: 151
+   Comments: 121
+   URL: https://www.greptile.com/blog/ai-code-review-bubble
+
+7. JuiceSSH – Give me my pro features back
+   Points: 200
+   Comments: 95
+   URL: https://nproject.io/blog/juicessh-give-me-back-my-pro-features/
+
+8. RIP Low-Code 2014-2025
+   Points: 120
+   Comments: 57
+   URL: https://www.zackliscio.com/posts/rip-low-code-2014-2025/
+
+9. Dithering – Part 2: The Ordered Dithering
+   Points: 105
+   Comments: 14
+   URL: https://visualrambling.space/dithering-part-2/
+
+10. Apple introduces new AirTag with longer range and improved findability
+   Points: 241
+   Comments: 337
+   URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/
+
+11. You have to know how tech companies work
+   Points: 10
+   Comments: 0
+   URL: https://www.seangoedecke.com/knowing-how-to-drive-the-car/
+
+12. Pharos: The Lighthouse at Alexandria
+   Points: 5
+   Comments: 0
+   URL: https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/pharos.html
+
+13. Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus
+   Points: 63
+   Comments: 28
+   URL: https://tetrisbench.com/tetrisbench/
+
+14. MapLibre Tile: a modern and efficient vector tile format
+   Points: 397
+   Comments: 79
+   URL: https://maplibre.org/news/2026-01-23-mlt-release/
+
+15. The Adolescence of Technology
+   Points: 127
+   Comments: 82
+   URL: https://www.darioamodei.com/essay/the-adolescence-of-technology
+
+16. Windows 11's Patch Tuesday nightmare gets worse
+   Points: 133
+   Comments: 112
+   URL: https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot
+
+17. I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor
+   Points: 25
+   Comments: 21
+   URL: https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip
+
+18. Fedora Asahi Remix is now working on Apple M3
+   Points: 414
+   Comments: 155
+   URL: https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o
+
+19. France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.
+   Points: 500
+   Comments: 434
+   URL: https://twitter.com/lellouchenico/status/2015775970330882319
+
+20. Qwen3-Max-Thinking
+   Points: 411
+   Comments: 368
+   URL: https://qwen.ai/blog?id=qwen3-max-thinking
+
