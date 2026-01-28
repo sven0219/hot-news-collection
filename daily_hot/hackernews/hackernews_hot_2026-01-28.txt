@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-28
+==================================================
+
+1. Prism
+   Points: 393
+   Comments: 232
+   URL: https://openai.com/index/introducing-prism
+
+2. Rust's Standard Library on the GPU
+   Points: 51
+   Comments: 4
+   URL: https://www.vectorware.com/blog/rust-std-on-gpu/
+
+3. 430k-year-old well-preserved wooden tools are the oldest ever found
+   Points: 335
+   Comments: 190
+   URL: https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html
+
+4. A few random notes from Claude coding quite a bit last few weeks
+   Points: 287
+   Comments: 318
+   URL: https://twitter.com/karpathy/status/2015883857489522876
+
+5. Time Station Emulator
+   Points: 79
+   Comments: 17
+   URL: https://github.com/kangtastic/timestation
+
+6. Lennart Poettering, Christian Brauner founded a new company
+   Points: 215
+   Comments: 275
+   URL: https://amutable.com/about
+
+7. Try text scaling support in Chrome Canary
+   Points: 61
+   Comments: 14
+   URL: https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/
+
+8. Doing the thing is doing the thing
+   Points: 195
+   Comments: 76
+   URL: https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
+
+9. SoundCloud Data Breach Now on HaveIBeenPwned
+   Points: 141
+   Comments: 73
+   URL: https://haveibeenpwned.com/Breach/SoundCloud
+
+10. Show HN: I wrapped the Zorks with an LLM
+   Points: 65
+   Comments: 38
+   URL: https://infocom.tambo.co/
+
+11. Xfwl4 – The Roadmap for a Xfce Wayland Compositor
+   Points: 255
+   Comments: 196
+   URL: https://alexxcons.github.io/blogpost_15.html
+
+12. AI2: Open Coding Agents
+   Points: 110
+   Comments: 18
+   URL: https://allenai.org/blog/open-coding-agents
+
+13. FBI is investigating Minnesota Signal chats tracking ICE
+   Points: 496
+   Comments: 593
+   URL: https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041
+
+14. Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son
+   Points: 138
+   Comments: 21
+   URL: https://www.web3isgoinggreat.com/single/lick-theft
+
+15. Amazon closing its Fresh and Go stores
+   Points: 141
+   Comments: 353
+   URL: https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html
+
+16. Show HN: Fuzzy Studio – Apply live effects to videos/camera
+   Points: 15
+   Comments: 1
+   URL: https://fuzzy.ulyssepence.com/
+
+17. Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC
+   Points: 134
+   Comments: 79
+   URL: https://emsh.cat/one-human-one-agent-one-browser/
+
+18. Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/hypercubic/jobs
+
+19. Arrows to Arrows, Categories to Queries
+   Points: 18
+   Comments: 2
+   URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/
+
+20. TikTok settles just before social media addiction trial to begin
+   Points: 114
+   Comments: 121
+   URL: https://www.bbc.com/news/articles/c24g8v6qr1mo
+
