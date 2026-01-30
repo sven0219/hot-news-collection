@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-30
+==================================================
+
+1. PlayStation 2 Recompilation Project Is Absolutely Incredible
+   Points: 250
+   Comments: 103
+   URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/
+
+2. Project Genie: Experimenting with infinite, interactive worlds
+   Points: 432
+   Comments: 219
+   URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
+
+3. Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer
+   Points: 67
+   Comments: 29
+   URL: https://grid.space/stem/
+
+4. Claude Code daily benchmarks for degradation tracking
+   Points: 538
+   Comments: 263
+   URL: https://marginlab.ai/trackers/claude-code/
+
+5. Where to Sleep in LAX
+   Points: 69
+   Comments: 44
+   URL: https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax
+
+6. Drug trio found to block tumour resistance in pancreatic cancer
+   Points: 217
+   Comments: 110
+   URL: https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/
+
+7. Employers, please use postmarked letters for job applications
+   Points: 31
+   Comments: 19
+   URL: https://soapstone.mradford.com/employers-use-letters-for-job-applications/
+
+8. The WiFi only works when it's raining (2024)
+   Points: 59
+   Comments: 21
+   URL: https://predr.ag/blog/wifi-only-works-when-its-raining/
+
+9. Compressed Agents.md > Agent Skills
+   Points: 127
+   Comments: 63
+   URL: https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals
+
+10. Flameshot
+   Points: 109
+   Comments: 40
+   URL: https://github.com/flameshot-org/flameshot
+
+11. Cutting Up Curved Things (With Math)
+   Points: 16
+   Comments: 1
+   URL: https://campedersen.com/tessellation
+
+12. Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes
+   Points: 113
+   Comments: 131
+   URL: https://news.ycombinator.com/item?id=46812608
+
+13. What the Success of Coding Agents Teaches Us about AI Systems in General
+   Points: 11
+   Comments: 7
+   URL: https://softwarefordays.com/post/software-is-mostly-all-you-need/
+
+14. The Value of Things
+   Points: 57
+   Comments: 23
+   URL: https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/
+
+15. A lot of population numbers are fake
+   Points: 248
+   Comments: 224
+   URL: https://davidoks.blog/p/a-lot-of-population-numbers-are-fake
+
+16. The Rise and Impending Fall of the Dental Cavity
+   Points: 23
+   Comments: 2
+   URL: https://www.cremieux.xyz/p/the-rise-and-impending-fall-of-the
+
+17. Is the RAM shortage killing small VPS hosts?
+   Points: 109
+   Comments: 158
+   URL: https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/
+
+18. County pays $600k to pentesters it arrested for assessing courthouse security
+   Points: 286
+   Comments: 149
+   URL: https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/
+
+19. Waymo robotaxi hits a child near an elementary school in Santa Monica
+   Points: 296
+   Comments: 533
+   URL: https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/
+
+20. Run Clawdbot/Moltbot on Cloudflare with Moltworker
+   Points: 145
+   Comments: 54
+   URL: https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/
+
