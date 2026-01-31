@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-01-31
+==================================================
+
+1. Antirender: remove the glossy shine on architectural renderings
+   Points: 707
+   Comments: 167
+   URL: https://antirender.com/
+
+2. Peerweb: Decentralized website hosting via WebTorrent
+   Points: 150
+   Comments: 57
+   URL: https://peerweb.lol/
+
+3. Show HN: I built an AI conversation partner to practice speaking languages
+   Points: 39
+   Comments: 30
+   URL: https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177
+
+4. The $100B Megadeal Between OpenAI and Nvidia Is on Ice
+   Points: 64
+   Comments: 13
+   URL: https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3
+
+5. Kimi K2.5 Technical Report [pdf]
+   Points: 199
+   Comments: 87
+   URL: https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf
+
+6. Disrupting the largest residential proxy network
+   Points: 83
+   Comments: 68
+   URL: https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network
+
+7. Stonebraker on CAP theorem and Databases
+   Points: 7
+   Comments: 1
+   URL: https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/
+
+8. Ask HN: Why don't form-fitting Faraday iPhone cases exist?
+   Points: 13
+   Comments: 20
+   URL: https://news.ycombinator.com/item?id=46801488
+
+9. P vs. NP and the Difficulty of Computation: A ruliological approach
+   Points: 36
+   Comments: 39
+   URL: https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/
+
+10. HTTP Cats
+   Points: 200
+   Comments: 32
+   URL: https://http.cat/
+
+11. Moltbook
+   Points: 1264
+   Comments: 613
+   URL: https://www.moltbook.com/
+
+12. I trapped an AI model inside an art installation (2025) [video]
+   Points: 31
+   Comments: 4
+   URL: https://www.youtube.com/watch?v=7fNYj0EXxMs
+
+13. Ask HN: Do you also "hoard" notes/links but struggle to turn them into actions?
+   Points: 77
+   Comments: 37
+   URL: https://news.ycombinator.com/item?id=46826277
+
+14. How to explain Generative AI in the classroom
+   Points: 23
+   Comments: 3
+   URL: https://dalelane.co.uk/blog/?p=5847
+
+15. The engineer who invented the Mars rover suspension in his garage [video]
+   Points: 271
+   Comments: 41
+   URL: https://www.youtube.com/watch?v=QKSPk_0N4Jc
+
+16. Self Driving Car Insurance
+   Points: 93
+   Comments: 223
+   URL: https://www.lemonade.com/car/explained/self-driving-car-insurance/
+
+17. The National Herbarium of Ireland digital collection of Irish plants
+   Points: 91
+   Comments: 9
+   URL: https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/
+
+18. Roots is a game server daemon that manages Docker containers for game servers
+   Points: 11
+   Comments: 3
+   URL: https://github.com/SproutPanel/roots
+
+19. Email experiments: filtering out external images
+   Points: 38
+   Comments: 19
+   URL: https://www.terracrypt.net/posts/email-experiments-image-filtering.html
+
+20. 175K+ publicly-exposed Ollama AI instances discovered
+   Points: 11
+   Comments: 4
+   URL: https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now
+
