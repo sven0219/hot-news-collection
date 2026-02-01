@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-01
+==================================================
+
+1. Mobile carriers can get your GPS location
+   Points: 417
+   Comments: 277
+   URL: https://an.dywa.ng/carrier-gnss.html
+
+2. Scientist who helped eradicate smallpox dies at age 89
+   Points: 60
+   Comments: 15
+   URL: https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/
+
+3. Generative AI and Wikipedia editing: What we learned in 2025
+   Points: 59
+   Comments: 28
+   URL: https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/
+
+4. Demystifying ARM SME to Optimize General Matrix Multiplications
+   Points: 57
+   Comments: 13
+   URL: https://arxiv.org/abs/2512.21473
+
+5. Swift is a more convenient Rust
+   Points: 178
+   Comments: 149
+   URL: https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust
+
+6. Wikipedia: Sandbox
+   Points: 48
+   Comments: 8
+   URL: https://en.wikipedia.org/wiki/Wikipedia:Sandbox
+
+7. The Saddest Moment (2013) [pdf]
+   Points: 66
+   Comments: 15
+   URL: https://www.usenix.org/system/files/login-logout_1305_mickens.pdf
+
+8. Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.
+   Points: 41
+   Comments: 4
+   URL: https://github.com/zupat/related_post_gen
+
+9. Show HN: Minimal – Open-Source Community driven Hardened Container Images
+   Points: 64
+   Comments: 19
+   URL: https://github.com/rtvkiz/minimal
+
+10. Ferrari vs. Markets
+   Points: 31
+   Comments: 20
+   URL: https://ferrari-imports.enigmatechnologies.dev/
+
+11. In Praise of –dry-run
+   Points: 25
+   Comments: 10
+   URL: https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/
+
+12. Nintendo DS code editor and scriptable game engine
+   Points: 80
+   Comments: 19
+   URL: https://crl.io/ds-game-engine/
+
+13. Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep
+   Points: 35
+   Comments: 0
+   URL: https://minidump.net/writing-a-net-gc-in-c-part-6/
+
+14. CPython Internals Explained
+   Points: 165
+   Comments: 38
+   URL: https://github.com/zpoint/CPython-Internals
+
+15. CollectWise (YC F24) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer
+
+16. Finland to end "uncontrolled human experiment" with ban on youth social media
+   Points: 463
+   Comments: 335
+   URL: https://yle.fi/a/74-20207494
+
+17. The Spacecraft That Wouldn't Die
+   Points: 24
+   Comments: 7
+   URL: https://www.corememory.com/p/exclusive-theres-a-spaceship-epic-aerospace-chimera
+
+18. Genode OS is a tool kit for building highly secure special-purpose OS
+   Points: 104
+   Comments: 14
+   URL: https://genode.org/about/index
+
+19. Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out
+   Points: 128
+   Comments: 799
+   URL: https://www.moltbook.com/
+
+20. Giving up upstream-ing my patches and feel free to pick them up
+   Points: 132
+   Comments: 68
+   URL: https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html
+
