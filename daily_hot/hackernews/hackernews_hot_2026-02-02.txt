@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-02
+==================================================
+
+1. Defeating a 40-year-old copy protection dongle
+   Points: 203
+   Comments: 59
+   URL: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
+
+2. Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation
+   Points: 134
+   Comments: 39
+   URL: https://github.com/gavrielc/nanoclaw
+
+3. Apple I Advertisement (1976)
+   Points: 172
+   Comments: 109
+   URL: http://apple1.chez.com/Apple1project/Gallery/Gallery.htm
+
+4. My thousand dollar iPhone can't do math
+   Points: 121
+   Comments: 50
+   URL: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+
+5. Netbird – Open Source Zero Trust Networking
+   Points: 638
+   Comments: 241
+   URL: https://netbird.io/
+
+6. Adventure Game Studio: OSS software for creating adventure games
+   Points: 260
+   Comments: 49
+   URL: https://www.adventuregamestudio.co.uk/
+
+7. Treasures found on HS2 route stored in secret warehouse
+   Points: 9
+   Comments: 1
+   URL: https://www.bbc.com/news/articles/c93v21q5xdvo
+
+8. I taught my neighbor to keep the volume down
+   Points: 501
+   Comments: 195
+   URL: https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down
+
+9. Efficient String Compression for Modern Database Systems
+   Points: 78
+   Comments: 11
+   URL: https://cedardb.com/blog/string_compression/
+
+10. Founding is a snowball
+   Points: 25
+   Comments: 6
+   URL: https://blog.bawolf.com/p/founding-is-a-snowball
+
+11. Two kinds of AI users are emerging. The gap between them is astonishing
+   Points: 5
+   Comments: 0
+   URL: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+
+12. Typechecking is undecidable when 'type' is a type (1989) [pdf]
+   Points: 53
+   Comments: 28
+   URL: https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6
+
+13. Time Machine-style Backups with rsync (2018)
+   Points: 6
+   Comments: 0
+   URL: https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync
+
+14. Troublemaker: The fierce, unruly life of Jessica Mitford
+   Points: 6
+   Comments: 1
+   URL: https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things
+
+15. What I learned building an opinionated and minimal coding agent
+   Points: 344
+   Comments: 145
+   URL: https://mariozechner.at/posts/2025-11-30-pi-coding-agent/
+
+16. MicroPythonOS graphical operating system delivers Android-like user experience
+   Points: 173
+   Comments: 50
+   URL: https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/
+
+17. Clearspace (YC W23) Is Hiring an Applied Researcher (ML)
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace
+
+18. Building Your Own Efficient uint128 in C++
+   Points: 15
+   Comments: 0
+   URL: https://solidean.com/blog/2026/building-your-own-u128/
+
+19. A Crisis comes to Wordle: Reusing old words
+   Points: 43
+   Comments: 51
+   URL: https://forkingmad.blog/wordle-crisis/
+
+20. TIL: Apple Broke Time Machine Again on Tahoe
+   Points: 172
+   Comments: 94
+   URL: https://taoofmac.com/space/til/2026/02/01/1630
+
