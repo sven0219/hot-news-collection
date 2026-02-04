@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-04
+==================================================
+
+1. Lessons learned shipping 500 units of my first hardware product
+   Points: 248
+   Comments: 130
+   URL: https://www.simonberens.com/p/lessons-learned-shipping-500-units
+
+2. Data centers in space makes no sense
+   Points: 152
+   Comments: 242
+   URL: https://civai.org/blog/space-data-centers
+
+3. Show HN: Craftplan – I built my wife a production management tool for her bakery
+   Points: 43
+   Comments: 5
+   URL: https://github.com/puemos/craftplan
+
+4. Deno Sandbox
+   Points: 316
+   Comments: 110
+   URL: https://deno.com/blog/introducing-deno-sandbox
+
+5. Xcode 26.3 – Developers can leverage coding agents directly in Xcode
+   Points: 225
+   Comments: 186
+   URL: https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/
+
+6. FlashAttention-T: Towards Tensorized Attention
+   Points: 66
+   Comments: 32
+   URL: https://dl.acm.org/doi/10.1145/3774934.3786425
+
+7. AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines
+   Points: 138
+   Comments: 19
+   URL: https://github.com/alibaba/AliSQL
+
+8. Notepad++ supply chain attack breakdown
+   Points: 146
+   Comments: 70
+   URL: https://securelist.com/notepad-supply-chain-attack/118708/
+
+9. Agent Skills
+   Points: 361
+   Comments: 206
+   URL: https://agentskills.io/home
+
+10. 1,400-year-old tomb featuring giant owl sculpture discovered in Mexico
+   Points: 44
+   Comments: 4
+   URL: https://www.cnn.com/2026/01/29/science/zapotec-tomb-mexico-scli-intl
+
+11. Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust
+   Points: 186
+   Comments: 95
+   URL: https://github.com/j178/prek
+
+12. 221 Cannon is Not For Sale
+   Points: 158
+   Comments: 125
+   URL: https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/
+
+13. Qwen3-Coder-Next
+   Points: 562
+   Comments: 349
+   URL: https://qwen.ai/blog?id=qwen3-coder-next
+
+14. New York’s budget bill would require “blocking technology” on all 3D printers
+   Points: 188
+   Comments: 240
+   URL: https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/
+
+15. France dumps Zoom and Teams as Europe seeks digital autonomy from the US
+   Points: 764
+   Comments: 425
+   URL: https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060
+
+16. Illinois joins WHO global outbreak network after U.S. withdraws
+   Points: 60
+   Comments: 13
+   URL: https://capitolnewsillinois.com/news/illinois-joins-who-global-outbreak-network-after-u-s-withdraws/
+
+17. Y Combinator will let founders receive funds in stablecoins
+   Points: 65
+   Comments: 74
+   URL: https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/
+
+18. Puget Systems Most Reliable Hardware of 2025
+   Points: 80
+   Comments: 29
+   URL: https://www.pugetsystems.com/labs/articles/puget-systems-most-reliable-hardware-of-2025/
+
+19. Decompiling and rewriting a 2003 game from its binary in two weeks
+   Points: 9
+   Comments: 3
+   URL: https://banteg.xyz/posts/crimsonland/
+
+20. Bunny Database
+   Points: 245
+   Comments: 104
+   URL: https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/
+
