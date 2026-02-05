@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-05
+==================================================
+
+1. Voxtral Transcribe 2
+   Points: 706
+   Comments: 172
+   URL: https://mistral.ai/news/voxtral-transcribe-2
+
+2. As Rocks May Think
+   Points: 44
+   Comments: 23
+   URL: https://evjang.com/2026/02/04/rocks.html
+
+3. Claude Code: connect to a local model when your quota runs out
+   Points: 173
+   Comments: 77
+   URL: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/
+
+4. Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite
+   Points: 39
+   Comments: 8
+   URL: https://sqldef.github.io/
+
+5. Remarkable Pro Colors
+   Points: 55
+   Comments: 20
+   URL: https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/
+
+6. AI is killing B2B SaaS
+   Points: 203
+   Comments: 352
+   URL: https://nmn.gl/blog/ai-killing-b2b-saas
+
+7. Claude Code for Infrastructure
+   Points: 136
+   Comments: 114
+   URL: https://www.fluid.sh/
+
+8. OpenClaw Is What Apple Intelligence Should Have Been
+   Points: 6
+   Comments: 3
+   URL: https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been
+
+9. Building a 24-bit arcade CRT display adapter from scratch
+   Points: 116
+   Comments: 31
+   URL: https://www.scd31.com/posts/building-an-arcade-display-adapter
+
+10. Microsoft's Copilot chatbot is running into problems
+   Points: 103
+   Comments: 134
+   URL: https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28
+
+11. Tractor
+   Points: 142
+   Comments: 47
+   URL: https://incoherency.co.uk/blog/stories/tractor.html
+
+12. A real-world benchmark for AI code review
+   Points: 34
+   Comments: 14
+   URL: https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/
+
+13. Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation
+   Points: 146
+   Comments: 81
+   URL: https://arxiv.org/abs/2602.00294
+
+14. A sane but bull case on Clawdbot / OpenClaw
+   Points: 244
+   Comments: 388
+   URL: https://brandon.wang/2026/clawdbot
+
+15. Spotlighting the World Factbook as We Bid a Fond Farewell
+   Points: 78
+   Comments: 62
+   URL: https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/
+
+16. RS-SDK: Drive RuneScape with Claude Code
+   Points: 94
+   Comments: 39
+   URL: https://github.com/MaxBittker/rs-sdk
+
+17. Show HN: Morph – Videos of AI testing your PR, embedded in GitHub
+   Points: 18
+   Comments: 8
+   URL: https://morphllm.com/products/glance
+
+18. Data Poems
+   Points: 19
+   Comments: 4
+   URL: https://dr.eamer.dev/datavis/poems/
+
+19. Arcan-A12: Weaving a Different Web
+   Points: 48
+   Comments: 14
+   URL: https://www.divergent-desktop.org/blog/2026/01/26/a12web/
+
+20. Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)
+   Points: 1
+   Comments: 0
+   URL: https://www.runconverge.com/careers/product-engineer
+
