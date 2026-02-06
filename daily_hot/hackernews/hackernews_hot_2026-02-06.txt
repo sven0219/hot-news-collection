@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-06
+==================================================
+
+1. Claude Opus 4.6
+   Points: 1481
+   Comments: 648
+   URL: https://www.anthropic.com/news/claude-opus-4-6
+
+2. It's 2026, Just Use Postgres
+   Points: 292
+   Comments: 171
+   URL: https://www.tigerdata.com/blog/its-2026-just-use-postgres
+
+3. GPT-5.3-Codex
+   Points: 991
+   Comments: 382
+   URL: https://openai.com/index/introducing-gpt-5-3-codex/
+
+4. My AI Adoption Journey
+   Points: 280
+   Comments: 75
+   URL: https://mitchellh.com/writing/my-ai-adoption-journey
+
+5. We tasked Opus 4.6 using agent teams to build a C Compiler
+   Points: 340
+   Comments: 320
+   URL: https://www.anthropic.com/engineering/building-c-compiler
+
+6. Recreating Epstein PDFs from raw encoded attachments
+   Points: 181
+   Comments: 36
+   URL: https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/
+
+7. Review of 1984 by Isaac Asimov (1980)
+   Points: 70
+   Comments: 27
+   URL: https://www.newworker.org/ncptrory/1984.htm
+
+8. Animated Knots
+   Points: 28
+   Comments: 5
+   URL: https://www.animatedknots.com/
+
+9. Launching My Side Project as a Solo Dev: The Walkthrough
+   Points: 9
+   Comments: 0
+   URL: https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html
+
+10. MenuetOS – a GUI OS that boots from a single floppy disk
+   Points: 94
+   Comments: 12
+   URL: https://www.menuetos.net/
+
+11. LinkedIn checks for 2953 browser extensions
+   Points: 259
+   Comments: 128
+   URL: https://github.com/mdp/linkedin-extension-fingerprinting
+
+12. Orchestrate teams of Claude Code sessions
+   Points: 301
+   Comments: 157
+   URL: https://code.claude.com/docs/en/agent-teams
+
+13. Claude Opus 4.6 extra usage promo
+   Points: 89
+   Comments: 27
+   URL: https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo
+
+14. There Will Come Soft Rains (1950) [pdf]
+   Points: 133
+   Comments: 32
+   URL: https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf
+
+15. Flock CEO calls Deflock a “terrorist organization” (2025) [video]
+   Points: 426
+   Comments: 287
+   URL: https://www.youtube.com/watch?v=l-kZGrDz7PU
+
+16. OpenClaw: When AI Agents Get Full System Access. Security nightmare?
+   Points: 38
+   Comments: 19
+   URL: https://innfactory.ai:443/en/blog/openclaw-ai-agent-security/
+
+17. What's wrong with bunny hands on dinosaurs? (2018)
+   Points: 18
+   Comments: 12
+   URL: https://paleoaerie.org/2018/06/13/whats-wrong-with-bunny-hands-on-dinosaurs/
+
+18. PsiACE/Skills – A small, shared skill library
+   Points: 46
+   Comments: 4
+   URL: https://github.com/PsiACE/skills
+
+19. Ardour 9.0
+   Points: 225
+   Comments: 47
+   URL: https://ardour.org/whatsnew.html
+
+20. 150 MB Minimal FreeBSD Installation
+   Points: 126
+   Comments: 23
+   URL: https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/
+
