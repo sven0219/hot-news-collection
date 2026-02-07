@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-07
+==================================================
+
+1. OpenCiv3: Open-source, cross-platform reimagining of Civilization III
+   Points: 294
+   Comments: 52
+   URL: https://openciv3.org/
+
+2. The Waymo World Model
+   Points: 687
+   Comments: 431
+   URL: https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation
+
+3. Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox
+   Points: 99
+   Comments: 11
+   URL: https://github.com/valdanylchuk/breezydemo
+
+4. Monty: A minimal, secure Python interpreter written in Rust for use by AI
+   Points: 72
+   Comments: 30
+   URL: https://github.com/pydantic/monty
+
+5. Show HN: I spent 4 years building a UI design tool with only the features I use
+   Points: 213
+   Comments: 102
+   URL: https://vecti.com
+
+6. A century of hair samples proves leaded gas ban worked
+   Points: 19
+   Comments: 1
+   URL: https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/
+
+7. Microsoft open-sources LiteBox, a security-focused library OS
+   Points: 289
+   Comments: 141
+   URL: https://github.com/microsoft/litebox
+
+8. Show HN: R3forth, a ColorForth-inspired language with a tiny VM
+   Points: 36
+   Comments: 6
+   URL: https://github.com/phreda4/r3
+
+9. Sheldon Brown's Bicycle Technical Info
+   Points: 283
+   Comments: 70
+   URL: https://www.sheldonbrown.com/
+
+10. Show HN: If you lose your memory, how to regain access to your computer?
+   Points: 120
+   Comments: 109
+   URL: https://eljojo.github.io/rememory/
+
+11. Hackers (1995) Animated Experience
+   Points: 352
+   Comments: 204
+   URL: https://hackers-1995.vercel.app/
+
+12. I spent 5 years in DevOps – Solutions engineering gave me what I was missing
+   Points: 86
+   Comments: 23
+   URL: https://infisical.com/blog/devops-to-solutions-engineering
+
+13. How to effectively write quality code with AI
+   Points: 143
+   Comments: 109
+   URL: https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/
+
+14. Learning from context is harder than we thought
+   Points: 127
+   Comments: 69
+   URL: https://hy.tencent.com/research/100025?langVersion=en
+
+15. An Update on Heroku
+   Points: 275
+   Comments: 206
+   URL: https://www.heroku.com/blog/an-update-on-heroku/
+
+16. Early Christian Writings
+   Points: 123
+   Comments: 53
+   URL: https://earlychristianwritings.com/
+
+17. FORTH? Really!?
+   Points: 22
+   Comments: 7
+   URL: https://rescrv.net/w/2026/02/06/associative
+
+18. Understanding Neural Network, Visually
+   Points: 214
+   Comments: 28
+   URL: https://visualrambling.space/neural-network/
+
+19. Claude Composer
+   Points: 79
+   Comments: 55
+   URL: https://www.josh.ing/blog/claude-composer
+
+20. Evaluating and mitigating the growing risk of LLM-discovered 0-days
+   Points: 24
+   Comments: 9
+   URL: https://red.anthropic.com/2026/zero-days/
+
