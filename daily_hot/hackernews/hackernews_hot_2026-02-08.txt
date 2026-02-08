@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-08
+==================================================
+
+1. Tiny C Compiler
+   Points: 110
+   Comments: 47
+   URL: https://bellard.org/tcc/
+
+2. SectorC: A C Compiler in 512 bytes
+   Points: 193
+   Comments: 36
+   URL: https://xorvoid.com/sectorc.html
+
+3. Speed up responses with fast mode
+   Points: 114
+   Comments: 117
+   URL: https://code.claude.com/docs/en/fast-mode
+
+4. Brookhaven Lab's RHIC concludes 25-year run with final collisions
+   Points: 44
+   Comments: 45
+   URL: https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/
+
+5. Software factories and the agentic moment
+   Points: 134
+   Comments: 282
+   URL: https://factory.strongdm.ai/
+
+6. OpenCiv3: Open-source, cross-platform reimagining of Civilization III
+   Points: 880
+   Comments: 270
+   URL: https://openciv3.org/
+
+7. Stories from 25 Years of Software Development
+   Points: 132
+   Comments: 15
+   URL: https://susam.net/twenty-five-years-of-computing.html
+
+8. Hoot: Scheme on WebAssembly
+   Points: 166
+   Comments: 29
+   URL: https://www.spritely.institute/hoot/
+
+9. FDA intends to take action against non-FDA-approved GLP-1 drugs
+   Points: 63
+   Comments: 96
+   URL: https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs
+
+10. First Proof
+   Points: 98
+   Comments: 65
+   URL: https://arxiv.org/abs/2602.05192
+
+11. I write games in C (yes, C) (2016)
+   Points: 173
+   Comments: 154
+   URL: https://jonathanwhiting.com/writing/blog/games_in_c/
+
+12. Vocal Guide – belt sing without killing yourself
+   Points: 269
+   Comments: 86
+   URL: https://jesperordrup.github.io/vocal-guide/
+
+13. Al Lowe on model trains, funny deaths and working with Disney
+   Points: 85
+   Comments: 18
+   URL: https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/
+
+14. The F Word
+   Points: 97
+   Comments: 49
+   URL: http://muratbuffalo.blogspot.com/2026/02/friction.html
+
+15. Show HN: A luma dependent chroma compression algorithm (image compression)
+   Points: 28
+   Comments: 2
+   URL: https://www.bitsnbites.eu/a-spatial-domain-variable-block-size-luma-dependent-chroma-compression-algorithm/
+
+16. Eigen: Building a Workspace
+   Points: 5
+   Comments: 1
+   URL: https://reindernijhoff.net/2025/10/eigen-building-a-workspace/
+
+17. Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version
+   Points: 53
+   Comments: 10
+   URL: https://github.com/Momciloo/fun-with-clip-path
+
+18. Start all of your commands with a comma (2009)
+   Points: 550
+   Comments: 204
+   URL: https://rhodesmill.org/brandon/2009/commands-with-comma/
+
+19. Microsoft account bugs locked me out of Notepad – Are thin clients ruining PCs?
+   Points: 86
+   Comments: 109
+   URL: https://www.windowscentral.com/microsoft/windows-11/windows-locked-me-out-of-notepad-is-the-thin-client-era-ruining-pcs
+
+20. The AI boom is causing shortages everywhere else
+   Points: 252
+   Comments: 395
+   URL: https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/
+
