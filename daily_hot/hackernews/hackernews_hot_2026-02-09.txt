@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-09
+==================================================
+
+1. Vouch
+   Points: 580
+   Comments: 258
+   URL: https://github.com/mitchellh/vouch
+
+2. AI makes the easy part easier and the hard part harder
+   Points: 101
+   Comments: 81
+   URL: https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder
+
+3. Reverse Engineering the Prom for the SGI O2
+   Points: 36
+   Comments: 8
+   URL: https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/
+
+4. More Mac malware from Google search
+   Points: 65
+   Comments: 36
+   URL: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
+
+5. Apple XNU: Clutch Scheduler
+   Points: 76
+   Comments: 13
+   URL: https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md
+
+6. Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization (2025)
+   Points: 120
+   Comments: 103
+   URL: https://arxiv.org/abs/2510.25417
+
+7. Ask HN: What are you working on? (February 2026)
+   Points: 56
+   Comments: 169
+   URL: https://news.ycombinator.com/item?id=46937696
+
+8. Roundcube Webmail: SVG feImage bypasses image blocking to track email opens
+   Points: 100
+   Comments: 24
+   URL: https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/
+
+9. The Little Bool of Doom (2025)
+   Points: 77
+   Comments: 28
+   URL: https://blog.svgames.pl/article/the-little-bool-of-doom
+
+10. Show HN: I created a Mars colony RPG based on Kim Stanley Robinson's Mars books
+   Points: 129
+   Comments: 53
+   URL: https://underhillgame.com/
+
+11. Toma (YC W24) Is Hiring Founding Engineers
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products
+
+12. A GTA modder has got the 1997 original working on modern PCs and Steam Deck
+   Points: 120
+   Comments: 49
+   URL: https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/
+
+13. Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing
+   Points: 136
+   Comments: 51
+   URL: https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/
+
+14. Quartz Crystals
+   Points: 7
+   Comments: 0
+   URL: https://www.pa3fwm.nl/technotes/tn13a.html
+
+15. Exploiting signed bootloaders to circumvent UEFI Secure Boot
+   Points: 92
+   Comments: 54
+   URL: https://habr.com/en/articles/446238/
+
+16. Dave Farber has died
+   Points: 204
+   Comments: 33
+   URL: https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/
+
+17. RFC 3092 – Etymology of "Foo" (2001)
+   Points: 122
+   Comments: 31
+   URL: https://datatracker.ietf.org/doc/html/rfc3092
+
+18. I put a real-time 3D shader on the Game Boy Color
+   Points: 241
+   Comments: 33
+   URL: https://blog.otterstack.com/posts/202512-gbshader/
+
+19. GitHub Agentic Workflows
+   Points: 202
+   Comments: 111
+   URL: https://github.github.io/gh-aw/
+
+20. Omega-3 is inversely related to risk of early-onset dementia
+   Points: 232
+   Comments: 136
+   URL: https://pubmed.ncbi.nlm.nih.gov/41506004/
+
