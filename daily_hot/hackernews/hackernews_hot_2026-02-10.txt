@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-10
+==================================================
+
+1. Discord will require a face scan or ID for full access next month
+   Points: 1149
+   Comments: 1151
+   URL: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+
+2. The shadowy world of abandoned oil tankers
+   Points: 39
+   Comments: 8
+   URL: https://www.bbc.com/news/articles/cddg885344do
+
+3. What Functional Programmers Get Wrong About Systems
+   Points: 12
+   Comments: 1
+   URL: https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/
+
+4. Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock
+   Points: 387
+   Comments: 130
+   URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
+
+5. Why is the sky blue?
+   Points: 397
+   Comments: 144
+   URL: https://explainers.blog/posts/why-is-the-sky-blue/
+
+6. Hard-braking events as indicators of road segment crash risk
+   Points: 198
+   Comments: 300
+   URL: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/
+
+7. Stop Using Icons in Data Tables
+   Points: 56
+   Comments: 16
+   URL: https://medium.com/@codythistleward/stop-using-icons-in-data-tables-7537af18ea0d
+
+8. LiftKit – UI where "everything derives from the golden ratio"
+   Points: 42
+   Comments: 15
+   URL: https://www.chainlift.io/liftkit
+
+9. How I've run major projects (2025)
+   Points: 95
+   Comments: 11
+   URL: https://www.benkuhn.net/pjm/
+
+10. Game Theory Patterns at Work (2016)
+   Points: 20
+   Comments: 0
+   URL: https://daeus.blog/2026/01/18/game-theory-patterns-at-work/
+
+11. Expansion Microscopy Has Transformed How We See the Cellular World
+   Points: 42
+   Comments: 3
+   URL: https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-we-see-the-cellular-world-20260204/
+
+12. UEFI Bindings for JavaScript
+   Points: 199
+   Comments: 98
+   URL: https://codeberg.org/smnx/promethee
+
+13. Everyone’s building “async agents,” but almost no one can define them
+   Points: 18
+   Comments: 17
+   URL: https://www.omnara.com/blog/what-is-an-async-agent-really
+
+14. Sandboxels
+   Points: 145
+   Comments: 27
+   URL: https://neal.fun/sandboxels/
+
+15. Game Boy Advance Audio Interpolation
+   Points: 67
+   Comments: 28
+   URL: https://jsgroth.dev/blog/posts/gba-audio-interpolation/
+
+16. Thoughts on Generating C
+   Points: 194
+   Comments: 59
+   URL: https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c
+
+17. Information Is Beautiful
+   Points: 108
+   Comments: 11
+   URL: https://informationisbeautiful.net/
+
+18. F# 10
+   Points: 58
+   Comments: 7
+   URL: https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/
+
+19. Show HN: Algorithmically finding the longest line of sight on Earth
+   Points: 367
+   Comments: 147
+   URL: https://alltheviews.world
+
+20. Data exfil from agents in messaging apps
+   Points: 9
+   Comments: 3
+   URL: https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test)
+
