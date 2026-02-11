@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-11
+==================================================
+
+1. The Day the Telnet Died
+   Points: 130
+   Comments: 72
+   URL: https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/
+
+2. The Feynman Lectures on Physics (1961-1964)
+   Points: 74
+   Comments: 13
+   URL: https://www.feynmanlectures.caltech.edu/
+
+3. The Singularity will occur on a Tuesday
+   Points: 810
+   Comments: 464
+   URL: https://campedersen.com/singularity
+
+4. Ex-GitHub CEO launches a new developer platform for AI agents
+   Points: 309
+   Comments: 278
+   URL: https://entire.io/blog/hello-entire-world/
+
+5. The Little Learner: A Straight Line to Deep Learning
+   Points: 72
+   Comments: 9
+   URL: https://mitpress.mit.edu/9780262546379/the-little-learner/
+
+6. The Falkirk Wheel
+   Points: 40
+   Comments: 16
+   URL: https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel
+
+7. My eighth year as a bootstrapped founder
+   Points: 122
+   Comments: 49
+   URL: https://mtlynch.io/bootstrapped-founder-year-8/
+
+8. Clean-room implementation of Half-Life 2 on the Quake 1 engine
+   Points: 325
+   Comments: 64
+   URL: https://code.idtech.space/fn/hl2
+
+9. Tambo 1.0: Open-source toolkit for agents that render React components
+   Points: 40
+   Comments: 6
+   URL: https://github.com/tambo-ai/tambo
+
+10. Simplifying Vulkan one subsystem at a time
+   Points: 206
+   Comments: 142
+   URL: https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time
+
+11. Mathematicians disagree on the essential structure of the complex numbers (2024)
+   Points: 145
+   Comments: 192
+   URL: https://www.infinitelymore.xyz/p/complex-numbers-essential-structure
+
+12. How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?
+   Points: 107
+   Comments: 77
+   URL: https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052
+
+13. Qwen-Image-2.0: Professional infographics, exquisite photorealism
+   Points: 380
+   Comments: 160
+   URL: https://qwen.ai/blog?id=qwen-image-2.0
+
+14. Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)
+   Points: 107
+   Comments: 28
+   URL: https://github.com/rowboatlabs/rowboat
+
+15. Google handed ICE student journalist's bank and credit card numbers
+   Points: 638
+   Comments: 255
+   URL: https://theintercept.com/2026/02/10/google-ice-subpoena-student-journalist/
+
+16. A brief history of oral peptides
+   Points: 74
+   Comments: 25
+   URL: https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides
+
+17. Competition is not market validation
+   Points: 58
+   Comments: 23
+   URL: https://www.ablg.io/blog/competition-is-not-validation
+
+18. Willow – Protocols for an uncertain future [video]
+   Points: 3
+   Comments: 0
+   URL: https://fosdem.org/2026/schedule/event/CVGZAV-willow/
+
+19. Markdown CLI viewer with VI keybindings
+   Points: 55
+   Comments: 21
+   URL: https://github.com/taf2/mdvi
+
+20. Show HN: JavaScript-first, open-source WYSIWYG DOCX editor
+   Points: 31
+   Comments: 3
+   URL: https://github.com/eigenpal/docx-js-editor
+
