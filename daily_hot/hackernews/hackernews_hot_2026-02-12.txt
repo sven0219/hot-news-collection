@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-12
+==================================================
+
+1. Discord/Twitch/Snapchat age verification bypass
+   Points: 250
+   Comments: 134
+   URL: https://age-verifier.kibty.town/
+
+2. GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment
+   Points: 86
+   Comments: 62
+   URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012
+
+3. Fluorite – A console-grade game engine fully integrated with Flutter
+   Points: 387
+   Comments: 226
+   URL: https://fluorite.game/
+
+4. Text classification with Python 3.14's ZSTD module
+   Points: 71
+   Comments: 11
+   URL: https://maxhalford.github.io/blog/text-classification-zstd/
+
+5. GLM-5: Targeting complex systems engineering and long-horizon agentic tasks
+   Points: 236
+   Comments: 394
+   URL: https://z.ai/blog/glm-5
+
+6. "Nothing" is the secret to structuring your work
+   Points: 40
+   Comments: 8
+   URL: https://www.vangemert.dev/blog/nothing
+
+7. NetNewsWire Turns 23
+   Points: 196
+   Comments: 47
+   URL: https://netnewswire.blog/2026/02/11/netnewswire-turns.html
+
+8. Reports of Telnet's Death Have Been Greatly Exaggerated
+   Points: 20
+   Comments: 3
+   URL: https://www.terracenetworks.com/blog/2026-02-11-telnet-routing
+
+9. Claude Code is being dumbed down?
+   Points: 717
+   Comments: 492
+   URL: https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/
+
+10. Microwave Oven Failure: Spontaneously turned on by its LED display (2024)
+   Points: 64
+   Comments: 25
+   URL: https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/
+
+11. Hacking the last Z80 computer – FOSDEM 2026 [video]
+   Points: 18
+   Comments: 2
+   URL: https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/
+
+12. WiFi Could Become an Invisible Mass Surveillance System
+   Points: 290
+   Comments: 146
+   URL: https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/
+
+13. Components will kill pages
+   Points: 32
+   Comments: 21
+   URL: https://bitsandbytes.dev/posts/components-will-kill-pages
+
+14. Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents
+   Points: 5
+   Comments: 0
+   URL: https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md
+
+15. Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance
+   Points: 396
+   Comments: 223
+   URL: https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash
+
+16. GLM-OCR – A multimodal OCR model for complex document understanding
+   Points: 217
+   Comments: 65
+   URL: https://github.com/zai-org/GLM-OCR
+
+17. Show HN: Agent framework that generates its own topology and evolves at runtime
+   Points: 29
+   Comments: 10
+   URL: https://github.com/adenhq/hive/blob/main/README.md
+
+18. Ireland rolls out basic income scheme for artists
+   Points: 108
+   Comments: 109
+   URL: https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/
+
+19. We rendered and embedded one million CAD files
+   Points: 93
+   Comments: 40
+   URL: https://cad-search-three.vercel.app/
+
+20. Officials Claim Drone Incursion Led to Shutdown of El Paso Airport
+   Points: 322
+   Comments: 509
+   URL: https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html
+
