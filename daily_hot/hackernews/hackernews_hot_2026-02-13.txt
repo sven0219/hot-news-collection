@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-13
+==================================================
+
+1. Resizing windows on macOS Tahoe – the saga continues
+   Points: 64
+   Comments: 33
+   URL: https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/
+
+2. GPT‑5.3‑Codex‑Spark
+   Points: 529
+   Comments: 216
+   URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/
+
+3. Gemini 3 Deep Think
+   Points: 624
+   Comments: 377
+   URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/
+
+4. AWS Adds support for nested virtualization
+   Points: 33
+   Comments: 10
+   URL: https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e
+
+5. An AI agent published a hit piece on me
+   Points: 1406
+   Comments: 600
+   URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+
+6. Ring cancels its partnership with Flock Safety after surveillance backlash
+   Points: 98
+   Comments: 37
+   URL: https://www.theverge.com/news/878447/ring-flock-partnership-canceled
+
+7. Polis: Open-source platform for large-scale civic deliberation
+   Points: 165
+   Comments: 66
+   URL: https://pol.is/home2
+
+8. My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood
+   Points: 20
+   Comments: 1
+   URL: https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/
+
+9. Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed
+   Points: 550
+   Comments: 221
+   URL: http://blog.can.ac/2026/02/12/the-harness-problem/
+
+10. Major European payment processor can't send email to Google Workspace users
+   Points: 447
+   Comments: 299
+   URL: https://atha.io/blog/2026-02-12-viva
+
+11. Recoverable and Irrecoverable Decisions
+   Points: 23
+   Comments: 6
+   URL: https://herbertlui.net/recoverable-and-irrecoverable-decisions/
+
+12. Beginning fully autonomous operations with the 6th-generation Waymo driver
+   Points: 149
+   Comments: 141
+   URL: https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver
+
+13. Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere
+   Points: 94
+   Comments: 123
+   URL: https://news.ycombinator.com/item?id=46991591
+
+14. Rari – Rust-powered React framework
+   Points: 94
+   Comments: 48
+   URL: https://rari.build/
+
+15. Apache Arrow is 10 years old
+   Points: 182
+   Comments: 45
+   URL: https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/
+
+16. Fixing retail with land value capture
+   Points: 53
+   Comments: 93
+   URL: https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/
+
+17. How to Have a Bad Career – David Patterson (2016) [video]
+   Points: 52
+   Comments: 14
+   URL: https://www.youtube.com/watch?v=Rn1w4MRHIhc
+
+18. Anthropic raises $30B in Series G funding at $380B post-money valuation
+   Points: 243
+   Comments: 263
+   URL: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
+
+19. How a Cat Debugged Stable Diffusion (2023)
+   Points: 4
+   Comments: 0
+   URL: https://blog.dwac.dev/posts/cat-debugging/
+
+20. A brief history of barbed wire fence telephone networks (2024)
+   Points: 126
+   Comments: 35
+   URL: https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/
+
