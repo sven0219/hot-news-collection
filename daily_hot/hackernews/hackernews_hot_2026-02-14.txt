@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-14
+==================================================
+
+1. The evolution of OpenAI's mission statement
+   Points: 99
+   Comments: 57
+   URL: https://simonwillison.net/2026/Feb/13/openai-mission-statement/
+
+2. Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts
+   Points: 142
+   Comments: 68
+   URL: https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html
+
+3. GPT-5.2 derives a new result in theoretical physics
+   Points: 353
+   Comments: 247
+   URL: https://openai.com/index/new-result-theoretical-physics/
+
+4. Show HN: Data Engineering Book – An open source, community-driven guide
+   Points: 50
+   Comments: 6
+   URL: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+
+5. Building a TUI is easy now
+   Points: 104
+   Comments: 78
+   URL: https://hatchet.run/blog/tuis-are-easy-now
+
+6. Font Rendering from First Principles
+   Points: 77
+   Comments: 7
+   URL: https://mccloskeybr.com/articles/font_rendering.html
+
+7. Gradient.horse
+   Points: 18
+   Comments: 8
+   URL: https://gradient.horse
+
+8. Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs
+   Points: 85
+   Comments: 24
+   URL: https://cloudrouter.dev/
+
+9. The EU moves to kill infinite scrolling
+   Points: 269
+   Comments: 228
+   URL: https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/
+
+10. gRPC: From service definition to wire format
+   Points: 75
+   Comments: 3
+   URL: https://kreya.app/blog/grpc-deep-dive/
+
+11. Common Lisp Screenshots: today's CL applications in action
+   Points: 16
+   Comments: 3
+   URL: http://www.lisp-screenshots.org
+
+12. Monosketch
+   Points: 695
+   Comments: 126
+   URL: https://monosketch.io/
+
+13. I'm not worried about AI job loss
+   Points: 128
+   Comments: 239
+   URL: https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss
+
+14. How did the Maya survive?
+   Points: 101
+   Comments: 74
+   URL: https://www.theguardian.com/news/2026/feb/12/apocalypse-no-how-almost-everything-we-thought-we-knew-about-the-maya-is-wrong
+
+15. Show HN: Moltis – AI assistant with memory, tools, and self-extending skills
+   Points: 69
+   Comments: 24
+   URL: https://www.moltis.org
+
+16. The "AI agent hit piece" situation clarifies how dumb we are acting
+   Points: 129
+   Comments: 62
+   URL: https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/
+
+17. Fix the iOS keyboard before the timer hits zero or I'm switching back to Android
+   Points: 1282
+   Comments: 643
+   URL: https://ios-countdown.win/
+
+18. Advanced Aerial Robotics Made Simple
+   Points: 102
+   Comments: 9
+   URL: https://www.drehmflight.com
+
+19. CSS-Doodle
+   Points: 122
+   Comments: 13
+   URL: https://css-doodle.com/
+
+20. WolfSSL sucks too, so now what?
+   Points: 68
+   Comments: 48
+   URL: https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/
+
