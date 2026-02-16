@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-16
+==================================================
+
+1. I’m joining OpenAI
+   Points: 464
+   Comments: 344
+   URL: https://steipete.me/posts/2026/openclaw
+
+2. Magnus Carlsen Wins the Freestyle (Chess960) World Championship
+   Points: 99
+   Comments: 33
+   URL: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/
+
+3. LT6502: A 6502-based homebrew laptop
+   Points: 294
+   Comments: 123
+   URL: https://github.com/TechPaula/LT6502
+
+4. Error payloads in Zig
+   Points: 25
+   Comments: 0
+   URL: https://srcreigh.ca/posts/error-payloads-in-zig/
+
+5. Radio host David Greene says Google's NotebookLM tool stole his voice
+   Points: 78
+   Comments: 50
+   URL: https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/
+
+6. Modern CSS Code Snippets: Stop writing CSS like it's 2015
+   Points: 193
+   Comments: 73
+   URL: https://modern-css.com
+
+7. Audio is the one area small labs are winning
+   Points: 75
+   Comments: 12
+   URL: https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai
+
+8. I fixed Windows native development
+   Points: 651
+   Comments: 320
+   URL: https://marler8997.github.io/blog/fixed-windows/
+
+9. I gave Claude access to my pen plotter
+   Points: 67
+   Comments: 29
+   URL: https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+
+10. Pink noise reduces REM sleep and may harm sleep quality
+   Points: 8
+   Comments: 0
+   URL: https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality
+
+11. EU bans the destruction of unsold apparel, clothing, accessories and footwear
+   Points: 760
+   Comments: 504
+   URL: https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en
+
+12. GNU Pies – Program Invocation and Execution Supervisor
+   Points: 56
+   Comments: 41
+   URL: https://www.gnu.org.ua/software/pies/
+
+13. Show HN: Klaw.sh – Kubernetes for AI agents
+   Points: 26
+   Comments: 15
+   URL: https://github.com/klawsh/klaw.sh
+
+14. Pocketblue – Fedora Atomic for mobile devices
+   Points: 47
+   Comments: 8
+   URL: https://github.com/pocketblue/pocketblue
+
+15. Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI
+   Points: 60
+   Comments: 10
+   URL: https://github.com/gpasquero/voog
+
+16. Show HN: Microgpt is a GPT you can visualize in the browser
+   Points: 85
+   Comments: 8
+   URL: https://microgpt.boratto.ca
+
+17. True Nature: The Lives of Peter Matthiessen
+   Points: 10
+   Comments: 3
+   URL: https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club
+
+18. Real-time PathTracing with global illumination in WebGL
+   Points: 117
+   Comments: 10
+   URL: https://erichlof.github.io/THREE.js-PathTracing-Renderer/
+
+19. Why I don't think AGI is imminent
+   Points: 19
+   Comments: 23
+   URL: https://dlants.me/agi-not-imminent.html
+
+20. Transforming a Clojure Database into a Library with GraalVM Native Image and FFI
+   Points: 5
+   Comments: 0
+   URL: https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/
+
