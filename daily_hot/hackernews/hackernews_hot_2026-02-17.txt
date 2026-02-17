@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-17
+==================================================
+
+1. Study: Self-generated Agent Skills are useless
+   Points: 225
+   Comments: 103
+   URL: https://arxiv.org/abs/2602.12670
+
+2. 14-year-old Miles Wu folded origami pattern that holds 10k times its own weight
+   Points: 386
+   Comments: 76
+   URL: https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/
+
+3. AI is destroying Open Source, and it's not even good yet
+   Points: 15
+   Comments: 5
+   URL: https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/
+
+4. Show HN: Scanned 1927-1945 Daily USFS Work Diary
+   Points: 38
+   Comments: 4
+   URL: https://forestrydiary.com/
+
+5. Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue
+   Points: 83
+   Comments: 41
+   URL: https://github.com/zachlatta/freeflow
+
+6. Rise of the Triforce
+   Points: 62
+   Comments: 6
+   URL: https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/
+
+7. Dark web agent spotted bedroom wall clue to rescue girl from abuse
+   Points: 4
+   Comments: 1
+   URL: https://www.bbc.com/news/articles/cx2gn239exlo
+
+8. Testing Postgres race conditions with synchronization barriers
+   Points: 60
+   Comments: 27
+   URL: https://www.lirbank.com/harnessing-postgres-race-conditions
+
+9. Nvidia with unusually fast coding model on plate-sized chips
+   Points: 19
+   Comments: 21
+   URL: https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/
+
+10. Visual Introduction to PyTorch
+   Points: 116
+   Comments: 12
+   URL: https://0byte.io/articles/pytorch_introduction.html
+
+11. What your Bluetooth devices reveal
+   Points: 295
+   Comments: 113
+   URL: https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
+
+12. Suicide Linux (2009)
+   Points: 77
+   Comments: 47
+   URL: https://qntm.org/suicide
+
+13. Running NanoClaw in a Docker Shell Sandbox
+   Points: 51
+   Comments: 17
+   URL: https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/
+
+14. Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker
+   Points: 1
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=47040268
+
+15. PascalABC.net
+   Points: 24
+   Comments: 5
+   URL: https://pascalabc.net:443/en
+
+16. State of Show HN: 2025
+   Points: 55
+   Comments: 8
+   URL: https://blog.sturdystatistics.com/posts/show_hn/
+
+17. PCB Rework and Repair Guide [pdf]
+   Points: 85
+   Comments: 22
+   URL: https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf
+
+18. Show HN: Jemini – Gemini for the Epstein Files
+   Points: 248
+   Comments: 48
+   URL: https://jmail.world/jemini
+
+19. Hear the "Amati King Cello", the Oldest Known Cello in Existence
+   Points: 4
+   Comments: 1
+   URL: https://www.openculture.com/2021/06/hear-the-amati-king-cello-the-oldest-known-cello-in-existence-c-1560.html
+
+20. Qwen3.5: Towards Native Multimodal Agents
+   Points: 374
+   Comments: 179
+   URL: https://qwen.ai/blog?id=qwen3.5
+
