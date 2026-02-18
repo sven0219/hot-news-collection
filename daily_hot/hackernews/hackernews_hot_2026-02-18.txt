@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-18
+==================================================
+
+1. Claude Sonnet 4.6
+   Points: 826
+   Comments: 723
+   URL: https://www.anthropic.com/news/claude-sonnet-4-6
+
+2. Thank HN: You helped save 33k lives
+   Points: 344
+   Comments: 43
+   URL: https://news.ycombinator.com/item?id=47049824
+
+3. BarraCUDA Open-source CUDA compiler targeting AMD GPUs
+   Points: 131
+   Comments: 47
+   URL: https://github.com/Zaneham/BarraCUDA
+
+4. Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway
+   Points: 258
+   Comments: 31
+   URL: https://asteroidos.org/news/2-0-release/index.html
+
+5. Rathbun's Operator
+   Points: 27
+   Comments: 7
+   URL: https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html
+
+6. Gentoo on Codeberg
+   Points: 246
+   Comments: 75
+   URL: https://www.gentoo.org/news/2026/02/16/codeberg.html
+
+7. Using go fix to modernize Go code
+   Points: 270
+   Comments: 60
+   URL: https://go.dev/blog/gofix
+
+8. I swear the UFO is coming any minute
+   Points: 80
+   Comments: 16
+   URL: https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute
+
+9. So you want to build a tunnel
+   Points: 157
+   Comments: 65
+   URL: https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel
+
+10. Async/Await on the GPU
+   Points: 148
+   Comments: 44
+   URL: https://www.vectorware.com/blog/async-await-on-gpu/
+
+11. GrapheneOS – Break Free from Google and Apple
+   Points: 1053
+   Comments: 751
+   URL: https://blog.tomaszdunia.pl/grapheneos-eng/
+
+12. Physicists Make Electrons Flow Like Water
+   Points: 73
+   Comments: 8
+   URL: https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-20260211/
+
+13. Assistant to the Regional Manager
+   Points: 52
+   Comments: 16
+   URL: https://smallpotatoes.paulbloom.net/p/assistant-to-the-regional-manager
+
+14. Structured AI (YC F25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern
+
+15. Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript
+   Points: 38
+   Comments: 18
+   URL: https://github.com/n-e/pg-typesafe
+
+16. Show HN: I wrote a technical history book on Lisp
+   Points: 150
+   Comments: 51
+   URL: https://berksoft.ca/gol/
+
+17. I converted 2D conventional flight tracking into 3D
+   Points: 208
+   Comments: 42
+   URL: https://aeris.edbn.me/?city=SFO
+
+18. HackMyClaw
+   Points: 247
+   Comments: 130
+   URL: https://hackmyclaw.com/
+
+19. Is Show HN dead? No, but it's drowning
+   Points: 390
+   Comments: 337
+   URL: https://www.arthurcnops.blog/death-of-show-hn/
+
+20. 'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia
+   Points: 15
+   Comments: 1
+   URL: https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/
+
