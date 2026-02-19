@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-19
+==================================================
+
+1. Ladybird: Closing this as we are no longer pursuing Swift adoption
+   Points: 134
+   Comments: 71
+   URL: https://github.com/LadybirdBrowser/ladybird/issues/933
+
+2. Sizing chaos
+   Points: 246
+   Comments: 131
+   URL: https://pudding.cool/2026/02/womens-sizing/
+
+3. 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
+   Points: 119
+   Comments: 66
+   URL: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
+
+4. Cosmologically Unique IDs
+   Points: 269
+   Comments: 81
+   URL: https://jasonfantl.com/posts/Universal-Unique-IDs/
+
+5. Zero-day CSS: CVE-2026-2441 exists in the wild
+   Points: 246
+   Comments: 134
+   URL: https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html
+
+6. Tailscale Peer Relays is now generally available
+   Points: 313
+   Comments: 169
+   URL: https://tailscale.com/blog/peer-relays-ga
+
+7. DNS-Persist-01: A New Model for DNS-Based Challenge Validation
+   Points: 181
+   Comments: 90
+   URL: https://letsencrypt.org/2026/02/18/dns-persist-01.html
+
+8. R3forth: A concatenative language derived from ColorForth
+   Points: 50
+   Comments: 8
+   URL: https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md
+
+9. The Perils of ISBN
+   Points: 60
+   Comments: 29
+   URL: https://rygoldstein.com/posts/perils-of-isbn
+
+10. Show HN: Rebrain.gg – Doom learn, don't doom scroll
+   Points: 37
+   Comments: 17
+   URL: https://news.ycombinator.com/item?id=47060220
+
+11. Making a font with ligatures to display thirteenth-century monk numerals
+   Points: 33
+   Comments: 6
+   URL: https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals
+
+12. All Look Same?
+   Points: 25
+   Comments: 14
+   URL: https://alllooksame.com/
+
+13. Portugal: The First Global Empire (2015)
+   Points: 53
+   Comments: 42
+   URL: https://www.historytoday.com/archive/first-global-empire
+
+14. Metriport (YC S22) is hiring a security engineer to harden healthcare infra
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer
+
+15. Roads to Rome (2015)
+   Points: 6
+   Comments: 0
+   URL: https://benedikt-gross.de/projects/roads-to-rome/
+
+16. Learning Lean: Part 1
+   Points: 74
+   Comments: 7
+   URL: https://rkirov.github.io/posts/lean1/
+
+17. Microsoft offers guide to pirating Harry Potter series for LLM training
+   Points: 138
+   Comments: 74
+   URL: https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/
+
+18. Pocketbase lost its funding from FLOSS fund
+   Points: 114
+   Comments: 74
+   URL: https://github.com/pocketbase/pocketbase/discussions/7287
+
+19. What is happening to writing? Cognitive debt, Claude Code, the space around AI
+   Points: 92
+   Comments: 66
+   URL: https://resobscura.substack.com/p/what-is-happening-to-writing
+
+20. A solver for Semantle
+   Points: 31
+   Comments: 5
+   URL: https://victoriaritvo.com/blog/semantle-solver/
+
