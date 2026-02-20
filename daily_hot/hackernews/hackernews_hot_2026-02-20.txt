@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-20
+==================================================
+
+1. Gemini 3.1 Pro
+   Points: 497
+   Comments: 680
+   URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+
+2. Show HN: Micasa – track your house from the terminal
+   Points: 420
+   Comments: 129
+   URL: https://micasa.dev
+
+3. Micropayments as a reality check for news sites
+   Points: 106
+   Comments: 246
+   URL: https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/
+
+4. America vs. Singapore: You can't save your way out of economic shocks
+   Points: 207
+   Comments: 320
+   URL: https://www.governance.fyi/p/america-vs-singapore-you-cant-save
+
+5. A terminal weather app with ASCII animations driven by real-time weather data
+   Points: 153
+   Comments: 22
+   URL: https://github.com/Veirt/weathr
+
+6. Show HN: Ghostty-based terminal with vertical tabs and notifications
+   Points: 82
+   Comments: 44
+   URL: https://github.com/manaflow-ai/cmux
+
+7. Archaeologists find possible first direct evidence of Hannibal's war elephants
+   Points: 73
+   Comments: 20
+   URL: https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/
+
+8. US plans online portal to bypass content bans in Europe and elsewhere
+   Points: 139
+   Comments: 141
+   URL: https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/
+
+9. Paged Out Issue #8 [pdf]
+   Points: 300
+   Comments: 52
+   URL: https://pagedout.institute/download/PagedOut_008.pdf
+
+10. Pebble Production: February Update
+   Points: 261
+   Comments: 121
+   URL: https://repebble.com/blog/february-pebble-production-and-software-updates
+
+11. Dinosaur Food: 100M year old foods we still eat today (2022)
+   Points: 92
+   Comments: 82
+   URL: https://borischerny.com/food/2022/01/17/Dinosaur-food.html
+
+12. My 1981 adventure game is now a multimedia extravaganza
+   Points: 54
+   Comments: 15
+   URL: https://technologizer.com/home/2026/02/16/arctic-adventure-2026/
+
+13. Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails
+   Points: 176
+   Comments: 75
+   URL: https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails
+
+14. AI is not a coworker, it's an exoskeleton
+   Points: 138
+   Comments: 144
+   URL: https://www.kasava.dev/blog/ai-as-exoskeleton
+
+15. Single vaccine could protect against all coughs, colds and flus
+   Points: 99
+   Comments: 65
+   URL: https://www.bbc.com/news/articles/cx2g8rz7yedo
+
+16. We're no longer attracting top talent: the brain drain killing American science
+   Points: 279
+   Comments: 256
+   URL: https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts
+
+17. Overall, the colorectal cancer story is encouraging
+   Points: 97
+   Comments: 95
+   URL: https://www.hankgreen.com/crc
+
+18. Type-based alias analysis in the Toy Optimizer
+   Points: 8
+   Comments: 0
+   URL: https://bernsteinbear.com/blog/toy-tbaa/
+
+19. Show HN: A physically-based GPU ray tracer written in Julia
+   Points: 157
+   Comments: 60
+   URL: https://makie.org/website/blogposts/raytracing/
+
+20. Measuring AI agent autonomy in practice
+   Points: 77
+   Comments: 35
+   URL: https://www.anthropic.com/research/measuring-agent-autonomy
+
