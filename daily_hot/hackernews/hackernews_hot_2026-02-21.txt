@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-21
+==================================================
+
+1. Keep Android Open
+   Points: 1007
+   Comments: 381
+   URL: https://f-droid.org/2026/02/20/twif.html
+
+2. Turn Dependabot Off
+   Points: 233
+   Comments: 67
+   URL: https://words.filippo.io/dependabot/
+
+3. CERN rebuilt the original browser from 1989
+   Points: 53
+   Comments: 16
+   URL: https://worldwideweb.cern.ch
+
+4. I found a Vulnerability. They found a Lawyer
+   Points: 310
+   Comments: 147
+   URL: https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer
+
+5. Facebook is cooked
+   Points: 670
+   Comments: 408
+   URL: https://pilk.website/3/facebook-is-absolutely-cooked
+
+6. Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI
+   Points: 653
+   Comments: 156
+   URL: https://github.com/ggml-org/llama.cpp/discussions/19759
+
+7. Wikipedia deprecates Archive.today, starts removing archive links
+   Points: 267
+   Comments: 147
+   URL: https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/
+
+8. OpenScan
+   Points: 81
+   Comments: 3
+   URL: https://openscan.eu/pages/scan-gallery
+
+9. Show HN: Mines.fyi – all the mines in the US in a leaflet visualization
+   Points: 44
+   Comments: 28
+   URL: https://mines.fyi/
+
+10. Every company building your AI assistant is now an ad company
+   Points: 75
+   Comments: 33
+   URL: https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company
+
+11. The true story behind the Toronto mystery tunnel
+   Points: 20
+   Comments: 6
+   URL: https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/
+
+12. Blue light filters don't work – controlling total luminance is a better bet
+   Points: 108
+   Comments: 145
+   URL: https://www.neuroai.science/p/blue-light-filters-dont-work
+
+13. Uncovering insiders and alpha on Polymarket with AI
+   Points: 68
+   Comments: 33
+   URL: https://twitter.com/peterjliu/status/2024901585806225723
+
+14. Trump's global tariffs struck down by US Supreme Court
+   Points: 1211
+   Comments: 989
+   URL: https://www.bbc.com/news/live/c0l9r67drg7t
+
+15. Lil' Fun Langs
+   Points: 86
+   Comments: 11
+   URL: https://taylor.town/scrapscript-000
+
+16. The path to ubiquitous AI (17k tokens/sec)
+   Points: 660
+   Comments: 376
+   URL: https://taalas.com/the-path-to-ubiquitous-ai/
+
+17. Across the US, people are dismantling and destroying Flock surveillance cameras
+   Points: 75
+   Comments: 11
+   URL: https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling
+
+18. Building a model that visualizes strategic golf
+   Points: 34
+   Comments: 13
+   URL: https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half
+
+19. Making frontier cybersecurity capabilities available to defenders
+   Points: 93
+   Comments: 45
+   URL: https://www.anthropic.com/news/claude-code-security
+
+20. Show HN: A native macOS client for Hacker News, built with SwiftUI
+   Points: 167
+   Comments: 128
+   URL: https://github.com/IronsideXXVI/Hacker-News
+
