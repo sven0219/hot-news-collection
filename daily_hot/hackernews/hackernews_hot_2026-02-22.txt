@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-22
+==================================================
+
+1. Are compilers deterministic?
+   Points: 17
+   Comments: 10
+   URL: https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/
+
+2. How I use Claude Code: Separation of planning and execution
+   Points: 16
+   Comments: 0
+   URL: https://boristane.com/blog/how-i-use-claude-code/
+
+3. Evidence of the bouba-kiki effect in naïve baby chicks
+   Points: 58
+   Comments: 17
+   URL: https://www.science.org/doi/10.1126/science.adq7188
+
+4. Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU
+   Points: 83
+   Comments: 20
+   URL: https://github.com/xaskasdf/ntransformer
+
+5. Parse, Don't Validate and Type-Driven Design in Rust
+   Points: 118
+   Comments: 37
+   URL: https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/
+
+6. How far back in time can you understand English?
+   Points: 339
+   Comments: 200
+   URL: https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english
+
+7. zclaw: personal AI assistant in under 888 KB, running on an ESP32
+   Points: 85
+   Comments: 47
+   URL: https://github.com/tnm/zclaw
+
+8. EDuke32 – Duke Nukem 3D (Open-Source)
+   Points: 142
+   Comments: 55
+   URL: https://www.eduke32.com/
+
+9. CXMT has been offering DDR4 chips at about half the prevailing market rate
+   Points: 146
+   Comments: 113
+   URL: https://www.koreaherald.com/article/10679206
+
+10. Toyota Mirai hydrogen car depreciation: 65% value loss in a year
+   Points: 90
+   Comments: 212
+   URL: https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/
+
+11. Claws are now a new layer on top of LLM agents
+   Points: 181
+   Comments: 619
+   URL: https://twitter.com/karpathy/status/2024987174077432126
+
+12. Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++
+   Points: 53
+   Comments: 19
+   URL: https://github.com/a-e-k/canvas_ity
+
+13. Personal Statement of a CIA Analyst
+   Points: 144
+   Comments: 76
+   URL: https://antipolygraph.org/statements/statement-038.shtml
+
+14. What not to write on your security clearance form (1988)
+   Points: 371
+   Comments: 157
+   URL: https://milk.com/wall-o-shame/security_clearance.html
+
+15. Inputlag.science – Repository of knowledge about input lag in gaming
+   Points: 57
+   Comments: 12
+   URL: https://inputlag.science
+
+16. Finding forall-exists Hyperbugs using Symbolic Execution
+   Points: 11
+   Comments: 0
+   URL: https://dl.acm.org/doi/full/10.1145/3689761
+
+17. I verified my LinkedIn identity. Here's what I handed over
+   Points: 1161
+   Comments: 408
+   URL: https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/
+
+18. Why is Claude an Electron app?
+   Points: 315
+   Comments: 267
+   URL: https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html
+
+19. Acme Weather
+   Points: 185
+   Comments: 120
+   URL: https://acmeweather.com/blog/introducing-acme-weather
+
+20. I Don't Like Magic
+   Points: 105
+   Comments: 88
+   URL: https://adactio.com/journal/22399
+
