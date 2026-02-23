@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-23
+==================================================
+
+1. I built Timeframe, our family e-paper dashboard
+   Points: 535
+   Comments: 152
+   URL: https://hawksley.org/2026/02/17/timeframe.html
+
+2. Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
+   Points: 161
+   Comments: 119
+   URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+
+3. Loops is a federated, open-source TikTok
+   Points: 201
+   Comments: 120
+   URL: https://joinloops.org/
+
+4. Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable
+   Points: 91
+   Comments: 26
+   URL: https://cia-factbook-archive.fly.dev/
+
+5. Using the new bridges of FreeBSD 15
+   Points: 35
+   Comments: 7
+   URL: https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/
+
+6. Attention Media ≠ Social Networks
+   Points: 524
+   Comments: 227
+   URL: https://susam.net/attention-media-vs-social-networks.html
+
+7. Keybee: A Keyboard Designed for Smartphones
+   Points: 40
+   Comments: 35
+   URL: https://keybeekeyboard.com/
+
+8. Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology
+   Points: 9
+   Comments: 3
+   URL: https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md
+
+9. Six Math Essentials
+   Points: 91
+   Comments: 7
+   URL: https://terrytao.wordpress.com/2026/02/16/six-math-essentials/
+
+10. Show HN: Local-First Linux MicroVMs for macOS
+   Points: 108
+   Comments: 32
+   URL: https://shuru.run
+
+11. Fix your tools
+   Points: 178
+   Comments: 67
+   URL: https://ochagavia.nl/blog/fix-your-tools/
+
+12. Man accidentally gains control of 7k robot vacuums
+   Points: 186
+   Comments: 118
+   URL: https://www.popsci.com/technology/robot-vacuum-army/
+
+13. Linuxulator on FreeBSD Feels Like Magic
+   Points: 69
+   Comments: 24
+   URL: https://hayzam.com/blog/02-linuxulator-is-awesome/
+
+14. Ask HN: Chromebook leads for K-8 school in need?
+   Points: 5
+   Comments: 2
+   URL: https://news.ycombinator.com/item?id=47113936
+
+15. Hello Worg, the Org-Mode Community
+   Points: 80
+   Comments: 20
+   URL: https://orgmode.org/worg/
+
+16. Fresh File Explorer – VS Code extension for navigating recent work
+   Points: 68
+   Comments: 20
+   URL: https://github.com/FreHu/vscode-fresh-file-explorer
+
+17. What is a database transaction?
+   Points: 202
+   Comments: 52
+   URL: https://planetscale.com/blog/database-transactions
+
+18. Emulated Windows 3.11 in the Browser
+   Points: 59
+   Comments: 22
+   URL: https://pieter.com/
+
+19. Music Discovery
+   Points: 41
+   Comments: 35
+   URL: https://www.secondtrack.co/
+
+20. NanoClaw moved from Apple Containers to Docker
+   Points: 102
+   Comments: 74
+   URL: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+
