@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-24
+==================================================
+
+1. FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me
+   Points: 218
+   Comments: 174
+   URL: https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/
+
+2. Shatner is making an album with 35 metal icons
+   Points: 14
+   Comments: 2
+   URL: https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album
+
+3. UNIX99, a UNIX-like OS for the TI-99/4A
+   Points: 135
+   Comments: 45
+   URL: https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/
+
+4. The Age Verification Trap: Verifying age undermines everyone's data protection
+   Points: 1181
+   Comments: 954
+   URL: https://spectrum.ieee.org/age-verification
+
+5. AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says
+   Points: 127
+   Comments: 82
+   URL: https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380
+
+6. Ladybird adopts Rust
+   Points: 1058
+   Comments: 577
+   URL: https://ladybird.org/posts/adopting-rust/
+
+7. What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics
+   Points: 24
+   Comments: 13
+   URL: https://jamesoswald.dev/posts/bigoinequality/
+
+8. Show HN: PgDog – Scale Postgres without changing the app
+   Points: 185
+   Comments: 42
+   URL: https://github.com/pgdogdev/pgdog
+
+9. Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)
+   Points: 48
+   Comments: 26
+   URL: https://github.com/vignesh07/babyshark
+
+10. The challenges of porting Shufflepuck Cafe to the 8 bits Apple II
+   Points: 37
+   Comments: 7
+   URL: https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/
+
+11. Making Wolfram Tech Available as a Foundation Tool for LLM Systems
+   Points: 30
+   Comments: 18
+   URL: https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/
+
+12. The Rise of Eyes Began with Just One
+   Points: 7
+   Comments: 2
+   URL: https://www.nytimes.com/2026/02/23/science/evolution-vertebrate-eye.html
+
+13. Magical Mushroom – Europe's first industrial-scale mycelium packaging producer
+   Points: 352
+   Comments: 120
+   URL: https://magicalmushroom.com/index
+
+14. SIM (YC X25) Is Hiring the Best Engineers in San Francisco
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform
+
+15. A simple web we own
+   Points: 176
+   Comments: 119
+   URL: https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html
+
+16. Show HN: Sowbot – open-hardware agricultural robot (ROS2, RTK GPS)
+   Points: 107
+   Comments: 37
+   URL: https://sowbot.co.uk/
+
+17. 'Viking' was a job description, not a matter of heredity: Ancient DNA study
+   Points: 149
+   Comments: 119
+   URL: https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows
+
+18. I Ported Coreboot to the ThinkPad X270
+   Points: 3
+   Comments: 0
+   URL: https://dork.dev/posts/2026-02-20-ported-coreboot/
+
+19. You are not supposed to install OpenClaw on your personal computer
+   Points: 63
+   Comments: 28
+   URL: https://twitter.com/i/status/2025987544853188836
+
+20. ASML unveils EUV light source advance that could yield 50% more chips by 2030
+   Points: 250
+   Comments: 64
+   URL: https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/
+
