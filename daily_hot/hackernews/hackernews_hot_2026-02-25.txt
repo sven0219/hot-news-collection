@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-25
+==================================================
+
+1. I'm helping my dog vibe code games
+   Points: 584
+   Comments: 174
+   URL: https://www.calebleak.com/posts/dog-game/
+
+2. Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3
+   Points: 105
+   Comments: 17
+   URL: https://github.com/moonshine-ai/moonshine
+
+3. Mac mini will be made at a new facility in Houston
+   Points: 307
+   Comments: 311
+   URL: https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/
+
+4. Cell Service for the Fairly Paranoid
+   Points: 51
+   Comments: 35
+   URL: https://www.cape.co/
+
+5. Hacking an old Kindle to display bus arrival times
+   Points: 160
+   Comments: 39
+   URL: https://www.mariannefeng.com/portfolio/kindle/
+
+6. Corgi Labs (YC W23) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate
+
+7. Nearby Glasses
+   Points: 229
+   Comments: 87
+   URL: https://github.com/yjeanrenaud/yj_nearbyglasses
+
+8. Mercury 2: The fastest reasoning LLM, powered by diffusion
+   Points: 35
+   Comments: 7
+   URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2
+
+9. I pitched a roller coaster to Disneyland at age 10 in 1978
+   Points: 387
+   Comments: 149
+   URL: https://wordglyph.xyz/one-piece-at-a-time
+
+10. Show HN: Emdash – Open-source agentic development environment
+   Points: 103
+   Comments: 44
+   URL: https://github.com/generalaction/emdash
+
+11. Optophone
+   Points: 29
+   Comments: 5
+   URL: https://en.wikipedia.org/wiki/Optophone
+
+12. Pi – a minimal terminal coding harness
+   Points: 129
+   Comments: 57
+   URL: https://pi.dev
+
+13. Hugging Face Skills
+   Points: 132
+   Comments: 39
+   URL: https://github.com/huggingface/skills
+
+14. How we rebuilt Next.js with AI in one week
+   Points: 347
+   Comments: 112
+   URL: https://blog.cloudflare.com/vinext/
+
+15. IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight
+   Points: 181
+   Comments: 195
+   URL: https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html
+
+16. Build Your Own Forth Interpreter
+   Points: 48
+   Comments: 15
+   URL: https://codingchallenges.fyi/challenges/challenge-forth/
+
+17. We installed a single turnstile to feel secure
+   Points: 266
+   Comments: 122
+   URL: https://idiallo.com/blog/installed-single-turnstile-for-security-theater
+
+18. OpenAI, the US government and Persona built an identity surveillance machine
+   Points: 430
+   Comments: 137
+   URL: https://vmfunc.re/blog/persona/
+
+19. The history of knocking on wood
+   Points: 11
+   Comments: 0
+   URL: https://resobscura.substack.com/p/neolithic-habits-machine-age-tools
+
+20. Aesthetics of single threading
+   Points: 10
+   Comments: 1
+   URL: https://ta.fo/aesthetics-of-single-threading/
+
