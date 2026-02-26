@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-26
+==================================================
+
+1. Jimi Hendrix was a systems engineer
+   Points: 270
+   Comments: 100
+   URL: https://spectrum.ieee.org/jimi-hendrix-systems-engineer
+
+2. First Website
+   Points: 60
+   Comments: 13
+   URL: https://info.cern.ch
+
+3. Making MCP cheaper via CLI
+   Points: 109
+   Comments: 54
+   URL: https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html
+
+4. Origin of the rule that swap size should be 2x of the physical memory
+   Points: 19
+   Comments: 17
+   URL: https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory
+
+5. Bus stop balancing is fast, cheap, and effective
+   Points: 291
+   Comments: 452
+   URL: https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/
+
+6. Windows 11 Notepad to support Markdown
+   Points: 169
+   Comments: 311
+   URL: https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/
+
+7. The Om Programming Language
+   Points: 226
+   Comments: 47
+   URL: https://www.om-language.com/
+
+8. Show HN: Respectify – A comment moderator that teaches people to argue better
+   Points: 84
+   Comments: 110
+   URL: https://respectify.org/
+
+9. Large-Scale Online Deanonymization with LLMs
+   Points: 185
+   Comments: 157
+   URL: https://simonlermen.substack.com/p/large-scale-online-deanonymization
+
+10. The Hydrogen Truck Problem Isn't the Truck
+   Points: 19
+   Comments: 11
+   URL: https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/
+
+11. Learnings from 4 months of Image-Video VAE experiments
+   Points: 67
+   Comments: 11
+   URL: https://www.linum.ai/field-notes/vae-reconstruction-vs-generation
+
+12. The First Fully General Computer Action Model
+   Points: 135
+   Comments: 44
+   URL: https://si.inc/posts/fdm1/
+
+13. Show HN: I ported Tree-sitter to Go
+   Points: 181
+   Comments: 75
+   URL: https://github.com/odvcencio/gotreesitter
+
+14. Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)
+   Points: 39
+   Comments: 10
+   URL: https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/
+
+15. How to fold the Blade Runner origami unicorn (1996)
+   Points: 251
+   Comments: 36
+   URL: https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html
+
+16. Following 35% growth, solar has passed hydro on US grid
+   Points: 389
+   Comments: 322
+   URL: https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/
+
+17. Claude Code Remote Control
+   Points: 490
+   Comments: 280
+   URL: https://code.claude.com/docs/en/remote-control
+
+18. GNU Texmacs
+   Points: 120
+   Comments: 43
+   URL: https://www.texmacs.org/tmweb/home/welcome.en.html
+
+19. Access to a Shared Unix Computer
+   Points: 40
+   Comments: 11
+   URL: http://tilde.club/
+
+20. The Misuses of the University
+   Points: 119
+   Comments: 83
+   URL: https://www.publicbooks.org/the-misuses-of-the-university/
+
