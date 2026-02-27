@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-27
+==================================================
+
+1. Statement from Dario Amodei on Our Discussions with the Department of War
+   Points: 638
+   Comments: 376
+   URL: https://www.anthropic.com/news/statement-department-of-war
+
+2. Layoffs at Block
+   Points: 369
+   Comments: 351
+   URL: https://twitter.com/jack/status/2027129697092731343
+
+3. AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
+   Points: 315
+   Comments: 157
+   URL: https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf
+
+4. Will vibe coding end like the maker movement?
+   Points: 302
+   Comments: 287
+   URL: https://read.technically.dev/p/vibe-coding-and-the-maker-movement
+
+5. What Claude Code Chooses
+   Points: 219
+   Comments: 96
+   URL: https://amplifying.ai/research/claude-code-picks
+
+6. What does " 2>&1 " mean?
+   Points: 103
+   Comments: 72
+   URL: https://stackoverflow.com/questions/818255/what-does-21-mean
+
+7. Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)
+   Points: 27
+   Comments: 1
+   URL: https://coderush.me/hydroph0bia-part3/
+
+8. An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published
+   Points: 15
+   Comments: 3
+   URL: https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html
+
+9. Launch HN: Cardboard (YC W26) – Agentic video editor
+   Points: 93
+   Comments: 46
+   URL: https://www.usecardboard.com/
+
+10. Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage
+   Points: 144
+   Comments: 158
+   URL: https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/
+
+11. I baked a pie every day for a year and it changed my life
+   Points: 217
+   Comments: 142
+   URL: https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life
+
+12. Understanding the Go Runtime: The Memory Allocator
+   Points: 27
+   Comments: 7
+   URL: https://internals-for-interns.com/posts/go-memory-allocator/
+
+13. OsmAnd's Faster Offline Navigation (2025)
+   Points: 108
+   Comments: 31
+   URL: https://osmand.net/blog/fast-routing/
+
+14. Museum of Plugs and Sockets
+   Points: 70
+   Comments: 25
+   URL: https://plugsocketmuseum.nl/index.html
+
+15. Palm OS User Interface Guidelines (2003) [pdf]
+   Points: 150
+   Comments: 69
+   URL: https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf
+
+16. Lidar waveforms are worth 40x128x33 words
+   Points: 32
+   Comments: 13
+   URL: https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html
+
+17. Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance
+   Points: 89
+   Comments: 82
+   URL: https://hackersmacker.org
+
+18. Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line
+   Points: 285
+   Comments: 71
+   URL: https://gitlab.com/here_forawhile/terminalphone
+
+19. BuildKit: Docker's Hidden Gem That Can Build Almost Anything
+   Points: 140
+   Comments: 48
+   URL: https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/
+
+20. Show HN: Deff – Side-by-side Git diff review in your terminal
+   Points: 76
+   Comments: 48
+   URL: https://github.com/flamestro/deff
+
