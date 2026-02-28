@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-02-28
+==================================================
+
+1. I am directing the Department of War to designate Anthropic a supply-chain risk
+   Points: 861
+   Comments: 700
+   URL: https://twitter.com/secwar/status/2027507717469049070
+
+2. Qt45: A small polymerase ribozyme that can synthesize itself
+   Points: 29
+   Comments: 3
+   URL: https://www.science.org/doi/10.1126/science.adt2760
+
+3. OpenAI raises $110B on $730B pre-money valuation
+   Points: 362
+   Comments: 452
+   URL: https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+
+4. Smallest transformer that can add two 10-digit numbers
+   Points: 26
+   Comments: 2
+   URL: https://github.com/anadim/AdderBoard
+
+5. Emuko: Fast RISC-V emulator written in Rust, boots Linux
+   Points: 30
+   Comments: 3
+   URL: https://github.com/wkoszek/emuko
+
+6. A new California law says all operating systems need to have age verification
+   Points: 333
+   Comments: 336
+   URL: https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+
+7. NASA announces overhaul of Artemis program amid safety concerns, delays
+   Points: 203
+   Comments: 200
+   URL: https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/
+
+8. A better streams API is possible for JavaScript
+   Points: 366
+   Comments: 120
+   URL: https://blog.cloudflare.com/a-better-web-streams-api/
+
+9. Otters as Bioindicators of Estuarine Health
+   Points: 17
+   Comments: 2
+   URL: https://emt.pensoft.net/article/185117/
+
+10. A Chinese official’s use of ChatGPT revealed an intimidation operation
+   Points: 118
+   Comments: 83
+   URL: https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation
+
+11. Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions
+   Points: 37
+   Comments: 13
+   URL: https://github.com/hjtenklooster/claude-file-recovery
+
+12. Let's discuss sandbox isolation
+   Points: 91
+   Comments: 24
+   URL: https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/
+
+13. Writing a Guide to SDF Fonts
+   Points: 69
+   Comments: 5
+   URL: https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/
+
+14. Open source calculator firmware DB48X forbids CA/CO use due to age verification
+   Points: 129
+   Comments: 60
+   URL: https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286
+
+15. Get free Claude max 20x for open-source maintainers
+   Points: 425
+   Comments: 196
+   URL: https://claude.com/contact-sales/claude-for-oss
+
+16. Rob Grant, creator of Red Dwarf, has died
+   Points: 219
+   Comments: 67
+   URL: https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant
+
+17. Allocating on the Stack
+   Points: 116
+   Comments: 47
+   URL: https://go.dev/blog/allocation-optimizations
+
+18. Show HN: I built a self-hosted course platform in Clojure
+   Points: 30
+   Comments: 4
+   URL: https://clojure.stream
+
+19. Kyber (YC W23) Is Hiring an Enterprise Account Executive
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae
+
+20. PCB Tracer
+   Points: 42
+   Comments: 26
+   URL: https://pcbtracer.com
+
