@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-01
+==================================================
+
+1. We do not think Anthropic should be designated as a supply chain risk
+   Points: 172
+   Comments: 54
+   URL: https://twitter.com/OpenAI/status/2027846016423321831
+
+2. The Windows 95 user interface: A case study in usability engineering (1996)
+   Points: 109
+   Comments: 51
+   URL: https://dl.acm.org/doi/fullHtml/10.1145/238386.238611
+
+3. MinIO Is Dead, Long Live MinIO
+   Points: 180
+   Comments: 66
+   URL: https://blog.vonng.com/en/db/minio-resurrect/
+
+4. Obsidian Sync now has a headless client
+   Points: 375
+   Comments: 132
+   URL: https://help.obsidian.md/sync/headless
+
+5. The happiest I've ever been
+   Points: 299
+   Comments: 139
+   URL: https://ben-mini.com/2026/the-happiest-ive-ever-been
+
+6. Show HN: Xmloxide – an agent made rust replacement for libxml2
+   Points: 13
+   Comments: 3
+   URL: https://github.com/jonwiggins/xmloxide
+
+7. Block the “Upgrade to Tahoe” Alerts
+   Points: 116
+   Comments: 48
+   URL: https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/
+
+8. Addressing Antigravity Bans and Reinstating Access
+   Points: 197
+   Comments: 159
+   URL: https://github.com/google-gemini/gemini-cli/discussions/20632
+
+9. Verified Spec-Driven Development (VSDD)
+   Points: 140
+   Comments: 68
+   URL: https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00
+
+10. Deterministic Programming with LLMs
+   Points: 15
+   Comments: 4
+   URL: https://www.mcherm.com/deterministic-programming-with-llms.html
+
+11. Woxi: Wolfram Mathematica Reimplementation in Rust
+   Points: 239
+   Comments: 103
+   URL: https://github.com/ad-si/Woxi
+
+12. Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers
+   Points: 192
+   Comments: 120
+   URL: https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance
+
+13. Building a Minimal Transformer for 10-digit Addition
+   Points: 29
+   Comments: 4
+   URL: https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition
+
+14. Werner Herzog Between Fact and Fiction
+   Points: 61
+   Comments: 13
+   URL: https://www.thenation.com/article/culture/werner-herzog-future-truth/
+
+15. New evidence that Cantor plagiarized Dedekind?
+   Points: 106
+   Comments: 68
+   URL: https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/
+
+16. Show HN: Now I Get It – Translate scientific papers into interactive webpages
+   Points: 180
+   Comments: 98
+   URL: https://nowigetit.us
+
+17. The whole thing was a scam
+   Points: 576
+   Comments: 159
+   URL: https://garymarcus.substack.com/p/the-whole-thing-was-scam
+
+18. The archivist preserving decaying floppy disks
+   Points: 43
+   Comments: 4
+   URL: https://www.popsci.com/technology/floppy-disk-archivist-project/
+
+19. 747s and Coding Agents
+   Points: 121
+   Comments: 57
+   URL: https://carlkolon.com/2026/02/27/engineering-747-coding-agents/
+
+20. MCP server that reduces Claude Code context consumption by 98%
+   Points: 215
+   Comments: 52
+   URL: https://mksg.lu/blog/context-mode
+
