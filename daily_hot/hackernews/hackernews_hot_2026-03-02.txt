@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-02
+==================================================
+
+1. WebMCP is available for early preview
+   Points: 97
+   Comments: 56
+   URL: https://developer.chrome.com/blog/webmcp-epp
+
+2. How to talk to anyone, and why you should
+   Points: 384
+   Comments: 180
+   URL: https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should
+
+3. Tove Jansson's criticized illustrations of The Hobbit
+   Points: 58
+   Comments: 27
+   URL: https://tovejansson.com/hobbit-tolkien/
+
+4. Ghostty – Terminal Emulator
+   Points: 597
+   Comments: 264
+   URL: https://ghostty.org/docs
+
+5. Little Free Library Books
+   Points: 33
+   Comments: 5
+   URL: https://littlefreelibrary.org/
+
+6. When does MCP make sense vs CLI?
+   Points: 239
+   Comments: 162
+   URL: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
+
+7. How Next-Gen Spacecraft Are Overwhelming Our Communication Networks
+   Points: 14
+   Comments: 0
+   URL: https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/
+
+8. Microgpt explained interactively
+   Points: 183
+   Comments: 22
+   URL: https://growingswe.com/blog/microgpt
+
+9. Decision trees – the unreasonable power of nested decision rules
+   Points: 391
+   Comments: 69
+   URL: https://mlu-explain.github.io/decision-tree/
+
+10. Long Range E-Bike (2021)
+   Points: 109
+   Comments: 147
+   URL: https://jacquesmattheij.com/long-range-ebike/
+
+11. Chorba: A novel CRC32 implementation (2024)
+   Points: 38
+   Comments: 13
+   URL: https://arxiv.org/abs/2412.16398
+
+12. What Your DNA Reveals about the Sex Life of Neanderthals
+   Points: 8
+   Comments: 1
+   URL: https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html
+
+13. Flightradar24 for Ships
+   Points: 183
+   Comments: 41
+   URL: https://atlas.flexport.com/
+
+14. Setting up phones is a nightmare
+   Points: 98
+   Comments: 113
+   URL: https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/
+
+15. Allegations of insider trading over prediction-market bets tied to Iran conflict
+   Points: 37
+   Comments: 11
+   URL: https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict
+
+16. Are the Mysteries of Quantum Mechanics Beginning to Dissolve?
+   Points: 63
+   Comments: 65
+   URL: https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/
+
+17. Microgpt
+   Points: 1679
+   Comments: 293
+   URL: http://karpathy.github.io/2026/02/12/microgpt/
+
+18. Why XML tags are so fundamental to Claude
+   Points: 154
+   Comments: 109
+   URL: https://glthr.com/XML-fundamental-to-Claude
+
+19. Python Type Checker Comparison: Empty Container Inference
+   Points: 54
+   Comments: 36
+   URL: https://pyrefly.org/blog/container-inference-comparison/
+
+20. Operational issue – Multiple services (UAE)
+   Points: 161
+   Comments: 71
+   URL: https://health.aws.amazon.com/health/status
+
