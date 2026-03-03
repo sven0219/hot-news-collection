@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-03
+==================================================
+
+1. The workers behind Meta's smart glasses can see everything
+   Points: 422
+   Comments: 232
+   URL: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
+
+2. Welcome (back) to Macintosh
+   Points: 229
+   Comments: 133
+   URL: https://take.surf/2026/03/01/welcome-back-to-macintosh
+
+3. Seed of Might Color Correction Process (2023) [pdf]
+   Points: 57
+   Comments: 14
+   URL: https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf
+
+4. Closure of the Weatheradio Service in Canada
+   Points: 46
+   Comments: 23
+   URL: https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/
+
+5. Show HN: I built a sub-500ms latency voice agent from scratch
+   Points: 129
+   Comments: 35
+   URL: https://www.ntik.me/posts/voice-agent
+
+6. British Columbia to end time changes, adopt year-round daylight time
+   Points: 388
+   Comments: 222
+   URL: https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657
+
+7. How to Build Your Own Quantum Computer
+   Points: 12
+   Comments: 1
+   URL: https://physics.aps.org/articles/v19/24
+
+8. The 185-Microsecond Type Hint
+   Points: 34
+   Comments: 2
+   URL: https://blog.sturdystatistics.com/posts/type_hint/
+
+9. First in-utero stem cell therapy for fetal spina bifida repair is safe: study
+   Points: 244
+   Comments: 47
+   URL: https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02
+
+10. New iPad Air, powered by M4
+   Points: 311
+   Comments: 514
+   URL: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/
+
+11. RCade: Building a Community Arcade Cabinet
+   Points: 33
+   Comments: 3
+   URL: https://www.frankchiarulli.com/blog/building-the-rcade/
+
+12. Show HN: Govbase – Follow a bill from source text to news bias to social posts
+   Points: 148
+   Comments: 68
+   URL: https://govbase.com
+
+13. Against Query Based Compilers
+   Points: 11
+   Comments: 1
+   URL: https://matklad.github.io/2026/02/25/against-query-based-compilers.html
+
+14. The Case for Apolitical Tech Spaces
+   Points: 4
+   Comments: 0
+   URL: https://minor.gripe/posts/2026-03-02-the_case_for_apolitical_tech_spaces/
+
+15. Programmable Cryptography
+   Points: 37
+   Comments: 20
+   URL: https://0xparc.org/writings/programmable-cryptography-1
+
+16. Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web
+   Points: 15
+   Comments: 4
+   URL: https://github.com/bntre/visual-lambda
+
+17. Motorola announces a partnership with GrapheneOS
+   Points: 2046
+   Comments: 729
+   URL: https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/
+
+18. "That Shape Had None" – A Horror of Substrate Independence (Short Fiction)
+   Points: 77
+   Comments: 13
+   URL: https://starlightconvenience.net/#that-shape-had-none
+
+19. Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool
+   Points: 37
+   Comments: 16
+   URL: https://github.com/vustagc/pianoterm
+
+20. Ask HN: Who is hiring? (March 2026)
+   Points: 158
+   Comments: 212
+   URL: https://news.ycombinator.com/item?id=47219668
+
