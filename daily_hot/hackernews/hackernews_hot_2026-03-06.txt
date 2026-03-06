@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-06
+==================================================
+
+1. CBP tapped into the online advertising ecosystem to track peoples’ movements
+   Points: 276
+   Comments: 116
+   URL: https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/
+
+2. Where things stand with the Department of War
+   Points: 42
+   Comments: 16
+   URL: https://www.anthropic.com/news/where-stand-department-war
+
+3. GPT-5.4
+   Points: 611
+   Comments: 538
+   URL: https://openai.com/index/introducing-gpt-5-4/
+
+4. The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now
+   Points: 68
+   Comments: 15
+   URL: https://charm.land/blog/v2/
+
+5. A standard protocol to handle and discard low-effort, AI-Generated pull requests
+   Points: 66
+   Comments: 17
+   URL: https://406.fail/
+
+6. The Brand Age
+   Points: 207
+   Comments: 189
+   URL: https://paulgraham.com/brandage.html
+
+7. 10% of Firefox crashes are caused by bitflips
+   Points: 240
+   Comments: 135
+   URL: https://mas.to/@gabrielesvelto/116171750653898304
+
+8. Wikipedia was in read-only mode following mass admin account compromise
+   Points: 864
+   Comments: 306
+   URL: https://www.wikimediastatus.net
+
+9. Good software knows when to stop
+   Points: 329
+   Comments: 180
+   URL: https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop
+
+10. Hardware hotplug events on Linux, the gory details
+   Points: 114
+   Comments: 5
+   URL: https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html
+
+11. A ternary plot of citrus geneology
+   Points: 80
+   Comments: 7
+   URL: https://www.jlauf.com/writing/citrus/
+
+12. A GitHub Issue Title Compromised 4k Developer Machines
+   Points: 307
+   Comments: 70
+   URL: https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another
+
+13. Show HN: Jido 2.0, Elixir Agent Framework
+   Points: 241
+   Comments: 52
+   URL: https://jido.run/blog/jido-2-0-is-here
+
+14. Structured AI (YC F25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant
+
+15. OpenTitan Shipping in Production
+   Points: 78
+   Comments: 10
+   URL: https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html
+
+16. Remotely unlocking an encrypted hard disk
+   Points: 76
+   Comments: 46
+   URL: https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/
+
+17. Judge orders government to begin refunding more than $130B in tariffs
+   Points: 769
+   Comments: 583
+   URL: https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c
+
+18. GLiNER2: Unified Schema-Based Information Extraction
+   Points: 36
+   Comments: 3
+   URL: https://github.com/fastino-ai/GLiNER2
+
+19. Converting dash cam videos into Panoramax images
+   Points: 27
+   Comments: 5
+   URL: https://www.openstreetmap.org/user/FeetAndInches/diary/408268
+
+20. Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester
+   Points: 178
+   Comments: 91
+   URL: https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/
+
