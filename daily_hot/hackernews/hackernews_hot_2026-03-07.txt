@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-07
+==================================================
+
+1. Plasma Bigscreen – 10-foot interface for KDE plasma
+   Points: 83
+   Comments: 23
+   URL: https://plasma-bigscreen.org
+
+2. this css proves me human
+   Points: 130
+   Comments: 45
+   URL: https://will-keleher.com/posts/this-css-makes-me-human/
+
+3. C# strings silently kill your SQL Server indexes in Dapper
+   Points: 40
+   Comments: 26
+   URL: https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap
+
+4. Show HN: The Roman Industrial Revolution that could have been (Vol 2)
+   Points: 20
+   Comments: 11
+   URL: https://thelydianstone.com/volume-2
+
+5. Math Notepad
+   Points: 52
+   Comments: 17
+   URL: https://mathnotepad.com
+
+6. The Shady World of IP Leasing
+   Points: 47
+   Comments: 25
+   URL: https://acid.vegas/blog/the-shady-world-of-ip-leasing/
+
+7. Hardening Firefox with Anthropic's Red Team
+   Points: 468
+   Comments: 133
+   URL: https://www.anthropic.com/news/mozilla-firefox-security
+
+8. Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting
+   Points: 222
+   Comments: 129
+   URL: https://github.com/moongate-community/moongatev2
+
+9. Open Camera is a FOSS camera app for Android
+   Points: 209
+   Comments: 101
+   URL: https://opencamera.org.uk/
+
+10. Apache Otava
+   Points: 78
+   Comments: 5
+   URL: https://otava.apache.org/
+
+11. Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs
+   Points: 36
+   Comments: 55
+   URL: https://news.ycombinator.com/item?id=47278980
+
+12. Tech employment now significantly worse than the 2008 or 2020 recessions
+   Points: 696
+   Comments: 473
+   URL: https://twitter.com/JosephPolitano/status/2029916364664611242
+
+13. Payphone Go
+   Points: 306
+   Comments: 67
+   URL: https://walzr.com/payphone-go/
+
+14. The worst acquisition in history, again
+   Points: 86
+   Comments: 63
+   URL: https://www.profgmedia.com/p/the-worst-acquisition-in-history
+
+15. Galileo's handwritten notes found in ancient astronomy text
+   Points: 15
+   Comments: 0
+   URL: https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text
+
+16. Triplet Superconductor
+   Points: 48
+   Comments: 9
+   URL: https://www.sciencedaily.com/releases/2026/02/260221000252.htm
+
+17. CT Scans of Health Wearables
+   Points: 178
+   Comments: 39
+   URL: https://www.lumafield.com/scan-of-the-month/health-wearables
+
+18. Ada 2022
+   Points: 102
+   Comments: 19
+   URL: https://www.adaic.org/ada-resources/standards/ada22/
+
+19. Show HN: Kula – Lightweight, self-contained Linux server monitoring tool
+   Points: 3
+   Comments: 0
+   URL: https://github.com/c0m4r/kula
+
+20. Entomologists use a particle accelerator to image ants at scale
+   Points: 96
+   Comments: 17
+   URL: https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan
+
