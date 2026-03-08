@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-08
+==================================================
+
+1. CasNum
+   Points: 167
+   Comments: 24
+   URL: https://github.com/0x0mer/CasNum
+
+2. A decade of Docker containers
+   Points: 223
+   Comments: 161
+   URL: https://cacm.acm.org/research/a-decade-of-docker-containers/
+
+3. Dumping Lego NXT firmware off of an existing brick (2025)
+   Points: 142
+   Comments: 9
+   URL: https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html
+
+4. Effort to prevent government officials from engaging in prediction markets
+   Points: 213
+   Comments: 72
+   URL: https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/
+
+5. The stagnancy of publishing and the disappearance of the midlist
+   Points: 39
+   Comments: 23
+   URL: https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul
+
+6. Ghostmd: Ghostty but for Markdown Notes
+   Points: 10
+   Comments: 8
+   URL: https://mimoo.github.io/ghostmd/
+
+7. The influence of anxiety: Harold Bloom and literary inheritance
+   Points: 11
+   Comments: 0
+   URL: https://thepointmag.com/examined-life/the-influence-of-anxiety/
+
+8. Ki Editor - an editor that operates on the AST
+   Points: 360
+   Comments: 131
+   URL: https://ki-editor.org/
+
+9. Package managers need to cool down
+   Points: 41
+   Comments: 35
+   URL: https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html
+
+10. In 1985 Maxell built a bunch of life-size robots for its bad floppy ad
+   Points: 56
+   Comments: 6
+   URL: https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/
+
+11. FLASH radiotherapy's bold approach to cancer treatment
+   Points: 182
+   Comments: 56
+   URL: https://spectrum.ieee.org/flash-radiotherapy
+
+12. macOS code injection for fun and no profit (2024)
+   Points: 64
+   Comments: 12
+   URL: https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/
+
+13. Lisp-style C++ template meta programming
+   Points: 11
+   Comments: 0
+   URL: https://github.com/mistivia/lmp
+
+14. Put the zip code first
+   Points: 187
+   Comments: 146
+   URL: https://zipcodefirst.com
+
+15. Autoresearch: Agents researching on single-GPU nanochat training automatically
+   Points: 30
+   Comments: 6
+   URL: https://github.com/karpathy/autoresearch
+
+16. LLM Writing Tropes.md
+   Points: 77
+   Comments: 30
+   URL: https://tropes.fyi/tropes-md
+
+17. Why developers using AI are working longer hours
+   Points: 33
+   Comments: 20
+   URL: https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/
+
+18. The surprising whimsy of the Time Zone Database
+   Points: 35
+   Comments: 3
+   URL: https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/
+
+19. Compiling Prolog to Forth [pdf]
+   Points: 96
+   Comments: 9
+   URL: https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf
+
+20. How important was the Battle of Hastings?
+   Points: 4
+   Comments: 4
+   URL: https://www.historytoday.com/archive/head-head/how-important-was-battle-hastings
+
