@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-09
+==================================================
+
+1. Agent Safehouse – macOS-native sandboxing for local agents
+   Points: 287
+   Comments: 62
+   URL: https://agent-safehouse.dev/
+
+2. Microscopes can see video on a laserdisc
+   Points: 212
+   Comments: 18
+   URL: https://www.youtube.com/watch?v=qZuR-772cks
+
+3. PCB devboard the size of a USB-C plug
+   Points: 36
+   Comments: 6
+   URL: https://github.com/Dieu-de-l-elec/AngstromIO-devboard
+
+4. Blacksky AppView
+   Points: 84
+   Comments: 41
+   URL: https://github.com/blacksky-algorithms/atproto
+
+5. Ask HN: What Are You Working On? (March 2026)
+   Points: 24
+   Comments: 32
+   URL: https://news.ycombinator.com/item?id=47303111
+
+6. We should revisit literate programming in the agent era
+   Points: 112
+   Comments: 57
+   URL: https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/
+
+7. Every single board computer I tested in 2025
+   Points: 99
+   Comments: 27
+   URL: https://bret.dk/every-single-board-computer-i-tested-in-2025/
+
+8. Lil Finder Guy
+   Points: 74
+   Comments: 21
+   URL: https://basicappleguy.com/basicappleblog/lil-finder-guy
+
+9. FrameBook
+   Points: 347
+   Comments: 63
+   URL: https://fb.edoo.gg
+
+10. Linux Internals: How /proc/self/mem writes to unwritable memory (2021)
+   Points: 18
+   Comments: 3
+   URL: https://offlinemark.com/an-obscure-quirk-of-proc/
+
+11. Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds
+   Points: 159
+   Comments: 81
+   URL: https://github.com/BigBodyCobain/Shadowbroker
+
+12. Artificial-life: A simple (300 lines of code) reproduction of Computational Life
+   Points: 56
+   Comments: 4
+   URL: https://github.com/Rabrg/artificial-life
+
+13. My Homelab Setup
+   Points: 136
+   Comments: 117
+   URL: https://bryananthonio.com/blog/my-homelab-setup/
+
+14. Living human brain cells play DOOM on a CL1 [video]
+   Points: 140
+   Comments: 118
+   URL: https://www.youtube.com/watch?v=yRV8fSw6HaE
+
+15. Pushing and Pulling: Three reactivity algorithms
+   Points: 56
+   Comments: 10
+   URL: https://jonathan-frere.com/posts/reactivity-algorithms/
+
+16. WSL Manager
+   Points: 64
+   Comments: 38
+   URL: https://github.com/bostrot/wsl2-distro-manager
+
+17. Why can't you tune your guitar? (2019)
+   Points: 171
+   Comments: 126
+   URL: https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/
+
+18. Most of the US economy is in a recession
+   Points: 151
+   Comments: 131
+   URL: https://www.businessinsider.com/recession-economy-us-tech-wall-street-strategist-investing-stocks-market-2026-3
+
+19. Log messages are mostly for the people operating your software
+   Points: 106
+   Comments: 54
+   URL: https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation
+
+20. Z80 Sans – a disassembler in a font (2024)
+   Points: 77
+   Comments: 10
+   URL: https://github.com/nevesnunes/z80-sans
+
