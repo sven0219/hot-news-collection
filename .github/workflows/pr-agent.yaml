@@ -1,22 +1,22 @@
-name: PR Review
-
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
-
+    types: [opened, reopened, ready_for_review]
+  issue_comment:
 jobs:
-  pr-agent:
+  pr_agent_job:
+    if: ${{ github.event.sender.type != 'Bot' }}
     runs-on: ubuntu-latest
-
+    permissions:
+      issues: write
+      pull-requests: write
+      contents: write
+    name: Run pr agent on every pull request, respond to user comments
     steps:
-      - name: Run PR Agent
+      - name: PR Agent action step
+        id: pragent
         uses: qodo-ai/pr-agent@main
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
           OPENAI_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
-
           OPENAI__API_BASE: https://dashscope.aliyuncs.com/compatible-mode/v1
-
           CONFIG_MODEL: qwen-plus
