@@ -1,0 +1,22 @@
+name: PR Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  pr-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run PR Agent
+        uses: qodo-ai/pr-agent@main
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          OPENAI_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+
+          OPENAI__API_BASE: https://dashscope.aliyuncs.com/compatible-mode/v1
+
+          CONFIG_MODEL: qwen-plus
