@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OPENAI_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
           OPENAI__API_BASE: https://dashscope.aliyuncs.com/compatible-mode/v1
-          CONFIG_MODEL: qwen-plus
+          onfig.model: qwen-plus
