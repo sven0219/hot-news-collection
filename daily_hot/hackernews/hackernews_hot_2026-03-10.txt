@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-10
+==================================================
+
+1. Building a Procedural Hex Map with Wave Function Collapse
+   Points: 375
+   Comments: 54
+   URL: https://felixturner.github.io/hex-map-wfc/article/
+
+2. Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor
+   Points: 13
+   Comments: 0
+   URL: https://www.rahuljuliato.com/posts/emacs-solo-two-years
+
+3. JSLinux Now Supports x86_64
+   Points: 232
+   Comments: 68
+   URL: https://bellard.org/jslinux/
+
+4. It looks like the “JVG algorithm” only wins on tiny numbers
+   Points: 6
+   Comments: 2
+   URL: https://scottaaronson.blog/?p=9615
+
+5. Show HN: Remotely use my guitar tuner
+   Points: 43
+   Comments: 8
+   URL: https://realtuner.online/
+
+6. Is legal the same as legitimate: AI reimplementation and the erosion of copyleft
+   Points: 329
+   Comments: 364
+   URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
+
+7. DARPA’s new X-76
+   Points: 147
+   Comments: 146
+   URL: https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter
+
+8. The first airplane fatality
+   Points: 50
+   Comments: 11
+   URL: https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html
+
+9. Show HN: The Mog Programming Language
+   Points: 113
+   Comments: 55
+   URL: https://moglang.org
+
+10. Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents
+   Points: 80
+   Comments: 55
+   URL: https://news.ycombinator.com/item?id=47311657
+
+11. Oracle is building yesterday's data centers with tomorrow's debt
+   Points: 189
+   Comments: 98
+   URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html
+
+12. Bluesky CEO Jay Graber is stepping down
+   Points: 288
+   Comments: 251
+   URL: https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky
+
+13. So you want to write an “app” (2025)
+   Points: 43
+   Comments: 16
+   URL: https://arcanenibble.github.io/so-you-want-to-write-an-app.html
+
+14. Florida judge rules red light camera tickets are unconstitutional
+   Points: 312
+   Comments: 431
+   URL: https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional
+
+15. FontCrafter: Turn your handwriting into a real font
+   Points: 428
+   Comments: 133
+   URL: https://arcade.pirillo.com/fontcrafter.html
+
+16. Iran's attacks on Amazon data centers in UAE, Bahrain signal a new kind of war
+   Points: 19
+   Comments: 8
+   URL: https://fortune.com/2026/03/09/irans-attacks-on-amazon-data-centers-in-uae-bahrain-signal-a-new-kind-of-war-as-ai-plays-an-increasingly-strategic-role-analysts-say/
+
+17. Show HN: DenchClaw – Local CRM on Top of OpenClaw
+   Points: 85
+   Comments: 83
+   URL: https://github.com/DenchHQ/DenchClaw
+
+18. Fixfest is a global gathering of repairers, tinkerers, and activists
+   Points: 140
+   Comments: 16
+   URL: https://fixfest.therestartproject.org/
+
+19. Notes on Baking at the South Pole
+   Points: 32
+   Comments: 10
+   URL: https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world
+
+20. Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)
+   Points: 92
+   Comments: 49
+   URL: https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram
+
