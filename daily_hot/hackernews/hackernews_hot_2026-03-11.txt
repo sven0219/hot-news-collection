@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-11
+==================================================
+
+1. Tony Hoare has died
+   Points: 1455
+   Comments: 196
+   URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
+
+2. U+237C ⍼ Is Azimuth
+   Points: 109
+   Comments: 9
+   URL: https://ionathan.ch/2026/02/16/angzarr.html
+
+3. Cloudflare Crawl Endpoint
+   Points: 93
+   Comments: 48
+   URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
+
+4. Agents that run while I sleep
+   Points: 209
+   Comments: 162
+   URL: https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep
+
+5. Yann LeCun raises $1B to build AI that understands the physical world
+   Points: 314
+   Comments: 318
+   URL: https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/
+
+6. SSH Secret Menu
+   Points: 26
+   Comments: 14
+   URL: https://twitter.com/rebane2001/status/2031037389347406054
+
+7. Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon
+   Points: 177
+   Comments: 84
+   URL: https://github.com/RunanywhereAI/rcli
+
+8. Universal vaccine against respiratory infections and allergens
+   Points: 81
+   Comments: 18
+   URL: https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html
+
+9. RISC-V Is Sloooow
+   Points: 158
+   Comments: 140
+   URL: https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/
+
+10. Debian decides not to decide on AI-generated contributions
+   Points: 272
+   Comments: 210
+   URL: https://lwn.net/SubscriberLink/1061544/125f911834966dd0/
+
+11. Invoker Commands API
+   Points: 51
+   Comments: 12
+   URL: https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API
+
+12. FFmpeg-over-IP – Connect to remote FFmpeg servers
+   Points: 112
+   Comments: 50
+   URL: https://github.com/steelbrain/ffmpeg-over-ip
+
+13. Mesh over Bluetooth LE, TCP, or Reticulum
+   Points: 16
+   Comments: 0
+   URL: https://github.com/torlando-tech/columba
+
+14. Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy
+   Points: 371
+   Comments: 368
+   URL: https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md
+
+15. Networking with agents: Put them in the right conversations with Tailscale
+   Points: 14
+   Comments: 2
+   URL: https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/
+
+16. Tell HN: Apple development certificate server seems down?
+   Points: 53
+   Comments: 22
+   URL: https://news.ycombinator.com/item?id=47328034
+
+17. Meta acquires Moltbook
+   Points: 404
+   Comments: 258
+   URL: https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network
+
+18. Intel Demos Chip to Compute with Encrypted Data
+   Points: 218
+   Comments: 83
+   URL: https://spectrum.ieee.org/fhe-intel
+
+19. After outages, Amazon to make senior engineers sign off on AI-assisted changes
+   Points: 422
+   Comments: 385
+   URL: https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/
+
+20. Online age-verification tools for child safety are surveilling adults
+   Points: 532
+   Comments: 300
+   URL: https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html
+
