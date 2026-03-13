@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-13
+==================================================
+
+1. Shall I implement it? No
+   Points: 739
+   Comments: 265
+   URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
+
+2. Tennessee grandmother jailed after AI face recognition error links her to fraud
+   Points: 29
+   Comments: 3
+   URL: https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud
+
+3. Malus – Clean Room as a Service
+   Points: 1017
+   Comments: 396
+   URL: https://malus.sh
+
+4. Bubble Sorted Amen Break
+   Points: 255
+   Comments: 86
+   URL: https://parametricavocado.itch.io/amen-sorting
+
+5. Reversing memory loss via gut-brain communication
+   Points: 220
+   Comments: 87
+   URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html
+
+6. ATMs didn't kill bank teller jobs, but the iPhone did
+   Points: 320
+   Comments: 367
+   URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller
+
+7. The Met releases high-def 3D scans of 140 famous art objects
+   Points: 214
+   Comments: 44
+   URL: https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html
+
+8. Document poisoning in RAG systems: How attackers corrupt AI's sources
+   Points: 57
+   Comments: 24
+   URL: https://aminrj.com/posts/rag-document-poisoning/
+
+9. Innocent woman jailed after being misidentified using AI facial recognition
+   Points: 365
+   Comments: 190
+   URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
+
+10. Understanding the Go Runtime: The Scheduler
+   Points: 11
+   Comments: 2
+   URL: https://internals-for-interns.com/posts/go-runtime-scheduler/
+
+11. Show HN: OneCLI – Vault for AI Agents in Rust
+   Points: 122
+   Comments: 38
+   URL: https://github.com/onecli/onecli
+
+12. Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference
+   Points: 45
+   Comments: 19
+   URL: https://ionrouter.io
+
+13. Forcing Flash Attention onto a TPU and Learning the Hard Way
+   Points: 40
+   Comments: 10
+   URL: https://archerzhang.me/forcing-flash-attention-onto-a-tpu
+
+14. US private credit defaults hit record 9.2% in 2025, Fitch says
+   Points: 245
+   Comments: 342
+   URL: https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d
+
+15. Dolphin Progress Release 2603
+   Points: 303
+   Comments: 50
+   URL: https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/
+
+16. WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations
+   Points: 87
+   Comments: 12
+   URL: https://github.com/wolfssl/wolfip
+
+17. Runners who churn butter on their runs
+   Points: 87
+   Comments: 46
+   URL: https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/
+
+18. Big data on the cheapest MacBook
+   Points: 301
+   Comments: 251
+   URL: https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook
+
+19. Show HN: Axe – A 12MB binary that replaces your AI framework
+   Points: 143
+   Comments: 94
+   URL: https://github.com/jrswab/axe
+
+20. Are LLM merge rates not getting better?
+   Points: 112
+   Comments: 111
+   URL: https://entropicthoughts.com/no-swe-bench-improvement
+
