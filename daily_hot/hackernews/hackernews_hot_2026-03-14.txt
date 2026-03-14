@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-14
+==================================================
+
+1. 1M context is now generally available for Opus 4.6 and Sonnet 4.6
+   Points: 117
+   Comments: 29
+   URL: https://claude.com/blog/1m-context-ga
+
+2. I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites
+   Points: 65
+   Comments: 18
+   URL: https://benzimmermann.dev/blog/algolia-docsearch-admin-keys
+
+3. Can I run AI locally?
+   Points: 901
+   Comments: 237
+   URL: https://www.canirun.ai/
+
+4. Show HN: Channel Surfer – Watch YouTube like it’s cable TV
+   Points: 397
+   Comments: 136
+   URL: https://channelsurfer.tv
+
+5. Mouser: An open source alternative to Logi-Plus mouse software
+   Points: 180
+   Comments: 57
+   URL: https://github.com/TomBadash/MouseControl
+
+6. Qatar helium shutdown puts chip supply chain on a two-week clock
+   Points: 405
+   Comments: 379
+   URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+
+7. Hammerspoon
+   Points: 195
+   Comments: 75
+   URL: https://github.com/Hammerspoon/hammerspoon
+
+8. Coding My Handwriting
+   Points: 11
+   Comments: 0
+   URL: https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript
+
+9. OpenTelemetry for Rust Developers
+   Points: 22
+   Comments: 3
+   URL: https://signoz.io/blog/opentelemetry-rust/
+
+10. Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people
+   Points: 112
+   Comments: 49
+   URL: https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/
+
+11. Parallels confirms MacBook Neo can run Windows in a virtual machine
+   Points: 183
+   Comments: 242
+   URL: https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/
+
+12. New 'negative light' technology hides data transfers in plain sight
+   Points: 57
+   Comments: 39
+   URL: https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight
+
+13. Elon Musk pushes out more xAI founders as AI coding effort falters
+   Points: 303
+   Comments: 432
+   URL: https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5
+
+14. TUI Studio – visual terminal UI design tool
+   Points: 544
+   Comments: 272
+   URL: https://tui.studio/
+
+15. Our Experience with I-Ready
+   Points: 5
+   Comments: 1
+   URL: https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/
+
+16. Using Thunderbird for RSS
+   Points: 63
+   Comments: 9
+   URL: https://rubenerd.com/using-thunderbird-for-rss/
+
+17. I beg you to follow Crocker's Rules, even if you will be rude to me
+   Points: 21
+   Comments: 32
+   URL: https://lr0.org/blog/p/crocker/
+
+18. MetaGenesis Core – offline verification for computational claims
+   Points: 11
+   Comments: 6
+   URL: https://www.metagenesis-core.dev/
+
+19. Stanford researchers report first recording of a blue whale's heart rate (2019)
+   Points: 47
+   Comments: 35
+   URL: https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate
+
+20. Exploring JEPA for real-time speech translation
+   Points: 27
+   Comments: 6
+   URL: https://www.startpinch.com/research/en/jepa-encoder-translation/
+
