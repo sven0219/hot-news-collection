@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-16
+==================================================
+
+1. Canada's bill C-22 mandates mass metadata surveillance of Canadians
+   Points: 272
+   Comments: 73
+   URL: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+
+2. Chrome DevTools MCP
+   Points: 311
+   Comments: 138
+   URL: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+
+3. The 49MB web page
+   Points: 279
+   Comments: 156
+   URL: https://thatshubham.com/blog/news-audit
+
+4. Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells
+   Points: 33
+   Comments: 11
+   URL: https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/
+
+5. LLM Architecture Gallery
+   Points: 222
+   Comments: 18
+   URL: https://sebastianraschka.com/llm-architecture-gallery/
+
+6. //go:fix inline and the source-level inliner
+   Points: 110
+   Comments: 41
+   URL: https://go.dev/blog/inliner
+
+7. A new Bigfoot documentary helps explain our conspiracy-minded era
+   Points: 34
+   Comments: 6
+   URL: https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px
+
+8. Separating the Wayland compositor and window manager
+   Points: 214
+   Comments: 93
+   URL: https://isaacfreund.com/blog/river-window-management/
+
+9. Bandit: A 32bit baremetal computer that runs Color Forth [video]
+   Points: 14
+   Comments: 1
+   URL: https://www.youtube.com/watch?v=HK0uAKkt0AE
+
+10. What makes Intel Optane stand out (2023)
+   Points: 173
+   Comments: 115
+   URL: https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/
+
+11. The Linux Programming Interface as a university course text
+   Points: 10
+   Comments: 1
+   URL: https://man7.org/tlpi/academic/index.html
+
+12. Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories
+   Points: 217
+   Comments: 135
+   URL: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+
+13. Stop Sloppypasta
+   Points: 103
+   Comments: 52
+   URL: https://stopsloppypasta.ai/
+
+14. Nasdaq's Shame
+   Points: 128
+   Comments: 27
+   URL: https://keubiko.substack.com/p/nasdaqs-shame
+
+15. C++26: The Oxford Variadic Comma
+   Points: 114
+   Comments: 63
+   URL: https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma
+
+16. Learning athletic humanoid tennis skills from imperfect human motion data
+   Points: 119
+   Comments: 24
+   URL: https://zzk273.github.io/LATENT/
+
+17. Excel incorrectly assumes that the year 1900 is a leap year
+   Points: 39
+   Comments: 10
+   URL: https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year
+
+18. Type systems are leaky abstractions: the case of Map.take!/2
+   Points: 19
+   Comments: 7
+   URL: https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take
+
+19. In Memoriam: John W. Addison, my PhD advisor
+   Points: 96
+   Comments: 4
+   URL: https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/
+
+20. Bus travel from Lima to Rio de Janeiro
+   Points: 116
+   Comments: 44
+   URL: https://kenschutte.com/lima-to-rio-by-bus/
+
