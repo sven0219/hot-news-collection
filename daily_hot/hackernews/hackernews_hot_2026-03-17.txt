@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-17
+==================================================
+
+1. US SEC preparing to scrap quarterly reporting requirement
+   Points: 139
+   Comments: 73
+   URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/
+
+2. Leanstral: Open-source agent for trustworthy coding and formal proof engineering
+   Points: 278
+   Comments: 50
+   URL: https://mistral.ai/news/leanstral
+
+3. Meta’s renewed commitment to jemalloc
+   Points: 327
+   Comments: 135
+   URL: https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/
+
+4. The “small web” is bigger than you might think
+   Points: 301
+   Comments: 129
+   URL: https://kevinboone.me/small_web_is_big.html
+
+5. US commercial insurers pay 254% of Medicare for the same hospital procedures
+   Points: 192
+   Comments: 127
+   URL: https://github.com/rexrodeo/american-healthcare-conundrum
+
+6. My Journey to a reliable and enjoyable locally hosted voice assistant (2025)
+   Points: 311
+   Comments: 92
+   URL: https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860
+
+7. Show HN: Thermal Receipt Printers – Markdown and Web UI
+   Points: 28
+   Comments: 6
+   URL: https://github.com/sadreck/ThermalMarky
+
+8. In space, no one can hear you kernel panic
+   Points: 17
+   Comments: 1
+   URL: https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/
+
+9. Show HN: Oxyde – Pydantic-native async ORM with a Rust core
+   Points: 54
+   Comments: 31
+   URL: https://github.com/mr-fatalyst/oxyde
+
+10. Why I love FreeBSD
+   Points: 342
+   Comments: 158
+   URL: https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/
+
+11. Canopy Height Maps v2
+   Points: 4
+   Comments: 0
+   URL: https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1
+
+12. Language Model Teams as Distrbuted Systems
+   Points: 67
+   Comments: 28
+   URL: https://arxiv.org/abs/2603.12229
+
+13. Starlink Mini as a failover
+   Points: 188
+   Comments: 162
+   URL: https://www.jackpearce.co.uk/posts/starlink-failover/
+
+14. AnswerThis (YC F25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead
+
+15. Polymarket gamblers threaten to kill me over Iran missile story
+   Points: 1317
+   Comments: 871
+   URL: https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/
+
+16. Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps
+   Points: 63
+   Comments: 47
+   URL: https://news.ycombinator.com/item?id=47401042
+
+17. AirPods Max 2
+   Points: 196
+   Comments: 370
+   URL: https://www.apple.com/airpods-max/
+
+18. Show HN: Claude Code skills that build complete Godot games
+   Points: 152
+   Comments: 92
+   URL: https://github.com/htdt/godogen
+
+19. Apideck CLI – An AI-agent interface with much lower context consumption than MCP
+   Points: 117
+   Comments: 104
+   URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative
+
+20. On The Need For Understanding
+   Points: 82
+   Comments: 33
+   URL: https://blog.information-superhighway.net/on-the-need-for-understanding
+
