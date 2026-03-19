@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-19
+==================================================
+
+1. Austin’s surge of new housing construction drove down rents
+   Points: 127
+   Comments: 94
+   URL: https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents
+
+2. Warranty Void If Regenerated
+   Points: 180
+   Comments: 95
+   URL: https://nearzero.software/p/warranty-void-if-regenerated
+
+3. Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe
+   Points: 125
+   Comments: 25
+   URL: https://gitlab.com/IsolatedOctopi/nvidia_greenboost
+
+4. Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training
+   Points: 36
+   Comments: 5
+   URL: https://github.com/alainnothere/llm-circuit-finder
+
+5. OpenRocket
+   Points: 389
+   Comments: 83
+   URL: https://openrocket.info/
+
+6. Rob Pike’s Rules of Programming (1989)
+   Points: 834
+   Comments: 407
+   URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html
+
+7. Wander – A tiny, decentralised tool to explore the small web
+   Points: 193
+   Comments: 52
+   URL: https://susam.net/wander/
+
+8. The math that explains why bell curves are everywhere
+   Points: 47
+   Comments: 12
+   URL: https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/
+
+9. Nvidia NemoClaw
+   Points: 232
+   Comments: 186
+   URL: https://github.com/NVIDIA/NemoClaw
+
+10. Show HN: Will my flight have Starlink?
+   Points: 159
+   Comments: 207
+   URL: https://news.ycombinator.com/item?id=47428650
+
+11. What’s on HTTP?
+   Points: 24
+   Comments: 6
+   URL: https://whatsonhttp.com/
+
+12. Book: The Emerging Science of Machine Learning Benchmarks
+   Points: 85
+   Comments: 4
+   URL: https://mlbenchmarks.org/00-preface.html
+
+13. Nightingale – open-source karaoke app that works with any song on your computer
+   Points: 493
+   Comments: 146
+   URL: https://nightingale.cafe/
+
+14. Show HN: Playing LongTurn FreeCiv with Friends
+   Points: 48
+   Comments: 22
+   URL: https://github.com/ndroo/freeciv.andrewmcgrath.info
+
+15. CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root
+   Points: 93
+   Comments: 58
+   URL: https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root
+
+16. Show HN: I built 48 lightweight SVG backgrounds you can copy/paste
+   Points: 153
+   Comments: 28
+   URL: https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
+
+17. 2025 Turing award given for quantum information science
+   Points: 89
+   Comments: 22
+   URL: https://awards.acm.org/about/2025-turing
+
+18. An x86-64 back end for raven-uxn
+   Points: 5
+   Comments: 0
+   URL: https://www.mattkeeter.com/blog/2026-03-15-uxn/
+
+19. Show HN: Tmux-IDE, OSS agent-first terminal IDE
+   Points: 60
+   Comments: 35
+   URL: https://tmux.thijsverreck.com
+
+20. On a Boat
+   Points: 123
+   Comments: 23
+   URL: https://moq.dev/blog/on-a-boat/
+
