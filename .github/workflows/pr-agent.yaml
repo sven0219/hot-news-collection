@@ -17,11 +17,7 @@ jobs:
         uses: qodo-ai/pr-agent@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OPENAI_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
-          OPENAI__API_BASE: https://dashscope.aliyuncs.com/compatible-mode/v1
-          config.model: "dashscope/qwen-plus"
-          config.fallback_models: '["dashscope/qwen-plus"]'
-          custom_model_max_tokens: "32000"
+          OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
           github_action_config.auto_review: "true"
           github_action_config.auto_describe: "true"
           github_action_config.auto_improve: "true"
