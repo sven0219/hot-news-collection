@@ -1,0 +1,98 @@
+Hacker News Top 20 Stories - 2026-03-20
+==================================================
+
+1. Claude Code: Channels
+   Points: 67
+   Comments: 26
+   URL: https://code.claude.com/docs/en/channels
+
+2. Wayland set the Linux Desktop back by 10 years
+   Points: 67
+   Comments: 27
+   URL: https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years
+
+3. Cockpit is a web-based graphical interface for servers
+   Points: 163
+   Comments: 99
+   URL: https://github.com/cockpit-project/cockpit
+
+4. Google details new 24-hour process to sideload unverified Android apps
+   Points: 476
+   Comments: 555
+   URL: https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/
+
+5. How the Turner twins are mythbusting modern technical apparel
+   Points: 110
+   Comments: 57
+   URL: https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/
+
+6. Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game
+   Points: 235
+   Comments: 34
+   URL: https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742
+
+7. Show HN: Three new Kitten TTS models – smallest less than 25MB
+   Points: 308
+   Comments: 104
+   URL: https://github.com/KittenML/KittenTTS
+
+8. Bombarding gamblers with offers greatly increases betting and gambling harm
+   Points: 56
+   Comments: 56
+   URL: https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html
+
+9. The Day I Discovered Type Design
+   Points: 23
+   Comments: 1
+   URL: https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/
+
+10. Noq: n0's new QUIC implementation in Rust
+   Points: 141
+   Comments: 18
+   URL: https://www.iroh.computer/blog/noq-announcement
+
+11. How many branches can your CPU predict?
+   Points: 15
+   Comments: 27
+   URL: https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/
+
+12. EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages
+   Points: 55
+   Comments: 25
+   URL: https://esolang-bench.vercel.app/
+
+13. 4Chan mocks £520k fine for UK online safety breaches
+   Points: 256
+   Comments: 411
+   URL: https://www.bbc.com/news/articles/c624330lg1ko
+
+14. Be intentional about how AI changes your codebase
+   Points: 63
+   Comments: 26
+   URL: https://aicode.swerdlow.dev
+
+15. Waymo Safety Impact
+   Points: 205
+   Comments: 204
+   URL: https://waymo.com/safety/impact/
+
+16. “Your frustration is the product”
+   Points: 424
+   Comments: 246
+   URL: https://daringfireball.net/2026/03/your_frustration_is_the_product
+
+17. NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute
+   Points: 97
+   Comments: 17
+   URL: https://qlabs.sh/10x
+
+18. From Oscilloscope to Wireshark: A UDP Story (2022)
+   Points: 75
+   Comments: 16
+   URL: https://www.mattkeeter.com/blog/2022-08-11-udp/
+
+19. Juggalo makeup blocks facial recognition technology (2019)
+   Points: 227
+   Comments: 141
+   URL: https://consequence.net/2019/07/juggalo-makeup-facial-recognition/
+
