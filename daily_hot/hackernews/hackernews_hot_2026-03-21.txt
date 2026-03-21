@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-21
+==================================================
+
+1. OpenCode – The open source AI coding agent
+   Points: 379
+   Comments: 183
+   URL: https://opencode.ai/
+
+2. Our commitment to Windows quality
+   Points: 376
+   Comments: 666
+   URL: https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/
+
+3. We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster
+   Points: 86
+   Comments: 51
+   URL: https://www.openui.com/blog/rust-wasm-parser
+
+4. Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)
+   Points: 15
+   Comments: 1
+   URL: https://github.com/arnoldrobbins/LinuxByExample-2e
+
+5. Ghostling
+   Points: 61
+   Comments: 9
+   URL: https://github.com/ghostty-org/ghostling
+
+6. France's aircraft carrier located in real time by Le Monde through fitness app
+   Points: 461
+   Comments: 385
+   URL: https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html
+
+7. Lent and Lisp
+   Points: 11
+   Comments: 0
+   URL: https://leancrew.com/all-this/2026/02/lent-and-lisp/
+
+8. Attention Residuals
+   Points: 114
+   Comments: 19
+   URL: https://github.com/MoonshotAI/Attention-Residuals
+
+9. An FAQ on Reinforcement Learning Environments
+   Points: 17
+   Comments: 0
+   URL: https://epoch.ai/gradient-updates/state-of-rl-envs
+
+10. Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran
+   Points: 37
+   Comments: 27
+   URL: https://github.com/FormerLab/fortransky
+
+11. The Los Angeles Aqueduct Is Wild
+   Points: 284
+   Comments: 160
+   URL: https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild
+
+12. Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists
+   Points: 53
+   Comments: 65
+   URL: https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029
+
+13. Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers
+   Points: 15
+   Comments: 10
+   URL: https://github.com/RedGridTactical/RedGridLink
+
+14. VisiCalc Reconstructed
+   Points: 159
+   Comments: 65
+   URL: https://zserge.com/posts/visicalc/
+
+15. Show HN: I made an email app inspired by Arc browser
+   Points: 41
+   Comments: 24
+   URL: https://demo.define.app
+
+16. Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts
+   Points: 28
+   Comments: 6
+   URL: https://github.com/FormerLab/shadow-fleet-tracker-light
+
+17. Work_mem: It's a Trap
+   Points: 26
+   Comments: 2
+   URL: https://mydbanotebook.org/posts/work_mem-its-a-trap/
+
+18. The worst volume control UI in the world (2017)
+   Points: 57
+   Comments: 28
+   URL: https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950
+
+19. Delve – Fake Compliance as a Service
+   Points: 534
+   Comments: 185
+   URL: https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service
+
+20. NumKong: 2'000 Mixed Precision Kernels for All
+   Points: 25
+   Comments: 0
+   URL: https://ashvardanian.com/posts/numkong/
+
