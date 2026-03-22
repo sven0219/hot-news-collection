@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-22
+==================================================
+
+1. Tinybox – Offline AI device 120B parameters
+   Points: 281
+   Comments: 166
+   URL: https://tinygrad.org/#tinybox
+
+2. Professional video editing, right in the browser with WebGPU and WASM
+   Points: 117
+   Comments: 34
+   URL: https://tooscut.app/
+
+3. Some things just take time
+   Points: 494
+   Comments: 171
+   URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
+
+4. Profiling Hacker News users based on their comments
+   Points: 35
+   Comments: 29
+   URL: https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/
+
+5. Boomloom: Think with your hands
+   Points: 35
+   Comments: 3
+   URL: https://www.theboomloom.com
+
+6. Do Not Turn Child Protection into Internet Access Control
+   Points: 452
+   Comments: 226
+   URL: https://news.dyne.org/child-protection-is-not-access-control/
+
+7. The Impact of AI on Game Dev Jobs. Open to Work Crisis
+   Points: 32
+   Comments: 8
+   URL: https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922
+
+8. Bayesian statistics for confused data scientists
+   Points: 39
+   Comments: 4
+   URL: https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/
+
+9. Trivy ecosystem supply chain briefly compromised
+   Points: 12
+   Comments: 3
+   URL: https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23
+
+10. Grafeo – A fast, lean, embeddable graph database built in Rust
+   Points: 184
+   Comments: 59
+   URL: https://grafeo.dev/
+
+11. Electronics for Kids, 2nd Edition
+   Points: 95
+   Comments: 14
+   URL: https://nostarch.com/electronics-for-kids-2e
+
+12. Show HN: Termcraft – terminal-first 2D sandbox survival in Rust
+   Points: 81
+   Comments: 9
+   URL: https://github.com/pagel-s/termcraft
+
+13. How Invisalign became the biggest user of 3D printers
+   Points: 135
+   Comments: 98
+   URL: https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/
+
+14. How Ford burned $12B in Brazil (2021)
+   Points: 24
+   Comments: 0
+   URL: https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/
+
+15. Common Lisp Development Tooling
+   Points: 30
+   Comments: 2
+   URL: https://www.creativetension.co/posts/common-lisp-development-tooling
+
+16. The paddle wheel aircraft carriers of Lake Michigan
+   Points: 43
+   Comments: 4
+   URL: https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/
+
+17. Hide macOS Tahoe's Menu Icons
+   Points: 95
+   Comments: 25
+   URL: https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/
+
+18. Floci – A free, open-source local AWS emulator
+   Points: 47
+   Comments: 6
+   URL: https://github.com/hectorvent/floci
+
+19. Welcome to the Block Universe
+   Points: 8
+   Comments: 0
+   URL: https://nautil.us/welcome-to-the-block-universe-1278973
+
+20. Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base
+   Points: 43
+   Comments: 7
+   URL: https://github.com/kenforthewin/atomic
+
