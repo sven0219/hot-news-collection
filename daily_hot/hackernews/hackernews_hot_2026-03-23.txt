@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-23
+==================================================
+
+1. PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
+   Points: 303
+   Comments: 143
+   URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
+
+2. The gold standard of optimization: A look under the hood of RollerCoaster Tycoon
+   Points: 171
+   Comments: 65
+   URL: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
+
+3. The future of version control
+   Points: 397
+   Comments: 232
+   URL: https://bramcohen.com/p/manyana
+
+4. Department of State advises Americans worldwide to exercise increased caution
+   Points: 7
+   Comments: 1
+   URL: https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html
+
+5. Reports of code's death are greatly exaggerated
+   Points: 230
+   Comments: 201
+   URL: https://stevekrouse.com/precision
+
+6. Why I love NixOS
+   Points: 189
+   Comments: 137
+   URL: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
+
+7. LLMs predict my coffee
+   Points: 67
+   Comments: 25
+   URL: https://dynomight.net/coffee/
+
+8. GrapheneOS will remain usable by anyone without requiring personal information
+   Points: 199
+   Comments: 49
+   URL: https://grapheneos.social/@GrapheneOS/116261301913660830
+
+9. Project Nomad – Knowledge That Never Goes Offline
+   Points: 357
+   Comments: 108
+   URL: https://www.projectnomad.us
+
+10. First and Lego Education Partnership Update
+   Points: 24
+   Comments: 7
+   URL: https://community.firstinspires.org/first-lego-education-partnership-update
+
+11. Flash-MoE: Running a 397B Parameter Model on a Laptop
+   Points: 298
+   Comments: 104
+   URL: https://github.com/danveloper/flash-moe
+
+12. I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos
+   Points: 14
+   Comments: 3
+   URL: https://bay41.com/posts/tiiny-ai-pocket-lab-review/
+
+13. Five Years of Running a Systems Reading Group at Microsoft
+   Points: 112
+   Comments: 30
+   URL: https://armaansood.com/posts/systems-reading-group/
+
+14. MAUI Is Coming to Linux
+   Points: 155
+   Comments: 76
+   URL: https://avaloniaui.net/blog/maui-avalonia-preview-1
+
+15. Windows native app development is a mess
+   Points: 324
+   Comments: 335
+   URL: https://domenic.me/windows-native-dev/
+
+16. How to Attract AI Bots to Your Open Source Project
+   Points: 67
+   Comments: 13
+   URL: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
+
+17. Building an FPGA 3dfx Voodoo with Modern RTL Tools
+   Points: 159
+   Comments: 33
+   URL: https://noquiche.fyi/voodoo
+
+18. Theodosian Land Walls of Constantinople (2025)
+   Points: 26
+   Comments: 5
+   URL: https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople
+
+19. What Young Workers Are Doing to AI-Proof Themselves
+   Points: 66
+   Comments: 75
+   URL: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
+
+20. They're Vibe-Coding Spam Now
+   Points: 24
+   Comments: 13
+   URL: https://tedium.co/2026/02/25/vibe-coded-email-spam/
+
