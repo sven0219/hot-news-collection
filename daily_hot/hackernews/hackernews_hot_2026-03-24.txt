@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-24
+==================================================
+
+1. Windows 3.1 tiled background .bmp archive
+   Points: 105
+   Comments: 28
+   URL: https://github.com/andreasjansson/win-3.1-backgrounds
+
+2. FCC Updates Covered List to Include Foreign-Made Consumer Routers
+   Points: 146
+   Comments: 89
+   URL: https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers
+
+3. Autoresearch on an old research idea
+   Points: 261
+   Comments: 66
+   URL: https://ykumar.me/blog/eclip-autoresearch/
+
+4. iPhone 17 Pro Demonstrated Running a 400B LLM
+   Points: 474
+   Comments: 236
+   URL: https://twitter.com/anemll/status/2035901335984611412
+
+5. Ju Ci: The Art of Repairing Porcelain
+   Points: 45
+   Comments: 6
+   URL: https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/
+
+6. Show HN: Cq – Stack Overflow for AI coding agents
+   Points: 49
+   Comments: 18
+   URL: https://blog.mozilla.ai/cq-stack-overflow-for-agents/
+
+7. IRIX 3dfx Voodoo driver and glide2x IRIX port
+   Points: 23
+   Comments: 0
+   URL: https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/
+
+8. Local Stack Archived their GitHub repo and requires an account to run
+   Points: 150
+   Comments: 78
+   URL: https://github.com/localstack/localstack
+
+9. Claude Code Cheat Sheet
+   Points: 124
+   Comments: 38
+   URL: https://cc.storyfox.cz
+
+10. Finding all regex matches has always been O(n²)
+   Points: 151
+   Comments: 39
+   URL: https://iev.ee/blog/the-quadratic-problem-nobody-fixed/
+
+11. Dune3d: A parametric 3D CAD application
+   Points: 96
+   Comments: 28
+   URL: https://github.com/dune3d/dune3d
+
+12. Abusing Customizable Selects
+   Points: 9
+   Comments: 0
+   URL: https://css-tricks.com/abusing-customizable-selects/
+
+13. Trivy under attack again: Widespread GitHub Actions tag compromise secrets
+   Points: 153
+   Comments: 57
+   URL: https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise
+
+14. An incoherent Rust
+   Points: 115
+   Comments: 44
+   URL: https://www.boxyuwu.blog/posts/an-incoherent-rust/
+
+15. A retro terminal music player inspired by Winamp
+   Points: 35
+   Comments: 0
+   URL: https://github.com/bjarneo/cliamp
+
+16. Two pilots dead after plane and ground vehicle collide at LaGuardia
+   Points: 328
+   Comments: 517
+   URL: https://www.bbc.com/news/articles/cy01g522ww4o
+
+17. Designing AI for Disruptive Science
+   Points: 62
+   Comments: 35
+   URL: https://www.asimov.press/p/ai-science
+
+18. How I'm Productive with Claude Code
+   Points: 107
+   Comments: 77
+   URL: https://neilkakkar.com/productive-with-claude-code.html
+
+19. I built an AI receptionist for a mechanic shop
+   Points: 209
+   Comments: 231
+   URL: https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/
+
+20. BIO: The Bao I/O Coprocessor
+   Points: 117
+   Comments: 26
+   URL: https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/
+
