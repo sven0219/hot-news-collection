@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-25
+==================================================
+
+1. I wanted to build vertical SaaS for pest control, so I took a technician job
+   Points: 178
+   Comments: 71
+   URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead
+
+2. Goodbye to Sora
+   Points: 319
+   Comments: 243
+   URL: https://twitter.com/soraofficialapp/status/2036532795984715896
+
+3. Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller
+   Points: 188
+   Comments: 22
+   URL: https://videojs.org/blog/videojs-v10-beta-hello-world-again
+
+4. Flighty Airports
+   Points: 24
+   Comments: 9
+   URL: https://flighty.com/airports
+
+5. Apple Business
+   Points: 509
+   Comments: 314
+   URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+
+6. Arm AGI CPU
+   Points: 270
+   Comments: 209
+   URL: https://newsroom.arm.com/blog/introducing-arm-agi-cpu
+
+7. In Edison’s Revenge, Data Centers Are Transitioning From AC to DC
+   Points: 8
+   Comments: 0
+   URL: https://spectrum.ieee.org/data-center-dc
+
+8. Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised
+   Points: 475
+   Comments: 369
+   URL: https://github.com/BerriAI/litellm/issues/24512
+
+9. A Compiler Writing Journey
+   Points: 17
+   Comments: 0
+   URL: https://github.com/DoctorWkt/acwj
+
+10. An Aural Companion for Decades, CBS News Radio Crackles to a Close
+   Points: 11
+   Comments: 0
+   URL: https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html
+
+11. What happened to GEM?
+   Points: 40
+   Comments: 11
+   URL: https://dfarq.homeip.net/whatever-happened-to-gem/
+
+12. Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains
+   Points: 649
+   Comments: 226
+   URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/
+
+13. Show HN: Email.md – Markdown to responsive, email-safe HTML
+   Points: 202
+   Comments: 48
+   URL: https://www.emailmd.dev/
+
+14. Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon
+   Points: 189
+   Comments: 75
+   URL: https://github.com/t8/hypura
+
+15. Hypothesis, Antithesis, synthesis
+   Points: 203
+   Comments: 80
+   URL: https://antithesis.com/blog/2026/hegel/
+
+16. Show HN: Gemini can now natively embed video, so I built sub-second video search
+   Points: 244
+   Comments: 68
+   URL: https://github.com/ssrajadh/sentrysearch
+
+17. How the world’s first electric grid was built
+   Points: 51
+   Comments: 14
+   URL: https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/
+
+18. Missile defense is NP-complete
+   Points: 260
+   Comments: 281
+   URL: https://smu160.github.io/posts/missile-defense-is-np-complete/
+
+19. Is anybody else bored of talking about AI?
+   Points: 495
+   Comments: 347
+   URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+
+20. Epic Games to cut more than 1k jobs as Fortnite usage falls
+   Points: 254
+   Comments: 417
+   URL: https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/
+
