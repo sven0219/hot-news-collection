@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-26
+==================================================
+
+1. Running Tesla Model 3's computer on my desk using parts from crashed cars
+   Points: 310
+   Comments: 99
+   URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/
+
+2. ARC-AGI-3
+   Points: 242
+   Comments: 171
+   URL: https://arcprize.org/arc-agi/3
+
+3. The EU still wants to scan  your private messages and photos
+   Points: 678
+   Comments: 202
+   URL: https://fightchatcontrol.eu/?foo=bar
+
+4. Earthquake scientists reveal how overplowing weakens soil at experimental farm
+   Points: 90
+   Comments: 39
+   URL: https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/
+
+5. My astrophotography in the movie Project Hail Mary
+   Points: 685
+   Comments: 180
+   URL: https://rpastro.square.site/s/stories/phm
+
+6. 90% of Claude-linked output going to GitHub repos w <2 stars
+   Points: 177
+   Comments: 100
+   URL: https://www.claudescode.dev/?window=since_launch
+
+7. My DIY FPGA board can run Quake II
+   Points: 50
+   Comments: 13
+   URL: https://blog.mikhe.ch/quake2-on-fpga/part4.html
+
+8. Supreme Court Sides with Cox in Copyright Fight over Pirated Music
+   Points: 269
+   Comments: 233
+   URL: https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html
+
+9. Apple randomly closes bug reports unless you "verify" the bug remains unfixed
+   Points: 274
+   Comments: 153
+   URL: https://lapcatsoftware.com/articles/2026/3/11.html
+
+10. Quantization from the Ground Up
+   Points: 187
+   Comments: 36
+   URL: https://ngrok.com/blog/quantization
+
+11. Ensu – Ente’s Local LLM app
+   Points: 328
+   Comments: 147
+   URL: https://ente.com/blog/ensu/
+
+12. Show HN: A plain-text cognitive architecture for Claude Code
+   Points: 16
+   Comments: 7
+   URL: https://lab.puga.com.br/cog/
+
+13. Woman who never stopped updating her lost dog's chip reunites with him after 11y
+   Points: 46
+   Comments: 5
+   URL: https://www.cbc.ca/radio/asithappens/11-year-dog-reunion-9.7140780
+
+14. TurboQuant: Redefining AI efficiency with extreme compression
+   Points: 492
+   Comments: 133
+   URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+
+15. Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR
+   Points: 14
+   Comments: 14
+   URL: https://github.com/jonwiggins/optio
+
+16. Rendering complex scripts in terminal and OSC 66
+   Points: 10
+   Comments: 1
+   URL: https://thottingal.in/blog/2026/03/22/complex-scripts-in-terminal/
+
+17. FreeCAD  v1.1
+   Points: 162
+   Comments: 51
+   URL: https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/
+
+18. Thoughts on slowing the fuck down
+   Points: 660
+   Comments: 327
+   URL: https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
+
+19. Updates to GitHub Copilot interaction data usage policy
+   Points: 226
+   Comments: 108
+   URL: https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
+
+20. Sodium-ion EV battery breakthrough delivers 11-min charging and 450 km range
+   Points: 111
+   Comments: 66
+   URL: https://electrek.co/2026/03/25/sodium-ion-ev-battery-delivers-11-min-charging-450-km-range/
+
