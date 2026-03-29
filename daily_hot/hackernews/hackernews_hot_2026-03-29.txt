@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-29
+==================================================
+
+1. South Korea Mandates Solar Panels for Public Parking Lots
+   Points: 111
+   Comments: 61
+   URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ
+
+2. Founder of GitLab battles cancer by founding companies
+   Points: 692
+   Comments: 162
+   URL: https://sytse.com/cancer/
+
+3. CSS is DOOMed
+   Points: 174
+   Comments: 48
+   URL: https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/
+
+4. OpenBSD on Motorola 88000 Processors
+   Points: 35
+   Comments: 2
+   URL: http://miod.online.fr/software/openbsd/stories/m88k1.html
+
+5. Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem
+   Points: 142
+   Comments: 104
+   URL: https://twitter.com/BoWang87/status/2037648937453232504
+
+6. AI overly affirms users asking for personal advice
+   Points: 518
+   Comments: 402
+   URL: https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research
+
+7. Joining databases across teams without copying data or running servers
+   Points: 12
+   Comments: 0
+   URL: https://datahike.io/notes/collaborate-without-infrastructure/
+
+8. The first 40 months of the AI era
+   Points: 107
+   Comments: 46
+   URL: https://lzon.ca/posts/other/thoughts-ai-era/
+
+9. Meta Partners with Arm to Develop New Class of Data Center Silicon
+   Points: 34
+   Comments: 5
+   URL: https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/
+
+10. Linux is an interpreter
+   Points: 161
+   Comments: 31
+   URL: https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/
+
+11. I decompiled the White House's new app
+   Points: 362
+   Comments: 127
+   URL: https://thereallo.dev/blog/decompiling-the-white-house-app
+
+12. OpenCiv1 – open-source rewrite of Civ1
+   Points: 84
+   Comments: 28
+   URL: https://github.com/rajko-horvat/OpenCiv1
+
+13. InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer
+   Points: 1
+   Comments: 0
+   URL: https://inpharmd.com/jobs/senior-ruby-on-rails-engineer
+
+14. I Built an Open-World Engine for the N64 [video]
+   Points: 348
+   Comments: 59
+   URL: https://www.youtube.com/watch?v=lXxmIw9axWw
+
+15. Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly
+   Points: 301
+   Comments: 94
+   URL: https://github.com/J-x-Z/cocoa-way
+
+16. Stop picking my Go version for me
+   Points: 16
+   Comments: 9
+   URL: https://blog.howardjohn.info/posts/go-mod-version/
+
+17. Spanish legislation as a Git repo
+   Points: 691
+   Comments: 213
+   URL: https://github.com/EnriqueLop/legalize-es
+
+18. Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms
+   Points: 62
+   Comments: 3
+   URL: https://androwish.org/home/wiki?name=undroidwish
+
+19. Detecting file changes on macOS with kqueue
+   Points: 63
+   Comments: 10
+   URL: https://www.vegardstikbakke.com/kqueue/
+
+20. Sealing Paper Packaging Without Adhesives
+   Points: 11
+   Comments: 0
+   URL: https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html
+
