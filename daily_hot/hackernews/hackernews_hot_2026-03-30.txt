@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-03-30
+==================================================
+
+1. Claude Code runs Git reset –hard origin/main against project repo every 10 mins
+   Points: 152
+   Comments: 80
+   URL: https://github.com/anthropics/claude-code/issues/40710
+
+2. The Cognitive Dark Forest
+   Points: 223
+   Comments: 111
+   URL: https://ryelang.org/blog/posts/cognitive-dark-forest/
+
+3. ChatGPT won't let you type until Cloudflare reads your React state
+   Points: 316
+   Comments: 238
+   URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+
+4. Voyager 1 runs on 69 KB of memory and an 8-track tape recorder
+   Points: 386
+   Comments: 155
+   URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+
+5. There is No Spoon. A software engineers primer for demystified ML
+   Points: 42
+   Comments: 12
+   URL: https://github.com/dreddnafious/thereisnospoon
+
+6. 15 Years of Forking
+   Points: 27
+   Comments: 0
+   URL: https://www.waterfox.com/blog/15-years-of-forking/
+
+7. Pretext: TypeScript library for multiline text measurement and layout
+   Points: 190
+   Comments: 32
+   URL: https://github.com/chenglou/pretext
+
+8. Midnight train from GA: A view of America from the tracks as airports struggle
+   Points: 63
+   Comments: 58
+   URL: https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a
+
+9. The road signs that teach travellers about France
+   Points: 49
+   Comments: 10
+   URL: https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france
+
+10. Coding Agents Could Make Free Software Matter Again
+   Points: 100
+   Comments: 95
+   URL: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+
+11. About the Atmosphere
+   Points: 20
+   Comments: 3
+   URL: https://toni.org/2026/03/27/about-the-atmosphere/
+
+12. Ohm's Peg-to-WASM Compiler
+   Points: 40
+   Comments: 10
+   URL: https://ohmjs.org/blog/2026/03/12/peg-to-wasm
+
+13. I'll buy your electronics to feed our robot
+   Points: 48
+   Comments: 10
+   URL: https://www.dayworkx.com/
+
+14. C++26 is done ISO C++ standards meeting, Trip Report
+   Points: 162
+   Comments: 131
+   URL: https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/
+
+15. More on Version Control
+   Points: 53
+   Comments: 7
+   URL: https://bramcohen.com/p/more-on-version-control
+
+16. The RISE RISC-V Runners: free, native RISC-V CI on GitHub
+   Points: 111
+   Comments: 29
+   URL: https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/
+
+17. Show HN: Crazierl – An Erlang Operating System
+   Points: 39
+   Comments: 14
+   URL: https://crazierl.org/demo/
+
+18. Neovim 0.12.0
+   Points: 288
+   Comments: 132
+   URL: https://github.com/neovim/neovim/releases/tag/v0.12.0
+
+19. Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes
+   Points: 78
+   Comments: 11
+   URL: https://github.com/elixir-volt/quickbeam
+
+20. Creating West Coast Buddhism (2024)
+   Points: 51
+   Comments: 30
+   URL: https://letter.palladiummag.com/p/creating-west-coast-buddhism
+
