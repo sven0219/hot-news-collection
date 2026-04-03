@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-03
+==================================================
+
+1. Google releases Gemma 4 open models
+   Points: 1118
+   Comments: 336
+   URL: https://deepmind.google/models/gemma/gemma-4/
+
+2. Decisions that eroded trust in Azure – by a former Azure Core engineer
+   Points: 263
+   Comments: 84
+   URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
+
+3. Tailscale's new macOS home
+   Points: 309
+   Comments: 161
+   URL: https://tailscale.com/blog/macos-notch-escape
+
+4. Artemis II's toilet is a moon mission milestone
+   Points: 129
+   Comments: 48
+   URL: https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/
+
+5. Cursor 3
+   Points: 276
+   Comments: 240
+   URL: https://cursor.com/blog/cursor-3
+
+6. Qwen3.6-Plus: Towards real world agents
+   Points: 424
+   Comments: 148
+   URL: https://qwen.ai/blog?id=qwen3.6
+
+7. Good ideas do not need lots of lies in order to gain public acceptance (2008)
+   Points: 150
+   Comments: 67
+   URL: https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html
+
+8. George Goble has died
+   Points: 106
+   Comments: 19
+   URL: https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779
+
+9. Lemonade by AMD: a fast and open source local LLM server using GPU and NPU
+   Points: 439
+   Comments: 97
+   URL: https://lemonade-server.ai
+
+10. The Australian government has announced gambling advertising reforms
+   Points: 94
+   Comments: 68
+   URL: https://www.bbc.com/news/articles/c62492e925lo
+
+11. LinkedIn is searching your browser extensions
+   Points: 1550
+   Comments: 681
+   URL: https://browsergate.eu/
+
+12. ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)
+   Points: 1
+   Comments: 0
+   URL: https://paradedb.notion.site/
+
+13. Memo: A language that remembers only the last 12 lines of code
+   Points: 18
+   Comments: 1
+   URL: https://danieltemkin.com/Esolangs/Memo/
+
+14. Prefer do notation over Applicative operators when assembling records (2024)
+   Points: 20
+   Comments: 2
+   URL: https://haskellforall.com/2024/05/prefer-do-notation-over-applicative
+
+15. OpenAI Acquires TBPN
+   Points: 142
+   Comments: 125
+   URL: https://openai.com/index/openai-acquires-tbpn/
+
+16. The Beginning of Programming as We'll Know It
+   Points: 14
+   Comments: 1
+   URL: https://bitsplitting.org/2026/04/01/the-beginning-of-programming-as-well-know-it/
+
+17. JSON Canvas Spec (2024)
+   Points: 81
+   Comments: 28
+   URL: https://jsoncanvas.org/spec/1.0/
+
+18. Show HN: Made a little Artemis II tracker
+   Points: 24
+   Comments: 7
+   URL: https://artemis-ii-tracker.com/
+
+19. Significant progress made on Xbox 360 recompilation
+   Points: 61
+   Comments: 15
+   URL: https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/
+
+20. Significant raise of reports
+   Points: 277
+   Comments: 147
+   URL: https://lwn.net/Articles/1065620/
+
