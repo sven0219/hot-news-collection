@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-04
+==================================================
+
+1. Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+   Points: 200
+   Comments: 192
+   URL: https://news.ycombinator.com/item?id=47633396
+
+2. Artemis II crew take “spectacular” image of Earth
+   Points: 474
+   Comments: 193
+   URL: https://www.bbc.com/news/articles/ce8jzr423p9o
+
+3. Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C
+   Points: 67
+   Comments: 12
+   URL: https://github.com/cmc-labo/tinyos-rtos
+
+4. iNaturalist
+   Points: 322
+   Comments: 94
+   URL: https://www.inaturalist.org/
+
+5. The FAA’s flight restriction for drones is an attempt to criminalize filming ICE
+   Points: 103
+   Comments: 13
+   URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice
+
+6. Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)
+   Points: 29
+   Comments: 27
+   URL: https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans
+
+7. The house is a work of art: Frank Lloyd Wright
+   Points: 34
+   Comments: 8
+   URL: https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition
+
+8. Fake Fans
+   Points: 51
+   Comments: 6
+   URL: https://www.wordsfromeliza.com/p/fake-fans
+
+9. What changes when you turn a Linux box into a router
+   Points: 94
+   Comments: 24
+   URL: https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/
+
+10. Show HN: I built a frontpage for personal blogs
+   Points: 645
+   Comments: 168
+   URL: https://text.blogosphere.app/
+
+11. OpenClaw privilege escalation vulnerability
+   Points: 236
+   Comments: 155
+   URL: https://nvd.nist.gov/vuln/detail/CVE-2026-33579
+
+12. Herbie: Automatically improve imprecise floating point formulas
+   Points: 9
+   Comments: 0
+   URL: https://herbie.uwplse.org/doc/latest/tutorial.html
+
+13. We replaced RAG with a virtual filesystem for our AI documentation assistant
+   Points: 217
+   Comments: 96
+   URL: https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+
+14. Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers
+   Points: 1
+   Comments: 0
+   URL: https://jobs.ashbyhq.com/charge-robotics
+
+15. Go on Embedded Systems and WebAssembly
+   Points: 124
+   Comments: 15
+   URL: https://tinygo.org/
+
+16. Oracle Files H-1B Visa Petitions Amid Mass Layoffs
+   Points: 362
+   Comments: 203
+   URL: https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/
+
+17. Bourbon waste could provide next-gen supercapacitor components
+   Points: 10
+   Comments: 2
+   URL: https://spectrum.ieee.org/supercapacitor-electrodes-bourbon-waste
+
+18. How to Write Unmaintainable Code (1999)
+   Points: 14
+   Comments: 6
+   URL: https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html
+
+19. Iran strikes leave Amazon availability zones "hard down" in Bahrain and Dubai
+   Points: 137
+   Comments: 60
+   URL: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability
+
+20. How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)
+   Points: 70
+   Comments: 35
+   URL: https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/
+
