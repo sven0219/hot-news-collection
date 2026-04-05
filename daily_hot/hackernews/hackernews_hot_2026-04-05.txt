@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-05
+==================================================
+
+1. Show HN: A game where you build a GPU
+   Points: 494
+   Comments: 129
+   URL: https://jaso1024.com/mvidia/
+
+2. Shooting down ideas is not a skill
+   Points: 50
+   Comments: 26
+   URL: https://scottlawsonbc.com/post/shooting-down-ideas
+
+3. OpenScreen is an open-source alternative to Screen Studio
+   Points: 84
+   Comments: 13
+   URL: https://github.com/siddharthvaddem/openscreen
+
+4. How many products does Microsoft have named 'Copilot'?
+   Points: 397
+   Comments: 202
+   URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+
+5. LLM Wiki – example of an "idea file"
+   Points: 52
+   Comments: 14
+   URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+6. Advice to Young People, the Lies I Tell Myself (2024)
+   Points: 18
+   Comments: 3
+   URL: https://jxnl.co/writing/2024/06/01/advice-to-young-people/
+
+7. AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy
+   Points: 68
+   Comments: 4
+   URL: https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop
+
+8. Embarrassingly simple self-distillation improves code generation
+   Points: 544
+   Comments: 165
+   URL: https://arxiv.org/abs/2604.01193
+
+9. Ruckus: Racket for iOS
+   Points: 69
+   Comments: 4
+   URL: https://ruckus.defn.io/
+
+10. Show HN: sllm – Split a GPU node with other developers, unlimited tokens
+   Points: 123
+   Comments: 62
+   URL: https://sllm.cloud
+
+11. Show HN: TurboQuant-WASM – Google's vector quantization in the browser
+   Points: 138
+   Comments: 6
+   URL: https://github.com/teamchong/turboquant-wasm
+
+12. Show HN: I made open source, zero power PCB hackathon badges
+   Points: 44
+   Comments: 6
+   URL: https://github.com/KaiPereira/Overglade-Badges
+
+13. The Indie Internet Index – submit your favorite sites
+   Points: 101
+   Comments: 18
+   URL: https://iii.social
+
+14. Apple approves driver that lets Nvidia eGPUs work with Arm Macs
+   Points: 359
+   Comments: 159
+   URL: https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs
+
+15. Components of a Coding Agent
+   Points: 160
+   Comments: 61
+   URL: https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+
+16. German implementation of eIDAS will require an Apple/Google account to function
+   Points: 48
+   Comments: 34
+   URL: https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/
+
+17. Some Unusual Trees
+   Points: 254
+   Comments: 71
+   URL: https://thoughts.wyounas.com/p/some-unusual-trees
+
+18. Emotion concepts and their function in a large language model
+   Points: 139
+   Comments: 149
+   URL: https://www.anthropic.com/research/emotion-concepts-function
+
+19. The CMS is dead, long live the CMS
+   Points: 120
+   Comments: 76
+   URL: https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms
+
+20. Breaking Enigma with Index of Coincidence on a Commodore 64
+   Points: 20
+   Comments: 4
+   URL: https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/
+
