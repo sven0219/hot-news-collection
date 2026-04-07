@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-07
+==================================================
+
+1. After 20 years I turned off Google Adsense for my websites
+   Points: 84
+   Comments: 45
+   URL: https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm
+
+2. Anthropic expands partnership with Google and Broadcom for next-gen compute
+   Points: 108
+   Comments: 43
+   URL: https://www.anthropic.com/news/google-broadcom-partnership-compute
+
+3. Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS
+   Points: 220
+   Comments: 99
+   URL: https://github.com/matthartman/ghost-pepper
+
+4. Sam Altman may control our future – can he be trusted?
+   Points: 799
+   Comments: 290
+   URL: https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted
+
+5. Launch HN: Freestyle – Sandboxes for Coding Agents
+   Points: 199
+   Comments: 114
+   URL: https://www.freestyle.sh/
+
+6. A cryptography engineer's perspective on quantum computing timelines
+   Points: 319
+   Comments: 137
+   URL: https://words.filippo.io/crqc-timeline/
+
+7. Show HN: GovAuctions lets you browse government auctions at once
+   Points: 209
+   Comments: 64
+   URL: https://www.govauctions.app/
+
+8. Show HN: Hippo, biologically inspired memory for AI agents
+   Points: 43
+   Comments: 13
+   URL: https://github.com/kitfunso/hippo-memory
+
+9. Porting Go's strings package to C
+   Points: 21
+   Comments: 3
+   URL: https://antonz.org/porting-go-strings/
+
+10. Issue: Claude Code is unusable for complex engineering tasks with Feb updates
+   Points: 740
+   Comments: 461
+   URL: https://github.com/anthropics/claude-code/issues/42796
+
+11. German police name alleged leaders of GandCrab and REvil ransomware groups
+   Points: 258
+   Comments: 131
+   URL: https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/
+
+12. What being ripped off taught me
+   Points: 326
+   Comments: 182
+   URL: https://belief.horse/notes/what-being-ripped-off-taught-me/
+
+13. Book review: There Is No Antimemetics Division
+   Points: 205
+   Comments: 146
+   URL: https://www.stephendiehl.com/posts/no_antimimetics/
+
+14. AI singer now occupies eleven spots on iTunes singles chart
+   Points: 98
+   Comments: 107
+   URL: https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive
+
+15. HackerRank (YC S11) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=47667011
+
+16. Show HN: Tusk for macOS and Gnome
+   Points: 45
+   Comments: 15
+   URL: https://shapemachine.xyz/tusk/
+
+17. Sky – an Elm-inspired language that compiles to Go
+   Points: 126
+   Comments: 44
+   URL: https://github.com/anzellai/sky
+
+18. Agent Reading Test
+   Points: 45
+   Comments: 15
+   URL: https://agentreadingtest.com
+
+19. Battle for Wesnoth: open-source, turn-based strategy game
+   Points: 385
+   Comments: 95
+   URL: https://www.wesnoth.org
+
+20. Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V
+   Points: 17
+   Comments: 5
+   URL: https://github.com/roscopeco/anos
+
