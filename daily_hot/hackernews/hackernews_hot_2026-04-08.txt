@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-08
+==================================================
+
+1. Project Glasswing: Securing critical software for the AI era
+   Points: 874
+   Comments: 397
+   URL: https://www.anthropic.com/glasswing
+
+2. Lunar Flyby
+   Points: 340
+   Comments: 84
+   URL: https://www.nasa.gov/gallery/lunar-flyby/
+
+3. US and Iran agree to provisional ceasefire
+   Points: 120
+   Comments: 229
+   URL: https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire
+
+4. System Card: Claude Mythos Preview [pdf]
+   Points: 526
+   Comments: 381
+   URL: https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf
+
+5. GLM-5.1: Towards Long-Horizon Tasks
+   Points: 406
+   Comments: 133
+   URL: https://z.ai/blog/glm-5.1
+
+6. How to get better at guitar
+   Points: 181
+   Comments: 78
+   URL: https://www.jakeworth.com/posts/how-to-get-better-at-guitar/
+
+7. S3 Files
+   Points: 182
+   Comments: 55
+   URL: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
+
+8. Cambodia unveils statue to honour famous landmine-sniffing rat
+   Points: 277
+   Comments: 64
+   URL: https://www.bbc.com/news/articles/c0rx7xzd10xo
+
+9. A truck driver spent 20 years making a scale model of every building in NYC
+   Points: 241
+   Comments: 38
+   URL: https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/
+
+10. Show HN: An interactive map of Tolkien's Middle-earth
+   Points: 75
+   Comments: 15
+   URL: https://middle-earth-interactive-map.web.app/
+
+11. Show HN: Brutalist Concrete Laptop Stand (2024)
+   Points: 696
+   Comments: 215
+   URL: https://sam-burns.com/posts/concrete-laptop-stand/
+
+12. Xilem – An experimental Rust native UI framework
+   Points: 11
+   Comments: 0
+   URL: https://github.com/linebender/xilem
+
+13. A whole boss fight in 256 bytes
+   Points: 58
+   Comments: 11
+   URL: https://hellmood.111mb.de//A_whole_boss_fight_in_256_bytes.html
+
+14. Cloudflare targets 2029 for full post-quantum security
+   Points: 278
+   Comments: 86
+   URL: https://blog.cloudflare.com/post-quantum-roadmap/
+
+15. Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon
+   Points: 120
+   Comments: 15
+   URL: https://github.com/mattmireles/gemma-tuner-multimodal
+
+16. A database of analog cameras that can be 3D printed
+   Points: 14
+   Comments: 0
+   URL: https://printed.analogcamera.space/
+
+17. Rescuing old printers with an in-browser Linux VM bridged to WebUSB over USB/IP
+   Points: 142
+   Comments: 67
+   URL: https://printervention.app/details
+
+18. The Image Boards of Hayao Miyazaki
+   Points: 102
+   Comments: 12
+   URL: https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki
+
+19. Google open-sources experimental agent orchestration testbed Scion
+   Points: 156
+   Comments: 43
+   URL: https://www.infoq.com/news/2026/04/google-agent-testbed-scion/
+
+20. A blind man made it possible for others with low vision to build Lego sets
+   Points: 48
+   Comments: 5
+   URL: https://apnews.com/article/lego-bricks-for-blind-audio-braille-instructions-5a2a27de4354a0b1443171c3f24f29e4
+
