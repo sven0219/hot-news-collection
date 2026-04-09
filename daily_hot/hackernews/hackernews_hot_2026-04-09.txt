@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-09
+==================================================
+
+1. I ported Mac OS X to the Nintendo Wii
+   Points: 1218
+   Comments: 212
+   URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
+
+2. LittleSnitch for Linux
+   Points: 44
+   Comments: 15
+   URL: https://obdev.at/products/littlesnitch-linux/index.html
+
+3. USB for Software Developers: An introduction to writing userspace USB drivers
+   Points: 173
+   Comments: 23
+   URL: https://werwolv.net/posts/usb_for_sw_devs/
+
+4. Git commands I run before reading any code
+   Points: 1782
+   Comments: 383
+   URL: https://piechowski.io/post/git-commands-before-reading-code/
+
+5. Understanding the Kalman filter with a simple radar example
+   Points: 209
+   Comments: 32
+   URL: https://kalmanfilter.net
+
+6. They're made out of meat (1991)
+   Points: 403
+   Comments: 113
+   URL: http://www.terrybisson.com/theyre-made-out-of-meat-2/
+
+7. Muse Spark: Scaling towards personal superintelligence
+   Points: 258
+   Comments: 283
+   URL: https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1
+
+8. Expanding Swift's IDE Support
+   Points: 74
+   Comments: 38
+   URL: https://swift.org/blog/expanding-swift-ide-support/
+
+9. ML promises to be profoundly weird
+   Points: 365
+   Comments: 398
+   URL: https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess
+
+10. What Does It Mean to "Write Like You Talk"?
+   Points: 11
+   Comments: 6
+   URL: https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you
+
+11. Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones
+   Points: 521
+   Comments: 533
+   URL: https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/
+
+12. Pgit: I Imported the Linux Kernel into PostgreSQL
+   Points: 66
+   Comments: 9
+   URL: https://oseifert.ch/blog/linux-kernel-pgit
+
+13. MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU
+   Points: 255
+   Comments: 48
+   URL: https://arxiv.org/abs/2604.05091
+
+14. Show HN: Is Hormuz open yet?
+   Points: 237
+   Comments: 103
+   URL: https://www.ishormuzopenyet.com/
+
+15. John Deere to pay $99M in right-to-repair settlement
+   Points: 161
+   Comments: 44
+   URL: https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement
+
+16. Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator
+   Points: 291
+   Comments: 210
+   URL: https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html
+
+17. Understanding Traceroute
+   Points: 83
+   Comments: 10
+   URL: https://tech.stonecharioteer.com/posts/2026/traceroute/
+
+18. Show HN: Orange Juice – Small UX improvements that make HN easier to read
+   Points: 81
+   Comments: 113
+   URL: http://oj-hn.com/
+
+19. Show HN: Tired of logic in useEffect, I built a class-based React state manager
+   Points: 16
+   Comments: 26
+   URL: https://thales.me/posts/why-i-built-snapstate/
+
+20. Ask HN: Any interesting niche hobbies?
+   Points: 248
+   Comments: 384
+   URL: https://news.ycombinator.com/item?id=47654062
+
