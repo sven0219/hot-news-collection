@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-10
+==================================================
+
+1. Many African families spend fortunes burying their dead
+   Points: 109
+   Comments: 85
+   URL: https://davidoks.blog/p/how-funerals-keep-africa-poor
+
+2. Native Instant Space Switching on macOS
+   Points: 299
+   Comments: 149
+   URL: https://arhan.sh/blog/native-instant-space-switching-on-macos/
+
+3. How NASA Built Artemis II’s Fault-Tolerant Computer
+   Points: 57
+   Comments: 10
+   URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
+
+4. Charcuterie – Visual similarity Unicode explorer
+   Points: 114
+   Comments: 19
+   URL: https://charcuterie.elastiq.ch/
+
+5. PicoZ80 – Drop-In Z80 Replacement
+   Points: 139
+   Comments: 21
+   URL: https://eaw.app/picoz80/
+
+6. Robots Eat Cars
+   Points: 41
+   Comments: 23
+   URL: https://telemetry.endeff.com/p/robots-eat-cars
+
+7. Reverse engineering Gemini's SynthID detection
+   Points: 102
+   Comments: 42
+   URL: https://github.com/aloshdenny/reverse-SynthID
+
+8. Will I ever own a zettaflop?
+   Points: 28
+   Comments: 11
+   URL: https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html
+
+9. Instant 1.0, a backend for AI-coded apps
+   Points: 82
+   Comments: 41
+   URL: https://www.instantdb.com/essays/architecture
+
+10. Moving from WordPress to Jekyll (and static site generators in general)
+   Points: 36
+   Comments: 15
+   URL: https://www.demandsphere.com/blog/rebuilding-demandsphere-with-jekyll-and-claude-code/
+
+11. Unfolder for Mac – A 3D model unfolding tool for creating papercraft
+   Points: 134
+   Comments: 32
+   URL: https://www.unfolder.app/
+
+12. Hegel, a universal property-based testing protocol and family of PBT libraries
+   Points: 79
+   Comments: 28
+   URL: https://hegel.dev
+
+13. Old laptops in a colo as low cost servers
+   Points: 145
+   Comments: 75
+   URL: https://colaptop.pages.dev/
+
+14. Research-Driven Agents: When an agent reads before it codes
+   Points: 123
+   Comments: 42
+   URL: https://blog.skypilot.co/research-driven-agents/
+
+15. Top laptops to use with FreeBSD
+   Points: 279
+   Comments: 156
+   URL: https://freebsdfoundation.github.io/freebsd-laptop-testing/
+
+16. BunnyCDN has been silently losing our production files for 15 months
+   Points: 98
+   Comments: 21
+   URL: https://old.reddit.com/r/webdev/comments/1sglytg/bunnycdn_has_been_silently_losing_our_production/
+
+17. How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling
+   Points: 5
+   Comments: 2
+   URL: https://www.lttlabs.com/articles/2026/04/04/how-close-is-too-close-applying-fundamental-fluid-dynamics-research-methods-to-pc-cooling
+
+18. Reallocating $100/Month Claude Code Spend to Zed and OpenRouter
+   Points: 292
+   Comments: 199
+   URL: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
+
+19. Show HN: I built a Cargo-like build tool for C/C++
+   Points: 116
+   Comments: 106
+   URL: https://github.com/randerson112/craft
+
+20. Microsoft is employing dark patterns to goad users into paying for storage?
+   Points: 208
+   Comments: 112
+   URL: https://lzon.ca/posts/other/microsoft-user-abuse/
+
