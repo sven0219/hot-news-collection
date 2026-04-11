@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-11
+==================================================
+
+1. Filing the corners off my MacBooks
+   Points: 293
+   Comments: 183
+   URL: https://kentwalters.com/posts/corners/
+
+2. Artemis II safely splashes down
+   Points: 258
+   Comments: 77
+   URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/
+
+3. Chimpanzees in Uganda locked in eight-year 'civil war', say researchers
+   Points: 219
+   Comments: 115
+   URL: https://www.bbc.com/news/articles/cr71lkzv49po
+
+4. 1D Chess
+   Points: 642
+   Comments: 123
+   URL: https://rowan441.github.io/1dchess/chess.html
+
+5. Installing Every* Firefox Extension
+   Points: 108
+   Comments: 19
+   URL: https://jack.cab/blog/every-firefox-extension
+
+6. WireGuard makes new Windows release following Microsoft signing resolution
+   Points: 394
+   Comments: 109
+   URL: https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html
+
+7. Industrial design files for Keychron keyboards and mice
+   Points: 295
+   Comments: 92
+   URL: https://github.com/Keychron/Keychron-Keyboards-Hardware-Design
+
+8. Italo Calvino: A Traveller in a World of Uncertainty
+   Points: 15
+   Comments: 2
+   URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty
+
+9. AI assistance when contributing to the Linux kernel
+   Points: 153
+   Comments: 123
+   URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
+
+10. JSON formatter Chrome plugin now closed and injecting adware
+   Points: 140
+   Comments: 72
+   URL: https://github.com/callumlocke/json-formatter
+
+11. Sam Altman's response to Molotov cocktail incident
+   Points: 146
+   Comments: 257
+   URL: https://blog.samaltman.com/2279512
+
+12. Helium is hard to replace
+   Points: 252
+   Comments: 161
+   URL: https://www.construction-physics.com/p/helium-is-hard-to-replace
+
+13. CPU-Z and HWMonitor compromised
+   Points: 256
+   Comments: 82
+   URL: https://www.theregister.com/2026/04/10/cpuid_site_hijacked/
+
+14. What is RISC-V and why it matters to Canonical
+   Points: 90
+   Comments: 54
+   URL: https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical
+
+15. Watgo – A WebAssembly Toolkit for Go
+   Points: 75
+   Comments: 5
+   URL: https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/
+
+16. Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs
+   Points: 50
+   Comments: 46
+   URL: https://twill.ai
+
+17. Show HN: FluidCAD – Parametric CAD with JavaScript
+   Points: 104
+   Comments: 20
+   URL: https://fluidcad.io/
+
+18. PGLite Evangelism
+   Points: 15
+   Comments: 1
+   URL: https://substack.com/home/post/p-193415720
+
+19. Nowhere is safe
+   Points: 115
+   Comments: 153
+   URL: https://steveblank.com/2026/04/09/nowhere-is-safe/
+
+20. The Bra-and-Girdle Maker That Fashioned the Impossible for NASA
+   Points: 25
+   Comments: 2
+   URL: https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/
+
