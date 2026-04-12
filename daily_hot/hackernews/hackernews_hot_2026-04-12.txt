@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-12
+==================================================
+
+1. Small models also found the vulnerabilities that Mythos found
+   Points: 819
+   Comments: 222
+   URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+
+2. Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)
+   Points: 141
+   Comments: 79
+   URL: https://khronokernel.com/macos/2023/08/08/AS-VM.html
+
+3. 447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane
+   Points: 135
+   Comments: 65
+   URL: https://zenodo.org/records/19513269
+
+4. How We Broke Top AI Agent Benchmarks: And What Comes Next
+   Points: 207
+   Comments: 58
+   URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+
+5. Dark Castle
+   Points: 115
+   Comments: 15
+   URL: https://darkcastle.co.uk/
+
+6. Pijul a FOSS distributed version control system
+   Points: 76
+   Comments: 11
+   URL: https://pijul.org/
+
+7. Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS
+   Points: 194
+   Comments: 49
+   URL: https://www.v68k.org/advanced-mac-substitute/
+
+8. How to build a `Git diff` driver
+   Points: 75
+   Comments: 4
+   URL: https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/
+
+9. Cirrus Labs to join OpenAI
+   Points: 233
+   Comments: 114
+   URL: https://cirruslabs.org/
+
+10. The Soul of an Old Machine
+   Points: 20
+   Comments: 3
+   URL: https://skalski.dev/the-soul-of-an-old-machine/
+
+11. Surelock: Deadlock-Free Mutexes for Rust
+   Points: 167
+   Comments: 52
+   URL: https://notes.brooklynzelenka.com/Blog/Surelock
+
+12. What is a property?
+   Points: 52
+   Comments: 14
+   URL: https://alperenkeles.com/posts/what-is-a-property/
+
+13. How Complex is my Code?
+   Points: 10
+   Comments: 0
+   URL: https://philodev.one/posts/2026-04-code-complexity/
+
+14. The Life and Death of the Book Review
+   Points: 15
+   Comments: 4
+   URL: https://libertiesjournal.com/articles/the-life-and-death-of-the-book-review/
+
+15. Show HN: Pardonned.com – A searchable database of US Pardons
+   Points: 370
+   Comments: 198
+   URL: https://news.ycombinator.com/item?id=47727960
+
+16. Keeping a Postgres Queue Healthy
+   Points: 79
+   Comments: 21
+   URL: https://planetscale.com/blog/keeping-a-postgres-queue-healthy
+
+17. Every plane you see in the sky – you can now follow it from the cockpit in 3D
+   Points: 235
+   Comments: 52
+   URL: https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123
+
+18. Optimal Strategy for Connect 4
+   Points: 253
+   Comments: 30
+   URL: https://2swap.github.io/WeakC4/explanation/
+
+19. The Problem That Built an Industry
+   Points: 105
+   Comments: 35
+   URL: https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/
+
+20. The APL programming language source code (2012)
+   Points: 42
+   Comments: 9
+   URL: https://computerhistory.org/blog/the-apl-programming-language-source-code/
+
