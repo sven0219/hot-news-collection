@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-13
+==================================================
+
+1. Taking on CUDA with ROCm: 'One Step After Another'
+   Points: 38
+   Comments: 38
+   URL: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
+
+2. Bring Back Idiomatic Design (2023)
+   Points: 453
+   Comments: 233
+   URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
+
+3. DIY Soft Drinks
+   Points: 242
+   Comments: 58
+   URL: https://blinry.org/diy-soft-drinks/
+
+4. Ask HN: What Are You Working On? (April 2026)
+   Points: 126
+   Comments: 331
+   URL: https://news.ycombinator.com/item?id=47741527
+
+5. Most people can't juggle one ball
+   Points: 233
+   Comments: 79
+   URL: https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball
+
+6. A Perfectable Programming Language
+   Points: 44
+   Comments: 8
+   URL: https://alok.github.io/lean-pages/perfectable-lean/
+
+7. I gave every train in New York an instrument
+   Points: 201
+   Comments: 40
+   URL: https://www.trainjazz.com/
+
+8. Google removes "Doki Doki Literature Club" from Google Play
+   Points: 289
+   Comments: 132
+   URL: https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t
+
+9. Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)
+   Points: 162
+   Comments: 36
+   URL: https://github.com/rochus-keller/OberonSystem3Native/releases
+
+10. The peril of laziness lost
+   Points: 306
+   Comments: 101
+   URL: https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
+
+11. Show HN: boringBar – a taskbar-style dock replacement for macOS
+   Points: 220
+   Comments: 136
+   URL: https://boringbar.app/
+
+12. Uncharted island soon to appear on nautical charts
+   Points: 39
+   Comments: 14
+   URL: https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html
+
+13. Tell HN: docker pull fails in spain due to football cloudflare block
+   Points: 661
+   Comments: 258
+   URL: https://news.ycombinator.com/item?id=47738883
+
+14. Anthropic downgraded cache TTL on March 6th
+   Points: 476
+   Comments: 367
+   URL: https://github.com/anthropics/claude-code/issues/46829
+
+15. Seven countries now generate 100% of their electricity from renewable energy
+   Points: 486
+   Comments: 243
+   URL: https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html
+
+16. Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy
+   Points: 58
+   Comments: 14
+   URL: https://arxiv.org/abs/2505.09509
+
+17. JVM Options Explorer
+   Points: 171
+   Comments: 73
+   URL: https://chriswhocodes.com/vm-options-explorer.html
+
+18. Happy Map
+   Points: 214
+   Comments: 34
+   URL: https://pudding.cool/2026/02/happy-map/
+
+19. Show HN: Claudraband – Claude Code for the Power User
+   Points: 88
+   Comments: 29
+   URL: https://github.com/halfwhey/claudraband
+
+20. Is Math Big or Small?
+   Points: 3
+   Comments: 0
+   URL: https://chessapig.github.io/talks/Big-Small
+
