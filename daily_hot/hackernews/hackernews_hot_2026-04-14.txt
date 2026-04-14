@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-14
+==================================================
+
+1. Someone bought 30 WordPress plugins and planted a backdoor in all of them
+   Points: 670
+   Comments: 189
+   URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
+
+2. Lean proved this program correct; then I found a bug
+   Points: 54
+   Comments: 13
+   URL: https://kirancodes.me/posts/log-who-watches-the-watchers.html
+
+3. GitHub Stacked PRs
+   Points: 401
+   Comments: 241
+   URL: https://github.github.com/gh-stack/
+
+4. WiiFin – Jellyfin Client for Nintendo Wii
+   Points: 36
+   Comments: 6
+   URL: https://github.com/fabienmillet/WiiFin
+
+5. Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets
+   Points: 353
+   Comments: 172
+   URL: https://github.com/sterlingcrispin/nothing-ever-happens
+
+6. How to make Firefox builds 17% faster
+   Points: 133
+   Comments: 17
+   URL: https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/
+
+7. (AMD) Build AI Agents That Run Locally
+   Points: 93
+   Comments: 23
+   URL: https://amd-gaia.ai/docs
+
+8. An Introduction to Obsidian
+   Points: 142
+   Comments: 92
+   URL: https://bryanhogan.com/blog/obsidian-introduction
+
+9. Servo is now available on crates.io
+   Points: 418
+   Comments: 137
+   URL: https://servo.org/blog/2026/04/13/servo-0.1.0-release/
+
+10. Building a CLI for All of Cloudflare
+   Points: 257
+   Comments: 80
+   URL: https://blog.cloudflare.com/cf-cli-local-explorer/
+
+11. Write less code, be more responsible
+   Points: 13
+   Comments: 7
+   URL: https://blog.orhun.dev/code-responsibly/
+
+12. Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours
+   Points: 96
+   Comments: 23
+   URL: https://www.ithihasas.in
+
+13. I Just Want Simple S3
+   Points: 95
+   Comments: 50
+   URL: https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/
+
+14. What We Learned Building a Rust Runtime for TypeScript
+   Points: 40
+   Comments: 9
+   URL: https://encore.dev/blog/rust-runtime
+
+15. N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?
+   Points: 30
+   Comments: 9
+   URL: https://ndaybench.winfunc.com
+
+16. Air Powered Segment Display? [video]
+   Points: 32
+   Comments: 6
+   URL: https://www.youtube.com/watch?v=E1BLGpE5zH0
+
+17. Mathematical Minimalism
+   Points: 23
+   Comments: 1
+   URL: https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/
+
+18. Tracking down a 25% Regression on LLVM RISC-V
+   Points: 98
+   Comments: 19
+   URL: https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/
+
+19. Visualizing CPU Pipelining (2024)
+   Points: 59
+   Comments: 9
+   URL: https://timmastny.com/blog/visualizing-cpu-pipelining/
+
+20. B-trees and database indexes (2024)
+   Points: 82
+   Comments: 34
+   URL: https://planetscale.com/blog/btrees-and-database-indexes
+
