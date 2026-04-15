@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-15
+==================================================
+
+1. Claude Code Routines
+   Points: 409
+   Comments: 253
+   URL: https://code.claude.com/docs/en/routines
+
+2. Rare concert recordings are landing on the Internet Archive
+   Points: 514
+   Comments: 153
+   URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/
+
+3. Stop Flock
+   Points: 45
+   Comments: 2
+   URL: https://stopflock.com
+
+4. Fuck the cloud (2009)
+   Points: 88
+   Comments: 45
+   URL: https://ascii.textfiles.com/archives/1717
+
+5. The Orange Pi 6 Plus
+   Points: 115
+   Comments: 77
+   URL: https://taoofmac.com/space/reviews/2026/04/11/1900
+
+6. Picasso's Guernica (Gigapixel)
+   Points: 37
+   Comments: 9
+   URL: https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59
+
+7. 5NF and Database Design
+   Points: 132
+   Comments: 51
+   URL: https://kb.databasedesignbook.com/posts/5nf/
+
+8. A Communist Apple II and Fourteen Years of Not Knowing What You're Testing
+   Points: 19
+   Comments: 5
+   URL: https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/
+
+9. Turn your best AI prompts into one-click tools in Chrome
+   Points: 97
+   Comments: 50
+   URL: https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
+
+10. The dangers of California's legislation to censor 3D printing
+   Points: 218
+   Comments: 242
+   URL: https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing
+
+11. Let's talk space toilets
+   Points: 133
+   Comments: 47
+   URL: https://mceglowski.substack.com/p/lets-talk-space-toilets
+
+12. guide.world: A compendium of travel guides
+   Points: 73
+   Comments: 10
+   URL: https://guide.world/
+
+13. I wrote to Flock's privacy contact to opt out of their domestic spying program
+   Points: 479
+   Comments: 200
+   URL: https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html
+
+14. Tell HN: Fiverr left customer files public and searchable
+   Points: 323
+   Comments: 54
+   URL: https://news.ycombinator.com/item?id=47769796
+
+15. Apple App Store threatened to remove Grok over deepfakes: Letter
+   Points: 20
+   Comments: 0
+   URL: https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677
+
+16. Show HN: Plain – The full-stack Python framework designed for humans and agents
+   Points: 63
+   Comments: 23
+   URL: https://github.com/dropseed/plain
+
+17. OpenSSL 4.0.0
+   Points: 198
+   Comments: 65
+   URL: https://github.com/openssl/openssl/releases/tag/openssl-4.0.0
+
+18. Ask HN: Easiest UX for Seniors
+   Points: 4
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=47729327
+
+19. The FCC just saved Netgear from its router ban for no obvious reason
+   Points: 6
+   Comments: 1
+   URL: https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval
+
+20. Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others
+   Points: 956
+   Comments: 583
+   URL: https://rareese.com/posts/backblaze/
+
