@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-16
+==================================================
+
+1. Cybersecurity looks like proof of work now
+   Points: 223
+   Comments: 84
+   URL: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
+
+2. I made a terminal pager
+   Points: 54
+   Comments: 8
+   URL: https://theleo.zone/posts/pager/
+
+3. YouTube now lets you turn off Shorts
+   Points: 128
+   Comments: 56
+   URL: https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes
+
+4. Ohio prison inmates 'built computers and hid them in ceiling (2017)
+   Points: 55
+   Comments: 41
+   URL: https://www.bbc.com/news/technology-39576394
+
+5. Google broke its promise to me – now ICE has my data
+   Points: 1084
+   Comments: 470
+   URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
+
+6. Cal.com is going closed source
+   Points: 204
+   Comments: 154
+   URL: https://cal.com/blog/cal-com-goes-closed-source-why
+
+7. God sleeps in the minerals
+   Points: 448
+   Comments: 96
+   URL: https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/
+
+8. PiCore - Raspberry Pi Port of Tiny Core Linux
+   Points: 79
+   Comments: 6
+   URL: http://tinycorelinux.net/5.x/armv6/releases/README
+
+9. Retrofitting JIT Compilers into C Interpreters
+   Points: 33
+   Comments: 9
+   URL: https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html
+
+10. Live Nation illegally monopolized ticketing market, jury finds
+   Points: 384
+   Comments: 115
+   URL: https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds
+
+11. Hacker News CLI
+   Points: 30
+   Comments: 11
+   URL: https://pythonhosted.org/hackernews-cli/commands.html
+
+12. Anna's Archive loses $322M Spotify piracy case without a fight
+   Points: 328
+   Comments: 358
+   URL: https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/
+
+13. Ask HN: Who is using OpenClaw?
+   Points: 201
+   Comments: 246
+   URL: https://news.ycombinator.com/item?id=47783940
+
+14. The Gemini app is now on Mac
+   Points: 76
+   Comments: 38
+   URL: https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/
+
+15. PBS Nova: Terror in Space (1998)
+   Points: 20
+   Comments: 6
+   URL: https://www.pbs.org/wgbh/nova/mir/
+
+16. Fixing a monitor that goes black, off or blinks due to static electricity (2023)
+   Points: 114
+   Comments: 64
+   URL: https://aalonso.dev/blog/2023/how-to-fix-monitor-that-goes-black-off-due-to-static-electricity-in-chair/
+
+17. Do you even need a database?
+   Points: 201
+   Comments: 242
+   URL: https://www.dbpro.app/blog/do-you-even-need-a-database
+
+18. CRISPR takes important step toward silencing Down syndrome’s extra chromosome
+   Points: 75
+   Comments: 52
+   URL: https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html
+
+19. Monsters in the Archives by Caroline Bicks – The Writing Secrets of Stephen King
+   Points: 5
+   Comments: 0
+   URL: https://www.theguardian.com/books/2026/mar/30/monsters-in-the-archives-by-caroline-bicks-review-the-writing-secrets-of-stephen-king
+
+20. The buns in McDonald's Japan's burger photos are all slightly askew
+   Points: 209
+   Comments: 125
+   URL: https://www.mcdonalds.co.jp/en/menu/burger/
+
