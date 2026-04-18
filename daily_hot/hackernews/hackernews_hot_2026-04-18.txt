@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-18
+==================================================
+
+1. Claude Design
+   Points: 826
+   Comments: 554
+   URL: https://www.anthropic.com/news/claude-design-anthropic-labs
+
+2. A simplified model of Fil-C
+   Points: 105
+   Comments: 51
+   URL: https://www.corsix.org/content/simplified-model-of-fil-c
+
+3. All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)
+   Points: 219
+   Comments: 127
+   URL: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon
+
+4. Landmark ancient-genome study shows surprise acceleration of human evolution
+   Points: 43
+   Comments: 24
+   URL: https://www.nature.com/articles/d41586-026-01204-5
+
+5. Measuring Claude 4.7's tokenizer costs
+   Points: 535
+   Comments: 367
+   URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+
+6. Isaac Asimov: The Last Question (1956)
+   Points: 616
+   Comments: 250
+   URL: https://hex.ooo/library/last_question.html
+
+7. Show HN: Smol machines – subsecond coldstart, portable virtual machines
+   Points: 216
+   Comments: 89
+   URL: https://github.com/smol-machines/smolvm
+
+8. Are the costs of AI agents also rising exponentially? (2025)
+   Points: 86
+   Comments: 10
+   URL: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+
+9. Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock
+   Points: 121
+   Comments: 53
+   URL: https://github.com/paniclock/paniclock/
+
+10. Slop Cop
+   Points: 73
+   Comments: 45
+   URL: https://awnist.com/slop-cop
+
+11. NASA Force
+   Points: 222
+   Comments: 239
+   URL: https://nasaforce.gov/
+
+12. Middle schooler finds coin from Troy in Berlin
+   Points: 197
+   Comments: 89
+   URL: https://www.thehistoryblog.com/archives/75848
+
+13. Hyperscalers have already outspent most famous US megaprojects
+   Points: 121
+   Comments: 96
+   URL: https://twitter.com/finmoorhouse/status/2044933442236776794
+
+14. NIST gives up enriching most CVEs
+   Points: 168
+   Comments: 37
+   URL: https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/
+
+15. Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead
+
+16. Introducing: ShaderPad
+   Points: 38
+   Comments: 6
+   URL: https://rileyjshaw.com/blog/introducing-shaderpad/
+
+17. I built a 3D printing business and ran it for 8 months
+   Points: 77
+   Comments: 73
+   URL: https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html
+
+18. How to Host a Blog on a Subdirectory Instead of a Subdomain
+   Points: 13
+   Comments: 10
+   URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/
+
+19. Spending 3 months coding by hand
+   Points: 132
+   Comments: 136
+   URL: https://miguelconner.substack.com/p/im-coding-by-hand
+
+20. Even "cat readme.txt" is not safe
+   Points: 79
+   Comments: 40
+   URL: https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not
+
