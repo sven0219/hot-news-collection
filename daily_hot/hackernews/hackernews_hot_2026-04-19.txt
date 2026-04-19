@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-19
+==================================================
+
+1. NIST scientists create 'any wavelength' lasers
+   Points: 157
+   Comments: 69
+   URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits
+
+2. Anonymous request-token comparisons from Opus 4.6 and Opus 4.7
+   Points: 420
+   Comments: 427
+   URL: https://tokens.billchambers.me/leaderboard
+
+3. The electromechanical angle computer inside the B-52 bomber's star tracker
+   Points: 267
+   Comments: 77
+   URL: https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html
+
+4. College instructor turns to typewriters to curb AI-written work
+   Points: 121
+   Comments: 126
+   URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/
+
+5. Modern Common Lisp with FSet
+   Points: 82
+   Comments: 5
+   URL: https://fset.common-lisp.dev/Modern-CL/Top_html/index.html
+
+6. Optimizing Ruby Path Methods
+   Points: 50
+   Comments: 19
+   URL: https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html
+
+7. Why Japan has such good railways
+   Points: 304
+   Comments: 304
+   URL: https://worksinprogress.co/issue/why-japan-has-such-good-railways/
+
+8. Migrating from DigitalOcean to Hetzner
+   Points: 676
+   Comments: 348
+   URL: https://isayeter.com/posts/digitalocean-to-hetzner-migration/
+
+9. Thoughts and feelings around Claude Design
+   Points: 221
+   Comments: 152
+   URL: https://samhenri.gold/blog/20260418-claude-design/
+
+10. State of Kdenlive
+   Points: 333
+   Comments: 112
+   URL: https://kdenlive.org/news/2026/state-2026/
+
+11. NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating
+   Points: 56
+   Comments: 15
+   URL: https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/
+
+12. Dad brains: How fatherhood rewires the male mind
+   Points: 65
+   Comments: 25
+   URL: https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare
+
+13. Michael Rabin has died
+   Points: 387
+   Comments: 80
+   URL: https://en.wikipedia.org/wiki/Michael_O._Rabin
+
+14. Zero-Copy GPU Inference from WebAssembly on Apple Silicon
+   Points: 10
+   Comments: 5
+   URL: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/
+
+15. Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data
+   Points: 91
+   Comments: 34
+   URL: https://github.com/drasimwagan/mdv
+
+16. Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups
+   Points: 164
+   Comments: 5
+   URL: https://www.sumida-aquarium.com/special/sokanzu/en/2026/
+
+17. My first impressions on ROCm and Strix Halo
+   Points: 11
+   Comments: 0
+   URL: https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/
+
+18. A story about how I dug into the PostgreSQL sources to write my own WAL receiver
+   Points: 16
+   Comments: 1
+   URL: https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25
+
+19. Floating Point Fun on Cortex-M Processors
+   Points: 36
+   Comments: 1
+   URL: https://danielmangum.com/posts/floating-point-cortex-m/
+
+20. PgQue: Zero-Bloat Postgres Queue
+   Points: 84
+   Comments: 12
+   URL: https://github.com/NikolayS/pgque
+
