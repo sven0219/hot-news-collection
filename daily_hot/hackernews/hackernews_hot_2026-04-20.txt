@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-20
+==================================================
+
+1. Vercel April 2026 security incident
+   Points: 518
+   Comments: 312
+   URL: https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/
+
+2. A Brief History of Fish Sauce
+   Points: 58
+   Comments: 22
+   URL: https://www.legalnomads.com/fish-sauce/
+
+3. The Bromine Chokepoint
+   Points: 147
+   Comments: 72
+   URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/
+
+4. Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed
+   Points: 17
+   Comments: 0
+   URL: https://github.com/shivampkumar/trellis-mac
+
+5. The race to build the next WordPress
+   Points: 4
+   Comments: 1
+   URL: https://opencomputer.dev/blog/the-race-to-build-the-next-wordpress/
+
+6. 2,100 Swiss municipalities showing which provider handles their official email
+   Points: 56
+   Comments: 15
+   URL: https://mxmap.ch/
+
+7. Show HN: A working reference implementation of context engineering
+   Points: 21
+   Comments: 8
+   URL: https://github.com/outcomeops/context-engineering
+
+8. Uber’s Anthropic AI push hits a wall
+   Points: 56
+   Comments: 65
+   URL: https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html
+
+9. Swiss AI Initiative (2023)
+   Points: 10
+   Comments: 2
+   URL: https://www.swiss-ai.org
+
+10. Ex-CEO, ex-CFO of bankrupt AI company charged with fraud
+   Points: 78
+   Comments: 29
+   URL: https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/
+
+11. Turtle WoW classic server announces shutdown after Blizzard wins injunction
+   Points: 114
+   Comments: 87
+   URL: https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/
+
+12. Changes in the system prompt between Claude Opus 4.6 and 4.7
+   Points: 198
+   Comments: 115
+   URL: https://simonwillison.net/2026/Apr/18/opus-system-prompt/
+
+13. Show HN: Faceoff – A terminal UI for following NHL games
+   Points: 96
+   Comments: 33
+   URL: https://www.vincentgregoire.com/faceoff/
+
+14. Six Levels of Dark Mode (2024)
+   Points: 42
+   Comments: 12
+   URL: https://cssence.com/2024/six-levels-of-dark-mode/
+
+15. Prove you are a robot: CAPTCHAs for agents
+   Points: 42
+   Comments: 28
+   URL: https://browser-use.com/posts/prove-you-are-a-robot
+
+16. Scientific datasets are riddled with copy-paste errors
+   Points: 29
+   Comments: 2
+   URL: https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/
+
+17. Archive of BYTE magazine, starting with issue #1 in 1975
+   Points: 528
+   Comments: 136
+   URL: https://archive.org/details/byte-magazine-1975-09
+
+18. The RAM shortage could last years
+   Points: 188
+   Comments: 197
+   URL: https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years
+
+19. The seven programming ur-languages (2022)
+   Points: 283
+   Comments: 110
+   URL: https://madhadron.com/programming/seven_ur_languages.html
+
+20. Got an Old Kindle? It Might Not Work Anymore
+   Points: 40
+   Comments: 22
+   URL: https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/
+
