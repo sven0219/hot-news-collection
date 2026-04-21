@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-21
+==================================================
+
+1. John Ternus to become Apple CEO
+   Points: 1133
+   Comments: 586
+   URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
+
+2. Jujutsu megamerges for fun and profit
+   Points: 117
+   Comments: 29
+   URL: https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit
+
+3. Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving
+   Points: 525
+   Comments: 280
+   URL: https://qwen.ai/blog?id=qwen3.6-max-preview
+
+4. Soul Player C64 – A real transformer running on a 1 MHz Commodore 64
+   Points: 72
+   Comments: 16
+   URL: https://github.com/gizmo64k/soulplayer-c64
+
+5. Kimi vendor verifier – verify accuracy of inference providers
+   Points: 154
+   Comments: 17
+   URL: https://www.kimi.com/blog/kimi-vendor-verifier
+
+6. How to Make a Fast Dynamic Language Interpreter
+   Points: 11
+   Comments: 0
+   URL: https://zef-lang.dev/implementation
+
+7. Ternary Bonsai: Top Intelligence at 1.58 Bits
+   Points: 31
+   Comments: 7
+   URL: https://prismml.com/news/ternary-bonsai
+
+8. ggsql: A Grammar of Graphics for SQL
+   Points: 345
+   Comments: 72
+   URL: https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/
+
+9. Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys
+   Points: 125
+   Comments: 55
+   URL: https://words.filippo.io/128-bits/
+
+10. OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”
+   Points: 159
+   Comments: 74
+   URL: https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/
+
+11. All phones sold in the EU to have replaceable batteries from 2027
+   Points: 946
+   Comments: 787
+   URL: https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/
+
+12. Deezer says 44% of songs uploaded to its platform daily are AI-generated
+   Points: 288
+   Comments: 272
+   URL: https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/
+
+13. Modern Rendering Culling Techniques
+   Points: 76
+   Comments: 16
+   URL: https://krupitskas.com/posts/modern_culling_techniques/
+
+14. Kefir C17/C23 Compiler
+   Points: 119
+   Comments: 5
+   URL: https://sr.ht/~jprotopopov/kefir/
+
+15. Even 'uncensored' models can't say what they want
+   Points: 91
+   Comments: 69
+   URL: https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html
+
+16. Brussels launched an age checking app. Hackers took 2 minutes to break it
+   Points: 137
+   Comments: 71
+   URL: https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/
+
+17. Monero Community Crowdfunding System
+   Points: 54
+   Comments: 28
+   URL: https://ccs.getmonero.org/ideas/
+
+18. Zero-Copy Pages in Rust: Or How I Learned to Stop Worrying and Love Lifetimes
+   Points: 39
+   Comments: 4
+   URL: https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html
+
+19. Year of the IPv6 Overlay Network
+   Points: 7
+   Comments: 1
+   URL: https://www.defined.net/blog/year-of-the-ipv6-overlay-network/
+
+20. F-35 is built for the wrong war
+   Points: 186
+   Comments: 356
+   URL: https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/
+
