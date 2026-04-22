@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-22
+==================================================
+
+1. ChatGPT Images 2.0
+   Points: 402
+   Comments: 400
+   URL: https://openai.com/index/introducing-chatgpt-images-2-0/
+
+2. SpaceX says it has agreement to acquire Cursor for $60B
+   Points: 213
+   Comments: 289
+   URL: https://twitter.com/spacex/status/2046713419978453374
+
+3. The Vercel breach: OAuth attack exposes risk in platform environment variables
+   Points: 256
+   Comments: 97
+   URL: https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html
+
+4. CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production
+   Points: 71
+   Comments: 13
+   URL: https://www.brex.com/crabtrap
+
+5. Windows Server 2025 Runs Better on ARM
+   Points: 19
+   Comments: 3
+   URL: https://jasoneckert.github.io/myblog/server-2025-arm64/
+
+6. Stephen's Sausage Roll remains one of the most influential puzzle games
+   Points: 130
+   Comments: 61
+   URL: https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/
+
+7. Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica
+   Points: 212
+   Comments: 89
+   URL: https://britannica11.org/
+
+8. Laws of Software Engineering
+   Points: 817
+   Comments: 413
+   URL: https://lawsofsoftwareengineering.com
+
+9. Framework Laptop 13 Pro
+   Points: 899
+   Comments: 504
+   URL: https://frame.work/laptop13pro
+
+10. Cal.diy: open-source community edition of cal.com
+   Points: 147
+   Comments: 39
+   URL: https://github.com/calcom/cal.diy
+
+11. Meta to start capturing employee mouse movements, keystrokes for AI training
+   Points: 318
+   Comments: 277
+   URL: https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/
+
+12. Changes to GitHub Copilot individual plans
+   Points: 310
+   Comments: 94
+   URL: https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/
+
+13. Edit store price tags using Flipper Zero
+   Points: 280
+   Comments: 271
+   URL: https://github.com/i12bp8/TagTinker
+
+14. Fields Medal Video: Maryna Viazovska (2022)
+   Points: 18
+   Comments: 5
+   URL: https://www.simonsfoundation.org/2022/07/05/fields-medal-video-maryna-viazovska/
+
+15. Zindex – Diagram Infrastructure for Agents
+   Points: 33
+   Comments: 11
+   URL: https://zindex.ai/
+
+16. Theseus, a Static Windows Emulator
+   Points: 77
+   Comments: 9
+   URL: https://neugierig.org/software/blog/2026/04/theseus.html
+
+17. The Mystery in the Medicine Cabinet: Acetaminophen, ibuprofen, and what to know
+   Points: 5
+   Comments: 0
+   URL: https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet
+
+18. Running a Minecraft Server and More on a 1960s Univac Computer
+   Points: 191
+   Comments: 31
+   URL: https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer
+
+19. Show HN: GoModel – an open-source AI gateway in Go
+   Points: 159
+   Comments: 61
+   URL: https://github.com/ENTERPILOT/GOModel/
+
+20. My practitioner view of program analysis
+   Points: 27
+   Comments: 4
+   URL: https://sawyer.dev/posts/practitioner-program-analysis/
+
