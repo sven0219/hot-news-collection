@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-23
+==================================================
+
+1. Alberta startup sells no-tech tractors for half price
+   Points: 1290
+   Comments: 456
+   URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
+
+2. Apple fixes bug that cops used to extract deleted chat messages from iPhones
+   Points: 337
+   Comments: 88
+   URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
+
+3. We found a stable Firefox identifier linking all your private Tor identities
+   Points: 411
+   Comments: 117
+   URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
+
+4. Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model
+   Points: 679
+   Comments: 339
+   URL: https://qwen.ai/blog?id=qwen3.6-27b
+
+5. 5x5 Pixel font for tiny screens
+   Points: 413
+   Comments: 104
+   URL: https://maurycyz.com/projects/mcufont/
+
+6. Over-editing refers to a model modifying code beyond what is necessary
+   Points: 286
+   Comments: 170
+   URL: https://nrehiew.github.io/blog/minimal_editing/
+
+7. Website streamed live directly from a model
+   Points: 141
+   Comments: 51
+   URL: https://flipbook.page/
+
+8. Rip language. Compiles to ES2022. Built-in reactivity
+   Points: 8
+   Comments: 0
+   URL: https://github.com/shreeve/rip-lang
+
+9. Technical, cognitive, and intent debt
+   Points: 189
+   Comments: 45
+   URL: https://martinfowler.com/fragments/2026-04-02.html
+
+10. Ping-pong robot beats top-level human players
+   Points: 64
+   Comments: 73
+   URL: https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/
+
+11. Approximating Hyperbolic Tangent
+   Points: 15
+   Comments: 3
+   URL: https://jtomschroeder.com/blog/approximating-tanh/
+
+12. Our eighth generation TPUs: two chips for the agentic era
+   Points: 396
+   Comments: 190
+   URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/
+
+13. 3.4M Solar Panels
+   Points: 289
+   Comments: 221
+   URL: https://tech.marksblogg.com/american-solar-farms-v2.html
+
+14. The Illuminated Man: an unconventional portrait of JG Ballard
+   Points: 47
+   Comments: 15
+   URL: https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard
+
+15. Scoring Show HN submissions for AI design patterns
+   Points: 269
+   Comments: 196
+   URL: https://www.adriankrebs.ch/blog/design-slop/
+
+16. Parallel agents in Zed
+   Points: 153
+   Comments: 97
+   URL: https://zed.dev/blog/parallel-agents
+
+17. Another Day Has Come
+   Points: 186
+   Comments: 141
+   URL: https://daringfireball.net/2026/04/another_day_has_come
+
+18. Workspace Agents in ChatGPT
+   Points: 100
+   Comments: 37
+   URL: https://openai.com/index/introducing-workspace-agents-in-chatgpt/
+
+19. Effectful Recursion Schemes
+   Points: 9
+   Comments: 1
+   URL: https://effekt-lang.org/blog/recursion-schemes/
+
+20. Ultraviolet corona discharges on treetops during storms
+   Points: 193
+   Comments: 53
+   URL: https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time
+
