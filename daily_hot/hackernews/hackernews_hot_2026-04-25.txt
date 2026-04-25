@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-25
+==================================================
+
+1. Google plans to invest up to $40B in Anthropic
+   Points: 307
+   Comments: 371
+   URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic
+
+2. My audio interface has SSH enabled by default
+   Points: 152
+   Comments: 38
+   URL: https://hhh.hn/rodecaster-duo-fw/
+
+3. Iliad fragment found in Roman-era mummy
+   Points: 93
+   Comments: 30
+   URL: https://www.thehistoryblog.com/archives/75877
+
+4. The Classic American Diner
+   Points: 154
+   Comments: 94
+   URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/
+
+5. Sabotaging projects by overthinking, scope creep, and structural diffing
+   Points: 351
+   Comments: 91
+   URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
+
+6. There Will Be a Scientific Theory of Deep Learning
+   Points: 123
+   Comments: 45
+   URL: https://arxiv.org/abs/2604.21691
+
+7. Work with the garage door up (2024)
+   Points: 111
+   Comments: 86
+   URL: https://notes.andymatuschak.org/Work_with_the_garage_door_up
+
+8. Generalised plusequals
+   Points: 5
+   Comments: 1
+   URL: https://leontrolski.github.io/alt.html
+
+9. Show HN: I've built a nice home server OS
+   Points: 54
+   Comments: 25
+   URL: https://lightwhale.asklandd.dk/
+
+10. Google Flow Music
+   Points: 93
+   Comments: 62
+   URL: https://www.flowmusic.app/
+
+11. FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)
+   Points: 12
+   Comments: 3
+   URL: https://github.com/manankharwar/fusioncore
+
+12. How to be anti-social – a guide to incoherent and isolating social experiences
+   Points: 300
+   Comments: 286
+   URL: https://nate.leaflet.pub/3mk4xkaxobc2p
+
+13. The Overtom Chess Computer Museum
+   Points: 10
+   Comments: 2
+   URL: https://tluif.home.xs4all.nl/chescom/Engindex.html
+
+14. Diatec, known for its mechanical keyboard brand FILCO, has ceased operations
+   Points: 91
+   Comments: 29
+   URL: https://gigazine.net/gsc_news/en/20260424-filco-diatec/
+
+15. Email could have been X.400 times better
+   Points: 119
+   Comments: 123
+   URL: https://buttondown.com/blog/x400-vs-smtp-email
+
+16. Spinel: Ruby AOT Native Compiler
+   Points: 309
+   Comments: 82
+   URL: https://github.com/matz/spinel
+
+17. MacBook Neo and how the iPad should be
+   Points: 195
+   Comments: 113
+   URL: https://craigmod.com/essays/ipad_neo/
+
+18. You don't want long-lived keys
+   Points: 19
+   Comments: 12
+   URL: https://argemma.com/blog/long-lived-keys/
+
+19. DeepSeek v4
+   Points: 1803
+   Comments: 1406
+   URL: https://api-docs.deepseek.com/
+
+20. Education must go beyond the mere production of words
+   Points: 3
+   Comments: 0
+   URL: https://www.ncregister.com/commentaries/schnell-repairing-the-ruins
+
