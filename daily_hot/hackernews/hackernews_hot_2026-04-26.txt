@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-26
+==================================================
+
+1. Why has there been so little progress on Alzheimer's disease?
+   Points: 54
+   Comments: 18
+   URL: https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/
+
+2. USB Cheat Sheet (2022)
+   Points: 157
+   Comments: 46
+   URL: https://fabiensanglard.net/usbcheat/index.html
+
+3. The Free Universal Construction Kit
+   Points: 271
+   Comments: 51
+   URL: https://fffff.at/free-universal-construction-kit/
+
+4. Agents Aren't Coworkers, Embed Them in Your Software
+   Points: 29
+   Comments: 8
+   URL: https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software
+
+5. OpenAI Privacy Filter
+   Points: 82
+   Comments: 14
+   URL: https://openai.com/index/introducing-openai-privacy-filter/
+
+6. 1-Bit Hokusai's "The Great Wave" (2023)
+   Points: 523
+   Comments: 87
+   URL: https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/
+
+7. Using coding assistance tools to revive projects you never were going to finish
+   Points: 176
+   Comments: 106
+   URL: https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/
+
+8. Optimizing Datalog for the GPU
+   Points: 15
+   Comments: 0
+   URL: https://dl.acm.org/doi/10.1145/3669940.3707274
+
+9. America's Geothermal Breakthrough
+   Points: 64
+   Comments: 73
+   URL: https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html
+
+10. The Joy of Folding Bikes
+   Points: 78
+   Comments: 48
+   URL: https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes
+
+11. Flickr: The first and last great photo platform
+   Points: 29
+   Comments: 6
+   URL: https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/
+
+12. Her Life Savings Mysteriously Disappeared After a Systems Glitch
+   Points: 24
+   Comments: 13
+   URL: https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html
+
+13. Math Is Hard – OpenBSD Stories
+   Points: 31
+   Comments: 0
+   URL: http://miod.online.fr/software/openbsd/stories/vaxfp.html
+
+14. New 10 GbE USB adapters are cooler, smaller, cheaper
+   Points: 544
+   Comments: 318
+   URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/
+
+15. Simulacrum of Knowledge Work
+   Points: 93
+   Comments: 33
+   URL: https://blog.happyfellow.dev/simulacrum-of-knowledge-work/
+
+16. How Hard Is It to Open a File?
+   Points: 59
+   Comments: 8
+   URL: https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/
+
+17. Mine, an IDE for Coalton and Common Lisp
+   Points: 69
+   Comments: 20
+   URL: https://coalton-lang.github.io/mine/
+
+18. Desmond Morris has died
+   Points: 104
+   Comments: 17
+   URL: https://www.bbc.com/news/articles/c51y797v200o
+
+19. What async promised and what it delivered
+   Points: 157
+   Comments: 178
+   URL: https://causality.blog/essays/what-async-promised/
+
+20. Martin Galway's music source files from 1980's Commodore 64 games
+   Points: 159
+   Comments: 21
+   URL: https://github.com/MartinGalway/C64_music
+
