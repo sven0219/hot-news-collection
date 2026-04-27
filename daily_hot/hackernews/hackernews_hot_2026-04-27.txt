@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-27
+==================================================
+
+1. I bought Friendster for $30k – Here's what I'm doing with it
+   Points: 385
+   Comments: 217
+   URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
+
+2. Self-updating screenshots
+   Points: 47
+   Comments: 8
+   URL: https://interblah.net/self-updating-screenshots
+
+3. Three constraints before I build anything
+   Points: 32
+   Comments: 4
+   URL: https://jordanlord.co.uk/blog/3-constraints/
+
+4. Fast16: High-precision software sabotage 5 years before Stuxnet
+   Points: 150
+   Comments: 43
+   URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
+
+5. Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft
+   Points: 51
+   Comments: 13
+   URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c
+
+6. Box to save memory in Rust
+   Points: 56
+   Comments: 10
+   URL: https://dystroy.org/blog/box-to-save-memory/
+
+7. AI should elevate your thinking, not replace it
+   Points: 279
+   Comments: 227
+   URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/
+
+8. Butterflies are in decline across North America, a look at the Western Monarch
+   Points: 122
+   Comments: 32
+   URL: https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/
+
+9. SWE-bench Verified no longer measures frontier coding capabilities
+   Points: 247
+   Comments: 139
+   URL: https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/
+
+10. Show HN: AI memory with biological decay (52% recall)
+   Points: 57
+   Comments: 29
+   URL: https://github.com/sachitrafa/YourMemory
+
+11. The fastest Linux timestamps
+   Points: 15
+   Comments: 3
+   URL: https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/
+
+12. Lessons from building multiplayer browsers
+   Points: 7
+   Comments: 1
+   URL: https://www.alejandro.pe/writing/sail-muddy-lessons
+
+13. Magic: The Gathering took me from N2 to Japanese fluency
+   Points: 84
+   Comments: 28
+   URL: https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency
+
+14. When the cheap one is the cool one
+   Points: 11
+   Comments: 3
+   URL: https://arun.is/blog/cheap-cool/
+
+15. Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core
+   Points: 31
+   Comments: 4
+   URL: https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core
+
+16. Quirks of Human Anatomy
+   Points: 88
+   Comments: 55
+   URL: https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm
+
+17. MoQ Boy
+   Points: 37
+   Comments: 3
+   URL: https://moq.dev/blog/moq-boy/
+
+18. Clay PCB Tutorial
+   Points: 193
+   Comments: 120
+   URL: https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial
+
+19. Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race
+   Points: 246
+   Comments: 197
+   URL: https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo
+
+20. XOXO Festival Archive
+   Points: 42
+   Comments: 7
+   URL: https://xoxofest.com/
+
