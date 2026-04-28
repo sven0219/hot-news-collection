@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-28
+==================================================
+
+1. New Integrated by Design FreeBSD Book
+   Points: 63
+   Comments: 18
+   URL: https://vivianvoss.net/blog/integrated-by-design-launch
+
+2. Microsoft and OpenAI end their exclusive and revenue-sharing deal
+   Points: 752
+   Comments: 660
+   URL: https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai
+
+3. Talkie: a 13B vintage language model from 1930
+   Points: 77
+   Comments: 25
+   URL: https://talkie-lm.com/introducing-talkie
+
+4. Generative AI Vegetarianism
+   Points: 28
+   Comments: 35
+   URL: https://sboots.ca/2026/03/11/generative-ai-vegetarianism/
+
+5. I quit drinking for a year
+   Points: 9
+   Comments: 6
+   URL: https://dynomight.net/drinking/
+
+6. Meetings are forcing functions
+   Points: 37
+   Comments: 15
+   URL: https://www.mooreds.com/wordpress/archives/3734
+
+7. Three men are facing charges in Toronto SMS Blaster arrests
+   Points: 89
+   Comments: 46
+   URL: https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/
+
+8. Easyduino: Open Source PCB Devboards for KiCad
+   Points: 173
+   Comments: 26
+   URL: https://github.com/Hanqaqa/Easyduino
+
+9. The quiet resurgence of RF engineering
+   Points: 132
+   Comments: 77
+   URL: https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/
+
+10. Is my blue your blue?
+   Points: 330
+   Comments: 227
+   URL: https://ismy.blue/
+
+11. How I leared what a decoupling capacitor is for, the hard way
+   Points: 25
+   Comments: 6
+   URL: https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor
+
+12. Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar
+   Points: 80
+   Comments: 12
+   URL: https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar
+
+13. 4TB of voice samples just stolen from 40k AI contractors at Mercor
+   Points: 439
+   Comments: 161
+   URL: https://app.oravys.com/blog/mercor-breach-2026
+
+14. Men who stare at walls
+   Points: 446
+   Comments: 202
+   URL: https://www.alexselimov.com/posts/men_who_stare_at_walls/
+
+15. Networking changes coming in macOS 27
+   Points: 204
+   Comments: 176
+   URL: https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/
+
+16. Radar Laboratory – Interactive Radar Phenomenology
+   Points: 26
+   Comments: 0
+   URL: https://radarlaboratory.com/
+
+17. Show HN: AgentSwift – Open-source iOS builder agent
+   Points: 4
+   Comments: 0
+   URL: https://github.com/hpennington/agentswift
+
+18. The woes of sanitizing SVGs
+   Points: 181
+   Comments: 70
+   URL: https://muffin.ink/blog/scratch-svg-sanitization/
+
+19. China blocks Meta's acquisition of AI startup Manus
+   Points: 302
+   Comments: 202
+   URL: https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html
+
+20. Show HN: 49Agents – Infinite canvas IDE for AI agents
+   Points: 13
+   Comments: 4
+   URL: https://github.com/49Agents/49Agents
+
