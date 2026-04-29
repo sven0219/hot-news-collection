@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-29
+==================================================
+
+1. Ghostty is leaving GitHub
+   Points: 1685
+   Comments: 545
+   URL: https://mitchellh.com/writing/ghostty-leaving-github
+
+2. ChatGPT serves ads. Here's the full attribution loop
+   Points: 132
+   Comments: 77
+   URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/
+
+3. Before GitHub
+   Points: 264
+   Comments: 71
+   URL: https://lucumr.pocoo.org/2026/4/28/before-github/
+
+4. Claude system prompt bug wastes user money and bricks managed agents
+   Points: 81
+   Comments: 23
+   URL: https://github.com/anthropics/claude-code/issues/49363
+
+5. We decreased our LLM costs with Opus
+   Points: 21
+   Comments: 1
+   URL: https://www.mendral.com/blog/frontier-model-lower-costs
+
+6. Fuck Off AI Music
+   Points: 22
+   Comments: 5
+   URL: http://fuckoffaimusic.com/
+
+7. OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs
+   Points: 179
+   Comments: 69
+   URL: https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/
+
+8. Claude for Creative Work
+   Points: 40
+   Comments: 30
+   URL: https://www.anthropic.com/news/claude-for-creative-work
+
+9. I won a championship that doesn't exist
+   Points: 80
+   Comments: 57
+   URL: https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/
+
+10. Carrot Disclosure: Forgejo
+   Points: 99
+   Comments: 35
+   URL: https://dustri.org/b/carrot-disclosure-forgejo.html
+
+11. Intel Arc Pro B70 Review
+   Points: 112
+   Comments: 61
+   URL: https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/
+
+12. Behavioral timescale synaptic plasticity rewires the brain after an experience
+   Points: 55
+   Comments: 0
+   URL: https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/
+
+13. GitHub RCE Vulnerability: CVE-2026-3854 Breakdown
+   Points: 246
+   Comments: 62
+   URL: https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854
+
+14. CJIT: C, Just in Time
+   Points: 87
+   Comments: 25
+   URL: https://dyne.org/cjit/
+
+15. Your phone is about to stop being yours
+   Points: 984
+   Comments: 475
+   URL: https://keepandroidopen.org/en/
+
+16. Who owns the code Claude Code wrote?
+   Points: 255
+   Comments: 295
+   URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote
+
+17. Warp is now open-source
+   Points: 160
+   Comments: 53
+   URL: https://www.warp.dev/blog/warp-is-now-open-source
+
+18. Localsend: An open-source cross-platform alternative to AirDrop
+   Points: 739
+   Comments: 233
+   URL: https://github.com/localsend/localsend
+
+19. I have officially retired from Emacs
+   Points: 180
+   Comments: 115
+   URL: https://nullprogram.com/blog/2026/04/26/
+
+20. VibeVoice: Open-source frontier voice AI
+   Points: 320
+   Comments: 168
+   URL: https://github.com/microsoft/VibeVoice
+
