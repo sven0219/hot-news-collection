@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-04-30
+==================================================
+
+1. Zed 1.0
+   Points: 1528
+   Comments: 498
+   URL: https://zed.dev/blog/zed-1-0
+
+2. Copy Fail – CVE-2026-31431
+   Points: 580
+   Comments: 259
+   URL: https://copy.fail/
+
+3. Cursor Camp
+   Points: 630
+   Comments: 106
+   URL: https://neal.fun/cursor-camp/
+
+4. OpenTrafficMap
+   Points: 153
+   Comments: 33
+   URL: https://opentrafficmap.org/
+
+5. HERMES.md in commit messages causes requests to route to extra usage billing
+   Points: 983
+   Comments: 420
+   URL: https://github.com/anthropics/claude-code/issues/53262
+
+6. FastCGI: 30 years old and still the better protocol for reverse proxies
+   Points: 249
+   Comments: 64
+   URL: https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies
+
+7. Vera: a programming language designed for machines to write
+   Points: 48
+   Comments: 33
+   URL: https://github.com/aallan/vera
+
+8. Why I still reach for Lisp and Scheme instead of Haskell
+   Points: 167
+   Comments: 52
+   URL: https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html
+
+9. I benchmarked Claude Code's caveman plugin against "be brief."
+   Points: 52
+   Comments: 33
+   URL: https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words
+
+10. DRAM Crunch: Lessons for System Design
+   Points: 31
+   Comments: 2
+   URL: https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/
+
+11. Laws of UX
+   Points: 186
+   Comments: 30
+   URL: https://lawsofux.com/
+
+12. An open-source stethoscope that costs between $2.5 and $5 to produce
+   Points: 200
+   Comments: 78
+   URL: https://github.com/GliaX/Stethoscope
+
+13. Ramp's Sheets AI Exfiltrates Financials
+   Points: 106
+   Comments: 34
+   URL: https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials
+
+14. Gooseworks (YC W23) Is Hiring a Founding Growth Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer
+
+15. Consequences of passing too few register parameters to a C function
+   Points: 9
+   Comments: 1
+   URL: https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271
+
+16. We need a federation of forges
+   Points: 523
+   Comments: 327
+   URL: https://blog.tangled.org/federation/
+
+17. Be Alexandra Elbakyan
+   Points: 100
+   Comments: 8
+   URL: https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m
+
+18. The Lingua Franca of LaTeX (2019)
+   Points: 14
+   Comments: 3
+   URL: https://increment.com/open-source/the-lingua-franca-of-latex/
+
+19. Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years
+   Points: 243
+   Comments: 69
+   URL: https://jivx.com/kyoto-bloom
+
+20. Postgres's lateral joins allow for quite the good eDSL
+   Points: 59
+   Comments: 6
+   URL: https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/
+
