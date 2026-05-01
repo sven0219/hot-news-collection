@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-01
+==================================================
+
+1. Rivian allows you to disable all internet connectivity
+   Points: 496
+   Comments: 187
+   URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle
+
+2. How Mark Klein told the EFF about Room 641A [book excerpt]
+   Points: 429
+   Comments: 128
+   URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/
+
+3. Opus 4.7 knows the real Kelsey
+   Points: 154
+   Comments: 87
+   URL: https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously
+
+4. CopyFail was not disclosed to distro developers?
+   Points: 373
+   Comments: 300
+   URL: https://www.openwall.com/lists/oss-security/2026/04/30/10
+
+5. Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library
+   Points: 327
+   Comments: 111
+   URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/
+
+6. The Internet Is Falling Down- CPanel/WHM Authentication Bypass CVE-2026-41940
+   Points: 37
+   Comments: 12
+   URL: https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/
+
+7. I built a Game Boy emulator in F#
+   Points: 218
+   Comments: 48
+   URL: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/
+
+8. Claude Code refuses requests or charges extra if your commits mention "OpenClaw"
+   Points: 960
+   Comments: 535
+   URL: https://twitter.com/theo/status/2049645973350363168
+
+9. Maladaptive Frugality
+   Points: 12
+   Comments: 2
+   URL: https://herbertlui.net/maladaptive-frugality/
+
+10. How an oil refinery works
+   Points: 326
+   Comments: 98
+   URL: https://www.construction-physics.com/p/how-an-oil-refinery-works
+
+11. The upsell game – Vercel upselling tactics revealed
+   Points: 98
+   Comments: 17
+   URL: https://theupsellgame.com/
+
+12. Reverse Engineering SimTower
+   Points: 120
+   Comments: 20
+   URL: https://phulin.me/blog/simtower
+
+13. Belgium stops decommissioning nuclear power plants
+   Points: 754
+   Comments: 701
+   URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/
+
+14. Snowball Earth may hide a far stranger climate cycle than anyone expected
+   Points: 36
+   Comments: 4
+   URL: https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html
+
+15. New mechanical panoramic film camera from Jeff Bridges
+   Points: 77
+   Comments: 32
+   URL: https://wideluxx.com
+
+16. You can beat the binary search
+   Points: 256
+   Comments: 120
+   URL: https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/
+
+17. Durable queues, streams, pub/sub, and a cron scheduler – inside your SQLite file
+   Points: 178
+   Comments: 51
+   URL: https://honker.dev/
+
+18. Full-Text Search with DuckDB
+   Points: 91
+   Comments: 22
+   URL: https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html
+
+19. 10Gb/s Ethernet: what I did to get it working in my home
+   Points: 147
+   Comments: 105
+   URL: https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did
+
+20. I aggregated 28 US Government auction sites into one search
+   Points: 243
+   Comments: 73
+   URL: https://bidprowl.com
+
