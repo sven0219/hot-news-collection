@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-02
+==================================================
+
+1. Ti-84 Evo
+   Points: 284
+   Comments: 279
+   URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
+
+2. New research suggests people can communicate and practice skills while dreaming
+   Points: 241
+   Comments: 126
+   URL: https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we
+
+3. Artemis II Photo Timeline
+   Points: 47
+   Comments: 3
+   URL: https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003
+
+4. The smelly baby problem
+   Points: 98
+   Comments: 39
+   URL: https://www.worksinprogress.news/p/how-disposable-diapers-conquered
+
+5. A Report on Burnout in Open Source Software Communities (2025) [pdf]
+   Points: 23
+   Comments: 5
+   URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf
+
+6. Good developers learn to program. Most courses teach a language
+   Points: 9
+   Comments: 2
+   URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language
+
+7. Ask HN: Who is hiring? (May 2026)
+   Points: 227
+   Comments: 250
+   URL: https://news.ycombinator.com/item?id=47975571
+
+8. Eka’s robotic claw feels like we're approaching a ChatGPT moment
+   Points: 88
+   Comments: 108
+   URL: https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/
+
+9. Lib0xc: A set of C standard library-adjacent APIs for safer systems programming
+   Points: 73
+   Comments: 22
+   URL: https://github.com/microsoft/lib0xc
+
+10. Visual Studio 2026 still ships the form designer Alan Cooper drew in 1987
+   Points: 9
+   Comments: 3
+   URL: https://evilgeniuslabs.ca/blog/winforms-still-ships-in-visual-studio-2026
+
+11. Whimsical Animations Course Open House
+   Points: 66
+   Comments: 9
+   URL: https://courses.joshwcomeau.com/wham/open-house/00-introduction
+
+12. Whohas – Command-line utility for cross-distro, cross-repository package search
+   Points: 125
+   Comments: 29
+   URL: https://github.com/whohas/whohas
+
+13. SpaceX rocket set for unintentional moon landing – well, a piece of it anyway
+   Points: 49
+   Comments: 35
+   URL: https://www.theregister.com/2026/05/01/spacex_debris_landing/
+
+14. Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables
+   Points: 413
+   Comments: 128
+   URL: https://github.com/darrylmorley/whatcable
+
+15. City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo
+   Points: 302
+   Comments: 88
+   URL: https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/
+
+16. Apocalypse Early Warning System
+   Points: 114
+   Comments: 69
+   URL: https://ews.kylemcdonald.net/
+
+17. Show HN: AI CAD Harness
+   Points: 64
+   Comments: 69
+   URL: https://fusion.adam.new/install
+
+18. Credit cards are vulnerable to brute force kind attacks
+   Points: 188
+   Comments: 156
+   URL: https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html
+
+19. The gay jailbreak technique
+   Points: 381
+   Comments: 146
+   URL: https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md
+
+20. Ask HN: Who wants to be hired? (May 2026)
+   Points: 120
+   Comments: 242
+   URL: https://news.ycombinator.com/item?id=47975570
+
