@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-03
+==================================================
+
+1. VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage
+   Points: 768
+   Comments: 362
+   URL: https://github.com/microsoft/vscode/pull/310226
+
+2. A Couple Million Lines of Haskell: Production Engineering at Mercury
+   Points: 38
+   Comments: 6
+   URL: https://blog.haskell.org/a-couple-million-lines-of-haskell/
+
+3. This Month in Ladybird - April 2026
+   Points: 150
+   Comments: 24
+   URL: https://ladybird.org/newsletter/2026-04-30/
+
+4. Six Years Perfecting Maps on WatchOS
+   Points: 168
+   Comments: 33
+   URL: https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/
+
+5. Dav2d
+   Points: 332
+   Comments: 106
+   URL: https://code.videolan.org/videolan/dav2d
+
+6. Neanderthals ran 'fat factories' 125,000 years ago (2025)
+   Points: 107
+   Comments: 24
+   URL: https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago
+
+7. Do_not_track
+   Points: 201
+   Comments: 67
+   URL: https://donottrack.sh/
+
+8. Clojurists Together – Q2 2026 Open Source Funding Announcement
+   Points: 35
+   Comments: 5
+   URL: https://www.clojuriststogether.org/news/q2-2026-funding-announcement/
+
+9. Inventions for battery reuse and recycling increase seven-fold in last decade
+   Points: 156
+   Comments: 9
+   URL: https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade
+
+10. Dabbling in Erlang, part 2: A minimal introduction (2013)
+   Points: 14
+   Comments: 1
+   URL: https://agis.io/post/dabbling-in-erlang-a-minimal-introduction/
+
+11. Show HN: State of the Art of Coding Models, According to Hacker News Commenters
+   Points: 45
+   Comments: 28
+   URL: https://hnup.date/hn-sota
+
+12. Voice-AI-for-Beginners – A curated learning path for developers
+   Points: 25
+   Comments: 0
+   URL: https://github.com/mahimairaja/voiceai
+
+13. A Physics Engine with Incremental Rollback for Multiplayer Games
+   Points: 38
+   Comments: 18
+   URL: https://easel.games/blog/2026-rollback-physics
+
+14. Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him
+   Points: 137
+   Comments: 43
+   URL: https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/
+
+15. A more efficient implementation of Shor's algorithm
+   Points: 16
+   Comments: 1
+   URL: https://lwn.net/Articles/1066156/
+
+16. Little Magazines Are Back
+   Points: 67
+   Comments: 19
+   URL: https://wsjfreeexpression.substack.com/p/little-magazines-are-back
+
+17. NetHack 5.0.0
+   Points: 375
+   Comments: 119
+   URL: https://nethack.org/v500/release.html
+
+18. How fast is a macOS VM, and how small could it be?
+   Points: 221
+   Comments: 79
+   URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/
+
+19. Barman – Backup and Recovery Manager for PostgreSQL
+   Points: 136
+   Comments: 23
+   URL: https://github.com/EnterpriseDB/barman
+
+20. The agent harness belongs outside the sandbox
+   Points: 66
+   Comments: 53
+   URL: https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox
+
