@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-04
+==================================================
+
+1. The text mode lie: why modern TUIs are a nightmare for accessibility
+   Points: 95
+   Comments: 36
+   URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility
+
+2. Agentic Coding Is a Trap
+   Points: 130
+   Comments: 93
+   URL: https://larsfaye.com/articles/agentic-coding-is-a-trap
+
+3. BYOMesh – New LoRa mesh radio offers 100x the bandwidth
+   Points: 254
+   Comments: 82
+   URL: https://partyon.xyz/@nullagent/116499715071759135
+
+4. Let's Buy Spirit Air
+   Points: 102
+   Comments: 67
+   URL: https://letsbuyspiritair.com/
+
+5. DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper
+   Points: 161
+   Comments: 71
+   URL: https://github.com/aattaran/deepclaude
+
+6. The 'Hidden' Costs of Great Abstractions
+   Points: 52
+   Comments: 11
+   URL: https://jdgr.net/the-hidden-costs-of-great-abstractions
+
+7. Using "underdrawings" for accurate text and numbers
+   Points: 27
+   Comments: 3
+   URL: https://samcollins.blog/underdrawings/
+
+8. Southwest Headquarters Tour
+   Points: 189
+   Comments: 56
+   URL: https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html
+
+9. US–Indian space mission maps extreme subsidence in Mexico City
+   Points: 90
+   Comments: 40
+   URL: https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html
+
+10. Introduction to Atom
+   Points: 28
+   Comments: 6
+   URL: https://validator.w3.org/feed/docs/atom.html
+
+11. A desktop made for one
+   Points: 234
+   Comments: 93
+   URL: https://isene.org/2026/05/Audience-of-One.html
+
+12. Tar files made in macOS generate "xattr" errors when expanded in Linux
+   Points: 36
+   Comments: 24
+   URL: https://aruljohn.com/blog/macos-created-tar-files-linux-errors/
+
+13. OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors
+   Points: 276
+   Comments: 235
+   URL: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
+
+14. K3sup – bootstrap K3s over SSH in < 60s
+   Points: 5
+   Comments: 0
+   URL: https://github.com/alexellis/k3sup
+
+15. New statue in London, attributed to Banksy, of a suited man, blinded by a flag
+   Points: 267
+   Comments: 271
+   URL: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
+
+16. Bad Connection: Global telecom exploitation by covert surveillance actors
+   Points: 96
+   Comments: 7
+   URL: https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/
+
+17. Mercedes-Benz commits to bringing back physical buttons
+   Points: 604
+   Comments: 349
+   URL: https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/
+
+18. Text-to-CAD
+   Points: 76
+   Comments: 25
+   URL: https://github.com/earthtojake/text-to-cad
+
+19. LLMs Are Not a Higher Level of Abstraction
+   Points: 45
+   Comments: 40
+   URL: https://www.lelanthran.com/chap15/content.html
+
+20. I recreated the Apple Lisa computer inside an FPGA [video]
+   Points: 69
+   Comments: 14
+   URL: https://www.youtube.com/watch?v=8jNQDcpHc68
+
