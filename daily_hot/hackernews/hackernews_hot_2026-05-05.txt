@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-05
+==================================================
+
+1. Bun is being ported from Zig to Rust
+   Points: 64
+   Comments: 25
+   URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
+
+2. How OpenAI delivers low-latency voice AI at scale
+   Points: 281
+   Comments: 100
+   URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+
+3. Talking to strangers at the gym
+   Points: 1153
+   Comments: 539
+   URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/
+
+4. Agent Skills
+   Points: 109
+   Comments: 33
+   URL: https://addyosmani.com/blog/agent-skills/
+
+5. Securing a DoD contractor: Finding a multi-tenant authorization vulnerability
+   Points: 168
+   Comments: 74
+   URL: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup
+
+6. Testing macOS on the Apple Network Server 2.0 ROMs
+   Points: 59
+   Comments: 8
+   URL: http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html
+
+7. Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks
+   Points: 210
+   Comments: 206
+   URL: https://www.nber.org/papers/w35117
+
+8. Redis array: short story of a long development process
+   Points: 228
+   Comments: 80
+   URL: https://antirez.com/news/164
+
+9. Microsoft Edge stores all passwords in memory in clear text, even when unused
+   Points: 409
+   Comments: 147
+   URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730
+
+10. I am worried about Bun
+   Points: 408
+   Comments: 279
+   URL: https://wwj.dev/posts/i-am-worried-about-bun/
+
+11. 1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'
+   Points: 126
+   Comments: 101
+   URL: https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/
+
+12. UK Fuel Price Intelligence – Market analytics from reporting stations
+   Points: 158
+   Comments: 75
+   URL: https://www.fuelinsight.co.uk
+
+13. How Monero’s proof of work works
+   Points: 238
+   Comments: 181
+   URL: https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works
+
+14. Pomiferous: The most extensive apples (pommes) database
+   Points: 102
+   Comments: 43
+   URL: https://pomiferous.com/
+
+15. Transformers Are Inherently Succinct (2025)
+   Points: 30
+   Comments: 6
+   URL: https://arxiv.org/abs/2510.19315
+
+16. Jonathan Swift's Last Joke
+   Points: 28
+   Comments: 6
+   URL: https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke
+
+17. Formatting a 25M-line codebase overnight
+   Points: 121
+   Comments: 64
+   URL: https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story
+
+18. PyInfra 3.8.0
+   Points: 220
+   Comments: 82
+   URL: https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0
+
+19. GameStop makes $55.5B takeover offer for eBay
+   Points: 640
+   Comments: 607
+   URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do
+
+20. US healthcare marketplaces shared citizenship and race data with ad tech giants
+   Points: 417
+   Comments: 141
+   URL: https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/
+
