@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-06
+==================================================
+
+1. .de TLD offline due to DNSSEC?
+   Points: 529
+   Comments: 245
+   URL: https://dnssec-analyzer.verisignlabs.com/nic.de
+
+2. Accelerating Gemma 4: faster inference with multi-token prediction drafters
+   Points: 450
+   Comments: 199
+   URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+
+3. Computer Use is 45x more expensive than structured APIs
+   Points: 313
+   Comments: 179
+   URL: https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/
+
+4. Three Inverse Laws of AI
+   Points: 361
+   Comments: 247
+   URL: https://susam.net/inverse-laws-of-robotics.html
+
+5. Write some software, give it away for free
+   Points: 133
+   Comments: 98
+   URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026
+
+6. EEVblog: The 555 Timer is 55 years old [video]
+   Points: 224
+   Comments: 55
+   URL: https://www.youtube.com/watch?v=6JhK8iCQuqI
+
+7. Why most product tours get skipped
+   Points: 69
+   Comments: 59
+   URL: https://productonboarding.com/articles/why-product-tours-get-skipped
+
+8. NPR finds "no sign" of Polymarket at its Panama HQ address
+   Points: 213
+   Comments: 93
+   URL: https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market
+
+9. Show HN: Explore color palettes inspired by 3000 master painter artworks
+   Points: 106
+   Comments: 40
+   URL: https://paletteinspiration.com/
+
+10. Wiki Builder: Skill to Build LLM Knowledge Bases
+   Points: 7
+   Comments: 0
+   URL: https://academy.dair.ai/blog/wiki-builder-claude-code-plugin
+
+11. GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents
+   Points: 113
+   Comments: 23
+   URL: https://arxiv.org/abs/2604.26752
+
+12. Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say
+   Points: 135
+   Comments: 41
+   URL: https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32
+
+13. Agents for financial services and insurance
+   Points: 197
+   Comments: 151
+   URL: https://www.anthropic.com/news/finance-agents
+
+14. I'm scared about biological computing
+   Points: 144
+   Comments: 130
+   URL: https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing
+
+15. Show HN: Airbyte Agents – context for agents across multiple data sources
+   Points: 94
+   Comments: 23
+   URL: https://news.ycombinator.com/item?id=48023496
+
+16. Google Chrome silently installs a 4 GB AI model on your device without consent
+   Points: 1248
+   Comments: 846
+   URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
+
+17. Today I've made the difficult decision to reduce the size of Coinbase by ~14%
+   Points: 262
+   Comments: 373
+   URL: https://twitter.com/brian_armstrong/status/2051616759145185723
+
+18. I completed 100 Days of Java over 5 years and mapped the journey as a graph
+   Points: 26
+   Comments: 5
+   URL: https://mohibulsblog.netlify.app/java/100daysofjava/graph/
+
+19. California farmers to destroy 420k peach trees following Del Monte bankruptcy
+   Points: 269
+   Comments: 320
+   URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php
+
+20. When everyone has AI and the company still learns nothing
+   Points: 311
+   Comments: 218
+   URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/
+
