@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-07
+==================================================
+
+1. Valve releases Steam Controller CAD files under Creative Commons license
+   Points: 1059
+   Comments: 347
+   URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license
+
+2. The Vatican's Website in Latin
+   Points: 17
+   Comments: 5
+   URL: https://www.vatican.va/latin/latin_index.html
+
+3. Appearing productive in the workplace
+   Points: 717
+   Comments: 278
+   URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/
+
+4. The Old Guard: Confronting America's Gerontocratic Crisis
+   Points: 21
+   Comments: 10
+   URL: https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/
+
+5. Vibe coding and agentic engineering are getting closer than I'd like
+   Points: 395
+   Comments: 424
+   URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+
+6. How I made $350K from an open-source JavaScript library using dual licensing
+   Points: 26
+   Comments: 7
+   URL: https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/
+
+7. From Supabase to Clerk to Better Auth
+   Points: 204
+   Comments: 129
+   URL: https://blog.val.town/better-auth
+
+8. The bottleneck was never the code
+   Points: 510
+   Comments: 329
+   URL: https://www.thetypicalset.com/blog/thoughts-on-coding-agents
+
+9. Google Cloud fraud defense, the next evolution of reCAPTCHA
+   Points: 209
+   Comments: 202
+   URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/
+
+10. Building my own Vi text editor in BASIC
+   Points: 24
+   Comments: 7
+   URL: https://leetusman.com/nosebook/yvi
+
+11. Show HN: Hallucinopedia
+   Points: 150
+   Comments: 154
+   URL: http://halupedia.com/
+
+12. Learning the Integral of a Diffusion Model
+   Points: 92
+   Comments: 17
+   URL: https://sander.ai/2026/05/06/flow-maps.html
+
+13. Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem
+   Points: 127
+   Comments: 94
+   URL: https://tilde.run/
+
+14. Community firmware for the Xteink X4 e-paper reader
+   Points: 46
+   Comments: 19
+   URL: https://github.com/crosspoint-reader/crosspoint-reader
+
+15. How do I inform Windows that I'm writing a binary file?
+   Points: 15
+   Comments: 11
+   URL: https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296
+
+16. A Theory of Deep Learning
+   Points: 124
+   Comments: 28
+   URL: https://elonlit.com/scrivings/a-theory-of-deep-learning/
+
+17. Inkscape 1.4.4
+   Points: 215
+   Comments: 57
+   URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html
+
+18. Programming Still Sucks
+   Points: 86
+   Comments: 17
+   URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp
+
+19. Ted Turner has died
+   Points: 224
+   Comments: 186
+   URL: https://www.cnn.com/2026/05/06/us/ted-turner-death
+
+20. Perturb-MARS: Reading mouse experiments through a human lens
+   Points: 3
+   Comments: 0
+   URL: https://www.noetik.blog/p/perturb-mars-reading-mouse-experiments
+
