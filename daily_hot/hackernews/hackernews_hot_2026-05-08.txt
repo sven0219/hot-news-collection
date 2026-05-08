@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-08
+==================================================
+
+1. Canvas (Instructure) LMS Down in Ongoing Ransomware Attack
+   Points: 222
+   Comments: 73
+   URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach
+
+2. Dirtyfrag: Universal Linux LPE
+   Points: 412
+   Comments: 187
+   URL: https://www.openwall.com/lists/oss-security/2026/05/07/8
+
+3. Maybe you shouldn't install new software for a bit
+   Points: 120
+   Comments: 59
+   URL: https://xeiaso.net/blog/2026/abstain-from-install/
+
+4. Nonprofit hospitals spend billions on consultants with no clear effect
+   Points: 57
+   Comments: 20
+   URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants
+
+5. The Burning Man MOOP Map
+   Points: 537
+   Comments: 283
+   URL: https://www.not-ship.com/burning-man-moop/
+
+6. Agents need control flow, not more prompts
+   Points: 330
+   Comments: 183
+   URL: https://bsuh.bearblog.dev/agents-need-control-flow/
+
+7. Researchers discover advanced language processing in the unconscious human brain
+   Points: 42
+   Comments: 13
+   URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain
+
+8. Building for the Future
+   Points: 258
+   Comments: 157
+   URL: https://blog.cloudflare.com/building-for-the-future/
+
+9. Natural Language Autoencoders: Turning Claude's Thoughts into Text
+   Points: 200
+   Comments: 67
+   URL: https://www.anthropic.com/research/natural-language-autoencoders
+
+10. The Disappearance of the Public Bench
+   Points: 26
+   Comments: 12
+   URL: https://placesjournal.org/article/the-disappearance-of-the-public-bench/
+
+11. AlphaEvolve: Gemini-powered coding agent scaling impact across fields
+   Points: 243
+   Comments: 99
+   URL: https://deepmind.google/blog/alphaevolve-impact/
+
+12. DeepSeek 4 Flash local inference engine for Metal
+   Points: 292
+   Comments: 85
+   URL: https://github.com/antirez/ds4
+
+13. AI slop is killing online communities
+   Points: 453
+   Comments: 437
+   URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/
+
+14. GNU IFUNC is the real culprit behind CVE-2024-3094
+   Points: 10
+   Comments: 1
+   URL: https://github.com/robertdfrench/ifuncd-up
+
+15. The Traveling Salesdog Problem
+   Points: 6
+   Comments: 2
+   URL: https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html
+
+16. Two Home Affairs officials suspended after AI 'hallucinations' found
+   Points: 54
+   Comments: 15
+   URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/
+
+17. Hackers deface school login pages after claiming another Instructure hack
+   Points: 17
+   Comments: 1
+   URL: https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/
+
+18. I want to live like Costco people
+   Points: 235
+   Comments: 497
+   URL: https://tastecooking.com/i-want-to-live-like-costco-people/
+
+19. Chrome removes claim of On-device Al not sending data to Google Servers
+   Points: 471
+   Comments: 174
+   URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/
+
+20. Komai: a fine Matrix chat app you can get to love
+   Points: 7
+   Comments: 1
+   URL: https://etke.cc/blog/introducing-komai
+
