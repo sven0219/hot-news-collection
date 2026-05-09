@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-09
+==================================================
+
+1. Google broke reCAPTCHA for de-googled Android users
+   Points: 627
+   Comments: 221
+   URL: https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users
+
+2. OpenAI's WebRTC problem
+   Points: 97
+   Comments: 23
+   URL: https://moq.dev/blog/webrtc-is-the-problem/
+
+3. The React2Shell Story
+   Points: 35
+   Comments: 3
+   URL: https://lachlan.nz/blog/the-react2shell-story/
+
+4. Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)
+   Points: 83
+   Comments: 30
+   URL: https://www.wiisfi.com/
+
+5. AI is breaking two vulnerability cultures
+   Points: 241
+   Comments: 102
+   URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
+
+6. You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)
+   Points: 139
+   Comments: 87
+   URL: https://ze3tar.github.io/post-zcrx.html
+
+7. Can LLMs model real-world systems in TLA+?
+   Points: 31
+   Comments: 4
+   URL: https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/
+
+8. AWS North Virginia data center outage – recovery to take hours
+   Points: 129
+   Comments: 79
+   URL: https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html
+
+9. Cartoon Network Flash Games
+   Points: 282
+   Comments: 98
+   URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games
+
+10. Light without electricity? Glowing algae could make it possible
+   Points: 19
+   Comments: 3
+   URL: https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible
+
+11. David Attenborough's 100th Birthday
+   Points: 447
+   Comments: 92
+   URL: https://www.bbc.com/news/articles/cp3pww9g0p5o
+
+12. When is your birthday? The math behind hash collisions
+   Points: 19
+   Comments: 0
+   URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html
+
+13. Serving a website on a Raspberry Pi Zero running in RAM
+   Points: 191
+   Comments: 78
+   URL: https://btxx.org/posts/memory/
+
+14. An Introduction to Meshtastic
+   Points: 371
+   Comments: 149
+   URL: https://meshtastic.org/docs/introduction/
+
+15. Teaching Claude Why
+   Points: 91
+   Comments: 25
+   URL: https://www.anthropic.com/research/teaching-claude-why
+
+16. Mux (YC W16) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.mux.com/jobs
+
+17. Looking at the data behind prediction markets
+   Points: 53
+   Comments: 27
+   URL: https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything
+
+18. Meta Shuts Down End-to-End Encryption for Instagram Messaging
+   Points: 147
+   Comments: 98
+   URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging
+
+19. Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests
+   Points: 41
+   Comments: 30
+   URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests
+
+20. Human typing habits and token counts
+   Points: 10
+   Comments: 1
+   URL: https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/
+
