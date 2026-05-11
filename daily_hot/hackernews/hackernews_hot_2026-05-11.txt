@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-11
+==================================================
+
+1. Hardware Attestation as Monopoly Enabler
+   Points: 902
+   Comments: 331
+   URL: https://grapheneos.social/@GrapheneOS/116550899908879585
+
+2. I'm going back to writing code by hand
+   Points: 33
+   Comments: 7
+   URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
+
+3. Local AI needs to be the norm
+   Points: 589
+   Comments: 275
+   URL: https://unix.foo/posts/local-ai-needs-to-be-norm/
+
+4. Running local models on an M4 with 24GB memory
+   Points: 82
+   Comments: 43
+   URL: https://jola.dev/posts/running-local-models-on-m4
+
+5. Incident Report: CVE-2024-YIKES
+   Points: 394
+   Comments: 95
+   URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
+
+6. Obsidian plugin was abused to deploy a remote access trojan
+   Points: 83
+   Comments: 37
+   URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/
+
+7. Guy Goma's Accidental BBC Interview Lives on After 20 Years
+   Points: 56
+   Comments: 12
+   URL: https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html
+
+8. Ask HN: What are you working on? (May 2026)
+   Points: 133
+   Comments: 459
+   URL: https://news.ycombinator.com/item?id=48085993
+
+9. First tunnel element of the Fehmarnbelt Tunnel immersed
+   Points: 45
+   Comments: 9
+   URL: https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/
+
+10. I designed Microsoft's EA channel in 2001. It's being dismantled in 2026
+   Points: 18
+   Comments: 2
+   URL: https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/
+
+11. PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs
+   Points: 70
+   Comments: 44
+   URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656
+
+12. You Need AI That Reduces Maintenance Costs
+   Points: 22
+   Comments: 3
+   URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
+
+13. Traces Of Humanity
+   Points: 128
+   Comments: 19
+   URL: https://tracesofhumanity.org/hello-world/
+
+14. The people preserving the scientific practice of bird banding
+   Points: 32
+   Comments: 0
+   URL: https://thenarwhal.ca/bird-banding-ontario/
+
+15. I returned to AWS and was reminded why I left
+   Points: 659
+   Comments: 480
+   URL: http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html
+
+16. Maryland citizens hit with $2B power grid upgrade for out-of-state AI
+   Points: 143
+   Comments: 67
+   URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises
+
+17. Eight More 8-bit Era Microprocessors (2024)
+   Points: 51
+   Comments: 13
+   URL: https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors
+
+18. Stop MitM on the first SSH connection, on any VPS or cloud provider
+   Points: 80
+   Comments: 45
+   URL: https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html
+
+19. The locals don't know
+   Points: 101
+   Comments: 72
+   URL: https://www.quarter--mile.com/The-Locals-Dont-Know
+
+20. Make America AI ready: Strengths, weaknesses, and recommendations
+   Points: 17
+   Comments: 12
+   URL: https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/
+
