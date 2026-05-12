@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-12
+==================================================
+
+1. Postmortem: TanStack npm supply-chain compromise
+   Points: 533
+   Comments: 191
+   URL: https://tanstack.com/blog/npm-supply-chain-compromise-postmortem
+
+2. UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)
+   Points: 236
+   Comments: 46
+   URL: https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage
+
+3. If AI writes your code, why use Python?
+   Points: 153
+   Comments: 157
+   URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055
+
+4. Library for fast mapping of Java records to native memory
+   Points: 108
+   Comments: 24
+   URL: https://github.com/mamba-studio/TypedMemory
+
+5. I let AI build a tool to help me figure out what was waking me up at night
+   Points: 72
+   Comments: 68
+   URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/
+
+6. GitLab announces workforce reduction and end of their CREDIT values
+   Points: 322
+   Comments: 316
+   URL: https://about.gitlab.com/blog/gitlab-act-2/
+
+7. Ratty – A terminal emulator with inline 3D graphics
+   Points: 611
+   Comments: 198
+   URL: https://ratty-term.org/
+
+8. Nullsoft, 1997-2004 (2004)
+   Points: 224
+   Comments: 70
+   URL: https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html
+
+9. Griffin PowerMate driver for modern macOS
+   Points: 39
+   Comments: 15
+   URL: https://github.com/jameslockman/Griffin-PowerMate-Driver
+
+10. Gmail registration now requires scanning a QR code and sending a text message
+   Points: 562
+   Comments: 415
+   URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082
+
+11. Can we code our way out of gentrification?
+   Points: 12
+   Comments: 34
+   URL: https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification
+
+12. Google says criminal hackers used AI to find a major software flaw
+   Points: 118
+   Comments: 96
+   URL: https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html
+
+13. Interaction Models
+   Points: 90
+   Comments: 9
+   URL: https://thinkingmachines.ai/blog/interaction-models/
+
+14. Show HN: A modern Music Player Daemon based on Rockbox firmware
+   Points: 6
+   Comments: 1
+   URL: https://github.com/tsirysndr/rockbox-zig
+
+15. Silverback Imfura took a chance, and ended up alone
+   Points: 29
+   Comments: 11
+   URL: https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/
+
+16. Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s
+   Points: 216
+   Comments: 11
+   URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html
+
+17. The rise and fall of snake oil
+   Points: 28
+   Comments: 16
+   URL: https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil
+
+18. Abstract Machines for Logic Programs
+   Points: 13
+   Comments: 1
+   URL: https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/
+
+19. Interfaze: A new model architecture built for high accuracy at scale
+   Points: 108
+   Comments: 30
+   URL: https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale
+
+20. AMÁLIA and the future of European Portuguese LLMs
+   Points: 117
+   Comments: 57
+   URL: https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms
+
