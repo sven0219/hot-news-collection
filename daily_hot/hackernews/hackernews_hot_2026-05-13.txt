@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-13
+==================================================
+
+1. Restore full BambuNetwork support for Bambu Lab printers
+   Points: 155
+   Comments: 62
+   URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+
+2. Googlebook
+   Points: 615
+   Comments: 1036
+   URL: https://googlebook.google/
+
+3. My graduation cap runs Rust
+   Points: 52
+   Comments: 9
+   URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/
+
+4. Kraftwerk's radical 1976 track
+   Points: 62
+   Comments: 21
+   URL: https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem
+
+5. How to make your text look futuristic (2016)
+   Points: 216
+   Comments: 26
+   URL: https://typesetinthefuture.com/2016/02/18/futuristic/
+
+6. Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model
+   Points: 280
+   Comments: 102
+   URL: https://github.com/cactus-compute/needle
+
+7. CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq
+   Points: 236
+   Comments: 117
+   URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html
+
+8. Why senior developers fail to communicate their expertise
+   Points: 374
+   Comments: 183
+   URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise
+
+9. Tell NYT, Atlantic, USA Today to keep Wayback Machine
+   Points: 139
+   Comments: 29
+   URL: https://www.savethearchive.com/newsleaders/
+
+10. Fc, a lossless compressor for floating-point streams
+   Points: 17
+   Comments: 5
+   URL: https://github.com/xtellect/fc
+
+11. Rendering the Sky, Sunsets, and Planets
+   Points: 409
+   Comments: 35
+   URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/
+
+12. Quack: The DuckDB Client-Server Protocol
+   Points: 190
+   Comments: 42
+   URL: https://duckdb.org/2026/05/12/quack-remote-protocol
+
+13. Foucault's Order of Things Explained with Trading Cards [video]
+   Points: 20
+   Comments: 10
+   URL: https://www.youtube.com/watch?v=1TbHYjGvS68
+
+14. Reimagining the mouse pointer for the AI era
+   Points: 139
+   Comments: 116
+   URL: https://deepmind.google/blog/ai-pointer/
+
+15. Traceway: MIT-licensed observability stack you can self-host in ~90s
+   Points: 5
+   Comments: 0
+   URL: https://github.com/tracewayapp/traceway
+
+16. Lanzaboote – NixOS Secure Boot
+   Points: 44
+   Comments: 6
+   URL: https://x86.lol/generic/2022/11/26/lanzaboote.html
+
+17. Launch HN: Voker (YC S24) – Analytics for AI Agents
+   Points: 40
+   Comments: 19
+   URL: https://voker.ai
+
+18. The Future of Obsidian Plugins
+   Points: 306
+   Comments: 124
+   URL: https://obsidian.md/blog/future-of-plugins/
+
+19. Show HN: Agentic interface for mainframes and COBOL
+   Points: 55
+   Comments: 33
+   URL: https://www.hypercubic.ai/hopper
+
+20. Bambu Lab is abusing the open source social contract
+   Points: 1098
+   Comments: 366
+   URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/
+
