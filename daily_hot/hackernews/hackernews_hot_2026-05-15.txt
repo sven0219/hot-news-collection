@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-15
+==================================================
+
+1. Removing the modem and GPS from my 2024 RAV4 hybrid
+   Points: 625
+   Comments: 365
+   URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
+
+2. A few words on DS4
+   Points: 155
+   Comments: 46
+   URL: https://antirez.com/news/165
+
+3. Elevated error rates on Opus 4.7
+   Points: 48
+   Comments: 39
+   URL: https://status.claude.com/incidents/8z7l5zcy0v3b
+
+4. First public macOS kernel memory corruption exploit on Apple M5
+   Points: 261
+   Comments: 45
+   URL: https://blog.calif.io/p/first-public-kernel-memory-corruption
+
+5. Have a Coherent AI Policy
+   Points: 42
+   Comments: 29
+   URL: https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/
+
+6. RTX 5090 and M4 MacBook Air: Can It Game?
+   Points: 491
+   Comments: 135
+   URL: https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/
+
+7. Codex is now in the ChatGPT mobile app
+   Points: 180
+   Comments: 86
+   URL: https://openai.com/index/work-with-codex-from-anywhere/
+
+8. New Nginx Exploit
+   Points: 292
+   Comments: 63
+   URL: https://github.com/DepthFirstDisclosures/Nginx-Rift
+
+9. RISC-V Router
+   Points: 73
+   Comments: 34
+   URL: https://router.start9.com/
+
+10. Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet
+   Points: 61
+   Comments: 21
+   URL: https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing
+
+11. Porting 3D Movie Maker to Linux
+   Points: 81
+   Comments: 13
+   URL: https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/
+
+12. OVMS: Open source electric vehicle remote monitoring, diagnosis and control
+   Points: 39
+   Comments: 5
+   URL: https://www.openvehicles.com/home
+
+13. New arXiv policy: 1-year ban for hallucinated references
+   Points: 286
+   Comments: 85
+   URL: https://twitter.com/tdietterich/status/2055000956144935055
+
+14. More than sixty percent of the United States is experiencing drought conditions
+   Points: 91
+   Comments: 33
+   URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html
+
+15. Do teachers need advanced degrees?
+   Points: 19
+   Comments: 39
+   URL: https://www.cremieux.xyz/p/do-teachers-need-advanced-degrees
+
+16. Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate
+
+17. HDD Firmware Hacking
+   Points: 134
+   Comments: 14
+   URL: https://icode4.coffee/?p=1465
+
+18. Show HN: GridTravel- A community based travel app for users to share routes
+   Points: 22
+   Comments: 6
+   URL: https://www.gridtravel.app
+
+19. Ontario auditors find doctors' AI note takers routinely blow basic facts
+   Points: 103
+   Comments: 32
+   URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771
+
+20. Computer Hobby Movement in Canada
+   Points: 188
+   Comments: 74
+   URL: https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada
+
