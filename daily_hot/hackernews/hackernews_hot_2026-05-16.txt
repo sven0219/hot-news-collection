@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-16
+==================================================
+
+1. Erlang/OTP 29.0
+   Points: 99
+   Comments: 4
+   URL: https://www.erlang.org/news/188
+
+2. Project Gutenberg – keeps getting better
+   Points: 720
+   Comments: 175
+   URL: https://www.gutenberg.org/
+
+3. 'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens
+   Points: 64
+   Comments: 12
+   URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/
+
+4. I believe there are entire companies right now under AI psychosis
+   Points: 812
+   Comments: 351
+   URL: https://twitter.com/mitchellh/status/2055380239711457578
+
+5. The main thing about P2P meth is that there's so much of it (2022)
+   Points: 45
+   Comments: 22
+   URL: https://dynomight.net/p2p-meth/
+
+6. The Zulip Foundation
+   Points: 220
+   Comments: 53
+   URL: https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/
+
+7. Naturally Occurring Quasicrystals
+   Points: 56
+   Comments: 5
+   URL: https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/
+
+8. How to Write to SSDs [pdf]
+   Points: 50
+   Comments: 5
+   URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf
+
+9. Additive Blending on the Nintendo 64
+   Points: 13
+   Comments: 1
+   URL: https://phoboslab.org/log/2026/05/n64-additive-blending
+
+10. A 0-click exploit chain for the Pixel 10
+   Points: 339
+   Comments: 157
+   URL: https://projectzero.google/2026/05/pixel-10-exploit.html
+
+11. Show HN: Epiq – Distributed Git based issue tracker TUI
+   Points: 15
+   Comments: 4
+   URL: https://ljtn.github.io/epiq/
+
+12. California bill would require patches or refunds when online games shut down
+   Points: 323
+   Comments: 196
+   URL: https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/
+
+13. ESP-EEG is an affordable 8-channel biosensing board
+   Points: 18
+   Comments: 1
+   URL: https://www.autodidacts.io/cerelog-esp-eeg-affordable-openbci-like-board/
+
+14. I broke AppLovin's mediation cipher protocol
+   Points: 7
+   Comments: 0
+   URL: https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/
+
+15. The sigmoids won't save you
+   Points: 148
+   Comments: 162
+   URL: https://www.astralcodexten.com/p/the-sigmoids-wont-save-you
+
+16. The Bird Eye Was Pushed to an Evolutionary Extreme
+   Points: 11
+   Comments: 0
+   URL: https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/
+
+17. Spectre Programming Language
+   Points: 27
+   Comments: 1
+   URL: https://spectre-docs.pages.dev
+
+18. I designed a nibble-oriented CPU in Verilog to build a scientific calculator
+   Points: 84
+   Comments: 28
+   URL: https://github.com/gdevic/FPGA-Calculator
+
+19. Image-blaster: Creates 3D environments, SFX, and meshes from a single image
+   Points: 131
+   Comments: 26
+   URL: https://github.com/neilsonnn/image-blaster
+
+20. U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app
+   Points: 365
+   Comments: 240
+   URL: https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/
+
