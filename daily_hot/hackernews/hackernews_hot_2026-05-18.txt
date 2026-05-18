@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-18
+==================================================
+
+1. GenCAD
+   Points: 112
+   Comments: 23
+   URL: https://gencad.github.io/
+
+2. I turned a $80 RK3562 Android tablet into a Debian Linux workstation
+   Points: 257
+   Comments: 120
+   URL: https://github.com/tech4bot/rk3562deb
+
+3. Prolog Coding Horror
+   Points: 58
+   Comments: 21
+   URL: https://www.metalevel.at/prolog/horror
+
+4. Ask an Astronaut: 333 hours of Q&A footage with astronauts
+   Points: 38
+   Comments: 3
+   URL: https://askanastronaut.issinrealtime.org/
+
+5. Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely
+   Points: 97
+   Comments: 81
+   URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base
+
+6. Magical Realism: “Northern Exposure” 25 Years Later (2015)
+   Points: 74
+   Comments: 27
+   URL: https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later
+
+7. Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep
+   Points: 176
+   Comments: 44
+   URL: https://github.com/MinishLab/semble
+
+8. Mercurial, 20 years and counting: how are we still alive and kicking? [video]
+   Points: 162
+   Comments: 151
+   URL: https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/
+
+9. Cannibalistic attacks between gray seals leave telltale “corkscrew” injuries
+   Points: 36
+   Comments: 2
+   URL: https://www.science.org/content/article/scientists-id-corkscrew-killer-behind-gruesome-seal-deaths
+
+10. VoIP brings back old-fashioned pay phones to rural Vermont (2025)
+   Points: 115
+   Comments: 34
+   URL: https://spectrum.ieee.org/payphone-voip
+
+11. The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations
+   Points: 56
+   Comments: 28
+   URL: https://www.jdhodges.com/blog/thinkpad-history/
+
+12. Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP
+   Points: 24
+   Comments: 13
+   URL: https://xca-attacks.github.io/fabricked/
+
+13. Jank now has its own custom IR
+   Points: 46
+   Comments: 4
+   URL: https://jank-lang.org/blog/2026-05-08-optimization/
+
+14. Design posters showcasing your country's electrical grid
+   Points: 57
+   Comments: 15
+   URL: https://github.com/open-energy-transition/grid2poster
+
+15. CUDA Books
+   Points: 126
+   Comments: 26
+   URL: https://github.com/alternbits/awesome-cuda-books
+
+16. I don't think AI will make your processes go faster
+   Points: 497
+   Comments: 352
+   URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/
+
+17. Hindenburg’s Smoking Room
+   Points: 157
+   Comments: 113
+   URL: https://www.airships.net/hindenburg-smoking-room/
+
+18. Prolog Basics Explained with Pokémon
+   Points: 209
+   Comments: 33
+   URL: https://unplannedobsolescence.com/blog/prolog-basics-pokemon/
+
+19. High-Entropy Alloy
+   Points: 110
+   Comments: 23
+   URL: https://en.wikipedia.org/wiki/High-entropy_alloy
+
+20. Trials on veterans suggest ibogaine could provide a new treatment for PTSD
+   Points: 81
+   Comments: 89
+   URL: https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd
+
