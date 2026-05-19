@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-19
+==================================================
+
+1. Click (2016)
+   Points: 200
+   Comments: 42
+   URL: https://clickclickclick.click/
+
+2. Anthropic co-founder to present AI encyclical alongside Pope Leo XIV
+   Points: 103
+   Comments: 64
+   URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
+
+3. Anthropic acquires Stainless
+   Points: 363
+   Comments: 255
+   URL: https://www.anthropic.com/news/anthropic-acquires-stainless
+
+4. Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp
+   Points: 133
+   Comments: 28
+   URL: https://hyperpolyglot.org/lisp
+
+5. We stopped AI bot spam in our GitHub repo using Git's –author flag
+   Points: 415
+   Comments: 189
+   URL: https://archestra.ai/blog/only-responsible-ai
+
+6. We let AIs run radio stations
+   Points: 170
+   Comments: 161
+   URL: https://andonlabs.com/blog/andon-fm
+
+7. The Quiet Renovation at Bitwarden
+   Points: 532
+   Comments: 246
+   URL: https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden
+
+8. Show HN: Files.md – Open-source alternative to Obsidian
+   Points: 555
+   Comments: 281
+   URL: https://github.com/zakirullin/files.md
+
+9. Show HN: Number Gacha, a gacha game distilled to its essence
+   Points: 45
+   Comments: 12
+   URL: https://isabisabel.com/gacha/
+
+10. Earth's Radio Bubble: Every signal we've ever sent into space
+   Points: 29
+   Comments: 21
+   URL: https://www.thescientificdrop.com/2026/05/earths-radio-bubble-every-signal-weve.html
+
+11. The Futility of Lava Lamps: What Random Means
+   Points: 50
+   Comments: 36
+   URL: https://loup-vaillant.fr/articles/lava-lamps-and-randomness
+
+12. Elon Musk has lost his lawsuit against Sam Altman and OpenAI
+   Points: 789
+   Comments: 417
+   URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/
+
+13. Project Glasswing: what Mythos showed us
+   Points: 283
+   Comments: 108
+   URL: https://blog.cloudflare.com/cyber-frontier-models/
+
+14. When can the C++ compiler devirtualize a call?
+   Points: 10
+   Comments: 1
+   URL: https://quuxplusone.github.io/blog/2021/02/15/devirtualization/
+
+15. Agora-1: The Multi-Agent World Model
+   Points: 82
+   Comments: 16
+   URL: https://odyssey.ml/introducing-agora-1
+
+16. Designing an FPGA Calculator from Scratch
+   Points: 50
+   Comments: 4
+   URL: https://baltazarstudios.com/calculator/
+
+17. The FBI Wants to Buy Nationwide Access to License Plate Readers
+   Points: 227
+   Comments: 91
+   URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/
+
+18. The Fil-C Optimized Calling Convention
+   Points: 114
+   Comments: 20
+   URL: https://fil-c.org/calling_convention
+
+19. Two computers, one monitor, zero fiddling (2025)
+   Points: 171
+   Comments: 96
+   URL: https://alexplescan.com/posts/2025/08/16/kvm/
+
+20. Coding on Paper
+   Points: 42
+   Comments: 7
+   URL: https://wickstrom.tech/2026-05-16-coding-on-paper.html
+
