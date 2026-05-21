@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-21
+==================================================
+
+1. An OpenAI model has disproved a central conjecture in discrete geometry
+   Points: 755
+   Comments: 545
+   URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+
+2. GitHub confirms breach of 3,800 repos via malicious VSCode extension
+   Points: 550
+   Comments: 199
+   URL: https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/
+
+3. DOS Zone
+   Points: 94
+   Comments: 21
+   URL: https://dos.zone/
+
+4. I reverse engineered Apple's video wallpapers
+   Points: 67
+   Comments: 10
+   URL: https://github.com/kageroumado/phosphene
+
+5. Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects
+   Points: 127
+   Comments: 32
+   URL: https://legiscan.com/CO/bill/SB051/2026
+
+6. Flipper One Tech Specs
+   Points: 259
+   Comments: 94
+   URL: https://docs.flipper.net/one/general/tech-specs
+
+7. What is Demand Coop and why tech workers should join one
+   Points: 7
+   Comments: 0
+   URL: https://cahootzcoops.com/blog/what-is-a-demand-coop
+
+8. Your Most Improbable Life
+   Points: 35
+   Comments: 5
+   URL: https://kevinkelly.substack.com/p/your-most-improbable-life
+
+9. How fast is N tokens per second really?
+   Points: 309
+   Comments: 73
+   URL: https://mikeveerman.github.io/tokenspeed/
+
+10. Qwen3.7-Max: The Agent Frontier
+   Points: 611
+   Comments: 246
+   URL: https://qwen.ai/blog?id=qwen3.7
+
+11. Archaeologists find Egyptian mummy buried with the 'Iliad'
+   Points: 55
+   Comments: 19
+   URL: https://www.openculture.com/2026/05/archaeologists-discover-ancient-egyptian-mummy-buried-with-pages-from-homers-iliad.html
+
+12. The Letter S, by Donald Knuth [pdf]
+   Points: 14
+   Comments: 0
+   URL: https://gwern.net/doc/design/typography/1980-knuth.pdf
+
+13. Why is Inkwell stuck in review
+   Points: 108
+   Comments: 34
+   URL: https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html
+
+14. Saying goodbye to asm.js
+   Points: 313
+   Comments: 135
+   URL: https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html
+
+15. Intuit to lay off over 3k employees to refocus on AI
+   Points: 36
+   Comments: 9
+   URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/
+
+16. Qian Xuesen: The missile genius America lost and China gained (2025)
+   Points: 117
+   Comments: 65
+   URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained
+
+17. Map of Metal
+   Points: 400
+   Comments: 146
+   URL: https://mapofmetal.com/
+
+18. SpaceX S-1
+   Points: 234
+   Comments: 175
+   URL: https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+
+19. Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos
+   Points: 29
+   Comments: 12
+   URL: https://github.com/kouhxp/yapsnap
+
+20. Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP
+   Points: 10
+   Comments: 1
+   URL: https://yes-we-scan.app/details
+
