@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-22
+==================================================
+
+1. Project Hail Mary – Stellar Navigation Chart
+   Points: 583
+   Comments: 137
+   URL: https://valhovey.github.io/gaia-mary/
+
+2. Using Kagi Search with Low Vision
+   Points: 132
+   Comments: 25
+   URL: https://veroniiiica.com/using-kagi-search-with-low-vision/
+
+3. Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD
+   Points: 167
+   Comments: 93
+   URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/
+
+4. The Death of the Brick and Mortar Toy Store
+   Points: 16
+   Comments: 9
+   URL: https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/
+
+5. Was my $48K GPU server worth it?
+   Points: 290
+   Comments: 215
+   URL: https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/
+
+6. Show HN: Freenet, a peer-to-peer platform for decentralized apps
+   Points: 197
+   Comments: 103
+   URL: https://freenet.org/
+
+7. Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)
+   Points: 295
+   Comments: 91
+   URL: https://blog.simbastack.com/indexed-a-year-of-video-locally/
+
+8. Mycorrhizal Fungi, Nature's Key to Plant Survival and Success
+   Points: 36
+   Comments: 4
+   URL: https://pacifichorticulture.org/articles/mycorrhizal-fungi-natures-key-to-plant-survival-and-success/
+
+9. Python 3.15: features that didn't make the headlines
+   Points: 331
+   Comments: 159
+   URL: https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html
+
+10. Spotify will start reserving concert tickets for fans
+   Points: 107
+   Comments: 208
+   URL: https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/
+
+11. Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team
+   Points: 68
+   Comments: 21
+   URL: https://www.runtm.com/
+
+12. Lost Images from the 1945 Trinity Nuclear Test Restored
+   Points: 288
+   Comments: 94
+   URL: https://spectrum.ieee.org/trinity-nuclear-test
+
+13. Flipper One – we need your help
+   Points: 1049
+   Comments: 417
+   URL: https://blog.flipper.net/flipper-one-we-need-your-help/
+
+14. Waymo pauses Atlanta service as its robotaxis keep driving into floods
+   Points: 256
+   Comments: 321
+   URL: https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/
+
+15. Seattle Shield, an intelligence-sharing network operated by the Seattle police
+   Points: 415
+   Comments: 168
+   URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/
+
+16. The IBM-ification of Google?
+   Points: 68
+   Comments: 67
+   URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/
+
+17. Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O
+   Points: 64
+   Comments: 5
+   URL: https://arxiv.org/abs/2605.12460
+
+18. The memory shortage is causing a repricing of consumer electronics
+   Points: 102
+   Comments: 77
+   URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
+
+19. BBEdit 16
+   Points: 268
+   Comments: 83
+   URL: https://www.barebones.com/products/bbedit/bbedit16.html
+
+20. Uv is fantastic, but its package management UX is a mess
+   Points: 73
+   Comments: 53
+   URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/
+
