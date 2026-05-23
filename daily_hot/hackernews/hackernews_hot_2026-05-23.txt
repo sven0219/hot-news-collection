@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-23
+==================================================
+
+1. Shipping a laptop to a refugee camp in Uganda
+   Points: 189
+   Comments: 47
+   URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda
+
+2. Project Glasswing: An Initial Update
+   Points: 310
+   Comments: 194
+   URL: https://www.anthropic.com/research/glasswing-initial-update
+
+3. Why Japanese companies do so many different things
+   Points: 484
+   Comments: 277
+   URL: https://davidoks.blog/p/why-japanese-companies-do-so-many
+
+4. Sleep research led to a new sleep apnea drug
+   Points: 61
+   Comments: 38
+   URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug
+
+5. Blood Pumping Mechanism of the Hoof
+   Points: 17
+   Comments: 0
+   URL: https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/
+
+6. A Wayland Compositor in Minecraft
+   Points: 123
+   Comments: 24
+   URL: https://modrinth.com/mod/waylandcraft
+
+7. Comparing an LZ4 Decompressor on Four Legacy CPUs
+   Points: 27
+   Comments: 0
+   URL: https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/
+
+8. SpaceX launches Starship v3 rocket
+   Points: 107
+   Comments: 35
+   URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505
+
+9. Open source Kanban desktop app that runs parallel agents on every card
+   Points: 165
+   Comments: 95
+   URL: https://www.kanbots.dev/
+
+10. CISA tries to contain data leak
+   Points: 129
+   Comments: 37
+   URL: https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/
+
+11. I’m writing again
+   Points: 95
+   Comments: 27
+   URL: https://www.cringely.com/2026/05/21/im-writing-again/
+
+12. FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack
+   Points: 36
+   Comments: 10
+   URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware
+
+13. Deno 2.8
+   Points: 304
+   Comments: 136
+   URL: https://deno.com/blog/v2.8
+
+14. Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark
+   Points: 347
+   Comments: 136
+   URL: https://modelrift.com/blog/openscad-llm-benchmark/
+
+15. 1940 Air Terminal Museum Begins Liquidation
+   Points: 86
+   Comments: 27
+   URL: https://www.1940airterminal.org/news/liquidation-of-simulators
+
+16. Wi-Wi is wireless time sync at 1 nanosecond
+   Points: 82
+   Comments: 12
+   URL: https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/
+
+17. A Forth-inspired language for writing websites
+   Points: 103
+   Comments: 13
+   URL: https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites
+
+18. Bun support is now limited and deprecated
+   Points: 367
+   Comments: 393
+   URL: https://github.com/yt-dlp/yt-dlp/issues/16766
+
+19. Models.dev: open-source database of AI model specs, pricing, and capabilities
+   Points: 102
+   Comments: 13
+   URL: https://github.com/anomalyco/models.dev
+
+20. A blueprint for formal verification of Apple corecrypto
+   Points: 58
+   Comments: 2
+   URL: https://security.apple.com/blog/formal-verification-corecrypto/
+
