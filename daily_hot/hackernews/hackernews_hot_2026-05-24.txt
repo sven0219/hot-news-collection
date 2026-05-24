@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-24
+==================================================
+
+1. Microsoft open-sources "the earliest DOS source code discovered to date"
+   Points: 25
+   Comments: 3
+   URL: https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/
+
+2. Wake up! 16b
+   Points: 41
+   Comments: 5
+   URL: https://hellmood.111mb.de/wake_up_16b_writeup.html
+
+3. Time to talk about my writerdeck
+   Points: 294
+   Comments: 162
+   URL: https://veronicaexplains.net/my-first-writerdeck/
+
+4. Scammers are abusing an internal Microsoft account to send spam links
+   Points: 14
+   Comments: 2
+   URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/
+
+5. My I3-Emacs Integration
+   Points: 30
+   Comments: 7
+   URL: https://khz.ac/software/i3-integration.html
+
+6. My two-part desk setup (2025)
+   Points: 223
+   Comments: 128
+   URL: https://arslan.io/2025/11/18/my-two-part-desk-setup/
+
+7. Sales and Dungeons: Thermal printer TTRPG utility
+   Points: 47
+   Comments: 16
+   URL: https://sales-and-dungeons.app/
+
+8. On The <dl> (2021)
+   Points: 351
+   Comments: 107
+   URL: https://benmyers.dev/blog/on-the-dl/
+
+9. Green card seekers must leave U.S. to apply, Trump administration says
+   Points: 573
+   Comments: 988
+   URL: https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html
+
+10. Byrne's Euclid
+   Points: 18
+   Comments: 4
+   URL: https://www.c82.net/euclid/
+
+11. Judson's Last Ride
+   Points: 31
+   Comments: 1
+   URL: https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html
+
+12. Show HN: Anyone interested in a tool helps to explore C++ ASTs
+   Points: 16
+   Comments: 2
+   URL: https://uvic-aurora.github.io/acav-manual/index.html
+
+13. .NET (OK, C#) finally gets union types
+   Points: 138
+   Comments: 124
+   URL: https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/
+
+14. Hengefinder: Finding when the sun aligns with your street
+   Points: 112
+   Comments: 26
+   URL: https://victoriaritvo.com/blog/hengefinder/
+
+15. SpaceX launches Starship v3 rocket
+   Points: 364
+   Comments: 235
+   URL: https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight
+
+16. New map reveals lost roads of the Roman Empire
+   Points: 44
+   Comments: 6
+   URL: https://www.scientificamerican.com/article/new-high-resolution-map-transforms-what-we-know-about-roman-roads-and-the-roman-empire/
+
+17. Reverse engineering circuitry in a Spacelab computer from 1980
+   Points: 82
+   Comments: 17
+   URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html
+
+18. 80386 microcode disassembled
+   Points: 220
+   Comments: 43
+   URL: https://www.reenigne.org/blog/80386-microcode-disassembled/
+
+19. Don't Roll Your Own
+   Points: 83
+   Comments: 67
+   URL: https://susam.net/do-not-roll-your-own.html
+
+20. The Art of Money Getting
+   Points: 199
+   Comments: 131
+   URL: https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/
+
