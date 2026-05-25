@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-25
+==================================================
+
+1. Show HN: Audiomass – a free, open-source multitrack audio editor for the web
+   Points: 161
+   Comments: 40
+   URL: https://audiomass.co/?multitrack=1
+
+2. DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost
+   Points: 444
+   Comments: 199
+   URL: https://esengine.github.io/DeepSeek-Reasonix/
+
+3. A fundamental principle of aeronautical engineering has been overturned
+   Points: 63
+   Comments: 31
+   URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/
+
+4. Memory has grown to nearly two-thirds of AI chip component costs
+   Points: 297
+   Comments: 318
+   URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares
+
+5. I spent 50 hours drawing a line graph
+   Points: 445
+   Comments: 74
+   URL: https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html
+
+6. Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
+   Points: 178
+   Comments: 87
+   URL: https://arxiv.org/abs/2605.06445
+
+7. Using HTTP/2 Cleartext for a server in Go 1.24
+   Points: 60
+   Comments: 6
+   URL: https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run
+
+8. 1k-year-old dingo bones show that it was injured, cared for, and ritually buried
+   Points: 24
+   Comments: 1
+   URL: https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/
+
+9. Defeating Git Rigour Fatigue with Jujutsu
+   Points: 96
+   Comments: 88
+   URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/
+
+10. Microsoft open-sources “the earliest DOS source code discovered to date”
+   Points: 428
+   Comments: 149
+   URL: https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/
+
+11. Mastering Dyalog APL
+   Points: 127
+   Comments: 36
+   URL: https://mastering.dyalog.com/README.html
+
+12. Noroboto: Lying Fonts and Mitigation in Rust
+   Points: 60
+   Comments: 26
+   URL: https://tritium.legal/blog/noroboto
+
+13. Build Adafruit projects right from Firefox
+   Points: 115
+   Comments: 34
+   URL: https://www.firefox.com/en-US/landing/adafruit/
+
+14. Scientists solve 200-year-old puzzle of how tobacco plants make nicotine
+   Points: 42
+   Comments: 16
+   URL: https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/
+
+15. Greg Brockman interview [video]
+   Points: 177
+   Comments: 175
+   URL: https://fs.blog/knowledge-project-podcast/greg-brockman/
+
+16. Getting an old Computer online with Android Ethernet tethering
+   Points: 35
+   Comments: 15
+   URL: https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/
+
+17. Scammers are abusing an internal Microsoft account to send spam links
+   Points: 268
+   Comments: 149
+   URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/
+
+18. White Rabbit – sub-nanosecond synchronization for large distributed systems
+   Points: 3
+   Comments: 0
+   URL: https://ohwr.org/projects/white-rabbit/
+
+19. Childhood Computing
+   Points: 160
+   Comments: 87
+   URL: https://susam.net/childhood-computing.html
+
+20. LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years
+   Points: 53
+   Comments: 7
+   URL: https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/
+
