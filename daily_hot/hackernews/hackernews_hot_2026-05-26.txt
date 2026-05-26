@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-26
+==================================================
+
+1. Using AI to write better code more slowly
+   Points: 149
+   Comments: 45
+   URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
+
+2. Does Anybody Actually Like React?
+   Points: 11
+   Comments: 2
+   URL: https://jsx.lol
+
+3. Norway's 2 petabytes of Huawei flash storage and LLM training
+   Points: 164
+   Comments: 76
+   URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910
+
+4. Taking a walk may lead to more creativity than sitting, study finds (2014)
+   Points: 57
+   Comments: 32
+   URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk
+
+5. Exit IP VPN servers mitigation rollout
+   Points: 268
+   Comments: 43
+   URL: https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout
+
+6. How Shamir's Secret Sharing Works
+   Points: 44
+   Comments: 6
+   URL: https://ente.com/blog/how-shamirs-secret-sharing-works/
+
+7. Ferrari Luce
+   Points: 66
+   Comments: 181
+   URL: https://www.ferrari.com/en-EN/auto/ferrari-luce
+
+8. California moves to exempt Linux from its age-verification law after backlash
+   Points: 659
+   Comments: 292
+   URL: https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law
+
+9. Squares in Squares
+   Points: 24
+   Comments: 1
+   URL: https://kingbird.myphotos.cc/packing/squares_in_squares.html
+
+10. Browser-based file encryption tool using WebCrypto
+   Points: 4
+   Comments: 0
+   URL: https://secvant.com/
+
+11. Hacker News front page as a site
+   Points: 119
+   Comments: 44
+   URL: https://thefrontpage.dev/
+
+12. Toshifumi Suzuki, founder of Seven-Eleven Japan, has died
+   Points: 127
+   Comments: 53
+   URL: https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html
+
+13. Show HN: Write your BPF programs in Go, not C
+   Points: 60
+   Comments: 30
+   URL: https://github.com/boratanrikulu/gobee
+
+14. Magnifica Humanitas
+   Points: 1342
+   Comments: 756
+   URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html
+
+15. Nobody cracks open a programming book anymore
+   Points: 89
+   Comments: 113
+   URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/
+
+16. CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude
+   Points: 66
+   Comments: 23
+   URL: https://support.apple.com/en-us/127115
+
+17. Show HN: OpenBrief – Local-first video downloader/summarizer
+   Points: 31
+   Comments: 3
+   URL: https://github.com/tantara/openbrief
+
+18. Microsoft Copilot Cowork Exfiltrates Files
+   Points: 189
+   Comments: 38
+   URL: https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files
+
+19. Performance of Rust Language [pdf]
+   Points: 11
+   Comments: 1
+   URL: https://github.com/yugr/rust-slides/
+
+20. Agentic Patterns
+   Points: 15
+   Comments: 4
+   URL: https://veso.ai/research/agentic-patterns/
+
