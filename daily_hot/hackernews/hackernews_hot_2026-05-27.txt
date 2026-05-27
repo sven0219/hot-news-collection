@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-27
+==================================================
+
+1. Erin Brockovich made a map to track data centers around the country
+   Points: 75
+   Comments: 60
+   URL: https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/
+
+2. Chemistry behind the Garden Grove chemical tank
+   Points: 227
+   Comments: 87
+   URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank
+
+3. AI Tools Are Only as Good as Your Judgment – and That's the Point
+   Points: 26
+   Comments: 12
+   URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html
+
+4. Cloudflare Flagship
+   Points: 65
+   Comments: 29
+   URL: https://developers.cloudflare.com/flagship/
+
+5. Stripe is friendly to "friendly fraud"
+   Points: 76
+   Comments: 22
+   URL: https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/
+
+6. A few interesting modern pixel fonts
+   Points: 256
+   Comments: 54
+   URL: https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/
+
+7. I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline
+   Points: 170
+   Comments: 41
+   URL: https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/
+
+8. A portentous reunion
+   Points: 49
+   Comments: 20
+   URL: https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/
+
+9. Big tech's anti-labor playbook has come for Wikipedia
+   Points: 304
+   Comments: 154
+   URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943
+
+10. C array types are weird
+   Points: 57
+   Comments: 29
+   URL: https://anselmschueler.com/blogposts/2025-c-pointers/
+
+11. Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence
+   Points: 782
+   Comments: 359
+   URL: https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/
+
+12. Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop
+   Points: 128
+   Comments: 32
+   URL: https://github.com/logannye/rosalind
+
+13. Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95
+   Points: 39
+   Comments: 7
+   URL: https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/
+
+14. The Steinwinter Supercargo
+   Points: 46
+   Comments: 12
+   URL: https://www.thedrive.com/article/12603/the-forgotten-steinwinter-supercargo-is-unlike-anything-on-the-road-today
+
+15. Xiaomi MiMo-v2.5 price drops 99% – AI pricing war
+   Points: 14
+   Comments: 3
+   URL: https://platform.xiaomimimo.com/docs/en-US/welcome
+
+16. Launch HN: Minicor (YC P26) – Windows desktop automations at scale
+   Points: 73
+   Comments: 47
+   URL: https://www.minicor.com/
+
+17. The OSS Sabotage Manual Became Corporate Best Practice
+   Points: 7
+   Comments: 2
+   URL: https://www.alephic.com/sabotage
+
+18. Liverpool and Manchester Railway
+   Points: 13
+   Comments: 2
+   URL: https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway
+
+19. Dropbox CEO Drew Houston to step down
+   Points: 298
+   Comments: 329
+   URL: https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html
+
+20. The real cost of owning a home
+   Points: 292
+   Comments: 641
+   URL: https://ericturner.dev/posts/cost-of-home-ownership/
+
