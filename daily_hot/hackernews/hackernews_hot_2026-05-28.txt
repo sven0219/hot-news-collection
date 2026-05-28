@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-28
+==================================================
+
+1. Can we have the day off?
+   Points: 284
+   Comments: 184
+   URL: https://mlsu.io/posts/day-off/
+
+2. YouTube to automatically label AI-generated videos
+   Points: 544
+   Comments: 323
+   URL: https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/
+
+3. I think Anthropic and OpenAI have found product-market fit
+   Points: 656
+   Comments: 798
+   URL: https://simonwillison.net/2026/May/27/product-market-fit/
+
+4. What Apple and Google are doing to push notifications
+   Points: 179
+   Comments: 183
+   URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications
+
+5. SimCity 3k in 4k (2025)
+   Points: 286
+   Comments: 107
+   URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html
+
+6. A New Typst Template for Pandoc
+   Points: 35
+   Comments: 2
+   URL: https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/
+
+7. Rust (and Slint) on a Jailbroken Kindle
+   Points: 105
+   Comments: 11
+   URL: https://sverre.me/blog/rust-on-kindle/
+
+8. The Ask
+   Points: 10
+   Comments: 2
+   URL: https://randsinrepose.com/archives/the-ask/
+
+9. I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)
+   Points: 69
+   Comments: 21
+   URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/
+
+10. DuckDuckGo search saw 28% more visits after Google said people love AI mode
+   Points: 674
+   Comments: 335
+   URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/
+
+11. FBI Arrests CIA Official with $40M in Gold Bars in His Home
+   Points: 79
+   Comments: 40
+   URL: https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html
+
+12. Pelica (YC P25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer
+
+13. Interleaved Deltas
+   Points: 32
+   Comments: 0
+   URL: https://mmapped.blog/posts/51-interleaved-deltas
+
+14. On Labubu and the Hyperreal
+   Points: 70
+   Comments: 78
+   URL: https://2earth.github.io/website/20260525.html
+
+15. Go: Support for Generic Methods
+   Points: 192
+   Comments: 145
+   URL: https://github.com/golang/go/issues/77273
+
+16. Incident with Pull Requests, Issues, Git Operations and API Requests
+   Points: 261
+   Comments: 193
+   URL: https://www.githubstatus.com/incidents/xy1tt3hs572m
+
+17. Canada to order military plane fleet from Sweden in shift from US suppliers
+   Points: 413
+   Comments: 302
+   URL: https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft
+
+18. Last.fm is now independent
+   Points: 630
+   Comments: 177
+   URL: https://support.last.fm/t/last-fm-is-now-independent/118591
+
+19. Mini Micro Fantasy Computer
+   Points: 233
+   Comments: 80
+   URL: https://miniscript.org/MiniMicro/index.html#about
+
+20. Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS
+   Points: 91
+   Comments: 46
+   URL: https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/
+
