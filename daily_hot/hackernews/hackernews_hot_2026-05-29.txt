@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-29
+==================================================
+
+1. Claude Opus 4.8
+   Points: 1240
+   Comments: 1007
+   URL: https://www.anthropic.com/news/claude-opus-4-8
+
+2. Bricks and Minifigs Stole a Man's $200k Lego Collection
+   Points: 612
+   Comments: 337
+   URL: https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection
+
+3. I made a million dollar product from my dorm room (2025)
+   Points: 189
+   Comments: 25
+   URL: https://nick.winans.io/blog/nice-nano/
+
+4. Nitpicking the shell history scene in 'Tron: Legacy'
+   Points: 156
+   Comments: 59
+   URL: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/
+
+5. Garnix (A Nix CI) is shutting down
+   Points: 33
+   Comments: 12
+   URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895
+
+6. Ten Basic Clouds
+   Points: 36
+   Comments: 12
+   URL: https://www.noaa.gov/jetstream/clouds/ten-basic-clouds
+
+7. Where are the economies of scale in homebuilding?
+   Points: 20
+   Comments: 8
+   URL: https://www.construction-physics.com/p/where-are-the-economies-of-scale
+
+8. I hated writing until I learned there’s a science to it (2024)
+   Points: 141
+   Comments: 62
+   URL: https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it
+
+9. SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims
+   Points: 79
+   Comments: 22
+   URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/
+
+10. Building durable workflows on Postgres
+   Points: 271
+   Comments: 115
+   URL: https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution
+
+11. News about Raspberry Pi 6 and Microcontroller Development
+   Points: 146
+   Comments: 111
+   URL: https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/
+
+12. Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml
+   Points: 94
+   Comments: 14
+   URL: https://coalton-lang.github.io/
+
+13. Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue
+   Points: 242
+   Comments: 111
+   URL: https://llmgame.scalex.dev
+
+14. GitHub bans security researcher who posted zero-day Windows exploits
+   Points: 173
+   Comments: 84
+   URL: https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation
+
+15. Some Like It Literary
+   Points: 10
+   Comments: 1
+   URL: https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html
+
+16. The Permanent Upper Crow
+   Points: 150
+   Comments: 62
+   URL: https://permanent-upper-crow.jasonwu.ink/
+
+17. The most unlikely school bag
+   Points: 85
+   Comments: 26
+   URL: https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/
+
+18. Various LLM Smells
+   Points: 229
+   Comments: 166
+   URL: https://shvbsle.in/various-llm-smells/
+
+19. Indoor Wi-Fi Roaming with OpenWRT
+   Points: 208
+   Comments: 107
+   URL: https://taoofmac.com/space/blog/2026/05/26/1730
+
+20. Bitburner, programming-based incremental game
+   Points: 80
+   Comments: 15
+   URL: https://bitburner-official.github.io/
+
