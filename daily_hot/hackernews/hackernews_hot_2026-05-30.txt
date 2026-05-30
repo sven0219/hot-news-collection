@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-30
+==================================================
+
+1. SQLite is all you need for durable workflows
+   Points: 358
+   Comments: 204
+   URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
+
+2. The dead economy theory
+   Points: 703
+   Comments: 881
+   URL: https://www.owenmcgrann.com/p/the-dead-economy-theory
+
+3. Snowboard Kids 2 is 100% Decompiled
+   Points: 54
+   Comments: 13
+   URL: https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/
+
+4. MCP is dead?
+   Points: 84
+   Comments: 68
+   URL: https://www.quandri.io/engineering-blog/mcp-is-dead
+
+5. Notes from the Mistral AI Now Summit
+   Points: 311
+   Comments: 110
+   URL: https://koenvangilst.nl/lab/mistral-ai-now-summit
+
+6. Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer
+   Points: 78
+   Comments: 2
+   URL: https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/
+
+7. Shift will clean homes for free to train future robots
+   Points: 85
+   Comments: 116
+   URL: https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning
+
+8. It's hard to justify buying a Framework 12
+   Points: 226
+   Comments: 384
+   URL: https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/
+
+9. You can just say it
+   Points: 218
+   Comments: 98
+   URL: https://noperator.dev/posts/you-can-just-say-it/
+
+10. Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA
+   Points: 84
+   Comments: 7
+   URL: https://github.com/jmaczan/tiny-vllm
+
+11. Bijou64: A variable-length integer encoding
+   Points: 208
+   Comments: 74
+   URL: https://www.inkandswitch.com/tangents/bijou64/
+
+12. Liquid AI reveals 8B-A1B MoE trained on 38T
+   Points: 152
+   Comments: 52
+   URL: https://www.liquid.ai/blog/lfm2-5-8b-a1b
+
+13. On Rendering Diffs
+   Points: 141
+   Comments: 43
+   URL: https://pierre.computer/writing/on-rendering-diffs
+
+14. What Is a Dickover?
+   Points: 92
+   Comments: 36
+   URL: https://daringfireball.net/2026/05/what_is_a_dickover
+
+15. Ember.js 7.0
+   Points: 12
+   Comments: 2
+   URL: https://blog.emberjs.com/ember-released-7-0/
+
+16. Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM
+   Points: 473
+   Comments: 669
+   URL: https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
+
+17. Is AI causing a repeat of frontend’s lost decade?
+   Points: 292
+   Comments: 247
+   URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/
+
+18. Free full BGP feed. IPv4 and IPv6
+   Points: 24
+   Comments: 7
+   URL: https://lukasz.bromirski.net/post/bgp-w-labie-3/
+
+19. The California state assembly has passed the 'Protect Our Games Act'
+   Points: 184
+   Comments: 188
+   URL: https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill
+
+20. The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin
+   Points: 106
+   Comments: 94
+   URL: https://minimaxir.com/2026/05/openrouter-hy3/
+
