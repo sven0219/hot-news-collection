@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-05-31
+==================================================
+
+1. Microsoft degrades functionality of perpetually-licensed offline products
+   Points: 384
+   Comments: 123
+   URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)
+
+2. Domain expertise has always been the real moat
+   Points: 301
+   Comments: 188
+   URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
+
+3. I found a seashell in the middle of the desert
+   Points: 225
+   Comments: 64
+   URL: https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert
+
+4. Shantell Sans
+   Points: 82
+   Comments: 8
+   URL: https://shantellsans.com/process
+
+5. Accenture to acquire Ookla
+   Points: 243
+   Comments: 125
+   URL: https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises
+
+6. wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack
+   Points: 67
+   Comments: 12
+   URL: https://github.com/wolfSSL/wolfCOSE
+
+7. Jef Raskin, the Visionary Behind the Mac (2013)
+   Points: 74
+   Comments: 36
+   URL: https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/
+
+8. Cheese Paper: a text editor specifically designed for writing
+   Points: 52
+   Comments: 9
+   URL: https://brie.gay/cheese-paper/
+
+9. Zig ELF Linker Improvements Devlog
+   Points: 173
+   Comments: 50
+   URL: https://ziglang.org/devlog/2026/#2026-05-30
+
+10. Voxel Space (2017)
+   Points: 252
+   Comments: 56
+   URL: https://s-macke.github.io/VoxelSpace/
+
+11. Parallel Reconstruction of Lawful TLS Wiretapping
+   Points: 58
+   Comments: 29
+   URL: https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/
+
+12. OpenRouter raises $113M Series B
+   Points: 362
+   Comments: 180
+   URL: https://openrouter.ai/announcements/series-b
+
+13. Openrsync: An implementation of rsync, by the OpenBSD team
+   Points: 323
+   Comments: 141
+   URL: https://github.com/kristapsdz/openrsync
+
+14. Dusklight – GC Twilight Princess Decompiled
+   Points: 67
+   Comments: 6
+   URL: https://twilitrealm.dev/
+
+15. Racket v9.2 is now available
+   Points: 18
+   Comments: 1
+   URL: https://blog.racket-lang.org/2026/05/racket-v9-2.html
+
+16. Design Engineering Magazine
+   Points: 61
+   Comments: 5
+   URL: https://interfaces.dev/
+
+17. Show HN: 500 years of Joseon court omens as an observability dashboard
+   Points: 79
+   Comments: 12
+   URL: https://ajin.im/is/building/omen.ops/
+
+18. Microcode inside the Intel 8087 floating-point chip: register exchange
+   Points: 87
+   Comments: 16
+   URL: https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html
+
+19. Gustav Klimt and Egon Schiele in Conversation (2018)
+   Points: 18
+   Comments: 3
+   URL: https://www.theparisreview.org/blog/2018/01/31/the-drawings-of-klimt-and-schiele/
+
+20. Pandoc Templates
+   Points: 363
+   Comments: 48
+   URL: https://pandoc-templates.org/
+
