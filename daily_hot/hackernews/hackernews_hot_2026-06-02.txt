@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-02
+==================================================
+
+1. The newest Instagram “exploit” is the goofiest I've seen
+   Points: 1378
+   Comments: 332
+   URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco
+
+2. Can the stockmarket swallow Anthropic, SpaceX and OpenAI?
+   Points: 98
+   Comments: 186
+   URL: https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai
+
+3. macOS needs its grid back
+   Points: 37
+   Comments: 19
+   URL: https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/
+
+4. OpenAI frontier models and Codex are now available on AWS
+   Points: 148
+   Comments: 50
+   URL: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/
+
+5. Debug Project
+   Points: 156
+   Comments: 71
+   URL: https://debug.com/
+
+6. How is Groq raising more money?
+   Points: 13
+   Comments: 2
+   URL: https://www.zach.be/p/how-the-hell-is-groq-raising-more
+
+7. Chipotlai Max
+   Points: 51
+   Comments: 9
+   URL: https://github.com/cyberpapiii/chipotlai-max
+
+8. AI Agent Guidelines for CS336 at Stanford
+   Points: 332
+   Comments: 118
+   URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md
+
+9. Crystal Nights (2008)
+   Points: 8
+   Comments: 0
+   URL: https://www.gregegan.net/MISC/CRYSTAL/Crystal.html
+
+10. Squillions: How Money Laundering Won
+   Points: 14
+   Comments: 2
+   URL: https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions
+
+11. CS336: Language Modeling from Scratch
+   Points: 368
+   Comments: 43
+   URL: https://cs336.stanford.edu/
+
+12. A new way to build chips: Sequentially stacking silicon to extend Moore's Law
+   Points: 23
+   Comments: 5
+   URL: https://matse.illinois.edu/news/85775
+
+13. Should you normalize RGB values by 255 or 256?
+   Points: 199
+   Comments: 86
+   URL: https://30fps.net/pages/255-vs-256-division/
+
+14. GrapheneOS Speech Services version 2 released
+   Points: 100
+   Comments: 16
+   URL: https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released
+
+15. What appear to be biochemical processes may be a natural feature of geology
+   Points: 197
+   Comments: 65
+   URL: https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/
+
+16. Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra
+   Points: 151
+   Comments: 357
+   URL: https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/
+
+17. Constant Q Transform – A Visual Guide
+   Points: 8
+   Comments: 0
+   URL: https://brendanjameslynskey.github.io/ConstantQ-Transform/
+
+18. Nvidia RTX Spark
+   Points: 338
+   Comments: 333
+   URL: https://www.nvidia.com/en-us/products/rtx-spark/
+
+19. Anyone seen a CC- serial prefix on legacy networking hardware?
+   Points: 9
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=48342117
+
+20. Age verification for social media, the beginning of the end for a free internet?
+   Points: 101
+   Comments: 55
+   URL: https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet
+
