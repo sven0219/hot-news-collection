@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-03
+==================================================
+
+1. Use your Nvidia GPU's VRAM as swap space on Linux
+   Points: 144
+   Comments: 43
+   URL: https://github.com/c0dejedi/nbd-vram
+
+2. MAI-Code-1-Flash
+   Points: 396
+   Comments: 178
+   URL: https://microsoft.ai/news/introducingmai-code-1-flash/
+
+3. CT scans of BYD car parts
+   Points: 244
+   Comments: 92
+   URL: https://www.lumafield.com/scan-of-the-month/byd
+
+4. Are blue zones real? Answering that question is harder then ever
+   Points: 28
+   Comments: 15
+   URL: https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/
+
+5. My thoughts after using Clojure for about a month
+   Points: 116
+   Comments: 72
+   URL: https://www.acdw.net/clojure/
+
+6. AI outperforms law professors in Stanford Law study
+   Points: 106
+   Comments: 105
+   URL: https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/
+
+7. Gmail thinks I'm stupid, so I left
+   Points: 647
+   Comments: 401
+   URL: https://moddedbear.com/gmail-thinks-im-stupid-so-i-left
+
+8. 4K years ago, Mohenjo-daro grew more equal over time
+   Points: 50
+   Comments: 24
+   URL: https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/
+
+9. A walking tour of surveillance infrastructure in Seattle (2020)
+   Points: 378
+   Comments: 251
+   URL: https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/
+
+10. HP re-releases classic computer science calculator: The HP-16C
+   Points: 128
+   Comments: 79
+   URL: https://hpcalcs.com/product/hp-16c-collectors-edition/
+
+11. Open Repair Data Standard – Open Repair Alliance
+   Points: 100
+   Comments: 3
+   URL: https://openrepair.org/open-data/open-standard/
+
+12. How we index images for RAG
+   Points: 92
+   Comments: 14
+   URL: https://www.kapa.ai/blog/how-we-index-images-for-rag
+
+13. Pluto.jl 1.0 release – reactive notebook for Julia
+   Points: 15
+   Comments: 0
+   URL: https://discourse.julialang.org/t/pluto-1-0-release/137296
+
+14. More than 6 out of 10 people turn to AI for psychological support
+   Points: 58
+   Comments: 48
+   URL: https://www.axa.com/en/press/press-releases/2026-mind-health-report
+
+15. Trump signs downsized AI order after weeks of reversals
+   Points: 178
+   Comments: 127
+   URL: https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389
+
+16. OpenFOV – Webcam head tracking for iRacing
+   Points: 90
+   Comments: 50
+   URL: https://www.openfov.com/
+
+17. Multicore suppport for DOS is real – partly
+   Points: 63
+   Comments: 10
+   URL: https://www.vogons.org/viewtopic.php?t=111336
+
+18. Roku LT Operating System open source distribution
+   Points: 7
+   Comments: 4
+   URL: https://blog.roku.com/developer/roku-lt-os
+
+19. Love systemd timers
+   Points: 354
+   Comments: 229
+   URL: https://blog.tjll.net/you-dont-love-systemd-timers-enough/
+
+20. Expanding Project Glasswing
+   Points: 160
+   Comments: 211
+   URL: https://www.anthropic.com/news/expanding-project-glasswing
+
