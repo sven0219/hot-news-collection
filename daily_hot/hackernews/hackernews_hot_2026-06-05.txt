@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-05
+==================================================
+
+1. Meta enables adb on deprecated Portal devices
+   Points: 57
+   Comments: 12
+   URL: https://fb.watch/HxPu0fSyeH/
+
+2. Do transformers need three projections? Systematic study of QKV variants
+   Points: 97
+   Comments: 14
+   URL: https://arxiv.org/abs/2606.04032
+
+3. Anthropic's open-source framework for AI-powered vulnerability discovery
+   Points: 273
+   Comments: 94
+   URL: https://github.com/anthropics/defending-code-reference-harness
+
+4. Open Code Review – An AI-powered code review CLI tool
+   Points: 41
+   Comments: 7
+   URL: https://github.com/alibaba/open-code-review
+
+5. VoidZero Is Joining Cloudflare
+   Points: 578
+   Comments: 258
+   URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/
+
+6. Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux"
+   Points: 23
+   Comments: 2
+   URL: https://github.com/tarpediem/zenvision-linux
+
+7. When AI Builds Itself: Our progress toward recursive self-improvement
+   Points: 337
+   Comments: 447
+   URL: https://www.anthropic.com/institute/recursive-self-improvement
+
+8. Branchless Quicksort faster than std:sort and pdqsort with C and C++ API
+   Points: 93
+   Comments: 14
+   URL: https://tiki.li/blog/blqsort
+
+9. Ian's Secure Shoelace Knot
+   Points: 511
+   Comments: 195
+   URL: https://www.fieggen.com/shoelace/secureknot.htm
+
+10. I'm skeptical about efforts to revolutionize schooling
+   Points: 59
+   Comments: 108
+   URL: https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/
+
+11. Queen bees emerge from special wax chambers
+   Points: 48
+   Comments: 4
+   URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06
+
+12. KVarN: Native vLLM backend for KV-cache quantization by Huawei
+   Points: 114
+   Comments: 12
+   URL: https://github.com/huawei-csl/KVarN
+
+13. IPv6 zones in URLs are a mistake
+   Points: 90
+   Comments: 70
+   URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/
+
+14. Retro-Tech Parenting
+   Points: 252
+   Comments: 172
+   URL: https://havenweb.org/2026/05/28/retro-tech.html
+
+15. WSL 2 is getting faster Windows file system access
+   Points: 70
+   Comments: 47
+   URL: https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/
+
+16. Show HN: Mercek – A Desktop IDE for AWS ECS
+   Points: 28
+   Comments: 7
+   URL: https://www.mercek.dev/
+
+17. Samurai City
+   Points: 102
+   Comments: 15
+   URL: https://worksinprogress.co/issue/samurai-city/
+
+18. Castor: CERN Advanced STORage Manager
+   Points: 43
+   Comments: 18
+   URL: https://castor.web.cern.ch/content/home.html
+
+19. JLink JTAG Access on the Pinecil
+   Points: 39
+   Comments: 7
+   URL: https://danielmangum.com/posts/jlink-jtag-pinecil/
+
+20. Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate
+   Points: 13
+   Comments: 0
+   URL: https://arxiv.org/abs/2604.24881
+
