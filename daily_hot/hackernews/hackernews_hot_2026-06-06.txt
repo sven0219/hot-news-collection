@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-06
+==================================================
+
+1. The intracies of modern camera lens repair (2024)
+   Points: 42
+   Comments: 3
+   URL: https://salvagedcircuitry.com/sigma-45mm.html
+
+2. Astronauts told to return to ISS after sheltering over air leak repairs
+   Points: 360
+   Comments: 233
+   URL: https://www.bbc.com/news/live/c4g44ew3g1kt
+
+3. pg_durable: Microsoft open sources in-database durable execution
+   Points: 328
+   Comments: 78
+   URL: https://github.com/microsoft/pg_durable
+
+4. Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency
+   Points: 271
+   Comments: 86
+   URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/
+
+5. New method turns ocean water into drinking water, without waste
+   Points: 257
+   Comments: 116
+   URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/
+
+6. Show HN: ABC Classic 100 Rankings visualised
+   Points: 8
+   Comments: 2
+   URL: https://classic100.gotski.workers.dev/
+
+7. Mouseless – keyboard-driven control of macOS/Linux/Windows
+   Points: 455
+   Comments: 191
+   URL: https://mouseless.click
+
+8. Did Claude increase bugs in rsync?
+   Points: 307
+   Comments: 314
+   URL: https://alexispurslane.github.io/rsync-analysis/
+
+9. My Agent Skill for Test-Driven Development
+   Points: 133
+   Comments: 53
+   URL: https://www.saturnci.com/my-agent-skill-for-test-driven-development.html
+
+10. Gov.uk has replaced Stripe with Dutch provider Adyen
+   Points: 359
+   Comments: 125
+   URL: https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763
+
+11. The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography
+   Points: 65
+   Comments: 66
+   URL: https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/
+
+12. Conventional Commits encourages focus on the wrong things
+   Points: 267
+   Comments: 209
+   URL: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/
+
+13. Ask HN: What was your "oh shit" moment with GenAI?
+   Points: 168
+   Comments: 398
+   URL: https://news.ycombinator.com/item?id=48406174
+
+14. Transformers are inherently succinct
+   Points: 90
+   Comments: 31
+   URL: https://openreview.net/pdf?id=Yxz92UuPLQ
+
+15. Nordstjernen Web Browser 1.0.0 released
+   Points: 9
+   Comments: 0
+   URL: https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0
+
+16. I tested every IP KVM in my Homelab
+   Points: 242
+   Comments: 66
+   URL: https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/
+
+17. Launch HN: General Instinct (YC P26) – Frontier models on edge devices
+   Points: 46
+   Comments: 14
+   URL: https://news.ycombinator.com/item?id=48414869
+
+18. India's surprise baby bust
+   Points: 134
+   Comments: 591
+   URL: https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world
+
+19. Cooldown Support for Ruby Bundler
+   Points: 144
+   Comments: 39
+   URL: https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html
+
+20. "Maybe later" was a feature
+   Points: 78
+   Comments: 26
+   URL: https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/
+
