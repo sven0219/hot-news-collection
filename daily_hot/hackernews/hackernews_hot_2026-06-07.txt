@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-07
+==================================================
+
+1. An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World
+   Points: 35
+   Comments: 15
+   URL: https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight
+
+2. Ntsc-rs – open-source video emulation of analog TV and VHS artifacts
+   Points: 279
+   Comments: 66
+   URL: https://ntsc.rs/
+
+3. Harness engineering: Leveraging Codex in an agent-first world
+   Points: 78
+   Comments: 38
+   URL: https://openai.com/index/harness-engineering/
+
+4. Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved
+   Points: 38
+   Comments: 3
+   URL: https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06
+
+5. Public Domain Image Archive
+   Points: 23
+   Comments: 4
+   URL: https://pdimagearchive.org/
+
+6. Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering
+   Points: 10
+   Comments: 0
+   URL: https://arxiv.org/abs/2601.14470
+
+7. Moving beyond fork() + exec()
+   Points: 259
+   Comments: 263
+   URL: https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/
+
+8. Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot
+   Points: 446
+   Comments: 160
+   URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/
+
+9. Zeroserve: A zero-config web server you can script with eBPF
+   Points: 195
+   Comments: 51
+   URL: https://su3.io/posts/introducing-zeroserve
+
+10. Nvidia is proposing a beast of a CPU system for Windows PCs
+   Points: 235
+   Comments: 434
+   URL: https://twitter.com/lemire/status/2062880075117113739
+
+11. Sem: New primitive for code understanding – not LSPs, but entities on top of Git
+   Points: 60
+   Comments: 26
+   URL: https://ataraxy-labs.github.io/sem/
+
+12. Show HN: DomainTasker – avoid losing domains and surprise renewals
+   Points: 10
+   Comments: 6
+   URL: https://domaintasker.com/
+
+13. Unicode Fonts and Tools for X11
+   Points: 18
+   Comments: 5
+   URL: https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html
+
+14. You Can Run
+   Points: 106
+   Comments: 58
+   URL: https://magazine.atavist.com/2026/mccann-cocaine-fugitives
+
+15. Google to pay SpaceX $920M a month for compute capacity at xAI data centers
+   Points: 160
+   Comments: 721
+   URL: https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html
+
+16. Pokemon Emerald Ported to WebAssembly (100k FPS)
+   Points: 280
+   Comments: 80
+   URL: https://pokeemerald.com/
+
+17. Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk
+   Points: 126
+   Comments: 23
+   URL: https://uonr.github.io/poincake/
+
+18. Show HN: Keybench – Scriptable, extensible performance tool for key value stores
+   Points: 9
+   Comments: 0
+   URL: https://github.com/guycipher/keybench
+
+19. Computex 2026: Are We Heading for the Agentic PC Era Yet?
+   Points: 26
+   Comments: 28
+   URL: https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/
+
+20. Ask HN: What was your "oh shit" moment with GenAI?
+   Points: 552
+   Comments: 948
+   URL: https://news.ycombinator.com/item?id=48406174
+
