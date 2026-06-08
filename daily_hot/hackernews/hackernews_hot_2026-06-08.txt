@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-08
+==================================================
+
+1. Teenage Engineering: Introducing APC-2
+   Points: 78
+   Comments: 39
+   URL: https://teenage.engineering/products/apc-2
+
+2. DeepSeek V4 Pro beats GPT-5.5 Pro on precision
+   Points: 43
+   Comments: 4
+   URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision
+
+3. The Smallest Brain You Can Build: A Perceptron in Python
+   Points: 59
+   Comments: 8
+   URL: https://ranpara.net/posts/perceptron-explained-from-scratch/
+
+4. Building from zero after addiction, prison, and a felony
+   Points: 431
+   Comments: 195
+   URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
+
+5. New drug 'functionally cures' many hepatitis B virus infections
+   Points: 10
+   Comments: 0
+   URL: https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08
+
+6. Show HN: I Derived a Pancake
+   Points: 131
+   Comments: 41
+   URL: https://www.absurdlyoptimized.com/recipes/pancakes/
+
+7. A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W
+   Points: 42
+   Comments: 3
+   URL: https://github.com/melastmohican/rust-rpico2-embassy-examples
+
+8. Algorithmic Monocultures in Hiring
+   Points: 5
+   Comments: 0
+   URL: https://algorithmichiring.github.io/
+
+9. Making peace with your unlived dreams (2023)
+   Points: 158
+   Comments: 77
+   URL: https://nik.art/making-peace-with-your-unlived-dreams/
+
+10. How's Linear so fast? A technical breakdown
+   Points: 310
+   Comments: 159
+   URL: https://performance.dev/how-is-linear-so-fast-a-technical-breakdown
+
+11. 7.8 magnitude earthquake shakes part of southern Philippines. Tsunami possible
+   Points: 33
+   Comments: 5
+   URL: https://www.yahoo.com/news/weather-news/articles/as--philippines-earthquake-001322726.html
+
+12. What is the purpose of the lost+found folder in Linux and Unix? (2014)
+   Points: 144
+   Comments: 51
+   URL: https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix
+
+13. Do we fear the serializable isolation level more than we fear subtle bugs (2024)
+   Points: 57
+   Comments: 31
+   URL: https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609
+
+14. Powering up a module from the IBM 604: an electronic calculator from 1948
+   Points: 79
+   Comments: 24
+   URL: https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html
+
+15. The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners
+   Points: 368
+   Comments: 88
+   URL: https://www.ioccc.org/2025/
+
+16. Show HN: Lathe – Use LLMs to learn a new domain, not skip past it
+   Points: 249
+   Comments: 48
+   URL: https://github.com/devenjarvis/lathe
+
+17. LLMs are eroding my software engineering career and I don't know what to do
+   Points: 821
+   Comments: 808
+   URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/
+
+18. My automated doubt development process
+   Points: 60
+   Comments: 17
+   URL: https://www.alexself.dev/blog/automated-doubt
+
+19. Firefox Merges Support for Vulkan Video Decoding
+   Points: 75
+   Comments: 10
+   URL: https://www.phoronix.com/news/Firefox-Vulkan-Video-Merged
+
+20. Texas grid flags risks as data centers, crypto sites fail voltage tests
+   Points: 9
+   Comments: 0
+   URL: https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/
+
