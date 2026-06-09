@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-09
+==================================================
+
+1. Apple reveals new AI architecture built around Google Gemini models
+   Points: 334
+   Comments: 316
+   URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
+
+2. Siri AI
+   Points: 414
+   Comments: 362
+   URL: https://www.apple.com/apple-intelligence/
+
+3. Show HN: Performative-UI – A react component library of design tropes
+   Points: 791
+   Comments: 154
+   URL: https://vorpus.github.io/performativeUI/
+
+4. MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second
+   Points: 498
+   Comments: 345
+   URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps
+
+5. Looking Forward to Postgres 19: Query Hints
+   Points: 61
+   Comments: 5
+   URL: https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints
+
+6. Hermes Agent – Open-source AI agent with persistent memory
+   Points: 11
+   Comments: 0
+   URL: https://hermes-agent.org/
+
+7. Anti-social: It's fads, not friends, which now dominate social media feeds
+   Points: 552
+   Comments: 411
+   URL: https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social
+
+8. Apple Core AI Framework
+   Points: 196
+   Comments: 39
+   URL: https://developer.apple.com/documentation/coreai/
+
+9. EU-banned pesticides found in rice, tea and spices
+   Points: 240
+   Comments: 90
+   URL: https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices
+
+10. Show HN: Gitdot – a better GitHub. Open-source, written in Rust
+   Points: 151
+   Comments: 124
+   URL: https://gitdot.io/
+
+11. xAI is looking more like a datacentre REIT than a frontier lab
+   Points: 400
+   Comments: 315
+   URL: https://martinalderson.com/posts/xais-new-rental-business/
+
+12. Why are cells small?
+   Points: 107
+   Comments: 51
+   URL: https://burrito.bio/essays/what-limits-a-cells-size
+
+13. Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]
+   Points: 425
+   Comments: 140
+   URL: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf
+
+14. Ask HN: What are tools you have made for yourself since the advent of AI?
+   Points: 149
+   Comments: 275
+   URL: https://news.ycombinator.com/item?id=48449187
+
+15. FrontierCode
+   Points: 97
+   Comments: 20
+   URL: https://cognition.ai/blog/frontier-code
+
+16. Confidential submission of draft S-1 to the SEC
+   Points: 297
+   Comments: 209
+   URL: https://openai.com/index/openai-submits-confidential-s-1/
+
+17. Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code
+   Points: 102
+   Comments: 44
+   URL: https://intunedhq.com
+
+18. AI is slowing down
+   Points: 397
+   Comments: 419
+   URL: https://www.wheresyoured.at/ai-is-slowing-down/
+
+19. Games Between Programs: The Ruliology of Competition
+   Points: 9
+   Comments: 0
+   URL: https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/
+
+20. Doing something that’s never been done before (2025)
+   Points: 29
+   Comments: 19
+   URL: https://talglobus.com/p/doing-something-thats-never-been-done-before/
+
