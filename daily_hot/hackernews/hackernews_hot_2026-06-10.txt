@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-10
+==================================================
+
+1. macOS Container Machines
+   Points: 159
+   Comments: 68
+   URL: https://github.com/apple/container/blob/main/docs/container-machine.md
+
+2. Claude Fable 5
+   Points: 1808
+   Comments: 1416
+   URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
+
+3. Upcoming breaking changes for npm v12
+   Points: 201
+   Comments: 59
+   URL: https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/
+
+4. RIP software hackathons. Long live the hardware hackathon
+   Points: 60
+   Comments: 14
+   URL: https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/
+
+5. Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks
+   Points: 160
+   Comments: 22
+   URL: https://aarushgupta.io/posts/kan-fpga/
+
+6. Making Graphics Like it's 1993
+   Points: 772
+   Comments: 131
+   URL: https://staniks.github.io/articles/catlantean-3d-blog-1/
+
+7. More Molly Guards
+   Points: 45
+   Comments: 3
+   URL: https://unsung.aresluna.org/more-molly-guards/
+
+8. If Claude Fable stops helping you, you'll never know
+   Points: 509
+   Comments: 244
+   URL: https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html
+
+9. The oldest surviving animated feature film at 100
+   Points: 13
+   Comments: 1
+   URL: https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film
+
+10. What it feels like to work with Mythos
+   Points: 160
+   Comments: 153
+   URL: https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos
+
+11. Grit: Rewriting Git in Rust with agents
+   Points: 74
+   Comments: 92
+   URL: https://blog.gitbutler.com/true-grit
+
+12. It's death
+   Points: 102
+   Comments: 19
+   URL: https://jesseduffield.com/ITS-DEATH/
+
+13. CEOs who think AI replaces their employees are just bad CEOs
+   Points: 438
+   Comments: 177
+   URL: https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/
+
+14. Launch HN: Transload (YC P26) – Measuring freight items with CCTV
+   Points: 35
+   Comments: 13
+   URL: https://news.ycombinator.com/item?id=48463273
+
+15. Exif Smuggling
+   Points: 61
+   Comments: 23
+   URL: https://github.com/signalblur/exifsmugglingpoc
+
+16. A giant star may have destroyed itself in one of the rarest explosions
+   Points: 165
+   Comments: 25
+   URL: https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html
+
+17. Test-case reducers are underappreciated debugging tools
+   Points: 89
+   Comments: 11
+   URL: https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html
+
+18. OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision
+   Points: 701
+   Comments: 122
+   URL: https://opencv.org/opencv-5/
+
+19. Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]
+   Points: 334
+   Comments: 280
+   URL: https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf
+
+20. German ruling declares Google liable for false answers in AI Overviews
+   Points: 17
+   Comments: 2
+   URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
+
