@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-11
+==================================================
+
+1. AI agent runs amok in Fedora and elsewhere
+   Points: 118
+   Comments: 20
+   URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
+
+2. Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable
+   Points: 241
+   Comments: 230
+   URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
+
+3. πFS
+   Points: 537
+   Comments: 137
+   URL: https://github.com/philipl/pifs
+
+4. A Written Language for the Cherokee So Efficient It Was Thought to Be Magic
+   Points: 108
+   Comments: 62
+   URL: https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/
+
+5. Anthropic requires 30 day data retention for Fable and Mythos
+   Points: 207
+   Comments: 89
+   URL: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
+
+6. Vacuum-Form Signage
+   Points: 17
+   Comments: 2
+   URL: https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting
+
+7. Klondike Solitaire game for curses in 5k of C
+   Points: 18
+   Comments: 0
+   URL: https://nanochess.org/klondike_in_c.html
+
+8. I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA
+   Points: 537
+   Comments: 431
+   URL: https://news.ycombinator.com/item?id=48477135
+
+9. How JPL keeps the 13-year-old Curiosity rover doing science
+   Points: 177
+   Comments: 38
+   URL: https://spectrum.ieee.org/curiosity-rover-jpl-mars-science
+
+10. PgDog is funded and coming to a database near you
+   Points: 393
+   Comments: 199
+   URL: https://pgdog.dev/blog/our-funding-announcement
+
+11. L'Affaire Siloxane
+   Points: 160
+   Comments: 25
+   URL: https://mceglowski.substack.com/p/laffaire-siloxane
+
+12. GeoLibre 1.0
+   Points: 163
+   Comments: 11
+   URL: https://geolibre.app/
+
+13. What is it like to be a bat? (1974) [pdf]
+   Points: 66
+   Comments: 57
+   URL: https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf
+
+14. Show HN: Extend UI – open-source UI kit for modern document apps
+   Points: 158
+   Comments: 40
+   URL: https://www.extend.ai/ui
+
+15. Raspberry Pi 5 – 16GB RAM
+   Points: 177
+   Comments: 199
+   URL: https://www.adafruit.com/product/6125?src=raspberrypi
+
+16. Deficient executive control in transformer attention
+   Points: 18
+   Comments: 4
+   URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838
+
+17. Who's the smartest corvid?
+   Points: 73
+   Comments: 60
+   URL: https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/
+
+18. Farmer donates land for a park, city sells it for $10M as data center land
+   Points: 432
+   Comments: 227
+   URL: https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade
+
+19. World Capitals Voronoi
+   Points: 42
+   Comments: 19
+   URL: https://www.jasondavies.com/maps/voronoi/capitals/
+
+20. Building an HTML-first site doubled our users overnight
+   Points: 1006
+   Comments: 461
+   URL: https://mohkohn.co.uk/writing/html-first/
+
