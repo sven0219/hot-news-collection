@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-12
+==================================================
+
+1. Nobody ever gets credit for fixing problems that never happened (2001) [pdf]
+   Points: 102
+   Comments: 31
+   URL: https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf
+
+2. Claude Fable is relentlessly proactive
+   Points: 62
+   Comments: 33
+   URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/
+
+3. Show HN: Homebrew 6.0.0
+   Points: 1006
+   Comments: 240
+   URL: https://brew.sh/2026/06/11/homebrew-6.0.0/
+
+4. Show HN: FablePool – pool money behind a prompt, and Fable builds it in public
+   Points: 260
+   Comments: 151
+   URL: https://fablepool.com
+
+5. If you are asking for human attention, demonstrate human effort
+   Points: 293
+   Comments: 81
+   URL: https://tombedor.dev/human-attention-and-human-effort/
+
+6. A greyscale iPhone setup that works in everyday life
+   Points: 42
+   Comments: 25
+   URL: https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life
+
+7. MiMo Code is now released and open-source
+   Points: 427
+   Comments: 246
+   URL: https://mimo.xiaomi.com/mimocode
+
+8. Anthropic apologizes for invisible Claude Fable guardrails
+   Points: 324
+   Comments: 316
+   URL: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
+
+9. Petition to Withdraw Canada's Bill C-22
+   Points: 367
+   Comments: 126
+   URL: https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416
+
+10. A jacket that harvests drinking water from the air
+   Points: 43
+   Comments: 26
+   URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
+
+11. Software is made between commits
+   Points: 206
+   Comments: 161
+   URL: https://zed.dev/blog/introducing-deltadb
+
+12. Emacs appearances in pop culture
+   Points: 266
+   Comments: 73
+   URL: https://ianyepan.github.io/posts/emacs-in-pop-culture/
+
+13. Tailwind and slop apps
+   Points: 41
+   Comments: 21
+   URL: https://briandouglas.ie/llm-tailwind-template/
+
+14. Ear Training Practice
+   Points: 158
+   Comments: 86
+   URL: https://tonedear.com/
+
+15. macOS 27 Beta breaks the ability to boot Asahi Linux
+   Points: 247
+   Comments: 110
+   URL: https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi
+
+16. The RCE that AMD wouldn't fix
+   Points: 227
+   Comments: 99
+   URL: https://mrbruh.com/amd2/
+
+17. Lines of code got a better publicist
+   Points: 362
+   Comments: 248
+   URL: https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/
+
+18. Claude Fable 5: mid-tier results on coding tasks
+   Points: 239
+   Comments: 108
+   URL: https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype
+
+19. Making a vintage LLM from scratch
+   Points: 25
+   Comments: 3
+   URL: https://crlf.link/log/entries/260525-1/
+
+20. Developer gets Half-Life running at 30 FPS on a Nokia N95
+   Points: 221
+   Comments: 72
+   URL: https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95
+
