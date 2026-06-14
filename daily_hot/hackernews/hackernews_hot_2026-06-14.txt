@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-14
+==================================================
+
+1. Noise infusion banned from statistical products published by Census Bureau
+   Points: 748
+   Comments: 470
+   URL: https://desfontain.es/blog/banning-noise.html
+
+2. GLM 5.2 Is Out
+   Points: 376
+   Comments: 210
+   URL: https://twitter.com/jietang/status/2065784751345287314
+
+3. Every Frame Perfect
+   Points: 581
+   Comments: 190
+   URL: https://tonsky.me/blog/every-frame-perfect/
+
+4. Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI
+   Points: 88
+   Comments: 16
+   URL: https://blog.pyodide.org/posts/314-release/
+
+5. Treating pancreatic tumours may have revealed cancer's master switch
+   Points: 308
+   Comments: 109
+   URL: https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch
+
+6. FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language
+   Points: 24
+   Comments: 9
+   URL: https://github.com/kekcleader/FreeOberon
+
+7. 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys
+   Points: 27
+   Comments: 4
+   URL: https://juniperspring.org/posts/honda-evil-valet/
+
+8. 'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess
+   Points: 42
+   Comments: 29
+   URL: https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/
+
+9. ReactOS (FOSS "Windows") achieves 3D-accelerated Half-Life on real hardware
+   Points: 102
+   Comments: 14
+   URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life
+
+10. Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch
+   Points: 80
+   Comments: 17
+   URL: https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/
+
+11. A whale necropolis has been found
+   Points: 17
+   Comments: 2
+   URL: https://www.nature.com/articles/d41586-026-01581-x
+
+12. Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models
+   Points: 557
+   Comments: 406
+   URL: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
+
+13. GameBoy Workboy
+   Points: 163
+   Comments: 54
+   URL: https://tcrf.net/Workboy
+
+14. Codex for open source
+   Points: 177
+   Comments: 51
+   URL: https://openai.com/form/codex-for-oss/
+
+15. 4 things to know about the new sunscreen ingredient the FDA approved
+   Points: 35
+   Comments: 3
+   URL: https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol
+
+16. Police officer investigated for using AI to 'create evidence' in multiple cases
+   Points: 239
+   Comments: 110
+   URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661
+
+17. Ancient genome duplications laid the foundations of complex brains
+   Points: 18
+   Comments: 1
+   URL: https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains
+
+18. Human Routers of Machine Words
+   Points: 31
+   Comments: 16
+   URL: https://borretti.me/article/human-routers-of-machine-words
+
+19. A low-carbon computing platform from your retired phones
+   Points: 251
+   Comments: 134
+   URL: https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/
+
+20. Appreciating Exif
+   Points: 134
+   Comments: 29
+   URL: https://brentfitzgerald.com/posts/appreciating-exif/
+
