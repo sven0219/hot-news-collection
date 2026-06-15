@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-15
+==================================================
+
+1. Your ePub Is Fine. Kobo Disagrees. Blame Adobe
+   Points: 208
+   Comments: 81
+   URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/
+
+2. Write for One Person
+   Points: 97
+   Comments: 32
+   URL: https://wizardzines.com/comics/write-for-one-person/
+
+3. Show HN: Kage – Shadow any website to a single binary for offline viewing
+   Points: 413
+   Comments: 92
+   URL: https://github.com/tamnd/kage
+
+4. Bitsy
+   Points: 41
+   Comments: 3
+   URL: https://bitsy.org/
+
+5. Firewood Splitting Simulator
+   Points: 660
+   Comments: 217
+   URL: https://screen.toys/firewood/
+
+6. Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model
+   Points: 290
+   Comments: 152
+   URL: https://github.com/nex-agi/Nex-N2/issues/4
+
+7. 21 years and counting of 'eight fallacies of distributed computing' (2025)
+   Points: 14
+   Comments: 2
+   URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/
+
+8. AI is code – and can't be prompted into being smarter
+   Points: 87
+   Comments: 50
+   URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141
+
+9. Chaosnet (1981)
+   Points: 67
+   Comments: 7
+   URL: https://tumbleweed.nu/r/lm-3/uv/amber.html
+
+10. Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call
+   Points: 105
+   Comments: 44
+   URL: https://traceapp.info
+
+11. Why Your CPU Is Fast but Your Program Is Slow: Understanding the Memory Wall
+   Points: 9
+   Comments: 2
+   URL: https://prawns.dev/blogs/memory-wall
+
+12. Ask HN: What are you working on? (June 2026)
+   Points: 164
+   Comments: 613
+   URL: https://news.ycombinator.com/item?id=48528779
+
+13. TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder
+   Points: 23
+   Comments: 3
+   URL: https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0
+
+14. Formal methods and the future of programming
+   Points: 202
+   Comments: 74
+   URL: https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1
+
+15. Segmented type appreciation corner (2018)
+   Points: 65
+   Comments: 14
+   URL: https://aresluna.org/segmented-type/
+
+16. The hallucinogenic mushroom that contains no known psychedelic
+   Points: 30
+   Comments: 11
+   URL: https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the
+
+17. The only scalable delete in Postgres is DROP TABLE
+   Points: 137
+   Comments: 48
+   URL: https://planetscale.com/blog/the-only-scalable-delete
+
+18. Chopped, Stored, Secured – The Story of the Hash Function
+   Points: 25
+   Comments: 4
+   URL: https://0xkrt26.github.io/math_behind_security/2026/06/09/the-story-of-the-hash-function.html
+
+19. Caddy compatibility for zeroserve: 3x throughput and 70% lower latency
+   Points: 158
+   Comments: 49
+   URL: https://su3.io/posts/zeroserve-caddy-compat
+
+20. Perlisisms (1982)
+   Points: 95
+   Comments: 48
+   URL: https://www.cs.yale.edu/homes/perlis-alan/quotes.html
+
