@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-16
+==================================================
+
+1. A backdoor in a LinkedIn job offer
+   Points: 765
+   Comments: 151
+   URL: https://roman.pt/posts/linkedin-backdoor/
+
+2. Banned Book Library in a Wi-Fi Smart Light Bulb
+   Points: 179
+   Comments: 66
+   URL: https://www.richardosgood.com/posts/banned-book-library/
+
+3. Iroh 1.0
+   Points: 974
+   Comments: 288
+   URL: https://www.iroh.computer/blog/v1
+
+4. Amazon Announces Multibillion-Dollar Data Center in Missouri
+   Points: 46
+   Comments: 19
+   URL: https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/
+
+5. TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
+   Points: 626
+   Comments: 127
+   URL: https://tinywind.io
+
+6. Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?
+   Points: 720
+   Comments: 344
+   URL: https://news.ycombinator.com/item?id=48542100
+
+7. I Love the Computer
+   Points: 150
+   Comments: 93
+   URL: https://michaelenger.com/blog/i-love-the-computer/
+
+8. Why I email complete strangers
+   Points: 82
+   Comments: 43
+   URL: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
+
+9. Peopleless economy? Not technically impossible
+   Points: 102
+   Comments: 189
+   URL: https://gmalandrakis.com/writings/ad-economicum.html
+
+10. My Homelab AI Dev Platform
+   Points: 250
+   Comments: 49
+   URL: https://rsgm.dev/post/ai-dev-platform/
+
+11. Cohere's First Model for Developers
+   Points: 21
+   Comments: 3
+   URL: https://cohere.com/blog/north-mini-code
+
+12. Reviews have become expensive, rewrites have become cheap
+   Points: 22
+   Comments: 13
+   URL: http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/
+
+13. Hetzner Price Adjustment
+   Points: 347
+   Comments: 495
+   URL: https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers
+
+14. US battery manufacturing output continues to break records
+   Points: 170
+   Comments: 141
+   URL: https://fred.stlouisfed.org/series/IPG33591S
+
+15. What every coder should know about Gamma Correction
+   Points: 65
+   Comments: 19
+   URL: https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
+
+16. Fox to buy Roku
+   Points: 280
+   Comments: 373
+   URL: https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9
+
+17. How TimescaleDB compresses time-series data
+   Points: 120
+   Comments: 15
+   URL: https://roszigit.com/en/blog/timescaledb-compression-hypercore
+
+18. Salesforce to Acquire Fin (formerly Intercom) for $3.6B
+   Points: 281
+   Comments: 211
+   URL: https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL
+
+19. What job interviews taught me about Kubernetes
+   Points: 100
+   Comments: 87
+   URL: https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/
+
+20. Game Engine White Papers Commander Keen
+   Points: 164
+   Comments: 53
+   URL: https://forgottenbytes.net/commander_keen.html
+
