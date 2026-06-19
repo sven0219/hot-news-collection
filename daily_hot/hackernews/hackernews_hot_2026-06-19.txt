@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-19
+==================================================
+
+1. How Japan's railways stayed one while splitting apart
+   Points: 43
+   Comments: 25
+   URL: https://arun.is/blog/jr-logo/
+
+2. Zero-Touch OAuth for MCP
+   Points: 110
+   Comments: 47
+   URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/
+
+3. Datasette Apps: Host custom HTML applications inside Datasette
+   Points: 30
+   Comments: 7
+   URL: https://simonwillison.net/2026/Jun/18/datasette-apps/
+
+4. I found 10k GitHub repositories distributing Trojan malware
+   Points: 677
+   Comments: 155
+   URL: https://orchidfiles.com/github-repositories-distributing-malware/
+
+5. To study how chips work, MIT researchers built their own operating system
+   Points: 13
+   Comments: 0
+   URL: https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610
+
+6. Cell-based architecture for resilient payment systems
+   Points: 93
+   Comments: 37
+   URL: https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/
+
+7. Ubiquiti: Enterprise NAS, Built on ZFS
+   Points: 266
+   Comments: 244
+   URL: https://blog.ui.com/article/introducing-enterprise-nas
+
+8. Zork name origin got an update on Wikipedia
+   Points: 62
+   Comments: 9
+   URL: https://www.dpolakovic.space/blogs/zork-part2#update
+
+9. CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)
+   Points: 317
+   Comments: 46
+   URL: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/
+
+10. Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand
+   Points: 1
+   Comments: 0
+   URL: https://www.flexport.com/company/careers/
+
+11. Hospitals and universities repurposing drugs at lower cost
+   Points: 284
+   Comments: 124
+   URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost
+
+12. I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M
+   Points: 249
+   Comments: 106
+   URL: https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/
+
+13. Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps
+   Points: 106
+   Comments: 45
+   URL: https://tester.army
+
+14. Swiss parliament lifts ban on new nuclear power plants
+   Points: 706
+   Comments: 586
+   URL: https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html
+
+15. Automating my job away
+   Points: 16
+   Comments: 3
+   URL: https://austinhenley.com/blog/automatingmyjob.html
+
+16. .gitignore Isn't the only way to ignore files in Git
+   Points: 295
+   Comments: 99
+   URL: https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/
+
+17. Show HN: Are You in the Weights?
+   Points: 201
+   Comments: 127
+   URL: https://www.intheweights.com/
+
+18. The Token Compression Illusion: Why I'm Skeptical of RTK
+   Points: 79
+   Comments: 89
+   URL: https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/
+
+19. Noam Shazeer Joins OpenAI
+   Points: 294
+   Comments: 285
+   URL: https://twitter.com/NoamShazeer/status/2067400851438932297
+
+20. W Social, public institutions and the theater of European digital sovereignty
+   Points: 177
+   Comments: 118
+   URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/
+
