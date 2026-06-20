@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-20
+==================================================
+
+1. How to feed a dictator
+   Points: 46
+   Comments: 8
+   URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film
+
+2. Think of the children: How to force real ID for all internet traffic (2023)
+   Points: 116
+   Comments: 57
+   URL: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/
+
+3. There are no instances in ATProto
+   Points: 349
+   Comments: 194
+   URL: https://overreacted.io/there-are-no-instances-in-atproto/
+
+4. I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾
+   Points: 199
+   Comments: 134
+   URL: https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929
+
+5. Norway imposes near ban on AI in elementary school
+   Points: 456
+   Comments: 308
+   URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+
+6. Aikido Code Audit
+   Points: 16
+   Comments: 7
+   URL: https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase
+
+7. I solved my mystery fatigue with AI
+   Points: 8
+   Comments: 1
+   URL: https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai
+
+8. Hyundai buys Boston Dynamics
+   Points: 668
+   Comments: 313
+   URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/
+
+9. Surprising Economics of Load-Balanced Systems
+   Points: 45
+   Comments: 14
+   URL: https://brooker.co.za/blog/2020/08/06/erlang.html
+
+10. A record 242 US cities now have starter homes that cost $1M
+   Points: 42
+   Comments: 30
+   URL: https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx
+
+11. Hey, n00b, we didn't hire you to complete tasks
+   Points: 70
+   Comments: 40
+   URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete
+
+12. Digital Printing of Arabic: explaining the problem
+   Points: 20
+   Comments: 0
+   URL: https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/
+
+13. Americans express unease over SpaceX's influence on retirement savings
+   Points: 168
+   Comments: 94
+   URL: https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk
+
+14. Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died
+   Points: 209
+   Comments: 25
+   URL: https://www.legacy.com/legacy/robert-bobby-prince-lll
+
+15. Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28
+   Points: 542
+   Comments: 335
+   URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a
+
+16. How many of the 170k English words do you know?
+   Points: 235
+   Comments: 356
+   URL: https://vocabowl-870366514258.us-west1.run.app/
+
+17. Egyptian Fractions
+   Points: 63
+   Comments: 1
+   URL: https://blog.plover.com/math/egyptian-fractions.html
+
+18. RhinoCollab a plugin for real-time editing for Rhino 3D
+   Points: 20
+   Comments: 3
+   URL: https://rhinocollab.com
+
+19. DuckDB Internals Part 1
+   Points: 435
+   Comments: 128
+   URL: https://www.greybeam.ai/blog/duckdb-internals-part-1
+
+20. Telescope Ranchers
+   Points: 103
+   Comments: 41
+   URL: https://kottke.org/26/06/telescope-ranchers
+
