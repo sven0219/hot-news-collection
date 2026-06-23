@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-23
+==================================================
+
+1. Steam Machine launches today
+   Points: 1228
+   Comments: 1106
+   URL: https://store.steampowered.com/news/group/45479024/view/685257114654870245
+
+2. Runing GLM-5.2 on local hardware
+   Points: 181
+   Comments: 81
+   URL: https://unsloth.ai/docs/models/glm-5.2
+
+3. Polymarket's viral videos showed people winning big, but the bets were fake
+   Points: 86
+   Comments: 37
+   URL: https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/
+
+4. Cyberdecks, going analog, and convivial technology
+   Points: 40
+   Comments: 18
+   URL: https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/
+
+5. In Praise of Memcached
+   Points: 10
+   Comments: 0
+   URL: https://jchri.st/blog/in-praise-of-memcached/
+
+6. Optocam Zero: a Pi Zero based digital camera made using off the shelf components
+   Points: 105
+   Comments: 23
+   URL: https://github.com/dorukkumkumoglu/optocamzero
+
+7. British Columbia, Time Zones, and Postgres
+   Points: 112
+   Comments: 69
+   URL: https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes
+
+8. My Mathematical Regression
+   Points: 208
+   Comments: 73
+   URL: https://blog.dahl.dev/posts/my-mathematical-regression/
+
+9. Japanese symbols that speak without words
+   Points: 108
+   Comments: 42
+   URL: https://arun.is/blog/japan-symbols/
+
+10. Is it time for a new Embedded Linux build system?
+   Points: 34
+   Comments: 24
+   URL: https://yoebuild.org/blog/time-for-a-new-build-system/
+
+11. Moebius: 0.2B image inpainting model with 10B-level performance
+   Points: 235
+   Comments: 64
+   URL: https://hustvl.github.io/Moebius/
+
+12. Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040
+   Points: 301
+   Comments: 158
+   URL: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509
+
+13. Canyon HUD helmet for road riding
+   Points: 68
+   Comments: 79
+   URL: https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/
+
+14. Show HN: Oak – Git alternative designed for agents
+   Points: 148
+   Comments: 143
+   URL: https://oak.space/oak/oak
+
+15. Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed
+   Points: 365
+   Comments: 138
+   URL: https://ipvm.com/reports/police-chiefs-track
+
+16. Kyber (YC W23) Is Hiring a Head of Engineering
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering
+
+17. Prompt Injection as Role Confusion
+   Points: 157
+   Comments: 84
+   URL: https://role-confusion.github.io
+
+18. Windows NT for GameCube/Wii
+   Points: 4
+   Comments: 1
+   URL: https://github.com/Wack0/entii-for-workcubes
+
+19. ytr: YouTube Radio for Emacs
+   Points: 61
+   Comments: 4
+   URL: https://xenodium.com/ytr-youtube-radio-for-emacs
+
+20. Job application asked for my SAT scores
+   Points: 80
+   Comments: 223
+   URL: https://mrmarket.lol/job-application-asked-for-my-sat-scores/
+
