@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-24
+==================================================
+
+1. Vulnerability reports are not special anymore
+   Points: 72
+   Comments: 13
+   URL: https://words.filippo.io/vuln-reports/
+
+2. Jerry's Map
+   Points: 334
+   Comments: 48
+   URL: http://www.jerrysmap.com/the-map
+
+3. A man was gifted his dream car by Kevin Mitnick, who he helped put in prison
+   Points: 72
+   Comments: 26
+   URL: https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison
+
+4. FUTO Swipe – A new swipe typing model
+   Points: 285
+   Comments: 88
+   URL: https://swipe.futo.tech/
+
+5. In memory of the man who put red and green squiggles under words
+   Points: 158
+   Comments: 15
+   URL: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451
+
+6. Usbliter8: an A12/A13 SecureROM Exploit
+   Points: 70
+   Comments: 16
+   URL: https://ps.tc/pages/blog-usbliter8.html
+
+7. Printing Gaussian Splats
+   Points: 178
+   Comments: 16
+   URL: https://www.patreon.com/DanyBittel/posts/printing-splats-161333338
+
+8. Swift Package Index joins Apple
+   Points: 173
+   Comments: 52
+   URL: https://swiftpackageindex.com/blog/swift-package-index-joins-apple
+
+9. Extreme Heat conference cancelled due to extreme heat warning
+   Points: 148
+   Comments: 60
+   URL: https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/
+
+10. Rhombus Language 1.0
+   Points: 76
+   Comments: 9
+   URL: https://blog.racket-lang.org/2026/06/rhombus-v1.0.html
+
+11. Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX
+   Points: 333
+   Comments: 62
+   URL: https://tikz.dev/editor/
+
+12. Show HN: Y – A malleable coding-agent desktop app built with Electron
+   Points: 16
+   Comments: 10
+   URL: https://github.com/y-times-y/y
+
+13. The Coming Loop
+   Points: 327
+   Comments: 233
+   URL: https://lucumr.pocoo.org/2026/6/23/the-coming-loop/
+
+14. The worthlessness of Vitamin D is mildly exaggerated
+   Points: 208
+   Comments: 152
+   URL: https://dynomight.net/vitamin-d/
+
+15. I can haz smoller NixOS ISOs?
+   Points: 23
+   Comments: 6
+   URL: https://natkr.com/2026-06-19-nixos-but-smol/
+
+16. Meta Pauses Employee-Tracking Program Following Internal Data Leak
+   Points: 40
+   Comments: 2
+   URL: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/
+
+17. Inventing the Future, One Lisp Machine at a Time
+   Points: 73
+   Comments: 4
+   URL: https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/
+
+18. Unlimited OCR: One-shot long-horizon parsing
+   Points: 441
+   Comments: 101
+   URL: https://github.com/baidu/Unlimited-OCR
+
+19. QSOE: QNX-inspired OS with dual-kernel architecture
+   Points: 27
+   Comments: 8
+   URL: https://qsoe-dev.blogspot.com/2026/06/qsoe-project-v01-is-released.html
+
+20. F* file system – file search that reads SSD directly bypassing OS kernel
+   Points: 39
+   Comments: 31
+   URL: https://github.com/dmtrKovalenko/ffs
+
