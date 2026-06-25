@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-25
+==================================================
+
+1. OpenAI unveils its first custom chip, built by Broadcom
+   Points: 538
+   Comments: 334
+   URL: https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/
+
+2. LuaJIT 3.0 proposed syntax extensions
+   Points: 49
+   Comments: 23
+   URL: https://github.com/LuaJIT/LuaJIT/issues/1475
+
+3. Blogging can just be stating the obvious
+   Points: 70
+   Comments: 29
+   URL: https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/
+
+4. Anthropic says Alibaba illicitly extracted Claude AI model capabilities
+   Points: 56
+   Comments: 93
+   URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
+
+5. Bible as RAG Database
+   Points: 11
+   Comments: 8
+   URL: https://www.crosscanon.com/
+
+6. Dostoyevsky isn't difficult
+   Points: 38
+   Comments: 25
+   URL: https://www.autodidacts.io/dostoyevsky-isnt-difficult/
+
+7. Ending All Respiratory Infections
+   Points: 17
+   Comments: 2
+   URL: https://blog.interceptfund.com/p/ending-respiratory-infections
+
+8. Qualcomm to Acquire Modular
+   Points: 147
+   Comments: 37
+   URL: https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/
+
+9. Exploring the internal representations of Pangram 3.3.2
+   Points: 5
+   Comments: 0
+   URL: https://www.pangram.com/pangram-space
+
+10. RubyLLM: A Ruby framework for all major AI providers
+   Points: 347
+   Comments: 55
+   URL: https://rubyllm.com/
+
+11. PR spam today looks like email spam in the early 2000s
+   Points: 181
+   Comments: 102
+   URL: https://www.greptile.com/blog/prs-on-openclaw
+
+12. Computer use in Gemini 3.5 Flash
+   Points: 175
+   Comments: 105
+   URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/
+
+13. 45°C cooling design cuts data center water use to near zero
+   Points: 196
+   Comments: 153
+   URL: https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/
+
+14. GLM-5.2 is a step change for open agents
+   Points: 131
+   Comments: 69
+   URL: https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open
+
+15. Mixing Visual and Textual Code
+   Points: 4
+   Comments: 0
+   URL: https://arxiv.org/abs/2603.15855
+
+16. The Xteink X4 E-Ink Reader
+   Points: 174
+   Comments: 109
+   URL: https://blog.omgmog.net/post/xteink-x4-e-ink-reader/
+
+17. Crawling BitTorrent DHTs for Fun and Profit [pdf]
+   Points: 68
+   Comments: 25
+   URL: https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf
+
+18. Elastic lays off 7% of employees
+   Points: 132
+   Comments: 129
+   URL: https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees
+
+19. Matt's Script Archive: The Scripts That Reshaped the Web
+   Points: 9
+   Comments: 2
+   URL: https://tedium.co/2026/06/22/matts-script-archive-retrospective/
+
+20. There are a few things that I look back on as my mistakes in the early days
+   Points: 494
+   Comments: 244
+   URL: https://twitter.com/ID_AA_Carmack/status/2069799283369345247
+
