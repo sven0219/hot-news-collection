@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-26
+==================================================
+
+1. Om Malik has died
+   Points: 475
+   Comments: 48
+   URL: https://om.co/2026/06/24/1966-2026/
+
+2. An entire Herculaneum scroll has been read for the first time
+   Points: 993
+   Comments: 219
+   URL: https://scrollprize.org/firstscroll
+
+3. Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line
+   Points: 51
+   Comments: 30
+   URL: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true
+
+4. The 'papers, please' era of the internet will decimate your privacy
+   Points: 423
+   Comments: 191
+   URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet
+
+5. A data race that doesn't compile
+   Points: 9
+   Comments: 3
+   URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/
+
+6. Framework's 10G Ethernet module exposes USB-C's complexity
+   Points: 15
+   Comments: 6
+   URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/
+
+7. Un-0: Generating Images with Coupled Oscillators
+   Points: 115
+   Comments: 28
+   URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/
+
+8. A game where you're an OS and have to manage processes, memory and I/O events
+   Points: 101
+   Comments: 22
+   URL: https://github.com/plbrault/youre-the-os
+
+9. The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)
+   Points: 43
+   Comments: 8
+   URL: https://gchandbook.org/
+
+10. Oxide computer 3D rack guided tour
+   Points: 298
+   Comments: 121
+   URL: https://explorer.oxide.computer/
+
+11. IBM debuts sub-1 nanometer chip technology
+   Points: 266
+   Comments: 147
+   URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology
+
+12. AI children's books, body horror edition
+   Points: 15
+   Comments: 0
+   URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition
+
+13. Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion
+   Points: 210
+   Comments: 99
+   URL: https://github.com/inkeep/open-knowledge
+
+14. An oral history of Bank Python (2021)
+   Points: 74
+   Comments: 26
+   URL: https://calpaterson.com/bank-python.html
+
+15. Parallel Parentheses Matching
+   Points: 59
+   Comments: 9
+   URL: https://williamdue.github.io/blog/parallel-parentheses-matching
+
+16. Migrating from Proxmox to NixOS and Incus
+   Points: 53
+   Comments: 26
+   URL: https://www.nijho.lt/post/proxmox-to-nixos/
+
+17. Show HN: Chess-Inspired Roguelike
+   Points: 219
+   Comments: 74
+   URL: https://princechazz.com
+
+18. OS9Map
+   Points: 188
+   Comments: 30
+   URL: https://yllan.org/software/OS9Map/
+
+19. Zig's new bitCast semantics and LLVM back end improvements
+   Points: 214
+   Comments: 87
+   URL: https://ziglang.org/devlog/2026/#2026-06-25
+
+20. The Doorman's Fallacy in action
+   Points: 56
+   Comments: 91
+   URL: https://rozumem.xyz/posts/17
+
