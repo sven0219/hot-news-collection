@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-27
+==================================================
+
+1. Previewing GPT‑5.6 Sol: a next-generation model
+   Points: 850
+   Comments: 509
+   URL: https://openai.com/index/previewing-gpt-5-6-sol/
+
+2. Why does kinetic energy increase quadratically, not linearly, with speed? (2011)
+   Points: 81
+   Comments: 39
+   URL: https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed
+
+3. A C++ implementation of a fast hash map and hash set using hopscotch hashing
+   Points: 63
+   Comments: 11
+   URL: https://github.com/Tessil/hopscotch-map
+
+4. MicroVMs: Run isolated sandboxes with full lifecycle control
+   Points: 266
+   Comments: 149
+   URL: https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/
+
+5. U.S. government will decide who gets to use GPT-5.6
+   Points: 831
+   Comments: 930
+   URL: https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/
+
+6. US allows Anthropic to release Mythos to 'trusted partners'
+   Points: 213
+   Comments: 171
+   URL: https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/
+
+7. AI in mathematics is forcing big questions
+   Points: 42
+   Comments: 17
+   URL: https://spectrum.ieee.org/ai-in-mathematics
+
+8. Show HN: Hacker News on a Train Station Style Flip Board
+   Points: 6
+   Comments: 0
+   URL: https://popflame.quickish.space/hn-flipboard/
+
+9. We can still stop California's 3D printer surveillance scheme
+   Points: 226
+   Comments: 65
+   URL: https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme
+
+10. The gap between open weights LLMs and closed source LLMs
+   Points: 120
+   Comments: 102
+   URL: https://blog.doubleword.ai/frontier-os-llm
+
+11. A Tiny Compiler for Data-Parallel Kernels
+   Points: 25
+   Comments: 3
+   URL: https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels
+
+12. The "Bizarre Headgear" exhibit at the Sam Noble museum
+   Points: 69
+   Comments: 7
+   URL: https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/
+
+13. Om
+   Points: 90
+   Comments: 6
+   URL: https://daringfireball.net/2026/06/om
+
+14. Ultrasound imaging of the brain
+   Points: 241
+   Comments: 93
+   URL: https://alephneuro.com/blog/ultrasound-brain
+
+15. Show HN: Smart model routing directly in Claude, Codex and Cursor
+   Points: 149
+   Comments: 89
+   URL: https://github.com/workweave/router
+
+16. Hightouch (YC S19) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://hightouch.com/careers#open-positions
+
+17. What Is a Nomogram and Why Would It Interest Me?
+   Points: 88
+   Comments: 18
+   URL: https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me
+
+18. Show HN: DBOSify – Drop-in Temporal replacement built on Postgres
+   Points: 20
+   Comments: 4
+   URL: https://github.com/dbos-inc/dbosify-py
+
+19. Making Sense of Proof by Contradiction [pdf]
+   Points: 4
+   Comments: 0
+   URL: https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf
+
+20. The open source DOCX editor submitted to HN a few weeks ago has been deleted
+   Points: 57
+   Comments: 36
+   URL: https://news.ycombinator.com/item?id=48692474
+
