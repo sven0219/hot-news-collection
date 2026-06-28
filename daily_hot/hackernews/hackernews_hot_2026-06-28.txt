@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-28
+==================================================
+
+1. AMD Strix Halo RDMA Cluster Setup Guide
+   Points: 34
+   Comments: 1
+   URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md
+
+2. Show HN: Decomp Academy – Learn to decompile GameCube games into matching C
+   Points: 24
+   Comments: 8
+   URL: https://decomp-academy.dev
+
+3. Anonymous GitHub account mass-dropping undisclosed 0-days
+   Points: 680
+   Comments: 268
+   URL: https://github.com/bikini/exploitarium
+
+4. Choosing a Public DNS Resolver
+   Points: 61
+   Comments: 21
+   URL: https://evilbit.de/dns-resolver-guide.html
+
+5. OpenRA
+   Points: 591
+   Comments: 117
+   URL: https://www.openra.net/
+
+6. AI learns the “dark art” of RFIC design
+   Points: 193
+   Comments: 126
+   URL: https://spectrum.ieee.org/ai-radio-chip-design
+
+7. Enhancing X11 Application Security with LXC
+   Points: 35
+   Comments: 9
+   URL: https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/
+
+8. Space Shuttle Endeavour's 20-story vertical display
+   Points: 12
+   Comments: 1
+   URL: https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack
+
+9. Regular expressions that work "everywhere"
+   Points: 18
+   Comments: 6
+   URL: https://www.johndcook.com/blog/2026/06/23/regex-everywhere/
+
+10. Fintech Engineering Handbook
+   Points: 485
+   Comments: 161
+   URL: https://w.pitula.me/fintech-engineering-handbook/
+
+11. The case for physical media ownership
+   Points: 375
+   Comments: 248
+   URL: https://dervis.de/physical/
+
+12. Response to AI slop is from Robin Williams
+   Points: 21
+   Comments: 3
+   URL: https://jayacunzo.com/blog/your-move-chief
+
+13. Turn your site into a place people can bump into each other
+   Points: 162
+   Comments: 77
+   URL: https://cauenapier.com/blog/townsquare_release/
+
+14. Suspicious Discontinuities (2020)
+   Points: 214
+   Comments: 62
+   URL: https://danluu.com/discontinuities/
+
+15. Asian AI startups launch Mythos-like models
+   Points: 149
+   Comments: 136
+   URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+
+16. How do you keep Web MIDI from crashing a 1983 synthesizer?
+   Points: 26
+   Comments: 10
+   URL: https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer
+
+17. IP Crawl: Living atlas of open webcams discovered on the public internet
+   Points: 248
+   Comments: 128
+   URL: https://ipcrawl.com/
+
+18. Reducing tick density along recreational trails in Ottawa, Canada
+   Points: 161
+   Comments: 90
+   URL: https://www.sciencedirect.com/science/article/pii/S1877959X26000476
+
+19. Paradise Revisited: What Darwin Saw in the Galápagos
+   Points: 38
+   Comments: 1
+   URL: https://www.theatlantic.com/magazine/2026/08/writers-way-galapagos-charles-darwin-travel/687480/
+
+20. Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work
+   Points: 92
+   Comments: 55
+   URL: https://github.com/kageroumado/adrafinil
+
