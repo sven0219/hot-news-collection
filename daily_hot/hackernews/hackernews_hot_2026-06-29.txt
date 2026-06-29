@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-29
+==================================================
+
+1. GLM 5.2 beats Claude in our benchmarks
+   Points: 479
+   Comments: 234
+   URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+
+2. Historical memory prices 1960-2026
+   Points: 173
+   Comments: 69
+   URL: https://dam.stanford.edu/memory-prices.html
+
+3. 5k menus from the New York Public Library’s Buttolph Collection (1880-1920)
+   Points: 330
+   Comments: 86
+   URL: https://pudding.cool/2026/06/menu-story/
+
+4. Knowledge Distillation of Black-Box Large Language Models (2024)
+   Points: 54
+   Comments: 12
+   URL: https://arxiv.org/abs/2401.07013
+
+5. I used Claude Code to get a second opinion on my MRI
+   Points: 358
+   Comments: 463
+   URL: https://antoine.fi/mri-analysis-using-claude-code-opus
+
+6. Deciphering Basmala
+   Points: 17
+   Comments: 4
+   URL: https://blog.plover.com/lang/bismillah.html
+
+7. Better Images of AI
+   Points: 15
+   Comments: 7
+   URL: https://betterimagesofai.org/
+
+8. TOP500 at ISC’26: We have a New Number 1 Supercomputer
+   Points: 77
+   Comments: 37
+   URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number
+
+9. AI boom risks global financial crash, warn central bankers
+   Points: 25
+   Comments: 8
+   URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/
+
+10. The Boeing 747 begins its final descent
+   Points: 144
+   Comments: 195
+   URL: https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/
+
+11. Show HN: Zanagrams
+   Points: 183
+   Comments: 53
+   URL: https://zanagrams.com/
+
+12. Librepods: AirPods liberated
+   Points: 290
+   Comments: 87
+   URL: https://github.com/librepods-org/librepods
+
+13. Professor denounces mass AI fraud on an exam at Brown
+   Points: 283
+   Comments: 385
+   URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html
+
+14. Working around dragons with the Lemote Yeeloong laptop and OpenBSD
+   Points: 94
+   Comments: 21
+   URL: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html
+
+15. Daisugi, the Japanese technique of growing trees out of other trees (2020)
+   Points: 111
+   Comments: 36
+   URL: https://www.openculture.com/2020/10/daisugi.html
+
+16. The Baffling World of Masayoshi Son's Presentations
+   Points: 16
+   Comments: 4
+   URL: https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son
+
+17. Tokenmaxxing is dead, long live tokenmaxxing
+   Points: 115
+   Comments: 142
+   URL: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing
+
+18. Xonaly – Canada's Independent Search Engine
+   Points: 59
+   Comments: 38
+   URL: https://xonaly.com/
+
+19. Show HN: DRM-Free Books
+   Points: 72
+   Comments: 33
+   URL: https://frequal.com/Perspectives/DrmFreeAuthors.html
+
+20. Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs
+   Points: 35
+   Comments: 15
+   URL: https://github.com/kamaludu/bash4llm/
+
