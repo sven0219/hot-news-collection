@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-06-30
+==================================================
+
+1. .self: A new top-level domain designed to support self-hosting
+   Points: 337
+   Comments: 193
+   URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/
+
+2. Qwen 3.6 27B is the sweet spot for local development
+   Points: 617
+   Comments: 514
+   URL: https://quesma.com/blog/qwen-36-is-awesome/
+
+3. Free the Icons
+   Points: 221
+   Comments: 59
+   URL: https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/
+
+4. Memory Safe Context Switching (longjmp, setjmp) in Fil-C
+   Points: 24
+   Comments: 8
+   URL: https://fil-c.org/context_switches
+
+5. Exploring PDP-1 Lisp (1960)
+   Points: 15
+   Comments: 10
+   URL: https://obsolescence.dev/pdp1-lisp-introduction.html
+
+6. LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active
+   Points: 20
+   Comments: 4
+   URL: https://longcat.chat/blog/longcat-2.0/
+
+7. Scientists find molecular-level evidence for two structures in liquid water
+   Points: 64
+   Comments: 19
+   URL: https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html
+
+8. Rocketlab acquires Iridium
+   Points: 369
+   Comments: 230
+   URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully
+
+9. Why Won't Europe Build AI Data Centers in Iceland?
+   Points: 6
+   Comments: 0
+   URL: https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/
+
+10. Ornith-1.0: self-improving open-source models for agentic coding
+   Points: 156
+   Comments: 32
+   URL: https://github.com/deepreinforce-ai/Ornith-1
+
+11. A native graphical shell for SSH
+   Points: 247
+   Comments: 114
+   URL: https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html
+
+12. US Supreme Court rules geofence warrants require constitutional protections
+   Points: 447
+   Comments: 212
+   URL: https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision
+
+13. South Korea to spend $1T on more memory chip production and humanoid robots
+   Points: 121
+   Comments: 74
+   URL: https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/
+
+14. 30-year sentence for transporting zines is a five-alarm fire for free speech
+   Points: 312
+   Comments: 179
+   URL: https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/
+
+15. Apple Neural Engine: Architecture, Programming, and Performance
+   Points: 121
+   Comments: 18
+   URL: https://arxiv.org/abs/2606.22283
+
+16. WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter
+   Points: 178
+   Comments: 29
+   URL: https://humphri.es/blog/WATaBoy/
+
+17. Kb – Prolog Knowledge Base
+   Points: 28
+   Comments: 4
+   URL: https://github.com/mat-mgm/kb-prolog
+
+18. Wallace the 6 inch f/2.8 telescope, building it, and hiking with it
+   Points: 116
+   Comments: 20
+   URL: https://lucassifoni.info/blog/hiking-with-wallace/
+
+19. Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso
+   Points: 8
+   Comments: 2
+   URL: https://github.com/SMJAI/open-memory-protocol
+
+20. One million passports leaked online
+   Points: 144
+   Comments: 83
+   URL: https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/
+
