@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-02
+==================================================
+
+1. ZCode – Harness for GLM-5.2
+   Points: 205
+   Comments: 212
+   URL: https://zcode.z.ai/en
+
+2. Show HN: Searchable directory of 22k+ products from worker-owned co-ops
+   Points: 224
+   Comments: 36
+   URL: https://www.workerowned.info/
+
+3. For first time, a cell built from scratch grows and divides
+   Points: 734
+   Comments: 253
+   URL: https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/
+
+4. Building an Open-Source Robot Vacuum – Meet Oomwoo
+   Points: 30
+   Comments: 1
+   URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/
+
+5. What to learn to be a graphics programmer
+   Points: 247
+   Comments: 129
+   URL: https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/
+
+6. Global review confirms mRNA vaccines are safe, effective and full of promise 
+   Points: 80
+   Comments: 46
+   URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/
+
+7. Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance
+   Points: 58
+   Comments: 36
+   URL: https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/
+
+8. The Underhanded C Contest
+   Points: 36
+   Comments: 5
+   URL: https://underhanded-c.org/
+
+9. The <Usermedia> HTML Element
+   Points: 32
+   Comments: 14
+   URL: https://developer.chrome.com/blog/usermedia-html-element
+
+10. Physical disc production ending in Jan 2028 for new games on PlayStation
+   Points: 604
+   Comments: 630
+   URL: https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/
+
+11. Meta caps internal AI token spending
+   Points: 115
+   Comments: 90
+   URL: https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/
+
+12. FFmpeg 9.1's new AAC encoder
+   Points: 285
+   Comments: 97
+   URL: https://hydrogenaudio.org/index.php/topic,129691.0.html
+
+13. Chip Off the Old Block
+   Points: 46
+   Comments: 5
+   URL: https://www.astralcodexten.com/p/chip-off-the-old-block
+
+14. Qualcomm Linux 2.0
+   Points: 50
+   Comments: 12
+   URL: https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available
+
+15. Visual Basic on the PC with Windows 3.1
+   Points: 11
+   Comments: 5
+   URL: https://stonetools.ghost.io/visualbasic-win31/
+
+16. Proliferate (YC S25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer
+
+17. Box3D, an open source 3D physics engine
+   Points: 417
+   Comments: 92
+   URL: https://box2d.org/posts/2026/06/announcing-box3d/
+
+18. How do wombats poop cubes? Scientists get to the bottom of the mystery
+   Points: 41
+   Comments: 7
+   URL: https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery
+
+19. Internal Combustion Engine (2021)
+   Points: 286
+   Comments: 74
+   URL: https://ciechanow.ski/internal-combustion-engine/
+
+20. Ask HN: Who is hiring? (July 2026)
+   Points: 164
+   Comments: 175
+   URL: https://news.ycombinator.com/item?id=48747976
+
