@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-03
+==================================================
+
+1. Virginia bans sale of geolocation data
+   Points: 476
+   Comments: 86
+   URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data
+
+2. An American Privacy Emergency
+   Points: 127
+   Comments: 24
+   URL: https://scottaaronson.blog/?p=9902
+
+3. GitHub is proud to announce that you can now obtain your public repo on CD-ROM
+   Points: 50
+   Comments: 33
+   URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl
+
+4. crustc: entirety of `rustc`, translated to C
+   Points: 126
+   Comments: 27
+   URL: https://github.com/FractalFir/crustc
+
+5. CarPlay Is Additive
+   Points: 32
+   Comments: 25
+   URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts
+
+6. Reality has a surprising amount of detail (2017)
+   Points: 139
+   Comments: 47
+   URL: https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail
+
+7. Exapunks (2018)
+   Points: 219
+   Comments: 80
+   URL: https://www.zachtronics.com/exapunks/
+
+8. Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory
+   Points: 401
+   Comments: 188
+   URL: https://mathstodon.xyz/@iblech/116769502749142438
+
+9. Mystery identity of 'Green Boots' climber is finally solved after DNA test
+   Points: 49
+   Comments: 20
+   URL: https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html
+
+10. Right to Local Intelligence
+   Points: 24
+   Comments: 9
+   URL: https://righttointelligence.org/
+
+11. Podman v6.0.0
+   Points: 394
+   Comments: 155
+   URL: https://blog.podman.io/2026/07/introducing-podman-v6-0-0/
+
+12. PeerTube is a free, decentralized and federated video platform
+   Points: 516
+   Comments: 230
+   URL: https://github.com/Chocobozzz/PeerTube
+
+13. EFF letter to FTC on X consent order (2 July 2026) [pdf]
+   Points: 105
+   Comments: 27
+   URL: https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf
+
+14. How to ask for help from people who don't know you
+   Points: 389
+   Comments: 63
+   URL: https://pradyuprasad.com/writings/how-to-ask-for-help/
+
+15. FoundationDB's Flow – Bringing Actor-Based Concurrency to C++11
+   Points: 31
+   Comments: 5
+   URL: https://apple.github.io/foundationdb/flow.html
+
+16. This is my attempt to get Vulkan going on NetBSD
+   Points: 82
+   Comments: 18
+   URL: https://github.com/segaboy/vulkan-netbsd
+
+17. Postgres transactions are a distributed systems superpower
+   Points: 112
+   Comments: 52
+   URL: https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data
+
+18. Lightning Memory-Mapped Database Manager (LMDB) 1.0
+   Points: 62
+   Comments: 37
+   URL: http://www.lmdb.tech/doc/
+
+19. Superpowers 6
+   Points: 74
+   Comments: 34
+   URL: https://blog.fsck.com/2026/06/15/Superpowers-6/
+
+20. Show HN: Inkwell – An RSS reader for e-ink devices
+   Points: 26
+   Comments: 3
+   URL: https://kendal.codeberg.page/inkwell/
+
