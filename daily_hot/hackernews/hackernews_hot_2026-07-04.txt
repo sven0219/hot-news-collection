@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-04
+==================================================
+
+1. Giant trees have no trouble pumping water to top branches
+   Points: 81
+   Comments: 38
+   URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/
+
+2. Leanstral 1.5: Proof Abundance for All
+   Points: 80
+   Comments: 19
+   URL: https://mistral.ai/news/leanstral-1-5/
+
+3. MSI Center – How to gain SYSTEM privileges in seconds
+   Points: 20
+   Comments: 5
+   URL: https://mrbruh.com/msicenter/
+
+4. Steam Controller Auto-Charge – pilot to magnetic charging puck using CV
+   Points: 64
+   Comments: 11
+   URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge
+
+5. GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell
+   Points: 85
+   Comments: 20
+   URL: https://www.wafer.ai/blog/glm52-amd
+
+6. SearXNG: A free internet metasearch engine
+   Points: 131
+   Comments: 40
+   URL: https://github.com/searxng/searxng
+
+7. The circuit that lets your brain think and see
+   Points: 33
+   Comments: 4
+   URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see
+
+8. Amsterdam invented the fire department
+   Points: 36
+   Comments: 9
+   URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/
+
+9. Soatok's Informal Guide to Threat Models
+   Points: 27
+   Comments: 2
+   URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/
+
+10. Jamesob's guide to running SOTA LLMs locally
+   Points: 275
+   Comments: 125
+   URL: https://github.com/jamesob/local-llm
+
+11. Applied Category Theory Course (2018)
+   Points: 51
+   Comments: 7
+   URL: https://math.ucr.edu/home/baez/act_course/index.html
+
+12. Espionage Against the European Parliament
+   Points: 271
+   Comments: 66
+   URL: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/
+
+13. New serious vulnerabilities spiked around release of Claude Mythos Preview
+   Points: 43
+   Comments: 8
+   URL: https://epoch.ai/data-insights/cve-severity-spike
+
+14. Scientists discover guidance system for migratory songbirds
+   Points: 10
+   Comments: 0
+   URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/
+
+15. Costco is the anti-Amazon
+   Points: 302
+   Comments: 274
+   URL: https://phenomenalworld.org/analysis/the-anti-amazon/
+
+16. Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead
+
+17. What does privatization of the US Postal Service mean?
+   Points: 31
+   Comments: 34
+   URL: https://phenomenalworld.org/analysis/unstitching-america/
+
+18. Dispersion loss counteracts embedding condensation in small language models
+   Points: 21
+   Comments: 5
+   URL: https://chenliu-1996.github.io/projects/LM-Dispersion/
+
+19. We put a Redis server inside our runtime
+   Points: 22
+   Comments: 7
+   URL: https://encore.dev/blog/redis-runtime
+
+20. Software, from First Principles
+   Points: 32
+   Comments: 7
+   URL: https://fazamhd.com/mental-models/software/
+
