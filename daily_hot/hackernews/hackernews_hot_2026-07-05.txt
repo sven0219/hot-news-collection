@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-05
+==================================================
+
+1. Scientists reverse brain aging, with a nasal spray
+   Points: 131
+   Comments: 47
+   URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/
+
+2. Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable
+   Points: 358
+   Comments: 142
+   URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main
+
+3. GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance
+   Points: 147
+   Comments: 45
+   URL: https://github.com/openai/codex/issues/30364
+
+4. Google Books (or similar) all book scans – $200k bounty (2025)
+   Points: 341
+   Comments: 172
+   URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234
+
+5. Jellyfish can heal wounds in minutes. Scientists want their secrets
+   Points: 37
+   Comments: 6
+   URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets
+
+6. Leaking YouTube creators' private videos
+   Points: 485
+   Comments: 271
+   URL: https://javoriuski.com/post/youtube
+
+7. Reflections on the Guillotine
+   Points: 16
+   Comments: 2
+   URL: https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine
+
+8. Better Models: Worse Tools
+   Points: 90
+   Comments: 31
+   URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/
+
+9. Explanation of everything you can see in htop/top on Linux (2019)
+   Points: 395
+   Comments: 52
+   URL: https://peteris.rocks/blog/htop/
+
+10. Potential session/cache leakage between workspace instances or consumer accounts
+   Points: 272
+   Comments: 128
+   URL: https://github.com/anthropics/claude-code/issues/74066
+
+11. Zig: All Package Management Functionality Moved from Compiler to Build System
+   Points: 139
+   Comments: 27
+   URL: https://ziglang.org/devlog/2026/#2026-06-30
+
+12. Verizon is About to Break our Watches
+   Points: 138
+   Comments: 80
+   URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches
+
+13. Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams
+   Points: 11
+   Comments: 4
+   URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/
+
+14. Meta's Un-Stable Signature
+   Points: 7
+   Comments: 0
+   URL: https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html
+
+15. Can you build a recognizable World Map in under 500 bytes?
+   Points: 22
+   Comments: 27
+   URL: https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes
+
+16. Drone Physics
+   Points: 84
+   Comments: 25
+   URL: https://iahmed.me/post/drone-physics/
+
+17. Egg consumption inversely correlated with Alzheimer's
+   Points: 27
+   Comments: 6
+   URL: https://pubmed.ncbi.nlm.nih.gov/42002260/
+
+18. Drone Autonomy Crash Course
+   Points: 7
+   Comments: 0
+   URL: https://www.cggonzalez.com/blog/index.html
+
+19. Protocol Prying: Vulnerability Research in AirDrop and Quick Share
+   Points: 13
+   Comments: 1
+   URL: https://arxiv.org/abs/2606.26967
+
+20. It's not me, it's the compiler
+   Points: 59
+   Comments: 11
+   URL: https://parsa.wtf/cast/
+
