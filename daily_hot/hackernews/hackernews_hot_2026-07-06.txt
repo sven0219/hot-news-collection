@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-06
+==================================================
+
+1. GPT-5.6 Sol Ultra will be in Codex
+   Points: 32
+   Comments: 9
+   URL: https://twitter.com/thsottiaux/status/2073933490513752151
+
+2. OpenPrinter
+   Points: 448
+   Comments: 112
+   URL: https://www.opentools.studio/
+
+3. Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills
+   Points: 77
+   Comments: 22
+   URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt
+
+4. Has_not_been_viewed_much
+   Points: 79
+   Comments: 22
+   URL: https://iamwillwang.com/notes/has-not-been-viewed-much/
+
+5. Organic Maps
+   Points: 817
+   Comments: 226
+   URL: https://organicmaps.app/
+
+6. Show HN: Homegames. An open-source game platform I've been making for 8 years
+   Points: 90
+   Comments: 30
+   URL: https://homegames.io
+
+7. Completing a computer science degree on Coursera
+   Points: 100
+   Comments: 66
+   URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera
+
+8. It's not about physical vs. digital games, it's about ownership
+   Points: 323
+   Comments: 236
+   URL: https://popcar.bearblog.dev/its-about-ownership/
+
+9. Does Code Cleanliness Affect Coding Agents?
+   Points: 24
+   Comments: 3
+   URL: https://arxiv.org/abs/2605.20049
+
+10. Connections in Math: the two kinds of random
+   Points: 20
+   Comments: 9
+   URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/
+
+11. The future of Flipper Zero development
+   Points: 231
+   Comments: 95
+   URL: https://blog.flipper.net/future-of-flipper-zero-development/
+
+12. New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]
+   Points: 131
+   Comments: 79
+   URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf
+
+13. The Private Capture of Public Genius
+   Points: 20
+   Comments: 2
+   URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius
+
+14. Composite Video on the NES: Why's it so wobbly?
+   Points: 47
+   Comments: 6
+   URL: https://nicole.express/2026/phase-altering-by-line.html
+
+15. Starring the Computer
+   Points: 169
+   Comments: 41
+   URL: https://www.starringthecomputer.com/computers.html
+
+16. Mr. Baby Paint and accidentally discovering a new cellular automata
+   Points: 112
+   Comments: 24
+   URL: https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/
+
+17. The Sneakerweb
+   Points: 3
+   Comments: 0
+   URL: https://sneakerweb.org/
+
+18. Delta flight hit by firework while landing at Midway Airport on Fourth of July
+   Points: 70
+   Comments: 72
+   URL: https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/
+
+19. DNSGlobe – Rust TUI to watch DNS propagate around the world
+   Points: 26
+   Comments: 20
+   URL: https://github.com/514-labs/dnsglobe
+
+20. A Forlorn Hope of Fortran Modernisation
+   Points: 8
+   Comments: 1
+   URL: https://amenzwa.github.io/stem/PL/FortranModernisation/
+
