@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-09
+==================================================
+
+1. John Deere owners will get the right to repair equipment under FTC settlement
+   Points: 284
+   Comments: 59
+   URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
+
+2. Separating signal from noise in coding evaluations
+   Points: 158
+   Comments: 61
+   URL: https://openai.com/index/separating-signal-from-noise-coding-evaluations/
+
+3. A software engineering interview question I like: computing the median
+   Points: 26
+   Comments: 11
+   URL: https://krisshamloo.com/blog/007
+
+4. Chatto is now open source
+   Points: 737
+   Comments: 195
+   URL: https://www.hmans.dev/blog/chatto-is-open-source
+
+5. Remote Attestation
+   Points: 19
+   Comments: 9
+   URL: https://www.liamcvw.com/p/remote-attestation
+
+6. Mistral's Robostral Navigate: a state of the art robotics navigation model
+   Points: 415
+   Comments: 96
+   URL: https://mistral.ai/news/robostral-navigate/
+
+7. Unicode's transliteration rules are Turing-complete
+   Points: 35
+   Comments: 6
+   URL: https://seriot.ch/computation/uts35/
+
+8. Show HN: Microsoft releases Flint, a visualization language for AI agents
+   Points: 203
+   Comments: 75
+   URL: https://microsoft.github.io/flint-chart/#/
+
+9. Cloudflare Drop
+   Points: 253
+   Comments: 131
+   URL: https://www.cloudflare.com/drop/
+
+10. We made Grok 4.5, GPT-5.5, and Claude build the same apps
+   Points: 62
+   Comments: 23
+   URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off
+
+11. Rewriting Bun in Rust
+   Points: 19
+   Comments: 3
+   URL: https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/
+
+12. Grok 4.5
+   Points: 475
+   Comments: 591
+   URL: https://x.ai/news/grok-4-5
+
+13. MIRA: Multiplayer Interactive World Models Trained on Rocket League
+   Points: 14
+   Comments: 3
+   URL: https://mira-wm.com/
+
+14. Patching MechCommander's "left arm bug" for fun and profit
+   Points: 7
+   Comments: 0
+   URL: https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/
+
+15. Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line
+   Points: 54
+   Comments: 14
+   URL: https://www.yamanote.fun/
+
+16. Turning a pile of documents into a searchable useable knowledge base
+   Points: 75
+   Comments: 12
+   URL: https://github.com/linuxrebel/DocuBrowser
+
+17. FAANG Simulator
+   Points: 279
+   Comments: 110
+   URL: https://www.abeyk.com/escape-the-rat-race/
+
+18. GPT‑Live
+   Points: 602
+   Comments: 406
+   URL: https://openai.com/index/introducing-gpt-live/
+
+19. Rewriting Bun in Rust
+   Points: 287
+   Comments: 155
+   URL: https://bun.com/blog/bun-in-rust
+
+20. A bug which affected only left handed users
+   Points: 85
+   Comments: 43
+   URL: https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/
+
