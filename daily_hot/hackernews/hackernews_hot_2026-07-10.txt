@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-10
+==================================================
+
+1. Show HN: Getting GLM 5.2 running on my slow computer
+   Points: 383
+   Comments: 101
+   URL: https://github.com/JustVugg/colibri
+
+2. EU Parliament greenlights Chat Control 1.0
+   Points: 995
+   Comments: 478
+   URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+
+3. GPT-5.6
+   Points: 1065
+   Comments: 777
+   URL: https://openai.com/index/gpt-5-6/
+
+4. Show HN: 18 Words
+   Points: 823
+   Comments: 284
+   URL: https://18words.com/
+
+5. Train sim created by just one person is being called the best ever made
+   Points: 286
+   Comments: 112
+   URL: https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429
+
+6. Interview with Mitchell Hashimoto about Ghostty and Zig
+   Points: 120
+   Comments: 45
+   URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/
+
+7. Hy3
+   Points: 388
+   Comments: 83
+   URL: https://hy.tencent.com/research/hy3
+
+8. My Story of 3D Realms / Apogee Part I (2020)
+   Points: 28
+   Comments: 0
+   URL: https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/
+
+9. Star Just Ate a Planet, and It's Not Done Yet
+   Points: 5
+   Comments: 1
+   URL: https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html
+
+10. Triple Dragon Fractal (2020)
+   Points: 12
+   Comments: 3
+   URL: https://paulbourke.net/fractals/tripledragon/
+
+11. Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
+   Points: 379
+   Comments: 393
+   URL: https://github.com/malisper/pgrust
+
+12. Focus
+   Points: 8
+   Comments: 0
+   URL: https://boz.com/articles/focus
+
+13. Build your own vulnerability harness
+   Points: 5
+   Comments: 0
+   URL: https://blog.cloudflare.com/build-your-own-vulnerability-harness/
+
+14. No leap second will be introduced at the end of December 2026
+   Points: 235
+   Comments: 181
+   URL: https://datacenter.iers.org/data/latestVersion/bulletinC.txt
+
+15. A road to Lisp: Why Lisp
+   Points: 114
+   Comments: 109
+   URL: https://scotto.me/blog/2026-07-09-why-lisp/
+
+16. The glass backbone: Why the Army's logistics will break in the next war
+   Points: 292
+   Comments: 382
+   URL: https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/
+
+17. Girls just wanna have fast MPMC queues with bounded waiting
+   Points: 137
+   Comments: 31
+   URL: https://nahla.dev/blog/waitfree_queue/
+
+18. Launch HN: Context.dev (YC S26) – API to get structured data from any website
+   Points: 72
+   Comments: 54
+   URL: https://www.context.dev
+
+19. Building a real-time AI tutor for 5-year-olds
+   Points: 38
+   Comments: 53
+   URL: https://www.ello.com/blog/teaching-a-child-in-1000-ms
+
+20. Cache-Conscious Data Layout in Rust: Field Zoning, False Sharing, 128-Byte Rule
+   Points: 5
+   Comments: 0
+   URL: https://debasishg.github.io/blog/part1-cache-conscious-data-layout-in-rust/
+
