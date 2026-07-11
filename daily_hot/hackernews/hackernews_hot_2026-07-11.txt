@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-11
+==================================================
+
+1. Einstein's relativity rules chemical bonds in heavy elements, new research shows
+   Points: 75
+   Comments: 36
+   URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity
+
+2. Apple sues OpenAI, accuses ex-employees of stealing trade secrets
+   Points: 481
+   Comments: 235
+   URL: https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/
+
+3. QuadRF can spot drones and see WiFi through my wall
+   Points: 448
+   Comments: 172
+   URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+
+4. FreeCAD in the Browser
+   Points: 10
+   Comments: 4
+   URL: https://magik.net/freecad/
+
+5. GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]
+   Points: 343
+   Comments: 277
+   URL: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf
+
+6. An update on residential proxies and the scraper situation
+   Points: 76
+   Comments: 64
+   URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/
+
+7. An iroh powered smart fan
+   Points: 7
+   Comments: 0
+   URL: https://www.iroh.computer/blog/an-iroh-powered-smart-fan
+
+8. The tech of 'Terminator 2' – an oral history (2017)
+   Points: 160
+   Comments: 66
+   URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/
+
+9. Combustion engine web-based simulator
+   Points: 117
+   Comments: 51
+   URL: https://combustionlab.net
+
+10. New York City to to ban deceptive subscription practices
+   Points: 408
+   Comments: 210
+   URL: https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban
+
+11. SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth
+   Points: 66
+   Comments: 210
+   URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/
+
+12. Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit
+   Points: 38
+   Comments: 13
+   URL: https://mimo.xiaomi.com/blog/mimo-v2-5-inference
+
+13. Preemption is GC for memory reordering (2019)
+   Points: 10
+   Comments: 0
+   URL: https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/
+
+14. Good Tools Are Invisible
+   Points: 357
+   Comments: 165
+   URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/
+
+15. Moss (YC F25) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk
+
+16. AI 2040: Plan A
+   Points: 142
+   Comments: 134
+   URL: https://ai-2040.com/
+
+17. Computation as a universal and fundamental concept
+   Points: 83
+   Comments: 70
+   URL: https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept
+
+18. Late Bronze Age Collapse
+   Points: 317
+   Comments: 225
+   URL: https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/
+
+19. Alternate clock designs and time systems
+   Points: 94
+   Comments: 56
+   URL: https://serialc.github.io/altClocks/
+
+20. War Atlas: An interactive cartography of every named war in human history
+   Points: 111
+   Comments: 57
+   URL: https://waratlas.org
+
