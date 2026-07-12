@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-12
+==================================================
+
+1. Mesh LLM: distributed AI computing on iroh
+   Points: 84
+   Comments: 22
+   URL: https://www.iroh.computer/blog/mesh-llm
+
+2. Show HN: Ant – A JavaScript runtime and ecosystem
+   Points: 176
+   Comments: 77
+   URL: https://antjs.org
+
+3. RISCBoy is an open-source portable games console, designed from scratch
+   Points: 58
+   Comments: 15
+   URL: https://github.com/Wren6991/RISCBoy
+
+4. The fine print that follows you out the door: non-compete clauses are spreading
+   Points: 26
+   Comments: 34
+   URL: https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/
+
+5. A dock that wakes up reliably
+   Points: 12
+   Comments: 8
+   URL: https://fabiensanglard.net/tb4/index.html
+
+6. Long Covid May Physically Damage the Nerves That Control the Stomach
+   Points: 18
+   Comments: 1
+   URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext
+
+7. Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom
+   Points: 156
+   Comments: 56
+   URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom
+
+8. Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts
+   Points: 50
+   Comments: 5
+   URL: https://arxiv.org/abs/2607.07267
+
+9. A public ledger of cloud outages and the SLA credits they trigger
+   Points: 8
+   Comments: 2
+   URL: https://slacreditwatch.com
+
+10. A pure scheme web programming tool
+   Points: 3
+   Comments: 1
+   URL: https://goeteia.dev
+
+11. We scaled PgBouncer to 4x throughput
+   Points: 180
+   Comments: 36
+   URL: https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres
+
+12. UPI: Anatomy of a Payment Transaction
+   Points: 97
+   Comments: 33
+   URL: https://timeseriesofindia.com/economy/reads/upi-architecture/
+
+13. I Did Not Kill Stanley Lieber: How to Draw (With 9front)
+   Points: 4
+   Comments: 0
+   URL: https://triapul.cz/automa/i_did_not_kill_stanley_lieber
+
+14. Prefer strict tables in SQLite
+   Points: 217
+   Comments: 108
+   URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/
+
+15. The early History of the Singular Value Decomposition (1993) [pdf]
+   Points: 89
+   Comments: 53
+   URL: https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf
+
+16. Doctors die. It's not like the rest of us, but it should be (2016)
+   Points: 58
+   Comments: 35
+   URL: https://archive.cancerworld.net/featured/how-doctors-die/
+
+17. Biff.graph: structure your Clojure codebase as a queryable graph
+   Points: 82
+   Comments: 2
+   URL: https://github.com/jacobobryant/biff/tree/v2.x/libs/graph
+
+18. Show HN: Learn by rebuilding Redis, Git, a database from scratch
+   Points: 126
+   Comments: 35
+   URL: https://shipthatcode.com
+
+19. Show HN: Orbit – AR satellite tracker, watch 15k+ objects
+   Points: 58
+   Comments: 17
+   URL: https://nagylukas.github.io/orbit.html
+
+20. ZeroFS vs. Amazon S3 Files
+   Points: 52
+   Comments: 16
+   URL: https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/
+
