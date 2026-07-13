@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-13
+==================================================
+
+1. Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS
+   Points: 296
+   Comments: 151
+   URL: https://scrapfly.dev/posts/browser-math-os-fingerprint/
+
+2. Cyberpunk Comics, Manga and Graphic Novels
+   Points: 71
+   Comments: 15
+   URL: https://shellzine.net/cyberpunk-comics/
+
+3. Tiny Emulators
+   Points: 143
+   Comments: 7
+   URL: https://floooh.github.io/tiny8bit-preview/index.html
+
+4. Designing and assembling my first PCB
+   Points: 42
+   Comments: 4
+   URL: https://vilkeliskis.com/b/2026/0711.html
+
+5. So you want to learn physics (second edition, 2021)
+   Points: 94
+   Comments: 7
+   URL: https://www.susanrigetti.com/physics
+
+6. Why Vanilla JavaScript
+   Points: 34
+   Comments: 15
+   URL: https://guseyn.com/html/posts/why-vanilla-js.html
+
+7. Ask HN: What Are You Working On? (July 2026)
+   Points: 72
+   Comments: 181
+   URL: https://news.ycombinator.com/item?id=48884984
+
+8. Old and new apps, via modern coding agents
+   Points: 413
+   Comments: 119
+   URL: https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/
+
+9. Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper
+   Points: 138
+   Comments: 46
+   URL: https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6
+
+10. Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k
+   Points: 464
+   Comments: 262
+   URL: https://systima.ai/blog/claude-code-vs-opencode-token-overhead
+
+11. A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed
+   Points: 13
+   Comments: 0
+   URL: https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/
+
+12. Kode Dot Programmable pocket device for makers, pentesters and geeks
+   Points: 41
+   Comments: 9
+   URL: https://kode.diy
+
+13. How we can reduce traffic congestion
+   Points: 77
+   Comments: 83
+   URL: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/
+
+14. LARP – Revenue infrastructure for serious founders
+   Points: 160
+   Comments: 36
+   URL: https://www.larp.website/
+
+15. Architecture Description Languages [pdf]
+   Points: 18
+   Comments: 1
+   URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf
+
+16. I Learned to Read Again
+   Points: 99
+   Comments: 41
+   URL: https://substack.magazinenongrata.com/p/how-i-learned-to-read-again
+
+17. Why write code in 2026
+   Points: 107
+   Comments: 148
+   URL: https://softwaredoug.com/blog/2026/07/09/write-code
+
+18. Profiling the "Abundance" housing bottleneck with real data
+   Points: 22
+   Comments: 10
+   URL: https://laxmena.com/same-capacity-less-throughput
+
+19. Ask HN: Add flag for AI-generated articles
+   Points: 6
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=48886741
+
+20. Automation Without Understanding
+   Points: 93
+   Comments: 40
+   URL: https://arxiv.org/abs/2607.06377
+
