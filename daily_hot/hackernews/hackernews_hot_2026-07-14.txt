@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-14
+==================================================
+
+1. Building and shipping Mac and iOS apps without opening Xcode
+   Points: 293
+   Comments: 131
+   URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
+
+2. Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor
+   Points: 442
+   Comments: 179
+   URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html
+
+3. The Git history command deserves more attention
+   Points: 9
+   Comments: 1
+   URL: https://lalitm.com/post/git-history/
+
+4. An Englishwoman who sketched India before photography took hold
+   Points: 36
+   Comments: 4
+   URL: https://www.bbc.com/news/articles/cm2drrv6q54o
+
+5. N+1
+   Points: 29
+   Comments: 3
+   URL: https://www.woman-of-letters.com/p/n1
+
+6. What are Forward Deployed Engineers, and why are they so in demand? (2025)
+   Points: 36
+   Comments: 40
+   URL: https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers
+
+7. The art and engineering of Sega CD Silpheed
+   Points: 221
+   Comments: 44
+   URL: https://fabiensanglard.net/silpheed/index.html
+
+8. ESBMC-Arduino: Closing the Deployment Gap for Formal Verification
+   Points: 3
+   Comments: 0
+   URL: https://arxiv.org/abs/2607.08550
+
+9. Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?
+   Points: 99
+   Comments: 22
+   URL: https://cakehonolulu.github.io/linux-on-32x/
+
+10. The infinite scroll may become endangered if controversial Calif. law passes
+   Points: 69
+   Comments: 117
+   URL: https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php
+
+11. What did SFFA vs. Harvard reveal about admissions?
+   Points: 7
+   Comments: 0
+   URL: https://sorting-machine.pages.dev/
+
+12. Show HN: YouTube Guitar Tab Parser
+   Points: 66
+   Comments: 47
+   URL: https://github.com/marcelpanse/youtube-guitar-tab-parser
+
+13. Show HN: Jacquard, a programming language for AI-written, human-reviewed code
+   Points: 45
+   Comments: 19
+   URL: https://github.com/jbwinters/jacquard-lang
+
+14. TFTP Honey Pot Results
+   Points: 54
+   Comments: 25
+   URL: https://bruceediger.com/posts/tftp-honeypot-results/
+
+15. SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)
+   Points: 1
+   Comments: 0
+   URL: https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7
+
+16. Mawlynnong, India, transformed by tourism, bans visitors on Sundays
+   Points: 61
+   Comments: 46
+   URL: https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays
+
+17. Telegram's t.me domain has been suspended
+   Points: 245
+   Comments: 182
+   URL: https://www.whois.com/whois/t.me
+
+18. Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices
+   Points: 13
+   Comments: 15
+   URL: https://hackney.app/
+
+19. Samsung Health app threatens data deletion if users opt out AI training
+   Points: 261
+   Comments: 69
+   URL: https://neow.in/cWsyMTV3
+
+20. Former NOAA employees built Climate.us to preserve climate data and resources
+   Points: 424
+   Comments: 165
+   URL: https://19thnews.org/2026/07/noaa-climate-data-website/
+
