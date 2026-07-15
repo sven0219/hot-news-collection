@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-15
+==================================================
+
+1. Vancouver PD website features Quick Escape button that wipes itself from history
+   Points: 30
+   Comments: 9
+   URL: https://vpd.ca/
+
+2. Bonsai 27B: A 27B-Class model that runs on a phone
+   Points: 420
+   Comments: 160
+   URL: https://prismml.com/news/bonsai-27b
+
+3. Dependabot version updates introduce default package cooldown
+   Points: 88
+   Comments: 58
+   URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/
+
+4. Financing the AI boom: from cash flows to debt [pdf]
+   Points: 77
+   Comments: 30
+   URL: https://www.bis.org/publ/bisbull120.pdf
+
+5. The Tower Keeps Rising
+   Points: 331
+   Comments: 159
+   URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/
+
+6. Cursor 0day: When Full Disclosure Becomes the Only Protection Left
+   Points: 245
+   Comments: 104
+   URL: https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left
+
+7. How I use HTMX with Go
+   Points: 105
+   Comments: 22
+   URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go
+
+8. Your 'app' could have been a webpage (so I fixed it for you)
+   Points: 706
+   Comments: 434
+   URL: https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/
+
+9. LeMario: Training a JEPA World Model on Super Mario Bros
+   Points: 35
+   Comments: 3
+   URL: https://www.benjamin-bai.com/projects/lemario
+
+10. Mathematical texts from a Maya site in Guatemala identify an ancient astronomer
+   Points: 31
+   Comments: 5
+   URL: https://www.nature.com/articles/d41586-026-02170-8
+
+11. TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access
+   Points: 3
+   Comments: 0
+   URL: https://tailscale.com/security-bulletins
+
+12. Unlocking the PSP's Dual Core Setup
+   Points: 37
+   Comments: 4
+   URL: https://wololo.net/2026/06/16/unlocking-the-psps-dual-core-setup/
+
+13. C++20 Improved the For-Loop Syntax
+   Points: 17
+   Comments: 11
+   URL: https://lzon.ca/posts/tips/cpp-for-range-init/
+
+14. How to stop Claude from saying load-bearing
+   Points: 430
+   Comments: 493
+   URL: https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing
+
+15. The largest available Minecraft world, totalling 15 TB
+   Points: 160
+   Comments: 55
+   URL: https://2b2t.place/1million
+
+16. The Estranged Worlds of J. G. Ballard
+   Points: 35
+   Comments: 6
+   URL: https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/
+
+17. Guardian Angels: LLM Personalization for Productivity and Security
+   Points: 55
+   Comments: 7
+   URL: https://gwern.net/guardian-angel
+
+18. I'm a USB-C Maximalist
+   Points: 151
+   Comments: 260
+   URL: https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/
+
+19. The kids with phones are alright
+   Points: 120
+   Comments: 81
+   URL: https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/
+
+20. The zero-cost fallacy: open-source software in the agentic era
+   Points: 104
+   Comments: 78
+   URL: https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era
+
