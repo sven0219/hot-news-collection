@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-16
+==================================================
+
+1. Inkling: Our Open-Weights Model
+   Points: 660
+   Comments: 165
+   URL: https://thinkingmachines.ai/news/introducing-inkling/
+
+2. SQLite should have (Rust-style) editions
+   Points: 103
+   Comments: 39
+   URL: https://mort.coffee/home/sqlite-editions/
+
+3. Grok Build is open source
+   Points: 243
+   Comments: 291
+   URL: https://github.com/xai-org/grok-build
+
+4. Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)
+   Points: 35
+   Comments: 7
+   URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials
+
+5. Governments, companies, nonprofits should invest in free, open source AI [pdf]
+   Points: 76
+   Comments: 28
+   URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf
+
+6. LLM Networking with MikroTik
+   Points: 43
+   Comments: 8
+   URL: https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html
+
+7. Stripe and Advent have made a joint offer to acquire PayPal – sources
+   Points: 334
+   Comments: 205
+   URL: https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/
+
+8. Nul Characters in Strings in SQLite
+   Points: 28
+   Comments: 2
+   URL: https://sqlite.org/nulinstr.html
+
+9. The Anti-Mac User Interface (1996)
+   Points: 48
+   Comments: 13
+   URL: https://www.nngroup.com/articles/anti-mac-interface/
+
+10. Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU
+   Points: 227
+   Comments: 150
+   URL: https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/
+
+11. Duskers, the scary command line game, is getting a sequel
+   Points: 90
+   Comments: 16
+   URL: https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20
+
+12. Show HN: One More Letter
+   Points: 21
+   Comments: 18
+   URL: https://playonemoreletter.com/
+
+13. Command Line Interface Guidelines
+   Points: 60
+   Comments: 8
+   URL: https://clig.dev/
+
+14. Book prizes don't work how you think
+   Points: 62
+   Comments: 35
+   URL: https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think
+
+15. Brainless: Shadcn components that look like Claude Code, Codex and Grok
+   Points: 86
+   Comments: 17
+   URL: https://brainless.swerdlow.dev
+
+16. Voxatron
+   Points: 58
+   Comments: 19
+   URL: https://www.lexaloffle.com/voxatron.php
+
+17. Prioritize mental health, and why communication is so important
+   Points: 289
+   Comments: 249
+   URL: https://ramones.dev/posts/mental-health/
+
+18. Mysteries of Telegram Data Centers (2022)
+   Points: 240
+   Comments: 131
+   URL: https://dev.moe/en/3025
+
+19. Show HN: Firefox in WebAssembly
+   Points: 124
+   Comments: 69
+   URL: https://developer.puter.com/labs/firefox-wasm/
+
+20. Collection of Digital Clock Designs
+   Points: 173
+   Comments: 36
+   URL: https://clocks.dev
+
