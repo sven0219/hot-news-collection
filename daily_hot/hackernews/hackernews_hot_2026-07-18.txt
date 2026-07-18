@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-18
+==================================================
+
+1. Kaiser nurses say AI, workplace surveillance are making their jobs, care worse
+   Points: 249
+   Comments: 149
+   URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/
+
+2. AWS: Inaccurate Estimated Billing Data – $1.7 billion
+   Points: 1040
+   Comments: 638
+   URL: https://news.ycombinator.com/item?id=48945241
+
+3. Thanks HN for 15 years of support and helping me find my life's work
+   Points: 303
+   Comments: 28
+   URL: https://news.ycombinator.com/item?id=48949551
+
+4. The Zilog Z80 has turned 50
+   Points: 161
+   Comments: 48
+   URL: https://goliath32.com/blog/z80.html
+
+5. The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold
+   Points: 29
+   Comments: 2
+   URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier
+
+6. First atmosphere found on Earth-like planet in habitable zone of distant star
+   Points: 361
+   Comments: 226
+   URL: https://www.bbc.com/news/articles/cy4kdd1e0ejo
+
+7. DrDroid (YC W23) Is Hiring
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory
+
+8. Vāgdhenu: A Sanskrit Chanting TTS System
+   Points: 33
+   Comments: 1
+   URL: https://prathosh.in/vagdhenu/
+
+9. Learning a few things about running SQLite
+   Points: 160
+   Comments: 39
+   URL: https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/
+
+10. Kimi K3, and what we can still learn from the pelican benchmark
+   Points: 275
+   Comments: 144
+   URL: https://simonwillison.net/2026/Jul/16/kimi-k3/
+
+11. Texas wins court order to suspend domain name for violating age-verification law
+   Points: 107
+   Comments: 115
+   URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and
+
+12. Static search trees: 40x faster than binary search (2024)
+   Points: 41
+   Comments: 3
+   URL: https://curiouscoding.nl/posts/static-search-tree/
+
+13. Open Book Touch: open-source e-reader
+   Points: 49
+   Comments: 11
+   URL: https://www.crowdsupply.com/oddly-specific-objects/open-book-touch
+
+14. Topcoat: The full full-stack framework for Rust
+   Points: 35
+   Comments: 24
+   URL: https://github.com/tokio-rs/topcoat
+
+15. Painting the sides of railroad rails white to reduce derailment
+   Points: 40
+   Comments: 10
+   URL: https://www.up.com/news/safety/Tracking-Rail-Heat-260608
+
+16. FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again
+   Points: 112
+   Comments: 67
+   URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html
+
+17. The state of open source AI
+   Points: 368
+   Comments: 267
+   URL: https://stateofopensource.ai/
+
+18. Lego building instructions through time
+   Points: 56
+   Comments: 9
+   URL: https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time
+
+19. Show HN: Instrumation a PYPI library for Instruments
+   Points: 3
+   Comments: 1
+   URL: https://github.com/abduznik/instrumation
+
+20. Show HN: A zoomable timeline of 4M Wikipedia events
+   Points: 54
+   Comments: 23
+   URL: https://app.everything.diena.co/
+
