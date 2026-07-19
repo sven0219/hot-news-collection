@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-19
+==================================================
+
+1. Speech Recognition and TTS in less than 500kb
+   Points: 257
+   Comments: 30
+   URL: https://github.com/moonshine-ai/moonshine/tree/main/micro
+
+2. Transcribe.cpp
+   Points: 15
+   Comments: 2
+   URL: https://workshop.cjpais.com/projects/transcribe-cpp
+
+3. Classic Amiga titles, free to download
+   Points: 45
+   Comments: 7
+   URL: https://amigafreeware.downer.tech/
+
+4. Better and Cheaper Than IPTV
+   Points: 5
+   Comments: 0
+   URL: https://github.com/stupside/castor
+
+5. GPT-5.6 used a prompt to close a 30-year gap in convex optimization
+   Points: 492
+   Comments: 322
+   URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
+
+6. If You Build It, They Will Come
+   Points: 265
+   Comments: 97
+   URL: https://www.benlandautaylor.com/p/if-you-build-it-they-will-come
+
+7. Mayor Mamdani Says Landlords Can't Use AI Images to Advertise
+   Points: 177
+   Comments: 86
+   URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/
+
+8. Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day
+   Points: 71
+   Comments: 55
+   URL: https://www.neatnik.net/hardcore-indieweb
+
+9. Judge a book by its first pages
+   Points: 40
+   Comments: 31
+   URL: https://uncovered.ink
+
+10. I'm Making Strandfall, a Solarpunk Orienteering Larp
+   Points: 91
+   Comments: 18
+   URL: https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/
+
+11. Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]
+   Points: 26
+   Comments: 4
+   URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf
+
+12. Codex Resets
+   Points: 73
+   Comments: 58
+   URL: https://codex-resets.com/
+
+13. Gleam Is Now on Tangled
+   Points: 205
+   Comments: 133
+   URL: https://tangled.org/gleam.run/gleam
+
+14. Is this the end of the once-mighty GoPro?
+   Points: 190
+   Comments: 404
+   URL: https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/
+
+15. Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?
+   Points: 210
+   Comments: 106
+   URL: https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/
+
+16. Co-evolution of self-replication and function in a digital primordial soup
+   Points: 21
+   Comments: 4
+   URL: https://arxiv.org/abs/2607.09211
+
+17. Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind
+   Points: 65
+   Comments: 22
+   URL: https://deepmind.google/blog/our-approach-to-bioresilience/
+
+18. Elixir-lang.org has a new design
+   Points: 164
+   Comments: 102
+   URL: https://elixir-lang.org/
+
+19. LG monitors silently install software through Windows Update without consent
+   Points: 991
+   Comments: 506
+   URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent
+
+20. Setting up your spare Mac for Claude Code to control, a step-by-step guide
+   Points: 173
+   Comments: 131
+   URL: https://ykdojo.github.io/claude-controls-mac/
+
