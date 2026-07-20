@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-20
+==================================================
+
+1. Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s
+   Points: 1532
+   Comments: 169
+   URL: https://news.ycombinator.com/item?id=48968606
+
+2. Biggest Probabilistic Computer Turns Noise into Answers
+   Points: 36
+   Comments: 4
+   URL: https://spectrum.ieee.org/biggest-probabilistic-computer
+
+3. The Zen of Parallel Programming
+   Points: 106
+   Comments: 10
+   URL: https://smolnero.com/posts/the-zen-of-parallel-programming
+
+4. A new Intel Itanium (IA-64) emulator that boots Windows
+   Points: 49
+   Comments: 33
+   URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html
+
+5. What I learned selling 2,500 MIDI recorders: Hardware is not so hard
+   Points: 405
+   Comments: 196
+   URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
+
+6. Claude Code uses Bun written in Rust now
+   Points: 392
+   Comments: 554
+   URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/
+
+7. Minecraft: Java Edition now uses SDL3
+   Points: 270
+   Comments: 178
+   URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4
+
+8. Talk: The Art of Braiding Algorithms
+   Points: 21
+   Comments: 0
+   URL: https://pgadey.ca/notes/talk-relatorium-2026/
+
+9. OpenAI reduces Codex Model Context Size from 372k to 272k
+   Points: 317
+   Comments: 149
+   URL: https://github.com/openai/codex/pull/33972/files
+
+10. Who Is America's Homer?
+   Points: 35
+   Comments: 71
+   URL: https://www.plough.com/articles/who-is-americas-homer
+
+11. Bananas sprout in Rayleigh Garden UK after 15 years
+   Points: 125
+   Comments: 88
+   URL: https://www.bbc.com/news/articles/cvg8edqq5g5o
+
+12. HomeLab #1: MikroTik as a Home Router
+   Points: 67
+   Comments: 50
+   URL: https://justsomebody.dev/blog/mikrotik-home-router
+
+13. 11,700 Free Photos from John Margolies' Archive of Americana Architecture
+   Points: 28
+   Comments: 1
+   URL: https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html
+
+14. Orion Browser by Kagi
+   Points: 56
+   Comments: 60
+   URL: https://orionbrowser.com/
+
+15. Qwen 3.8
+   Points: 784
+   Comments: 553
+   URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291
+
+16. AI advice made people less accurate but more confident – sudy
+   Points: 275
+   Comments: 153
+   URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study
+
+17. HMD Touch 4G
+   Points: 59
+   Comments: 60
+   URL: https://www.hmd.com/en_int/hmd-touch-4g
+
+18. C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)
+   Points: 60
+   Comments: 4
+   URL: https://retrogamecoders.com/c64-basic-dungeon-part8/
+
+19. Cagire: Live Coding in Forth
+   Points: 78
+   Comments: 11
+   URL: https://cagire.raphaelforment.fr
+
+20. Dupes took over the world
+   Points: 60
+   Comments: 51
+   URL: https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping
+
