@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-21
+==================================================
+
+1. Who's afraid of Chinese models?
+   Points: 234
+   Comments: 160
+   URL: https://stratechery.com/2026/whos-afraid-of-chinese-models/
+
+2. Kimi Work
+   Points: 393
+   Comments: 180
+   URL: https://www.kimi.com/products/kimi-work
+
+3. Human mathematicians are being outcounterexampled
+   Points: 199
+   Comments: 72
+   URL: https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/
+
+4. Jelly UI: Soft-body physics for native HTML form controls
+   Points: 334
+   Comments: 135
+   URL: https://jelly-ui.com/
+
+5. Hacker wipes Romania's land registry database
+   Points: 567
+   Comments: 323
+   URL: https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/
+
+6. Nativ: Run frontier open models locally on your Mac
+   Points: 171
+   Comments: 69
+   URL: https://blaizzy.github.io/nativ/
+
+7. Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco
+   Points: 70
+   Comments: 14
+   URL: https://vincentwoo.com/3d/grace_cathedral/
+
+8. The Psychology of Software Teams
+   Points: 18
+   Comments: 3
+   URL: https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389
+
+9. Jellyfin founder Andrew leaves team
+   Points: 15
+   Comments: 2
+   URL: https://forum.jellyfin.org/t-project-leadership-changes
+
+10. Airport Simulator
+   Points: 696
+   Comments: 142
+   URL: https://airport.apunen.com/
+
+11. Agent swarms and the new model economics
+   Points: 118
+   Comments: 48
+   URL: https://cursor.com/blog/agent-swarm-model-economics
+
+12. Show HN: I made email signatures less boring
+   Points: 3
+   Comments: 1
+   URL: https://esigna.app
+
+13. China’s open-weights AI strategy is winning
+   Points: 976
+   Comments: 776
+   URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
+
+14. LEDs’ potential to save our night skies
+   Points: 208
+   Comments: 160
+   URL: https://spectrum.ieee.org/led-light-pollution
+
+15. Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12
+   Points: 59
+   Comments: 74
+   URL: https://news.ycombinator.com/item?id=48981136
+
+16. I wrote an bash enumerator because I was sick of xargs
+   Points: 54
+   Comments: 49
+   URL: https://numerlab.org/2025/07/20/bashumerate-enumerator/
+
+17. My two year old taught me constraint solving
+   Points: 27
+   Comments: 14
+   URL: https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/
+
+18. Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)
+   Points: 146
+   Comments: 65
+   URL: https://nothings.org/gamedev/ssao/
+
+19. How we measured AI writing across arXiv, and where the measurement breaks
+   Points: 193
+   Comments: 140
+   URL: https://unslop.run/blog/measuring-ai-writing-on-arxiv
+
+20. Perfection is not over-engineering
+   Points: 192
+   Comments: 88
+   URL: https://var0.xyz/posts/perfection-is-not-over-engineering.html
+
