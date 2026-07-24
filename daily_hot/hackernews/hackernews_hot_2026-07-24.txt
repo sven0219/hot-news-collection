@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-24
+==================================================
+
+1. 98.css
+   Points: 203
+   Comments: 37
+   URL: https://jdan.github.io/98.css/#status-bar
+
+2. Writing by hand is good for your brain
+   Points: 973
+   Comments: 478
+   URL: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your
+
+3. The Visual 6502
+   Points: 37
+   Comments: 12
+   URL: http://visual6502.org/JSSim/index.html
+
+4. Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models
+   Points: 225
+   Comments: 112
+   URL: https://news.ycombinator.com/item?id=49026810
+
+5. The Beam Engine
+   Points: 157
+   Comments: 51
+   URL: https://glinscott.github.io/beam-engine/
+
+6. What else do people draw on gradient.horse?
+   Points: 60
+   Comments: 13
+   URL: https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/
+
+7. What happened to TheNumbers.com
+   Points: 292
+   Comments: 125
+   URL: https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all
+
+8. A taxonomy of omnicidal futures involving artificial intelligence (2025)
+   Points: 47
+   Comments: 35
+   URL: https://arxiv.org/abs/2507.09369
+
+9. Startup founders urge U.S. government not to shut off Chinese open weight AI
+   Points: 719
+   Comments: 644
+   URL: https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992
+
+10. A24 Is Copyright Striking Backrooms Artwork Older Than the Movie
+   Points: 99
+   Comments: 32
+   URL: https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/
+
+11. Building on ATProto
+   Points: 125
+   Comments: 59
+   URL: https://lukekanies.com/writing/building-on-atproto/
+
+12. Why Software Factories Fail (or: harness engineering is not enough)
+   Points: 171
+   Comments: 142
+   URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md
+
+13. Software rendering in 500 lines of bare C++
+   Points: 242
+   Comments: 47
+   URL: https://haqr.eu/tinyrenderer/
+
+14. Interview with Matheus Moreira about Lone Lisp and Linux Kernel
+   Points: 36
+   Comments: 6
+   URL: https://alexalejandre.com/interviews/interview-with-matheus-moreira/
+
+15. Learn OpenGL, extensive tutorial resource for learning Modern OpenGL
+   Points: 174
+   Comments: 99
+   URL: https://learnopengl.com/
+
+16. Show HN: Palmier Pro – Open-source macOS video editor built for AI
+   Points: 118
+   Comments: 18
+   URL: https://github.com/palmier-io/palmier-pro
+
+17. DARPA, U.S. Air Force fly AI-controlled F-16
+   Points: 178
+   Comments: 202
+   URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16
+
+18. Astronomers may have found the first exomoon
+   Points: 191
+   Comments: 76
+   URL: https://www.eso.org/public/news/eso2610/
+
+19. Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents
+   Points: 58
+   Comments: 49
+   URL: https://news.ycombinator.com/item?id=49024620
+
+20. A solid-state “atomic channel” for separating rare earth elements
+   Points: 70
+   Comments: 17
+   URL: https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements
+
