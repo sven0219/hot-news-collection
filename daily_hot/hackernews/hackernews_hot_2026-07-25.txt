@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-25
+==================================================
+
+1. Claude Opus 5
+   Points: 1297
+   Comments: 703
+   URL: https://www.anthropic.com/news/claude-opus-5
+
+2. Postgres LISTEN/NOTIFY actually scales
+   Points: 198
+   Comments: 37
+   URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability
+
+3. Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard
+   Points: 137
+   Comments: 80
+   URL: https://artificialanalysis.ai/models
+
+4. Sperm Whales blow bubbles to achieve restful, vertical sleep
+   Points: 26
+   Comments: 1
+   URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/
+
+5. My security camera shipped a GitHub admin token in its login page
+   Points: 509
+   Comments: 176
+   URL: https://hhh.hn/hanwha-github-token/
+
+6. Show HN: I simulated closing the Strait of Hormuz on real oil trade data
+   Points: 92
+   Comments: 40
+   URL: https://globaloilnetwork.staffinganalytics.io/
+
+7. India's first privately-developed rocket reaches orbit on debut launch
+   Points: 488
+   Comments: 144
+   URL: https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/
+
+8. AIs don't do what you want. This is bad
+   Points: 59
+   Comments: 37
+   URL: https://rewardhacking.org
+
+9. Designing an Ethernet Switch ASIC
+   Points: 102
+   Comments: 31
+   URL: https://essenceia.github.io/projects/ethernet_switch_asic/
+
+10. If coding has been solved, why does software keep getting worse?
+   Points: 524
+   Comments: 410
+   URL: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/
+
+11. An old patent inspired the new "Y-zipper", a three-sided fastener
+   Points: 128
+   Comments: 30
+   URL: https://news.mit.edu/2026/three-sided-y-zipper-design-0504
+
+12. Nvidia, Microsoft, Meta warn against overregulating open-weight models
+   Points: 495
+   Comments: 230
+   URL: https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html
+
+13. Kimi K3 exploited the latest Redis server
+   Points: 135
+   Comments: 39
+   URL: https://twitter.com/fried_rice/status/2080059356322918777
+
+14. Fil-C: Garbage In, Memory Safety Out [video]
+   Points: 103
+   Comments: 98
+   URL: https://www.youtube.com/watch?v=5F-2Y1LPRek
+
+15. Half-Life 2 running natively on HaikuOS
+   Points: 268
+   Comments: 51
+   URL: https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18
+
+16. Firefox Containers Preview
+   Points: 222
+   Comments: 79
+   URL: https://blog.mozilla.org/en/firefox/firefox-containers-preview/
+
+17. Don't Take the Black Pill [video]
+   Points: 122
+   Comments: 85
+   URL: https://www.youtube.com/watch?v=zLZwpH5lCD4
+
+18. Marimo now runs in PyCharm
+   Points: 76
+   Comments: 16
+   URL: https://marimo.io/blog/pycharm
+
+19. Gsxui – Shadcn-style components for Go
+   Points: 55
+   Comments: 8
+   URL: https://ui.gsxhq.dev/
+
+20. IRGC claims it destroyed Amazon's Bahrain data center
+   Points: 240
+   Comments: 309
+   URL: https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/
+
