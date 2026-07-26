@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-26
+==================================================
+
+1. DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
+   Points: 62
+   Comments: 28
+   URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf
+
+2. Stolen Buttons
+   Points: 568
+   Comments: 132
+   URL: https://anatolyzenkov.com/stolen-buttons
+
+3. Systems and Delays
+   Points: 10
+   Comments: 1
+   URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html
+
+4. GM Backs Sodium Ion Batteries for U.S. Grid Storage
+   Points: 121
+   Comments: 37
+   URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy
+
+5. The new rules of context engineering for Claude 5 generation models
+   Points: 159
+   Comments: 106
+   URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+
+6. Clinical Failure Rates over the Decades: Yikes
+   Points: 36
+   Comments: 20
+   URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes
+
+7. Cloudflare's new AI traffic options for customers
+   Points: 27
+   Comments: 8
+   URL: https://blog.cloudflare.com/content-independence-day-ai-options/
+
+8. SIMD for Collision
+   Points: 50
+   Comments: 15
+   URL: https://box2d.org/posts/2026/07/simd-for-collision/
+
+9. Turn And Face The Strange
+   Points: 140
+   Comments: 109
+   URL: https://fly.io/blog/kurt-scott-money-sprites/
+
+10. LLM Usage in Debian: Three Proposals
+   Points: 67
+   Comments: 61
+   URL: https://www.debian.org/vote/2026/vote_002
+
+11. Show HN: I made some transistor animations
+   Points: 131
+   Comments: 15
+   URL: https://brandonli.net/semisim/animations
+
+12. Running a 28.9M parameter LLM on an $8 microcontroller
+   Points: 71
+   Comments: 7
+   URL: https://github.com/slvDev/esp32-ai
+
+13. Star Axis
+   Points: 13
+   Comments: 2
+   URL: https://en.wikipedia.org/wiki/Star_Axis
+
+14. Open-weight AI is having its Kubernetes moment
+   Points: 308
+   Comments: 252
+   URL: https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/
+
+15. Memory Safety Absolutists
+   Points: 58
+   Comments: 61
+   URL: https://itsallaboutthebit.com/memory-safety-absolutists/
+
+16. Producing ammonia and fertiliser using wind power in Morris, Minnesota
+   Points: 88
+   Comments: 60
+   URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/
+
+17. GDID Windows – Cut the tracker that follows you even under VPN
+   Points: 103
+   Comments: 78
+   URL: https://korben.info/en/gdid-windows-cut-tracker-vpn.html
+
+18. Show HN: Brolly, a plain-text weather forecast site
+   Points: 130
+   Comments: 43
+   URL: https://brolly.sh/forecast/RWFP2qW8
+
+19. Did They Ghost You?
+   Points: 294
+   Comments: 124
+   URL: https://didtheyghostyou.com/
+
+20. Zero roadkill as Amazon canopy bridges secure 15,000 crossings
+   Points: 293
+   Comments: 92
+   URL: https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/
+
