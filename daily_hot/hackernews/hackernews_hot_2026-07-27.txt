@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-27
+==================================================
+
+1. PGSimCity - How PostgreSQL Works
+   Points: 75
+   Comments: 13
+   URL: https://nikolays.github.io/PGSimCity/
+
+2. Decker, a platform that builds on the legacy of Hypercard and classic macOS
+   Points: 222
+   Comments: 54
+   URL: https://beyondloom.com/decker/
+
+3. Show HN: Physically accurate black hole you can put in your room
+   Points: 17
+   Comments: 1
+   URL: https://blackhole.plav.in
+
+4. We have proof automation now
+   Points: 73
+   Comments: 9
+   URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
+
+5. French firefighters face 'pyrocumulonimbus' for first time
+   Points: 181
+   Comments: 91
+   URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time
+
+6. Teaching Kids Forth
+   Points: 50
+   Comments: 13
+   URL: https://gracefulliberty.com/articles/teaching-kids-forth/
+
+7. US citizen charged after GrapheneOS phone wipes during airport search
+   Points: 149
+   Comments: 79
+   URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+
+8. Simulate cassette tape audio profiles using FFmpeg
+   Points: 73
+   Comments: 39
+   URL: https://github.com/AARomanov1985/Audio-Cassette-Simulation
+
+9. Introduction to Data-Oriented Design [pdf]
+   Points: 108
+   Comments: 33
+   URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf
+
+10. Design is compromise
+   Points: 195
+   Comments: 73
+   URL: https://stephango.com/design-is-compromise
+
+11. I Championed Prediction Markets. Look What They've Become
+   Points: 18
+   Comments: 32
+   URL: https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look
+
+12. Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy
+   Points: 358
+   Comments: 111
+   URL: https://swag.htmx.org/en-cad/products/htmx-4-the-game
+
+13. Plasma Tunnels Reveal How Dying Satellites Fall to Earth
+   Points: 42
+   Comments: 24
+   URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up
+
+14. Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs
+   Points: 104
+   Comments: 22
+   URL: https://github.com/gmrandazzo/CheapSecurity
+
+15. How to Write English Prose
+   Points: 72
+   Comments: 38
+   URL: https://thelampmagazine.com/blog/how-to-write-english-prose
+
+16. Fonts In Use – Find out where a font is used
+   Points: 12
+   Comments: 0
+   URL: https://fontsinuse.com/
+
+17. How to Block Some of the Bots
+   Points: 81
+   Comments: 90
+   URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/
+
+18. How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster
+   Points: 69
+   Comments: 11
+   URL: https://astgrep.com/blog/tree-sitter-rust-rewrite
+
+19. Go Analysis Framework: modular static analysis by go team
+   Points: 179
+   Comments: 39
+   URL: https://pkg.go.dev/golang.org/x/tools/go/analysis
+
+20. How the Atmos clock functions
+   Points: 4
+   Comments: 0
+   URL: https://atmos-atelier.de/en/atmos-uhr/
+
