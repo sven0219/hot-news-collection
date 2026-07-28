@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-28
+==================================================
+
+1. Our position on open-weights models
+   Points: 427
+   Comments: 581
+   URL: https://www.anthropic.com/news/position-open-weights-models
+
+2. Benchmarking Opus 5 on SlopCodeBench
+   Points: 104
+   Comments: 24
+   URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md
+
+3. DConf 2026 in London
+   Points: 41
+   Comments: 14
+   URL: https://dconf.org/2026/index.html
+
+4. Astronauts describe persistent 'observer' sensation after 6 month missions
+   Points: 33
+   Comments: 11
+   URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/
+
+5. Watching Go's new garbage collector move through the heap
+   Points: 169
+   Comments: 17
+   URL: https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html
+
+6. C/C++ projects packaged for Zig
+   Points: 23
+   Comments: 13
+   URL: https://github.com/allyourcodebase
+
+7. Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals
+   Points: 60
+   Comments: 22
+   URL: https://www.rise-reforming.com
+
+8. The Burau representation of the braid group is faithful for n = 4
+   Points: 11
+   Comments: 5
+   URL: https://arxiv.org/abs/2607.05283
+
+9. Self-contained highly-portable Python distributions
+   Points: 110
+   Comments: 22
+   URL: https://gregoryszorc.com/docs/python-build-standalone/main/
+
+10. Glue bonds to nonstick surfaces and wipes clean with ethanol
+   Points: 150
+   Comments: 83
+   URL: https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07
+
+11. Securing Services with Rootless Containers
+   Points: 57
+   Comments: 21
+   URL: https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/
+
+12. Three Theses on the Literacy Crisis
+   Points: 7
+   Comments: 1
+   URL: https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis
+
+13. Hard Road – A beautiful procedural post-apocalyptic game
+   Points: 28
+   Comments: 10
+   URL: https://hardroad.xyz/
+
+14. A missing underscore sent innocent man to prison for 18 months
+   Points: 126
+   Comments: 65
+   URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/
+
+15. Ray tracing massive amounts of animated geometry using tetrahedral cages
+   Points: 65
+   Comments: 9
+   URL: https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/
+
+16. The computer that helped win World War II
+   Points: 172
+   Comments: 70
+   URL: https://spectrum.ieee.org/colossus-computer-ieee-milestone
+
+17. Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)
+   Points: 225
+   Comments: 157
+   URL: https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/
+
+18. Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles
+   Points: 134
+   Comments: 44
+   URL: https://eaton-works.com/2026/07/27/my-eicher-hack/
+
+19. Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped
+   Points: 255
+   Comments: 99
+   URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/
+
+20. Paged Out #9 [pdf]
+   Points: 176
+   Comments: 22
+   URL: https://pagedout.institute/download/PagedOut_009.pdf
+
