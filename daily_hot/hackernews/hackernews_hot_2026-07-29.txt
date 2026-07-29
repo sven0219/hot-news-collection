@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-29
+==================================================
+
+1. Codex Security
+   Points: 336
+   Comments: 91
+   URL: https://github.com/openai/codex-security
+
+2. Half-Life ported to Mac OS 9
+   Points: 137
+   Comments: 57
+   URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/
+
+3. Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript
+   Points: 110
+   Comments: 35
+   URL: https://github.com/twalichiewicz/HNewhere
+
+4. Substack writers, you need a website
+   Points: 411
+   Comments: 209
+   URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
+
+5. Hubble: Open-source notetaking app for you and your agents
+   Points: 25
+   Comments: 3
+   URL: https://www.hubble.md/
+
+6. Teach yourself programming in ten years (1998)
+   Points: 31
+   Comments: 1
+   URL: https://www.norvig.com/21-days.html
+
+7. The Difference Between a Button and a Link
+   Points: 20
+   Comments: 4
+   URL: https://unplannedobsolescence.com/blog/buttons-vs-links/
+
+8. Steel Bank Common Lisp version 2.6.7
+   Points: 196
+   Comments: 82
+   URL: https://sbcl.org/all-news.html?2.6.7
+
+9. ReFrame – The EPaper Camera
+   Points: 18
+   Comments: 6
+   URL: https://reframe.camera/
+
+10. Show HN: Learning Rust by writing a Markdown to HTML compiler
+   Points: 5
+   Comments: 0
+   URL: https://andreadimatteo.com/md-to-html-compiler.html
+
+11. Kimi K3 Architecture Overview and Notes
+   Points: 304
+   Comments: 40
+   URL: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
+
+12. Delayed Gratification – Proud to Be 'Last to Breaking News'
+   Points: 235
+   Comments: 136
+   URL: https://www.slow-journalism.com/
+
+13. The iPhone Upgrade Program is being replaced by Apple Upgrade
+   Points: 138
+   Comments: 247
+   URL: https://www.apple.com/shop/iphone/iphone-upgrade-program
+
+14. Zig's Incremental Compilation Internals
+   Points: 193
+   Comments: 134
+   URL: https://mlugg.co.uk/posts/incremental-compilation-internals/
+
+15. Pacing the frontier
+   Points: 76
+   Comments: 63
+   URL: https://www.pacingthefrontier.com/
+
+16. Lightweight Spring Boot Monitoring Without Prometheus and Grafana
+   Points: 5
+   Comments: 0
+   URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html
+
+17. Discovering Cryptographic Weaknesses with Claude
+   Points: 177
+   Comments: 120
+   URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses
+
+18. The Fabled Flatbreads of Uzbekistan (2015)
+   Points: 73
+   Comments: 54
+   URL: https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan
+
+19. Show HN: How far do I have to go to run into 100k people?
+   Points: 47
+   Comments: 35
+   URL: https://imjasonh.github.io/playground/population-rays/
+
+20. MCP 2026-07-28 Specification: transport going stateless
+   Points: 99
+   Comments: 34
+   URL: https://blog.modelcontextprotocol.io/posts/2026-07-28/
+
