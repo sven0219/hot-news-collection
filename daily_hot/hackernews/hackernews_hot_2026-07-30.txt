@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-07-30
+==================================================
+
+1. AI's top startups are barely publishing their research
+   Points: 183
+   Comments: 100
+   URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research
+
+2. The coolest use for the Vision Pro
+   Points: 374
+   Comments: 174
+   URL: https://christianselig.com/2026/07/vision-pro-house/
+
+3. Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
+   Points: 644
+   Comments: 223
+   URL: https://github.com/drumih/turbo-fieldfare
+
+4. Superlogical
+   Points: 515
+   Comments: 317
+   URL: https://www.superlogical.com/
+
+5. LLM Honeypot
+   Points: 38
+   Comments: 15
+   URL: https://llm2human.pages.dev/
+
+6. The Cold Email
+   Points: 84
+   Comments: 35
+   URL: https://zachholman.com/posts/cold-email
+
+7. Keychron announces first open-source firmware for gaming mice
+   Points: 285
+   Comments: 107
+   URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice
+
+8. Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident
+   Points: 289
+   Comments: 170
+   URL: https://huggingface.co/blog/agent-intrusion-technical-timeline
+
+9. The Productivity Mirage
+   Points: 34
+   Comments: 6
+   URL: https://frantic.im/mirage/
+
+10. KOReader
+   Points: 662
+   Comments: 211
+   URL: https://koreader.rocks/
+
+11. Kimi K3-256k
+   Points: 336
+   Comments: 97
+   URL: https://www.kimi.com/code/docs/en/kimi-code/models
+
+12. Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman
+   Points: 10
+   Comments: 1
+   URL: https://www.staszewski.xyz/blog/recursive-filters/
+
+13. A.I. companies are recruiting electricians and carpenters by the thousands
+   Points: 211
+   Comments: 270
+   URL: https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html
+
+14. Show HN: A local merge queue for parallel Claude Code agents
+   Points: 11
+   Comments: 1
+   URL: https://github.com/funador/claude-code-merge-queue
+
+15. SalesPatriot (YC W25) Is Hiring FDEs
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer
+
+16. Document-borne AI worms can self-propagate through Copilot for Word
+   Points: 341
+   Comments: 259
+   URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/
+
+17. Handbook.md shows that long policy documents do not reliably govern agents
+   Points: 289
+   Comments: 181
+   URL: https://arxiv.org/abs/2607.25398
+
+18. A Trampoline
+   Points: 67
+   Comments: 38
+   URL: https://dogdogfish.com/blog/2026/07/29/a-trampoline/
+
+19. Turning a dumb AC unit smart (without losing my security deposit)
+   Points: 104
+   Comments: 86
+   URL: https://prilik.com/blog/post/automating-ac-nyc/
+
+20. Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)
+   Points: 17
+   Comments: 9
+   URL: https://archive.org/details/mancomputerbyjoh0000john
+
