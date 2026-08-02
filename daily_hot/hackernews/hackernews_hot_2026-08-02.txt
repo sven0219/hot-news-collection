@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-02
+==================================================
+
+1. AI financial advice is surprisingly good, especially if you ask right questions
+   Points: 153
+   Comments: 94
+   URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions
+
+2. Seedance 2.5
+   Points: 166
+   Comments: 70
+   URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5
+
+3. Diátaxis
+   Points: 186
+   Comments: 29
+   URL: https://diataxis.fr/
+
+4. Postmortem for Kernel Soundness Bug #14576
+   Points: 114
+   Comments: 40
+   URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/
+
+5. RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
+   Points: 18
+   Comments: 1
+   URL: https://www.rfc-editor.org/rfc/rfc10015.html
+
+6. Unraveling the mysteries of habit formation
+   Points: 32
+   Comments: 10
+   URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28
+
+7. But can your calculator run Linux?
+   Points: 60
+   Comments: 4
+   URL: https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html
+
+8. CISA Alert: Water Sector PLC Targeting
+   Points: 71
+   Comments: 46
+   URL: https://censys.com/blog/cisa-alert-water-tower-plc-targeting/
+
+9. The Art of 64-bit Assembly
+   Points: 187
+   Comments: 86
+   URL: https://nostarch.com/art-64-bit-assembly-v2
+
+10. How Google helped destroy adoption of RSS feeds (2023)
+   Points: 397
+   Comments: 140
+   URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds
+
+11. We accidentally built an LLVM compiler for Jax
+   Points: 8
+   Comments: 1
+   URL: https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/
+
+12. Morph (YC S23) Is Hiring Member of Technical Staff
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff
+
+13. RipGrep musl binaries occasionally segfault during very-large searches
+   Points: 250
+   Comments: 167
+   URL: https://github.com/BurntSushi/ripgrep/issues/3494
+
+14. Nyctography: A substituton cypher by Lewis Carroll
+   Points: 50
+   Comments: 5
+   URL: https://en.wikipedia.org/wiki/Nyctography
+
+15. NetBSD 11.0
+   Points: 217
+   Comments: 92
+   URL: https://blog.netbsd.org/tnf/entry/netbsd_11_0_released
+
+16. Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga
+   Points: 97
+   Comments: 59
+   URL: https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe
+
+17. Explorative modeling: Train on the best of K guesses
+   Points: 77
+   Comments: 23
+   URL: https://alexiglad.github.io/blog/2026/explorative_modeling/
+
+18. Anime User Interfaces
+   Points: 83
+   Comments: 15
+   URL: https://animeuserinterface.tumblr.com
+
+19. Glyphs 4 – the leading Mac font editor
+   Points: 53
+   Comments: 8
+   URL: https://glyphsapp.com
+
+20. Linux on ESP32
+   Points: 99
+   Comments: 36
+   URL: https://github.com/GrieferPig/esp32-s31-linux
+
