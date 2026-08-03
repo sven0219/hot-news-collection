@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-03
+==================================================
+
+1. Why Book Corners won't sync contributions back to OpenStreetMap
+   Points: 32
+   Comments: 12
+   URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
+
+2. Karpathy’s Pelican
+   Points: 437
+   Comments: 338
+   URL: https://twitter.com/karpathy/status/2083749667410727319
+
+3. CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+   Points: 13
+   Comments: 2
+   URL: https://github.com/johnsonjh/cpm386
+
+4. Autoregressive Language Model on the 6502 Processor
+   Points: 56
+   Comments: 5
+   URL: https://mattbeton.com/blog/bitnet-6502.html
+
+5. Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
+   Points: 181
+   Comments: 38
+   URL: https://github.com/wie-project/kakehashi
+
+6. Note-Taking and Personal Knowledge Management
+   Points: 127
+   Comments: 38
+   URL: https://unattributed.cc/note-taking-and-personal-knowledge-management
+
+7. RFC 9851: TLS 1.2 is in Feature Freeze
+   Points: 6
+   Comments: 0
+   URL: https://www.rfc-editor.org/rfc/rfc9851.html
+
+8. Read the Novels and Forget Everything Else
+   Points: 53
+   Comments: 25
+   URL: https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else
+
+9. Developers are attached to tools because tools encode trust
+   Points: 150
+   Comments: 74
+   URL: https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/
+
+10. The Computational Theory of Mind (2015)
+   Points: 31
+   Comments: 9
+   URL: https://plato.stanford.edu/entries/computational-mind/
+
+11. Show HN: Mu – Tools for Agents
+   Points: 30
+   Comments: 8
+   URL: https://github.com/micro/mu
+
+12. Show HN: ssh ssh.place
+   Points: 4
+   Comments: 2
+   URL: https://ssh.place
+
+13. Show HN: Make your Framework 12 sound like a creaky door
+   Points: 49
+   Comments: 5
+   URL: https://github.com/ArcaEge/creakwork12
+
+14. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
+   Points: 96
+   Comments: 29
+   URL: https://github.com/graham33/nixos-dgx-spark
+
+15. TinyNES Review – A Super Niche NES Console
+   Points: 33
+   Comments: 4
+   URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/
+
+16. Show HN: Isopolis – isometric pixel map of SF
+   Points: 12
+   Comments: 2
+   URL: https://sf.isopolis.city/
+
+17. Playing with Georgia
+   Points: 8
+   Comments: 4
+   URL: https://mighil.com/playing-with-georgia
+
+18. F*: A general-purpose proof-oriented programming language
+   Points: 155
+   Comments: 67
+   URL: https://fstar-lang.org/
+
+19. My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."
+   Points: 103
+   Comments: 46
+   URL: https://frogs.vaguespac.es/
+
+20. Twenty Years of RISC OS Open
+   Points: 152
+   Comments: 29
+   URL: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open
+
