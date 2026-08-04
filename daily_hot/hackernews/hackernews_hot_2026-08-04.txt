@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-04
+==================================================
+
+1. LLMs reward expertise
+   Points: 405
+   Comments: 182
+   URL: https://www.seangoedecke.com/llms-reward-expertise/
+
+2. Ten advances in mathematics and theoretical computer science
+   Points: 419
+   Comments: 701
+   URL: https://openai.com/index/ten-advances-in-mathematics/
+
+3. Ask HN: Who is hiring? (August 2026)
+   Points: 94
+   Comments: 99
+   URL: https://news.ycombinator.com/item?id=49156683
+
+4. Devtools must be open source
+   Points: 496
+   Comments: 177
+   URL: https://blog.exe.dev/devtools-must-be-open-source
+
+5. Amazonian civilization had estimated 3M people in 3% of forest area
+   Points: 9
+   Comments: 3
+   URL: https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization
+
+6. Windows XP 2002 for the Itanium: Unbridled rage
+   Points: 47
+   Comments: 20
+   URL: https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/
+
+7. Ask HN: Who wants to be hired? (August 2026)
+   Points: 46
+   Comments: 169
+   URL: https://news.ycombinator.com/item?id=49156682
+
+8. Smaller, faster, safer: running Kimi and GLM at scale
+   Points: 140
+   Comments: 39
+   URL: https://blog.cloudflare.com/smaller-faster-safer-models/
+
+9. MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video
+   Points: 250
+   Comments: 79
+   URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui
+
+10. Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years
+   Points: 122
+   Comments: 35
+   URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase
+
+11. Prevent cognitive debt by manually retyping LLM-generated code
+   Points: 380
+   Comments: 321
+   URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
+
+12. 200 Milliseconds
+   Points: 183
+   Comments: 58
+   URL: https://200ms.thenodebook.com
+
+13. Andy Pavlo joins ClickHouse to establish ClickHouse Labs
+   Points: 269
+   Comments: 56
+   URL: https://clickhouse.com/blog/andy-pavlo-joins-clickhouse
+
+14. ZX Spectrum System Tour: Text Mode
+   Points: 17
+   Comments: 0
+   URL: https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/
+
+15. Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents
+   Points: 57
+   Comments: 50
+   URL: https://hoplite.sh
+
+16. Replacing the Kobo Libra H2O Battery
+   Points: 44
+   Comments: 13
+   URL: https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/
+
+17. Frame selection is the whole game: notes on making LLMs watch video
+   Points: 7
+   Comments: 0
+   URL: https://leoaido.com/how-llms-watch-video/
+
+18. How Hollywood stopped making movies in Hollywood
+   Points: 164
+   Comments: 190
+   URL: https://www.statsignificant.com/p/how-hollywood-stopped-making-movies
+
+19. The Dunning-Kruger effect may just be a data artefact (2020)
+   Points: 120
+   Comments: 125
+   URL: https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real
+
+20. Bonsai: Janestreet's UI Library
+   Points: 300
+   Comments: 125
+   URL: https://github.com/janestreet/bonsai
+
