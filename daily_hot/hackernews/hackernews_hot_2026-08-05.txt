@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-05
+==================================================
+
+1. libexpat now funded by the City of Munich for up to 6 months
+   Points: 108
+   Comments: 4
+   URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/
+
+2. Eight Myths on Software Engineering and GenAI
+   Points: 46
+   Comments: 15
+   URL: https://queue.acm.org/detail.cfm?id=3807963
+
+3. Pi's Minimalism Is Its Advantage
+   Points: 80
+   Comments: 20
+   URL: https://earendil.com/posts/pi-autoresearch-and-databricks/
+
+4. I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel
+   Points: 156
+   Comments: 78
+   URL: https://twitter.com/gwern/status/2084739205071343837
+
+5. We finally learned to center a div, then browsers added sidebars
+   Points: 51
+   Comments: 38
+   URL: https://seg6.space/posts/center-div/
+
+6. Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+   Points: 302
+   Comments: 74
+   URL: https://mistral.ai/news/shieldstral/
+
+7. DuckDB – Data power tools for your laptop, now in Clojure (2023)
+   Points: 48
+   Comments: 5
+   URL: https://techascent.com/blog/just-ducking-around.html
+
+8. IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay
+   Points: 29
+   Comments: 3
+   URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/
+
+9. Pass the Passkey: A Novel Attack Surface in Passwordless Authentication
+   Points: 33
+   Comments: 25
+   URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/
+
+10. Show HN: Simple algorithm and color space to generate diverse skin tones
+   Points: 459
+   Comments: 87
+   URL: https://toneyalexander.github.io/inclusive-color-space/
+
+11. FIPS 140-3 is not a security guarantee, and auditors know it
+   Points: 23
+   Comments: 8
+   URL: https://808bits.com/articles/fips-140-3-not-a-security-guarantee/
+
+12. In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years
+   Points: 901
+   Comments: 48
+   URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/
+
+13. AI fuels more than half of cybercrime in Africa as scams surge – Interpol
+   Points: 130
+   Comments: 89
+   URL: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/
+
+14. Bugtraq Is Back
+   Points: 9
+   Comments: 2
+   URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/
+
+15. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+   Points: 13
+   Comments: 4
+   URL: https://arxiv.org/abs/2603.04221
+
+16. Show HN: SIMD Viterbi Decoder in Rust
+   Points: 19
+   Comments: 1
+   URL: https://github.com/brian-armstrong/fec
+
+17. Flowise Is Shutting Down
+   Points: 10
+   Comments: 3
+   URL: https://flowiseai.com/sunset
+
+18. Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone
+   Points: 43
+   Comments: 11
+   URL: https://deepgrove.ai/maple-preview
+
+19. Waymo in Dallas
+   Points: 246
+   Comments: 352
+   URL: https://waymo.com/blog/shorts/dallas-open-to-all/
+
+20. Godox Transparent Viewfinder Camera C100
+   Points: 6
+   Comments: 0
+   URL: https://www.godox.com/product-e/C100.html
+
