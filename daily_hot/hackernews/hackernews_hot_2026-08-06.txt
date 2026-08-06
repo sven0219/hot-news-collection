@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-06
+==================================================
+
+1. Discovery Loop
+   Points: 582
+   Comments: 369
+   URL: https://www.discoveryloop.com/
+
+2. Zed DeltaDB
+   Points: 296
+   Comments: 147
+   URL: https://zed.dev/deltadb
+
+3. The title cards in Blade Runner are amazing
+   Points: 129
+   Comments: 53
+   URL: https://randsinrepose.com/archives/blade-runner-title-cards/
+
+4. Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs
+   Points: 462
+   Comments: 583
+   URL: https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/
+
+5. Beating GPT-5.6 Sol on retrieval with 100x cheaper open models
+   Points: 219
+   Comments: 39
+   URL: https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency
+
+6. Muse Code and Muse Spark 1.2
+   Points: 166
+   Comments: 102
+   URL: https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2
+
+7. Prime Agent: A self-improving RLM agent
+   Points: 99
+   Comments: 17
+   URL: https://www.primeintellect.ai/blog/prime-agent
+
+8. NVIDIA’s Vera Whitepaper Has a Thread Loose
+   Points: 80
+   Comments: 9
+   URL: https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread
+
+9. Atlassian Rovo Exfiltrates Data, Bypassing Controls
+   Points: 165
+   Comments: 67
+   URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data
+
+10. Born Against, or why hobby programming communities are against LLM usage
+   Points: 123
+   Comments: 137
+   URL: https://blog.fogus.me/llm/born-against.html
+
+11. Cloudflare OS: an open platform for agents, apps, and work
+   Points: 468
+   Comments: 231
+   URL: https://blog.cloudflare.com/cloudflare-os/
+
+12. I'll be stepping back from leading product for X
+   Points: 53
+   Comments: 67
+   URL: https://twitter.com/nikitabier/status/2085105586966827343/
+
+13. I'm switching my phone from Android to Linux
+   Points: 199
+   Comments: 165
+   URL: https://runarcn.no/android-to-linux/
+
+14. Something is changing in the unit economics of software
+   Points: 20
+   Comments: 16
+   URL: https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/
+
+15. GNU Hurd News 2026-Q2
+   Points: 121
+   Comments: 89
+   URL: https://www.gnu.org/software/hurd/news/2026-q2.html
+
+16. Celld: Self-hosted, distributed Durable Objects
+   Points: 141
+   Comments: 22
+   URL: https://github.com/denoland/celld
+
+17. Exact, parallel 2D Delaunay triangulation for int32 coordinates
+   Points: 28
+   Comments: 1
+   URL: https://github.com/morishuz/delaunay32
+
+18. Pushing the limits of RISC-V emulation
+   Points: 22
+   Comments: 5
+   URL: https://shuklaayu.sh/blog/riscv-recompiler
+
+19. Goodhart's Law Comes for Every Benchmark You Trust
+   Points: 62
+   Comments: 29
+   URL: https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/
+
+20. Position: LLMs Can't Jump
+   Points: 239
+   Comments: 164
+   URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
+
