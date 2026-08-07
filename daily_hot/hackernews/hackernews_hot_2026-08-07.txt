@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-07
+==================================================
+
+1. AMD acquires Taalas to boost inference performance by etching models in silicon
+   Points: 378
+   Comments: 299
+   URL: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344
+
+2. Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun
+   Points: 143
+   Comments: 27
+   URL: https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/
+
+3. Mario Meets Pareto
+   Points: 877
+   Comments: 150
+   URL: https://www.mayerowitz.io/blog/mario-meets-pareto
+
+4. Welcoming the Nepalese Government to Have I Been Pwned
+   Points: 84
+   Comments: 14
+   URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/
+
+5. I stopped trusting USB-C cable labels and started testing them
+   Points: 75
+   Comments: 45
+   URL: https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/
+
+6. Taste Is All That's Left
+   Points: 213
+   Comments: 168
+   URL: https://notashelf.dev/posts/taste-is-all-thats-left
+
+7. Bioengineered chewing gum may offer a way to fight HPV and other microbes
+   Points: 52
+   Comments: 8
+   URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm
+
+8. Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)
+   Points: 62
+   Comments: 2
+   URL: https://www.aleksagordic.com/blog/vllm
+
+9. Herdr is joining Y Combinator. The runtime stays open
+   Points: 146
+   Comments: 101
+   URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/
+
+10. Almost no skill required to cook a steak
+   Points: 279
+   Comments: 322
+   URL: https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/
+
+11. Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks
+   Points: 187
+   Comments: 131
+   URL: https://provenmetal.com
+
+12. Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users
+   Points: 150
+   Comments: 113
+   URL: https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/
+
+13. GitHub Actions and Pages are experiencing degraded availability
+   Points: 325
+   Comments: 273
+   URL: https://www.githubstatus.com/incidents/qcvjkzcs7j74
+
+14. The Sylvester–Gallai Theorem
+   Points: 18
+   Comments: 1
+   URL: https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/
+
+15. Why Estonians invite strangers into their back gardens each summer
+   Points: 15
+   Comments: 3
+   URL: https://www.bbc.com/travel/article/20260731-why-estonians-invite-strangers-into-their-backyards-each-summer
+
+16. STV: A full-motion video codec for the Atari ST
+   Points: 18
+   Comments: 1
+   URL: https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4
+
+17. Humans missed 1 in 3 threats approving AI agent commands across 40k game runs
+   Points: 257
+   Comments: 192
+   URL: https://scalex.dev/blog/ai-agent-permissions-stats/
+
+18. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
+   Points: 57
+   Comments: 28
+   URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7
+
+19. My phone detects going on a run as “someone snatching my phone and running off”
+   Points: 90
+   Comments: 165
+   URL: https://mastodon.gamedev.place/@rygorous/117047697255584965
+
+20. Quake – 30th Anniversary Update
+   Points: 216
+   Comments: 107
+   URL: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update
+
