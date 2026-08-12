@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-12
+==================================================
+
+1. CFTC declares market emergency, orders Kalshi to continue to operate in New York
+   Points: 37
+   Comments: 7
+   URL: https://www.cftc.gov/PressRoom/PressReleases/9281-26
+
+2. WorldClaw Agentic 3D open-world generation at scale
+   Points: 104
+   Comments: 37
+   URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/
+
+3. Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
+   Points: 171
+   Comments: 86
+   URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
+
+4. Compression is prediction
+   Points: 231
+   Comments: 100
+   URL: https://ngrok.com/blog/compression-is-prediction
+
+5. Mojo 1.0
+   Points: 276
+   Comments: 126
+   URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here
+
+6. Stealing Reasoning Traces from Proprietary LLM APIs
+   Points: 482
+   Comments: 201
+   URL: https://stolen-thoughts.com/
+
+7. OpenAI’s head of ethics leaves less than a year after joining
+   Points: 266
+   Comments: 340
+   URL: https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0
+
+8. Making holograms with a pen plotter
+   Points: 109
+   Comments: 11
+   URL: https://blog.jordan.matelsky.com/Penplotter-holography/
+
+9. Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo
+   Points: 196
+   Comments: 199
+   URL: https://photosynthesis.camera
+
+10. Go is an ideal language for AI-assisted software engineering
+   Points: 250
+   Comments: 299
+   URL: https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/
+
+11. Grok Bot
+   Points: 118
+   Comments: 116
+   URL: https://x.ai/bot
+
+12. US hires over 2k video gamers as air traffic controllers
+   Points: 43
+   Comments: 28
+   URL: https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/
+
+13. Show HN: Tamron Lens Utility Alternative on Linux
+   Points: 16
+   Comments: 0
+   URL: https://github.com/yikerman/tamron-lens-control
+
+14. pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
+   Points: 31
+   Comments: 2
+   URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026
+
+15. How we used to get jobs: A newspaper classifieds story
+   Points: 104
+   Comments: 87
+   URL: https://ironicsans.ghost.io/how-we-used-to-get-jobs/
+
+16. England set to be one of the first countries to eliminate hepatitis C
+   Points: 483
+   Comments: 348
+   URL: https://www.bbc.com/news/articles/c75gk620r22o
+
+17. Suzanne: AI tool for designing and manufacturing physical products
+   Points: 30
+   Comments: 25
+   URL: https://www.suzanne3d.com/
+
+18. Jolt: Clojure compiler implemented with Chez Scheme
+   Points: 142
+   Comments: 52
+   URL: https://jolt-lang.github.io
+
+19. Manus will return to operating as an independent company
+   Points: 130
+   Comments: 68
+   URL: https://manus.im/blog/a-note-to-our-users
+
+20. Nvidia's Risky Business
+   Points: 288
+   Comments: 137
+   URL: https://stratechery.com/2026/nvidias-risky-business/
+
