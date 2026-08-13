@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-13
+==================================================
+
+1. DeepSeek V4 Pro 0813
+   Points: 720
+   Comments: 271
+   URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813
+
+2. Delta
+   Points: 374
+   Comments: 122
+   URL: https://zed.dev/blog/introducing-delta
+
+3. Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
+   Points: 779
+   Comments: 140
+   URL: https://tailscale.com/blog/sqlite-wal-reset-bug
+
+4. Happy 45th Birthday to the IBM PC and Model F/XT
+   Points: 18
+   Comments: 1
+   URL: https://sharktastica.co.uk/articles/pc-fxt-45
+
+5. Qwen3.8-2.4T
+   Points: 482
+   Comments: 102
+   URL: https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B
+
+6. What's New in Flutter 3.47
+   Points: 22
+   Comments: 12
+   URL: https://flutter.dev/blog/whats-new-in-flutter-3-47
+
+7. Principia Mathematica is modern and insightful
+   Points: 23
+   Comments: 2
+   URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html
+
+8. Show HN: Ballet – Workflow automation that writes integrations against any API
+   Points: 12
+   Comments: 1
+   URL: https://www.ballet.dev/
+
+9. Why Target Common Lisp for Code Generation?
+   Points: 22
+   Comments: 20
+   URL: http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html
+
+10. 2026 Eclipse Webcams
+   Points: 457
+   Comments: 124
+   URL: https://jonty.github.io/2026_eclipse_webcams/
+
+11. Tim King, AmigaDOS developer, has died
+   Points: 232
+   Comments: 28
+   URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html
+
+12. HTML over WebSockets: real-time SPAs with barely any JavaScript
+   Points: 140
+   Comments: 106
+   URL: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/
+
+13. Build Wide, Ship Narrow
+   Points: 12
+   Comments: 0
+   URL: https://adapt.com/blog/build-wide-ship-narrow
+
+14. Grok 4.6
+   Points: 391
+   Comments: 390
+   URL: https://x.ai/news/grok-4-6
+
+15. Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials
+   Points: 113
+   Comments: 21
+   URL: https://discoveredmaterials.com/research/
+
+16. uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook
+   Points: 287
+   Comments: 393
+   URL: https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html
+
+17. Why tiny JPEGs look different in Chrome
+   Points: 247
+   Comments: 59
+   URL: https://guillaumetech.github.io/posts/jpg-scaling-chrome/
+
+18. Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot
+   Points: 226
+   Comments: 165
+   URL: https://knownagents.com/insights
+
+19. Pixel Watch 5
+   Points: 95
+   Comments: 181
+   URL: https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/
+
+20. Process as a Proxy for Motivation
+   Points: 20
+   Comments: 1
+   URL: https://bengodfrey.dev/blog/process/
+
