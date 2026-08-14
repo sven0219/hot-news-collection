@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-14
+==================================================
+
+1. Bluesky Protocol Services
+   Points: 40
+   Comments: 3
+   URL: https://atproto.com/blog/introducing-bluesky-protocol-services
+
+2. Gemini 3.7 Flash
+   Points: 596
+   Comments: 331
+   URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
+
+3. Accelerating GPT-5.6 Sol Ultrafast
+   Points: 407
+   Comments: 171
+   URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai
+
+4. NP-Overrated
+   Points: 138
+   Comments: 83
+   URL: https://gruhn.me/blog/2026-08-13/
+
+5. How AI text watermarking works
+   Points: 43
+   Comments: 20
+   URL: https://declaude.org/watermarking/
+
+6. Understanding is the new bottleneck
+   Points: 190
+   Comments: 97
+   URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck
+
+7. Donkey.bas is 45 Years Old – 131 line of Glory
+   Points: 184
+   Comments: 79
+   URL: https://donkeybas.com/
+
+8. DeepSeek Harness developer preview
+   Points: 548
+   Comments: 240
+   URL: https://deepseek.com/harness/en/
+
+9. Mistral OCR 4.1
+   Points: 248
+   Comments: 94
+   URL: https://docs.mistral.ai/models/ocr-4-1
+
+10. Spaghettifying DRAM
+   Points: 485
+   Comments: 138
+   URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts
+
+11. Choose Boring Technology (2015)
+   Points: 237
+   Comments: 123
+   URL: https://mcfunley.com/choose-boring-technology
+
+12. How a device finds encrypted DNS by itself
+   Points: 11
+   Comments: 3
+   URL: https://blog.dundns.eu/posts/ddr-encrypted-dns-discovery/
+
+13. Finite State Machines in Forth (1994)
+   Points: 40
+   Comments: 0
+   URL: https://www.forth.org/literature/noble.html
+
+14. How Organizations Use AI: Evidence from ChatGPT [pdf]
+   Points: 65
+   Comments: 34
+   URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
+
+15. Where did the old web go? We followed 657,607 links to find out
+   Points: 125
+   Comments: 101
+   URL: https://0.mk/blog/link-rot
+
+16. How Gödel's Proof Works (2020)
+   Points: 62
+   Comments: 32
+   URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/
+
+17. How Compaction Works in Pi
+   Points: 97
+   Comments: 34
+   URL: https://earendil.com/posts/compaction-in-pi/
+
+18. Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes
+   Points: 141
+   Comments: 93
+   URL: https://github.com/systemd/systemd/issues/40262
+
+19. I want extern "fil-C"
+   Points: 5
+   Comments: 0
+   URL: https://domenkozar.com/2026/08/13/i-want-extern-fil-c/
+
+20. SparrowMap – Cameras that watch government vehicles
+   Points: 7
+   Comments: 1
+   URL: https://sparrowmap.com/
+
