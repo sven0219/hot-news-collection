@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-16
+==================================================
+
+1. Bede Liu, a digital signal processing pioneer, has died
+   Points: 49
+   Comments: 3
+   URL: https://spectrum.ieee.org/digital-signal-processing
+
+2. Semaglutide linked to lower predicted dementia risk
+   Points: 332
+   Comments: 230
+   URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432
+
+3. Cultivating a state of mind where new ideas are born (2023)
+   Points: 65
+   Comments: 17
+   URL: https://www.henrikkarlsson.xyz/p/good-ideas
+
+4. Banned Words List
+   Points: 10
+   Comments: 0
+   URL: https://pen.org/banned-words-list/
+
+5. Abdominal fat predicts heart disease risk better than BMI
+   Points: 124
+   Comments: 87
+   URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi
+
+6. AI in drug discovery – what it is, where we stand and the path forward
+   Points: 78
+   Comments: 39
+   URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really
+
+7. At-home test for infected ticks could improve Lyme Disease diagnosis
+   Points: 204
+   Comments: 70
+   URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/
+
+8. SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)
+   Points: 13
+   Comments: 3
+   URL: https://sugartrack-beta.vercel.app/
+
+9. RISC-V: They Should Have Known Better
+   Points: 218
+   Comments: 288
+   URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV
+
+10. AI has access to a vastly larger working memory than the human brain
+   Points: 389
+   Comments: 347
+   URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+
+11. Auto-research with codex: How I achieved a 232x Faster Kernel
+   Points: 388
+   Comments: 86
+   URL: https://sankalp.bearblog.dev/autoresearch/
+
+12. Tracking down a Zsh history data loss bug
+   Points: 24
+   Comments: 3
+   URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/
+
+13. Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter
+   Points: 47
+   Comments: 11
+   URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/
+
+14. Tea5767-Radio-Tuner
+   Points: 4
+   Comments: 0
+   URL: https://github.com/turtushig22-blip/tea5767-radio-tuner
+
+15. A fortuitous decade as an indie software developer
+   Points: 14
+   Comments: 1
+   URL: https://lapcatsoftware.com/articles/2026/8/3.html
+
+16. A spectre is haunting Unicode
+   Points: 161
+   Comments: 48
+   URL: https://www.dampfkraft.com/ghost-characters.html
+
+17. Tess's Android Wayland Compositor
+   Points: 38
+   Comments: 3
+   URL: https://github.com/wmww/tawc
+
+18. Voltair (YC W26) Is Hiring a Test Flight Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer
+
+19. Working with AI feels more like leadership than coding
+   Points: 258
+   Comments: 168
+   URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/
+
+20. The Wow signal was a strong narrowband radio signal detected on August 15, 1977
+   Points: 55
+   Comments: 9
+   URL: https://en.wikipedia.org/wiki/Wow!_signal
+
