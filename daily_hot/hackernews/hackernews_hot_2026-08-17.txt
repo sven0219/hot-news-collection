@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-17
+==================================================
+
+1. A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
+   Points: 346
+   Comments: 180
+   URL: https://rvembedded.com/blog_post/12/
+
+2. Claude: System Prompts
+   Points: 521
+   Comments: 216
+   URL: https://platform.claude.com/docs/en/release-notes/system-prompts
+
+3. SIMD in the 90s: Programming Intel's Pentium MMX
+   Points: 63
+   Comments: 26
+   URL: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
+
+4. Low-Tech Ceramic Water Filter
+   Points: 83
+   Comments: 21
+   URL: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en
+
+5. A quick look at zero-knowledge proofs
+   Points: 34
+   Comments: 11
+   URL: https://bernsteinbear.com/blog/zkp/
+
+6. Protobuf has LSP support. You're welcome
+   Points: 100
+   Comments: 72
+   URL: https://buf.build/blog/protobuf-lsp
+
+7. The AI Credit Resale Economy
+   Points: 220
+   Comments: 87
+   URL: https://vectoral.com/blog/who-are-the-token-brokers
+
+8. Models Are Getting Dumber on Purpose
+   Points: 249
+   Comments: 141
+   URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose
+
+9. MathCode, Mathematical Coding Agent
+   Points: 54
+   Comments: 17
+   URL: https://math-ai-org.github.io/mathcode/
+
+10. Dancing with friends and enemies: boids' swarm intelligence
+   Points: 4
+   Comments: 0
+   URL: https://community.wolfram.com/groups/-/m/t/122095
+
+11. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+   Points: 81
+   Comments: 20
+   URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/
+
+12. Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter
+   Points: 163
+   Comments: 114
+   URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion
+
+13. Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing
+   Points: 126
+   Comments: 108
+   URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
+
+14. Clamiga: Common Lisp for the Amiga
+   Points: 81
+   Comments: 8
+   URL: https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga
+
+15. Plastic mechanical computer from 1963: The Digi-Comp 1 [video]
+   Points: 44
+   Comments: 10
+   URL: https://www.youtube.com/watch?v=-y8bGBE71yw
+
+16. Anton Chekhov played at love most of his life
+   Points: 58
+   Comments: 12
+   URL: https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/
+
+17. The Case Against Formal Verification, 50 Years Later
+   Points: 76
+   Comments: 63
+   URL: https://ivan-gavran.github.io/0-social-processes-paper
+
+18. Firefox for iOS now has a native adblocker
+   Points: 520
+   Comments: 213
+   URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios
+
+19. Tell HN: Cloudflare silently injects its analytics when you switch nameservers
+   Points: 257
+   Comments: 61
+   URL: https://news.ycombinator.com/item?id=49322107
+
+20. St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core
+   Points: 150
+   Comments: 113
+   URL: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core
+
