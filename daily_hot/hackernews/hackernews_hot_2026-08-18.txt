@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-18
+==================================================
+
+1. How Bluesky draws its logo on screenshots
+   Points: 162
+   Comments: 122
+   URL: https://timmarinin.net/2026/bluesky-screenshots/
+
+2. Cursor Origin
+   Points: 34
+   Comments: 10
+   URL: https://cursor.com/docs/origin
+
+3. Quake Shareware, a CD-ROM just a little too full
+   Points: 106
+   Comments: 47
+   URL: https://fabiensanglard.net/quake_shareware_cd/index.html
+
+4. Fairphone 6 and PostmarketOS working main camera
+   Points: 56
+   Comments: 14
+   URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera
+
+5. GPU Offload in Rust: Portable, Safe, and Fast
+   Points: 151
+   Comments: 33
+   URL: https://arxiv.org/abs/2608.13759
+
+6. A Preview of DuckDB v2.0
+   Points: 515
+   Comments: 91
+   URL: https://duckdb.org/2026/08/17/duckdb-20-highlights
+
+7. Incident with Github.com
+   Points: 519
+   Comments: 898
+   URL: https://www.githubstatus.com/incidents/zkxwbgr0cnmx
+
+8. AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira
+   Points: 307
+   Comments: 123
+   URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug
+
+9. GPT-5.6 Sol Pricing Cut by 50%
+   Points: 51
+   Comments: 10
+   URL: https://openrouter.ai/openai/gpt-5.6-sol
+
+10. Olo (Color)
+   Points: 291
+   Comments: 63
+   URL: https://en.wikipedia.org/wiki/Olo_(color)
+
+11. AI;DR (AI; Didn't Read)
+   Points: 552
+   Comments: 341
+   URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read
+
+12. GPT 5.6 Sol is the best "vision" model OpenAI ever released
+   Points: 294
+   Comments: 152
+   URL: https://blog.roboflow.com/openai-gpt-5-6/
+
+13. Judge sets framework for Nine PBS to retrieve archival data
+   Points: 130
+   Comments: 52
+   URL: https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/
+
+14. The Road to MS-DOS 2.0
+   Points: 9
+   Comments: 1
+   URL: https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2
+
+15. Sun Clock
+   Points: 164
+   Comments: 54
+   URL: https://sunclock.net/
+
+16. How do functions like alloca allocate memory from the stack?
+   Points: 19
+   Comments: 2
+   URL: https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617
+
+17. How to disable or avoid intrusive AI
+   Points: 246
+   Comments: 148
+   URL: https://www.librarian.net/notoai/
+
+18. Launch HN: Speko (YC S26) – OpenRouter for Voice AI
+   Points: 88
+   Comments: 51
+   URL: https://speko.ai/
+
+19. Roboflow Playground: Try and Compare 30 Computer Vision Models
+   Points: 42
+   Comments: 3
+   URL: https://blog.roboflow.com/roboflow-playground/
+
+20. A particle made of force: physicists say they've found mysterious 'glueball'
+   Points: 95
+   Comments: 13
+   URL: https://www.nature.com/articles/d41586-026-02498-1
+
