@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-19
+==================================================
+
+1. A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+   Points: 109
+   Comments: 29
+   URL: https://github.com/DenisSergeevitch/desktop-fly
+
+2. The Amazon tax
+   Points: 876
+   Comments: 522
+   URL: https://seths.blog/2026/08/the-amazon-tax/
+
+3. Solo – a .so loader for static Linux binaries
+   Points: 12
+   Comments: 1
+   URL: https://github.com/pg83/solo
+
+4. Being ambitious and being a dad
+   Points: 222
+   Comments: 116
+   URL: https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/
+
+5. How does IKEA come up with names for its products?
+   Points: 214
+   Comments: 131
+   URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html
+
+6. Show HN: Interactive, animated architecture of any HuggingFace models
+   Points: 11
+   Comments: 0
+   URL: https://modelmap.cc
+
+7. Turbovec – Google's TurboQuant for vector search in Rust
+   Points: 193
+   Comments: 26
+   URL: https://github.com/RyanCodrai/turbovec
+
+8. Using the railway network as a flatbed scanner
+   Points: 388
+   Comments: 61
+   URL: https://philo.gay/linecam/
+
+9. Beware Management Consultants
+   Points: 426
+   Comments: 116
+   URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/
+
+10. Cursor launches Origin, GitHub alternative
+   Points: 448
+   Comments: 351
+   URL: https://cursor.com/changelog/origin-code-hosting
+
+11. AI usage patterns in software teams
+   Points: 22
+   Comments: 14
+   URL: https://linear.app/data
+
+12. Fixing a bricked Framework laptop
+   Points: 343
+   Comments: 236
+   URL: https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/
+
+13. Claude Code Teaching macOS to Natively Print to the HP Laser 1008a
+   Points: 105
+   Comments: 68
+   URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver
+
+14. GLM-5.3 Artificial Analysis Benchmarks
+   Points: 63
+   Comments: 29
+   URL: https://artificialanalysis.ai/models/glm-5-3
+
+15. A 25-year-old video patent just expired, ending a legal headache for Linux
+   Points: 65
+   Comments: 20
+   URL: https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/
+
+16. Memory prices climb 500% in 12 months
+   Points: 454
+   Comments: 373
+   URL: https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399
+
+17. And then the men with guns tell you to do it anyway
+   Points: 141
+   Comments: 71
+   URL: https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/
+
+18. 2,500-year-old sculpture discovered at UNESCO site in Turkey
+   Points: 68
+   Comments: 22
+   URL: https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site
+
+19. Simulated red blood cells and microscopy
+   Points: 5
+   Comments: 0
+   URL: https://lucasamoudruz.com/blog/red-blood-cells.html
+
+20. The 90-year history of the binoculars bolted to scenic overlooks
+   Points: 10
+   Comments: 0
+   URL: https://www.dpreview.com/news/the-90-year-history-of-the-binoculars-bolted-to-scenic-overlooks/
+
