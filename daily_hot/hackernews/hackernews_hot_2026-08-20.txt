@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-20
+==================================================
+
+1. OpenRouter is joining Stripe
+   Points: 591
+   Comments: 316
+   URL: https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/
+
+2. Go 1.27
+   Points: 419
+   Comments: 100
+   URL: https://go.dev/blog/go1.27
+
+3. Gardner police discontinue Flock cameras as license plate readers face scrutiny
+   Points: 37
+   Comments: 7
+   URL: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724
+
+4. Google replaced Git tags for certain source code with obtaining via Google Drive
+   Points: 270
+   Comments: 106
+   URL: https://grapheneos.social/@GrapheneOS/117057099753905023
+
+5. Unlocking a locked/deactivated e-waste Cricut Maker
+   Points: 122
+   Comments: 33
+   URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/
+
+6. Unsloth Dynamic 3.0 GGUFs
+   Points: 172
+   Comments: 64
+   URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs
+
+7. Sol Loves to Cheat
+   Points: 64
+   Comments: 34
+   URL: https://jumploops.com/blog/sol-loves-to-cheat/
+
+8. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
+   Points: 37
+   Comments: 20
+   URL: https://os8088.com/spotlight/
+
+9. A joke domain purchase turned in geopolitical warfare
+   Points: 727
+   Comments: 110
+   URL: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+
+10. Casio F-B100W-1A
+   Points: 263
+   Comments: 211
+   URL: https://www.casio.com/uk/watches/casio/product.F-B100W-1A/
+
+11. Technical leaders should have the largest AI exhaust
+   Points: 8
+   Comments: 6
+   URL: https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/
+
+12. DFlash 2: Keep Drafting Parallel
+   Points: 65
+   Comments: 7
+   URL: https://inco.ai/blog/dflash2/
+
+13. Geolocating a random island using geometry and CUDA programming
+   Points: 394
+   Comments: 75
+   URL: https://yassa9.github.io/osint/gralhix-004/
+
+14. The little-known winstart.bat batch file
+   Points: 68
+   Comments: 13
+   URL: https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605
+
+15. Why travellers are obsessed with foreign supermarkets
+   Points: 12
+   Comments: 2
+   URL: https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction
+
+16. Mathematics in the age of AI
+   Points: 115
+   Comments: 107
+   URL: https://arxiv.org/abs/2608.16753
+
+17. Feature Request: Support AGENTS.md
+   Points: 117
+   Comments: 62
+   URL: https://github.com/anthropics/claude-code/issues/6235
+
+18. PostgreSQL for Everything
+   Points: 296
+   Comments: 183
+   URL: https://www.raphaelbauer.com:443/posts/postgresql-everything/
+
+19. Pressed Penny Machine Map
+   Points: 37
+   Comments: 34
+   URL: https://pennypresses.net/home/map.php
+
+20. Ornith-1.5: From Self-Scaffolding to Self-Improvement
+   Points: 164
+   Comments: 56
+   URL: https://ornith.ai/ornith_1_5.html
+
