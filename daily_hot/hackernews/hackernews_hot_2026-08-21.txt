@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-21
+==================================================
+
+1. The August 17 outage, and the work ahead
+   Points: 284
+   Comments: 332
+   URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/
+
+2. Consumer Rights Wiki
+   Points: 198
+   Comments: 21
+   URL: https://consumerrights.wiki/w/Main_Page
+
+3. I like 'em thick: an apology to my English teachers
+   Points: 540
+   Comments: 250
+   URL: https://www.experimental-history.com/p/i-like-em-thick
+
+4. Aaron Swartz was prosecuted for scraping, while Meta does it without consequence
+   Points: 829
+   Comments: 188
+   URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/
+
+5. Copyright does not protect AI-generated content in EU
+   Points: 12
+   Comments: 3
+   URL: https://mathstodon.xyz/@maxpool/117128107757895678
+
+6. AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+   Points: 859
+   Comments: 280
+   URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html
+
+7. I should have loved biology (2020)
+   Points: 186
+   Comments: 70
+   URL: https://jsomers.net/i-should-have-loved-biology/
+
+8. HTML Can Do That
+   Points: 548
+   Comments: 154
+   URL: https://chrisburnell.com/html-can-do-that/
+
+9. Malicious Rust crate Arrayref runs a build-time payload
+   Points: 380
+   Comments: 356
+   URL: https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/
+
+10. Show HN: Huzzah – a novel approach to coding with AI
+   Points: 202
+   Comments: 111
+   URL: https://www.danielvaughn.dev/posts/huzzah/
+
+11. CIA funding helped keep NeXT afloat in the 80s
+   Points: 317
+   Comments: 204
+   URL: https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink
+
+12. Show HN: I trained a 125M model to autocomplete piano on-device
+   Points: 487
+   Comments: 105
+   URL: https://simedw.com/2026/08/20/midi-autocomplete/
+
+13. Detecting scraper bots through scroll behaviour
+   Points: 17
+   Comments: 6
+   URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour
+
+14. Why aren't smart people happier? (2022)
+   Points: 79
+   Comments: 126
+   URL: https://www.experimental-history.com/p/why-arent-smart-people-happier
+
+15. SpacetimeDB: A Short Technical Review
+   Points: 54
+   Comments: 11
+   URL: https://strn.cat/posts/spacetime/
+
+16. Linux 7.2
+   Points: 188
+   Comments: 64
+   URL: https://www.igalia.com/2026/08/19/Linux-72-Released.html
+
+17. Vomit: Clean up Claude 5's token output with a separate LLM
+   Points: 176
+   Comments: 194
+   URL: https://github.com/zachahn/vomit
+
+18. Speeding Up the Plush Garbage Collector
+   Points: 11
+   Comments: 0
+   URL: https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/
+
+19. Tidal Cycles – Live coding music with Algorithmic patterns
+   Points: 52
+   Comments: 8
+   URL: https://tidalcycles.org/
+
+20. How to compromise your system with a job interview
+   Points: 115
+   Comments: 95
+   URL: https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview
+
