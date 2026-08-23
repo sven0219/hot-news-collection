@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-23
+==================================================
+
+1. Scrap
+   Points: 290
+   Comments: 142
+   URL: https://twitter.com/moxie/status/2091218652133732491
+
+2. NanoGPT Speedrun Frontier
+   Points: 36
+   Comments: 7
+   URL: https://www.primeintellect.ai/research/nanogpt-speedrun
+
+3. Why your local LLM feels dumber than it is
+   Points: 161
+   Comments: 48
+   URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
+
+4. NetBSD and my life (2005)
+   Points: 88
+   Comments: 22
+   URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html
+
+5. ElevenLabs, TwelveLabs, ThirteenLabs
+   Points: 292
+   Comments: 98
+   URL: https://quantumi.sh/public/labs.html
+
+6. Hister – A private, full content search index that you control
+   Points: 218
+   Comments: 65
+   URL: https://hister.org/
+
+7. RF Cafe
+   Points: 142
+   Comments: 23
+   URL: https://www.rfcafe.com/
+
+8. typ.ing
+   Points: 165
+   Comments: 54
+   URL: https://typ.ing/
+
+9. How a Texas student blew the whistle on a rogue AI hacking attempt
+   Points: 98
+   Comments: 36
+   URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/
+
+10. A Friendly Introduction to Racket
+   Points: 182
+   Comments: 91
+   URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/
+
+11. ATProto spaces: A new extension to ATProto that enables non-public data
+   Points: 101
+   Comments: 13
+   URL: https://atproto.com/blog/atproto-spaces-alpha
+
+12. hdiutil is deprecated in macOS 27 Golden Gate
+   Points: 157
+   Comments: 58
+   URL: https://lapcatsoftware.com/articles/2026/8/7.html
+
+13. One night in Uzbekistan: Why was this one data point so influential?
+   Points: 73
+   Comments: 12
+   URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/
+
+14. Canada will match US tariffs 'dollar for dollar' as trade talks break down
+   Points: 455
+   Comments: 1195
+   URL: https://www.bbc.com/news/articles/cvgvyy4x2mvo
+
+15. Munder Difflin – Agent harness to run an office of your clones
+   Points: 244
+   Comments: 114
+   URL: https://munderdiffl.in/
+
+16. Conway's Game of Life in real life
+   Points: 29
+   Comments: 6
+   URL: https://blog.coredump.cx/p/conways-game-of-life-in-real-life
+
+17. A week of using Codex more than Claude
+   Points: 117
+   Comments: 117
+   URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/
+
+18. Thinking in Python by Bruce Eckel
+   Points: 39
+   Comments: 8
+   URL: https://thinkinginpython.com/
+
+19. English ↔ Claudish Translator
+   Points: 46
+   Comments: 25
+   URL: https://programasweights.com/claudish
+
+20. What's in a PowerPoint File?
+   Points: 51
+   Comments: 27
+   URL: https://editide.com/blog/what-is-a-pptx-file/
+
