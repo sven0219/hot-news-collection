@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-24
+==================================================
+
+1. Everything I own, owned
+   Points: 176
+   Comments: 49
+   URL: https://schlarp.com/posts/everything-i-own-owned/
+
+2. How I find problems to solve as a staff engineer
+   Points: 244
+   Comments: 93
+   URL: https://lalitm.com/post/find-problems-staff-engineer/
+
+3. Anthropic's best AI model struggles to attract users as cheaper tools thrive
+   Points: 164
+   Comments: 136
+   URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
+
+4. AI Chip Architectures
+   Points: 27
+   Comments: 1
+   URL: https://www.jepeake.com/ai-chip-architectures
+
+5. Google Workspace thinks my domain is an email provider (2025)
+   Points: 154
+   Comments: 34
+   URL: https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/
+
+6. My agent.md to improve LLM-assisted code quality
+   Points: 135
+   Comments: 69
+   URL: https://fabiensanglard.net/agent.md/index.html
+
+7. What Is a Harness?
+   Points: 280
+   Comments: 129
+   URL: https://earendil.com/posts/what-is-a-harness/
+
+8. How Complex Systems Fail (1998)
+   Points: 226
+   Comments: 61
+   URL: https://how.complexsystems.fail/
+
+9. Implementation of GPT-2 in pure CMake
+   Points: 18
+   Comments: 5
+   URL: https://github.com/AlpinDale/gpt2.cmake
+
+10. Malware infects Android-based automotive head unit firmware
+   Points: 204
+   Comments: 104
+   URL: https://securelist.com/android-head-unit-malware/121106/
+
+11. My favorite nonfiction books about cults, scams, and schemes
+   Points: 187
+   Comments: 65
+   URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes
+
+12. Why Sal Khan't: On Learning by Making but Teaching by Telling
+   Points: 123
+   Comments: 78
+   URL: https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/
+
+13. A website for debloated open source alternatives
+   Points: 250
+   Comments: 86
+   URL: https://debloat.dev/
+
+14. Explain it to me like I'm ten
+   Points: 73
+   Comments: 34
+   URL: https://timharford.com/2026/08/explain-it-to-me-like-im-ten/
+
+15. Decoding silent reading from non-invasive EEG
+   Points: 22
+   Comments: 10
+   URL: https://arxiv.org/abs/2608.20186
+
+16. Declarative WebGPU with S-Expressions
+   Points: 18
+   Comments: 0
+   URL: https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/
+
+17. Rural Village in Spain Is Welcoming Digital Nomads with Open Arms
+   Points: 19
+   Comments: 4
+   URL: https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms
+
+18. Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed
+   Points: 294
+   Comments: 233
+   URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/
+
+19. Kodak DC50 now usable on the Apple II
+   Points: 31
+   Comments: 5
+   URL: https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/
+
+20. Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?
+   Points: 149
+   Comments: 61
+   URL: https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html
+
