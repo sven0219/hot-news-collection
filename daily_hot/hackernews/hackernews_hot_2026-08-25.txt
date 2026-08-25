@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-25
+==================================================
+
+1. iCloud+ Hide My Email addresses will remain on icloud.com
+   Points: 176
+   Comments: 36
+   URL: https://developer.apple.com/news/?id=1ptvdtcm
+
+2. Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded
+   Points: 709
+   Comments: 475
+   URL: https://twitter.com/lemire/status/2091894299289874926
+
+3. Moon (2024)
+   Points: 79
+   Comments: 13
+   URL: https://ciechanow.ski/moon/
+
+4. MS Paint and Photos inivisibly watermark even locally generated output with GUID
+   Points: 535
+   Comments: 217
+   URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
+
+5. The entire city of San Francisco as a video game
+   Points: 321
+   Comments: 112
+   URL: https://sf.thijs.gg/
+
+6. One corner of China’s internet is insisting that the Tang Dynasty never existed
+   Points: 113
+   Comments: 88
+   URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk
+
+7. How Europe is killing makers and micro-entrepreneurs
+   Points: 1031
+   Comments: 646
+   URL: https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs
+
+8. Bookshelf – Self-hosted eBook library that runs on object storage
+   Points: 18
+   Comments: 1
+   URL: https://github.com/murerkinn/bookshelf
+
+9. Where did all the public bathrooms go?
+   Points: 137
+   Comments: 273
+   URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/
+
+10. Oceans hit highest temperature on record
+   Points: 380
+   Comments: 262
+   URL: https://www.bbc.com/news/articles/c62m4gpnp78o
+
+11. Vintage Artificial Intelligence: Before It Got Awkward
+   Points: 48
+   Comments: 7
+   URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/
+
+12. Jabber/XMPP: 25 Years of Digital Independence
+   Points: 161
+   Comments: 63
+   URL: https://gultsch.de/posts/25-years-of-digital-independence/
+
+13. IPFS Maintainers Winding Down
+   Points: 316
+   Comments: 160
+   URL: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/
+
+14. Octopus intelligence may be related to never-before-seen mutation
+   Points: 68
+   Comments: 36
+   URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/
+
+15. LLMs could control their host machines by exploiting inference engines
+   Points: 85
+   Comments: 45
+   URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines
+
+16. Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam
+   Points: 70
+   Comments: 9
+   URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc
+
+17. Peppermint oil reduces blood pressure by 8.48 mmHg in small study
+   Points: 87
+   Comments: 61
+   URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538
+
+18. Show HN: PicoMQ – Durable Streams over HTTP, on object storage
+   Points: 89
+   Comments: 16
+   URL: https://picomq.com/
+
+19. Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff
+   Points: 1
+   Comments: 0
+   URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4
+
+20. SeL4 security proofs now complete on AArch64
+   Points: 170
+   Comments: 37
+   URL: https://proofcraft.systems/news-2026/#2026-08-21
+
