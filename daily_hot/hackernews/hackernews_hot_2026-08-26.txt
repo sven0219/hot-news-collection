@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-26
+==================================================
+
+1. Python's pre-declared constants are kinda weird
+   Points: 125
+   Comments: 70
+   URL: https://sebsite.pw/w/20260801-pythonconstants.html
+
+2. FDA authorizes first wearable device that monitors ketone and blood sugar levels
+   Points: 226
+   Comments: 135
+   URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar
+
+3. Apple introduces M6 and M5 Ultra
+   Points: 929
+   Comments: 883
+   URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
+
+4. OpenAI Jalapeño: Better than Nvidia Blackwell
+   Points: 300
+   Comments: 203
+   URL: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia
+
+5. New Mac Studio with M5 Max and M5 Ultra
+   Points: 695
+   Comments: 434
+   URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+
+6. Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
+   Points: 19
+   Comments: 0
+   URL: https://github.com/runetes/maiao
+
+7. When str.lower() is a security vulnerability in Python – Seth Larson
+   Points: 46
+   Comments: 24
+   URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability
+
+8. Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM
+   Points: 35
+   Comments: 7
+   URL: https://github.com/swimmingbrain/texbrain
+
+9. Black hole singularity is a surface not a point
+   Points: 176
+   Comments: 123
+   URL: https://arxiv.org/abs/2608.21590
+
+10. C2PA Cameras Do Not Survive Contact with Reality
+   Points: 69
+   Comments: 28
+   URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html
+
+11. New Mac mini, featuring M6 and M5 Pro
+   Points: 415
+   Comments: 248
+   URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/
+
+12. Nitter project received cease and desist
+   Points: 586
+   Comments: 413
+   URL: https://github.com/zedeus/nitter/issues/1442
+
+13. Bomb fishing is wreaking havoc on Indonesia's coral reefs
+   Points: 254
+   Comments: 138
+   URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs
+
+14. Show HN: I made a Raspberry with Qwen my local car AI
+   Points: 89
+   Comments: 19
+   URL: https://github.com/ThinkOffApp/CarWatch
+
+15. Run OpenBSD on DigitalOcean for $4/month
+   Points: 111
+   Comments: 53
+   URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/
+
+16. A brief history of federal lift ticket regulation
+   Points: 21
+   Comments: 0
+   URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket
+
+17. Dolly Parton has died
+   Points: 1156
+   Comments: 181
+   URL: https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead
+
+18. Building a backyard office, the build and cost breakdown
+   Points: 250
+   Comments: 183
+   URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown
+
+19. XCancel also down, at least for time being
+   Points: 194
+   Comments: 88
+   URL: https://news.ycombinator.com/item?id=49440786
+
+20. Clara (YC P26) is hiring a growth engineer to bring AI doctors to market
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer
+
