@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-27
+==================================================
+
+1. Nvidia agrees to acquire Hugging Face for $13B
+   Points: 657
+   Comments: 276
+   URL: https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8
+
+2. CEO fired developers to make room for AI. Developers create open source AI CEO
+   Points: 296
+   Comments: 177
+   URL: https://github.com/SenteLabsAI/OpenExecutive
+
+3. Mechanical Turk shutting down September 30
+   Points: 244
+   Comments: 78
+   URL: https://www.mturk.com/
+
+4. GLM-5.3-Flash
+   Points: 953
+   Comments: 479
+   URL: https://z.ai/blog/glm-5.3-flash
+
+5. Asahi Linux Progress Report: Linux 7.2
+   Points: 172
+   Comments: 42
+   URL: https://asahilinux.org/2026/08/progress-report-7-2/
+
+6. Kusama Yayoi Dies at 97
+   Points: 101
+   Comments: 8
+   URL: https://news.jp/i/1465528042000662661
+
+7. Tailcat – Like netcat, but over Tailscale’s data plane
+   Points: 522
+   Comments: 95
+   URL: https://github.com/tailscale/tailcat
+
+8. Laion Big Video Dataset
+   Points: 34
+   Comments: 5
+   URL: https://projects.laion.ai/bvd/
+
+9. Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
+   Points: 114
+   Comments: 50
+   URL: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html
+
+10. An ongoing 3D-printer AGPL violation
+   Points: 359
+   Comments: 160
+   URL: https://lwn.net/SubscriberLink/1089390/46116614cc74b814/
+
+11. U.S. State Department pauses immigrant visa applications
+   Points: 405
+   Comments: 611
+   URL: https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23
+
+12. Stripe acquires Clerky
+   Points: 125
+   Comments: 23
+   URL: https://www.clerky.com/blog/clerky-is-joining-stripe
+
+13. Zohran and the Short Link
+   Points: 152
+   Comments: 52
+   URL: https://iamwillwang.com/notes/zohran-and-the-short-link/
+
+14. The Hugging Face incident and the road ahead
+   Points: 223
+   Comments: 264
+   URL: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+
+15. Twitter Viewer – View Twitter Without Account
+   Points: 373
+   Comments: 206
+   URL: https://twitterwebviewer.com/
+
+16. Actinide is first startup to produce high-assay low-enriched uranium (HALEU)
+   Points: 149
+   Comments: 77
+   URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu
+
+17. CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela
+   Points: 230
+   Comments: 49
+   URL: https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/
+
+18. IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE
+   Points: 109
+   Comments: 79
+   URL: https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone
+
+19. FDA approves first in class targeted therapy for metastatic pancreatic cancer
+   Points: 193
+   Comments: 45
+   URL: https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer
+
+20. Serve Markdown to AI Agents with Accept Headers
+   Points: 110
+   Comments: 67
+   URL: https://acceptmarkdown.com/
+
