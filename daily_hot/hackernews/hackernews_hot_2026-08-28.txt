@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-28
+==================================================
+
+1. Stripe said to abandon $50B pursuit of PayPal
+   Points: 122
+   Comments: 103
+   URL: https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal
+
+2. Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+   Points: 700
+   Comments: 209
+   URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+
+3. Small Models Have Arrived
+   Points: 605
+   Comments: 277
+   URL: https://calv.info/small-models-have-arrived
+
+4. Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance
+   Points: 147
+   Comments: 35
+   URL: https://github.com/elyosh/OpenTIE/
+
+5. Sovereign Tech Agency invests €500k in Flatpak
+   Points: 44
+   Comments: 20
+   URL: https://modal.cx/blog/announcing-flatpak-sta/
+
+6. 507 Mechanical Movements
+   Points: 561
+   Comments: 70
+   URL: https://507movements.com/
+
+7. Gemini-3.5-Transcribe
+   Points: 255
+   Comments: 79
+   URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/
+
+8. We found a division by zero bug in FFmpeg with a vibecoded fuzzer
+   Points: 227
+   Comments: 167
+   URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290
+
+9. Microduck
+   Points: 623
+   Comments: 209
+   URL: https://pollen-robotics.com/microduck/
+
+10. Doctors are finally learning to manage antidepressant withdrawal
+   Points: 98
+   Comments: 85
+   URL: https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/
+
+11. Terminal-Bench-Science: Evaluating AI agents on scientific research workflows
+   Points: 70
+   Comments: 21
+   URL: https://www.terminal-bench-science.ai/announcement
+
+12. Show HN: We built open OpenRouter that turns usage into a better model
+   Points: 167
+   Comments: 30
+   URL: https://github.com/experientiallabs/experiential
+
+13. Gemini Omni 1.1 Flash
+   Points: 234
+   Comments: 159
+   URL: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/
+
+14. GoGoGrandparent (YC S16) is hiring back end engineers
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer
+
+15. AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab
+   Points: 94
+   Comments: 9
+   URL: https://github.com/calmrocks/ai-engineer-notebooks
+
+16. Bootstrappable Builds: How and Why
+   Points: 31
+   Comments: 11
+   URL: https://lwn.net/Articles/1088279/
+
+17. The turbulent AI era is here
+   Points: 279
+   Comments: 523
+   URL: https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make
+
+18. Show HN: The load-bearing vocabulary of Claude
+   Points: 459
+   Comments: 219
+   URL: https://louisabraham.github.io/load-bearing/
+
+19. Decompiling a Nintendo 64 game in 84 days
+   Points: 227
+   Comments: 131
+   URL: https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/
+
+20. Select * from Internet.blogposts
+   Points: 78
+   Comments: 34
+   URL: https://pfrazee.leaflet.pub/3mu3p2smmis22
+
