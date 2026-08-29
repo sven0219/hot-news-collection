@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-29
+==================================================
+
+1. Boot a Virtual iPhone via Apple's Virtualization.framework
+   Points: 164
+   Comments: 56
+   URL: https://github.com/Lakr233/vphone-cli
+
+2. GUIs should be fully keyboard-driven
+   Points: 681
+   Comments: 332
+   URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
+
+3. 9th Circuit sides with states in Kalshi gambling fight
+   Points: 95
+   Comments: 67
+   URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/
+
+4. TurboKV: Insanely fast Rust key-value store
+   Points: 36
+   Comments: 10
+   URL: https://github.com/kingroryg/turbokv
+
+5. Htmx 4.0
+   Points: 572
+   Comments: 139
+   URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+
+6. Does the Sumerian King List Align with Paleoclimate Events?
+   Points: 74
+   Comments: 24
+   URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/
+
+7. Our decision on Cursor following its acquisition by SpaceX
+   Points: 226
+   Comments: 86
+   URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/
+
+8. I accidentally turned LLM memory into program analysis
+   Points: 69
+   Comments: 10
+   URL: https://pwning.systems/posts/llm-memory-program-analysis/
+
+9. StemDeck, a free, open-source and local AI stem separator
+   Points: 48
+   Comments: 11
+   URL: https://github.com/stemdeckapp/stemdeck
+
+10. U.S. sanctions against the A/I Collective
+   Points: 525
+   Comments: 494
+   URL: https://www.inventati.org/
+
+11. Just the rumour of a bug is enough to find an exploit these days
+   Points: 280
+   Comments: 100
+   URL: https://anil.recoil.org/notes/rumour-is-the-exploit
+
+12. Monzo Stand-In
+   Points: 31
+   Comments: 0
+   URL: https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in
+
+13. Inception-style curved map for turn-by-turn directions
+   Points: 450
+   Comments: 149
+   URL: https://www.orbify.eu/demo/
+
+14. PPWR lands another blow to an precarious tabletop industry
+   Points: 40
+   Comments: 24
+   URL: https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/
+
+15. Experiments with Plotter Art
+   Points: 23
+   Comments: 1
+   URL: https://sometimes.digital/posts/experiments-with-plotter-art/
+
+16. Kumander Linux – A Linux Distro with a Windows 7 Desktop
+   Points: 24
+   Comments: 4
+   URL: https://www.kumander.org/
+
+17. Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo
+   Points: 11
+   Comments: 3
+   URL: https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/
+
+18. Curvature Beziers: Improving on a timeless recipe
+   Points: 93
+   Comments: 11
+   URL: https://acko.net/blog/curvature-beziers/
+
+19. The Twelve-Factor App (2025)
+   Points: 244
+   Comments: 130
+   URL: https://12factor.net/
+
+20. Identifying fake cosmetics using AI
+   Points: 42
+   Comments: 14
+   URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html
+
