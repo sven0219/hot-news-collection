@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-30
+==================================================
+
+1. Bug Blindness
+   Points: 53
+   Comments: 18
+   URL: https://danluu.com/bug-blind/
+
+2. FreeCORE TrueNAS Core – Continued
+   Points: 22
+   Comments: 8
+   URL: https://freecore.org/
+
+3. Hy4 preview
+   Points: 201
+   Comments: 128
+   URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/
+
+4. RISC-V is now officially supported by CPython
+   Points: 24
+   Comments: 2
+   URL: https://blog.python.org/2026/08/riscv-now-officially-supported/
+
+5. Tether: iMessage, SMS, etc. on Linux
+   Points: 368
+   Comments: 152
+   URL: https://zackbartel.com/blog/2026/08/tether/
+
+6. Nancy Grace Roman Space Telescope
+   Points: 133
+   Comments: 63
+   URL: https://science.nasa.gov/mission/roman-space-telescope/
+
+7. Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
+   Points: 109
+   Comments: 35
+   URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/
+
+8. Calibrate Before You Accelerate: Bias Toward Action in a New Role
+   Points: 112
+   Comments: 49
+   URL: https://tucker.wales/writing/bias-towards-action/
+
+9. Is it safe to call print in a Python signal handler?
+   Points: 17
+   Comments: 1
+   URL: https://iafisher.com/2026/08/sigprint
+
+10. Domain-Driven Agents
+   Points: 56
+   Comments: 6
+   URL: https://coldtake.dev/blog/domain-driven-agents
+
+11. SQLite as a Document Database (2020)
+   Points: 174
+   Comments: 46
+   URL: https://dgl.cx/2020/06/sqlite-json-support
+
+12. Functional State Machines in Rust: Typestate and Newtype Patterns
+   Points: 53
+   Comments: 10
+   URL: https://dl.acm.org/doi/10.1145/3830438.3830958
+
+13. Glacier Mice
+   Points: 266
+   Comments: 50
+   URL: https://en.wikipedia.org/wiki/Glacier_mice
+
+14. Good Culture Is the Biggest Productivity Hack, Not AI
+   Points: 255
+   Comments: 60
+   URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity
+
+15. EVE Online moves to Python 3
+   Points: 306
+   Comments: 160
+   URL: https://www.eveonline.com/news/view/the-move-to-python-3-begins
+
+16. DHS is using obscure law to snoop on journalists, non-profits, unions
+   Points: 313
+   Comments: 50
+   URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits
+
+17. Samsung's Processing-in-Memory (PIM)
+   Points: 246
+   Comments: 92
+   URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing
+
+18. Highest-ever ocean temperature measured as powerful El Niño forms
+   Points: 103
+   Comments: 89
+   URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms
+
+19. Defrag98: Windows 98 Disk Defragmenter Simulator Online
+   Points: 94
+   Comments: 48
+   URL: https://defrag98.com
+
+20. Indirect Calling of Nested Functions on GCC Without Executable Stack
+   Points: 69
+   Comments: 43
+   URL: https://uecker.codeberg.page/2026-08-29.html
+
