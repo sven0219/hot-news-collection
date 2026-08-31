@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-08-31
+==================================================
+
+1. “I just chose words carefully”
+   Points: 295
+   Comments: 81
+   URL: https://unsung.aresluna.org/i-just-chose-words-carefully/
+
+2. Creepy Crawlies
+   Points: 937
+   Comments: 437
+   URL: https://people.kernel.org/monsieuricon/creepy-crawlies
+
+3. Understanding ChatGPT Work
+   Points: 14
+   Comments: 1
+   URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+
+4. Haiku R1/beta6 has been released
+   Points: 259
+   Comments: 76
+   URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
+
+5. Cores in space: The core memory module from a 1980 Spacelab computer
+   Points: 80
+   Comments: 13
+   URL: https://www.righto.com/2026/08/spacelab-core-memory.html
+
+6. Show HN: NFC Energy-Harvesting PCB Business Card with an MCU
+   Points: 108
+   Comments: 11
+   URL: https://wilsonharper.net/projects/businesscard/
+
+7. Matrox: Graphics for Professionals
+   Points: 18
+   Comments: 0
+   URL: https://www.abortretry.fail/p/matrox
+
+8. Sort branches by last commit date
+   Points: 88
+   Comments: 34
+   URL: https://ryangreenberg.com/til/git-branches-by-commit-date/
+
+9. Continuous Diffusion Language Models (CDLM's)
+   Points: 59
+   Comments: 19
+   URL: https://sander.ai/2026/08/24/continuous-dlms.html
+
+10. Commercially Available Bike Generators Are Not Sustainable (2011)
+   Points: 29
+   Comments: 19
+   URL: https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/
+
+11. Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
+   Points: 70
+   Comments: 34
+   URL: https://github.com/KodeMunkie/sm750hdmifb
+
+12. Relm4 makes developing beautiful cross-platform applications idiomatic
+   Points: 13
+   Comments: 7
+   URL: https://relm4.org/
+
+13. Hacking IKEA Furniture
+   Points: 270
+   Comments: 184
+   URL: https://greenlightning.eu/diy/hacking-ikea-furniture/
+
+14. Coordination Headwind: How Organizations Are Like Slime Molds
+   Points: 131
+   Comments: 44
+   URL: https://komoroske.com/slime-mold/
+
+15. How to build a diffusion language model
+   Points: 7
+   Comments: 0
+   URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/
+
+16. Startup Anti-Patterns
+   Points: 83
+   Comments: 41
+   URL: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/
+
+17. Dad’s Custom Atari Peripherals
+   Points: 99
+   Comments: 12
+   URL: https://www.goto10retro.com/p/dads-custom-atari-peripherals
+
+18. Zig: Pointer Stability for ArrayLists
+   Points: 86
+   Comments: 61
+   URL: https://ziglang.org/devlog/2026/#2026-08-27
+
+19. Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+   Points: 206
+   Comments: 84
+   URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/
+
+20. Electric rain can eat through metal
+   Points: 97
+   Comments: 20
+   URL: https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/
+
