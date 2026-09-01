@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-01
+==================================================
+
+1. Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO
+   Points: 565
+   Comments: 429
+   URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/
+
+2. Run macOS Software on Linux
+   Points: 116
+   Comments: 33
+   URL: https://www.darlinghq.org/
+
+3. I turned my security cameras into an automatic bird identification system
+   Points: 369
+   Comments: 96
+   URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
+
+4. 'Mad honey' that can stop your heart is being sold online
+   Points: 145
+   Comments: 91
+   URL: https://phys.org/news/2026-08-mad-honey-heart-sold-online.html
+
+5. Playa Phone
+   Points: 506
+   Comments: 187
+   URL: https://playaphone.com/
+
+6. Carmack: Has early Scratch experience led to fulfilling careers?
+   Points: 35
+   Comments: 31
+   URL: https://twitter.com/ID_AA_Carmack/status/2094450188911845827
+
+7. A walkable ASCII cyberpunk city in one HTML file [video]
+   Points: 216
+   Comments: 30
+   URL: https://www.youtube.com/watch?v=3YtygAx_C6A
+
+8. Terence Tao explains 6 essential mathematical concepts [video]
+   Points: 222
+   Comments: 26
+   URL: https://www.youtube.com/watch?v=OOMx2BHHWtE
+
+9. Lion-man – the oldest confirmed statue ever discovered
+   Points: 58
+   Comments: 26
+   URL: https://en.wikipedia.org/wiki/Lion-man
+
+10. Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
+   Points: 46
+   Comments: 29
+   URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide
+
+11. 2004 RuneScape fit a multiplayer RPG into 56k dial-up
+   Points: 12
+   Comments: 2
+   URL: https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/
+
+12. Dwarf Fortress is getting the mother of all magic updates
+   Points: 310
+   Comments: 111
+   URL: https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe
+
+13. Show HN: Laser Graffiti
+   Points: 128
+   Comments: 26
+   URL: https://laser.consti.de
+
+14. Apple caught off guard by AI demand for Mac Mini and Mac Studio
+   Points: 302
+   Comments: 349
+   URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
+
+15. Borges Labyrinth in Venice reopens to the public
+   Points: 9
+   Comments: 1
+   URL: https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening
+
+16. Smartphone LED detects hidden cameras with AI
+   Points: 146
+   Comments: 40
+   URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/
+
+17. Autonomous (YC F25) is hiring engineers
+   Points: 1
+   Comments: 0
+   URL: https://news.ycombinator.com/item?id=49514781
+
+18. Cheap GPS jammers are filling the world with navigation dead zones
+   Points: 70
+   Comments: 81
+   URL: https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261
+
+19. RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source
+   Points: 172
+   Comments: 105
+   URL: https://ravynos.com/
+
+20. I think the military commissary's freezers were hacked
+   Points: 257
+   Comments: 153
+   URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary
+
