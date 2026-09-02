@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-02
+==================================================
+
+1. Hang on to Your Firefox
+   Points: 514
+   Comments: 277
+   URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox
+
+2. Claude Fable 5.1 and Claude Mythos 5.1
+   Points: 937
+   Comments: 880
+   URL: https://www.anthropic.com/claude-fable-and-mythos-5-1
+
+3. How accurate have Ed Zitron's AI skeptic predictions been?
+   Points: 419
+   Comments: 503
+   URL: https://danluu.com/zitron/
+
+4. The efficient frontier of LLM inference
+   Points: 39
+   Comments: 6
+   URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/
+
+5. Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
+   Points: 55
+   Comments: 19
+   URL: https://masteranza.github.io/weedout/
+
+6. My local model setup on an M4 Pro Mac Mini
+   Points: 59
+   Comments: 29
+   URL: https://lws.io/blog/my-local-model-setup/
+
+7. Claude Fable 5.1 made me a nice animated pelican
+   Points: 16
+   Comments: 3
+   URL: https://simonwillison.net/2026/Sep/1/claude-fable-5-1/
+
+8. AnkiDroid: Google Play no longer allowing Open Collective donation link
+   Points: 832
+   Comments: 246
+   URL: https://github.com/ankidroid/Anki-Android/issues/21656
+
+9. Introducing Ad Blocker for Firefox on iOS
+   Points: 308
+   Comments: 107
+   URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/
+
+10. Building an interactive instrument for a one-of-a-kind festival
+   Points: 14
+   Comments: 1
+   URL: https://benholmen.com/blog/halfmoon-chimes/
+
+11. Sonic Pi
+   Points: 33
+   Comments: 4
+   URL: https://sonic-pi.net/
+
+12. The ChatGPT/Codex app bundles a full copy of LibreOffice
+   Points: 244
+   Comments: 118
+   URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/
+
+13. Path to Astra: critical capabilities and frontier safeguards
+   Points: 95
+   Comments: 40
+   URL: https://openai.com/index/path-to-astra/
+
+14. The creator of Jujutsu has joined ERSC
+   Points: 183
+   Comments: 148
+   URL: https://ersc.io/blog/martin-joins-ersc
+
+15. Refurbishing a Tektronix TDS7104 Oscilloscope
+   Points: 85
+   Comments: 40
+   URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html
+
+16. Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development
+   Points: 115
+   Comments: 40
+   URL: https://www.norirobotics.com/
+
+17. I trained a small transformer in 1.5hrs and it beats many LLMs
+   Points: 580
+   Comments: 149
+   URL: https://mvakde.github.io/blog/44-on-arc-1/
+
+18. Ambient CSS v3 – Blender meets CSS
+   Points: 194
+   Comments: 68
+   URL: https://ambientcss.vercel.app/
+
+19. Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"
+   Points: 40
+   Comments: 21
+   URL: https://hnmatchmaker.com/
+
+20. Movie Scene Map – 13,312 films, series, games, anime and manga
+   Points: 152
+   Comments: 28
+   URL: https://moviescenemap.com/
+
