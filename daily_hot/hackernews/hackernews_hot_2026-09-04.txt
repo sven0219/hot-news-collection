@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-04
+==================================================
+
+1. GPT-6 Astra
+   Points: 1325
+   Comments: 1049
+   URL: https://openai.com/index/gpt-6-astra/
+
+2. .name Termination
+   Points: 1361
+   Comments: 378
+   URL: https://neil.fraser.name/news/2026/09/03/
+
+3. Qwen 3.8 27B available on Cerebras at 1500 tokens/s
+   Points: 453
+   Comments: 132
+   URL: https://inference-docs.cerebras.ai/models/overview
+
+4. The largest electric aircraft just flew [video]
+   Points: 199
+   Comments: 132
+   URL: https://www.youtube.com/watch?v=nM86DBOqgPM
+
+5. New type of dice guarantees no tie when deciding who goes first
+   Points: 25
+   Comments: 20
+   URL: https://www.cbc.ca/lite/story/9.7328614
+
+6. Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%
+   Points: 157
+   Comments: 53
+   URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california
+
+7. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
+   Points: 99
+   Comments: 31
+   URL: https://armature.tech/blog/which-tools-coding-agents-install
+
+8. Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
+   Points: 199
+   Comments: 62
+   URL: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/
+
+9. K2 Horizon: A connected fleet of six open models
+   Points: 256
+   Comments: 84
+   URL: https://ifm.ai/blog/k2/
+
+10. GPS glitched across the US by as much as 33 feet
+   Points: 117
+   Comments: 64
+   URL: https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before
+
+11. Any Human Ever – One life, drawn at random from all who have ever lived
+   Points: 471
+   Comments: 237
+   URL: https://anyhumanever.com/
+
+12. Xanadu was waiting for agents
+   Points: 87
+   Comments: 34
+   URL: https://zed.dev/blog/agentic-xanadu
+
+13. GLP-1s are being linked to fewer serious infections, including TB
+   Points: 54
+   Comments: 34
+   URL: https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796
+
+14. Go grandmaster Shin defeats AI KataGo with a two-stone handicap
+   Points: 198
+   Comments: 56
+   URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007
+
+15. Audacity 4.0
+   Points: 1051
+   Comments: 234
+   URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0
+
+16. Tasklet (YC P26) Is Hiring a Customer Success Engineer
+   Points: 1
+   Comments: 0
+   URL: https://tasklet.ai/careers/customer-success-engineer
+
+17. Unusual Suspects
+   Points: 110
+   Comments: 24
+   URL: https://neal.fun/unusual-suspects/
+
+18. OpenAI's GPT-6 Astra on ARC-AGI-3
+   Points: 164
+   Comments: 98
+   URL: https://arcprize.org/blog/astra
+
+19. Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?
+   Points: 30
+   Comments: 10
+   URL: https://news.ycombinator.com/item?id=49555592
+
+20. How concerned should we be about Astra's recurrent architecture?
+   Points: 91
+   Comments: 48
+   URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent
+
