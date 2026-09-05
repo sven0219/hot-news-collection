@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-05
+==================================================
+
+1. Actively exploited sandbox RCE in all Chromium versions
+   Points: 235
+   Comments: 130
+   URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
+
+2. Formalizing Fermat's Last Theorem
+   Points: 489
+   Comments: 319
+   URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem
+
+3. Artificial Analysis Intelligence Index v4.2
+   Points: 45
+   Comments: 14
+   URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2
+
+4. Discovery of a new OpenAI agent message board
+   Points: 1481
+   Comments: 1189
+   URL: https://collusion.wiki/
+
+5. Statichost.eu – European static site hosting
+   Points: 174
+   Comments: 54
+   URL: https://www.statichost.eu/
+
+6. GPT-6 Astra on OpenRouter
+   Points: 121
+   Comments: 63
+   URL: https://openrouter.ai/openai/gpt-6-astra
+
+7. Shutting down our public encrypted DNS
+   Points: 252
+   Comments: 100
+   URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead
+
+8. Can AI design circuit boards yet?
+   Points: 164
+   Comments: 102
+   URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/
+
+9. Portal by Spotify cut my Claude Code token usage by 90%
+   Points: 35
+   Comments: 7
+   URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
+
+10. Can guitar frets perform multiplication?
+   Points: 27
+   Comments: 6
+   URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html
+
+11. RSA-260 Factorized
+   Points: 61
+   Comments: 26
+   URL: https://twitter.com/penlume/status/2095372672356212876
+
+12. Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain
+   Points: 14
+   Comments: 2
+   URL: https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/
+
+13. Show HN: Open-Source eInk Bike Computer
+   Points: 231
+   Comments: 78
+   URL: https://opentrailpaper.com
+
+14. An open DNS recursive service for free security and high privacy
+   Points: 63
+   Comments: 14
+   URL: https://quad9.net/
+
+15. Record-High 89% in U.S. Say Government Corruption Widespread
+   Points: 186
+   Comments: 115
+   URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx
+
+16. Government Rails Site Hit Hours After CVE Patch
+   Points: 74
+   Comments: 22
+   URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/
+
+17. Fermat's Last Theorem in Lean 4
+   Points: 65
+   Comments: 15
+   URL: https://github.com/anthropics/fermats-last-theorem
+
+18. The Rust React Compiler is now native in Vite
+   Points: 112
+   Comments: 22
+   URL: https://blog.master.dev/react-now-rusted-all-the-way-out/
+
+19. Show HN: Moadim.io – A scheduler for agents
+   Points: 8
+   Comments: 4
+   URL: https://moadim.io/
+
+20. When declaring an incident becomes everyone's favorite workaround
+   Points: 6
+   Comments: 0
+   URL: https://greatcircle.com/blog/2026/08/11/declaring-incidents-for-side-effects/
+
