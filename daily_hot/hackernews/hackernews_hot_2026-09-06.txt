@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-06
+==================================================
+
+1. Cloud in a Bottle: making self-hosting accessible to everyone
+   Points: 93
+   Comments: 34
+   URL: https://cloudinabottle.org/blog/launch-post
+
+2. The revolt of the reader
+   Points: 103
+   Comments: 27
+   URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/
+
+3. Private German rocket makes history, reaches orbit from European soil
+   Points: 366
+   Comments: 187
+   URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket
+
+4. Learn Programming with OCaml
+   Points: 177
+   Comments: 73
+   URL: https://usr.lmf.cnrs.fr/lpo/
+
+5. The "$60 Gaming PC" – AMD BC-250 (2025)
+   Points: 280
+   Comments: 85
+   URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/
+
+6. Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)
+   Points: 57
+   Comments: 22
+   URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/
+
+7. Discovery of a new OpenAI agent message board
+   Points: 2111
+   Comments: 1516
+   URL: https://collusion.wiki/
+
+8. Visualizing Rust's Vtables: How dyn Trait Works In Memory
+   Points: 133
+   Comments: 19
+   URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
+
+9. How Swiss tables work in Go built-in map
+   Points: 43
+   Comments: 3
+   URL: https://victoriametrics.com/blog/go-swiss-table-map/index.html
+
+10. Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor
+   Points: 63
+   Comments: 8
+   URL: https://github.com/iczelia/balrogg
+
+11. Actively exploited sandbox RCE in all Chromium versions
+   Points: 743
+   Comments: 441
+   URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046
+
+12. Nitter has more working instances than before the takedowns
+   Points: 631
+   Comments: 306
+   URL: https://codeberg.org/mv12star/shitter/wiki/Instances
+
+13. Show HN: Fly By – retro biplane flying game
+   Points: 45
+   Comments: 31
+   URL: https://michaelteter.com/flyby.html
+
+14. LLMs as a Cognitive Virus
+   Points: 177
+   Comments: 152
+   URL: https://arxiv.org/abs/2609.03344
+
+15. The Double Matthew Walker Knot by Fable 5.1
+   Points: 19
+   Comments: 9
+   URL: https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c
+
+16. Delidded Intel I9-14900KS CT Scan
+   Points: 63
+   Comments: 1
+   URL: https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks
+
+17. OKF Agent Memory – Git-native persistent memory for AI coding agents
+   Points: 31
+   Comments: 13
+   URL: https://github.com/okf-memory/okf-agent-memory
+
+18. Terpstra Keyboard
+   Points: 114
+   Comments: 54
+   URL: http://terpstrakeyboard.com/
+
+19. Chrome again exempts Google from user site data settings
+   Points: 28
+   Comments: 0
+   URL: https://lapcatsoftware.com/articles/2026/9/1.html
+
+20. Topologist's Map of the World
+   Points: 24
+   Comments: 10
+   URL: https://www.futilitycloset.com/2026/09/01/small-world-20/
+
