@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-07
+==================================================
+
+1. Making a Python interpreter in 1024 bytes
+   Points: 77
+   Comments: 28
+   URL: https://austinhenley.com/blog/python1024.html
+
+2. GrapheneOS Overhauled Default Apps and Secure Clipboard
+   Points: 194
+   Comments: 115
+   URL: https://grapheneos.social/@GrapheneOS/117225539756835649
+
+3. It took a year to ship WebAssembly in Anubis
+   Points: 138
+   Comments: 83
+   URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/
+
+4. Your intellectual fly is open (2025)
+   Points: 523
+   Comments: 338
+   URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+
+5. Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
+   Points: 67
+   Comments: 22
+   URL: https://github.com/marsbos/mador
+
+6. Nitter and XCancel resume service after legal advice
+   Points: 461
+   Comments: 242
+   URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3
+
+7. Is mathematics about to enter the conservatory?
+   Points: 19
+   Comments: 18
+   URL: https://mbmccoy.dev/posts/mathematical-conservatory/
+
+8. Harnessing the Universal Geometry of Embeddings
+   Points: 42
+   Comments: 9
+   URL: https://arxiv.org/abs/2505.12540
+
+9. Babylonian Lamb Stew with Beets (1750–1730 BCE)
+   Points: 96
+   Comments: 52
+   URL: https://babylonian-collection.yale.edu/about/babylonian-cooking
+
+10. NetBSD 9.5 released and EOL for NetBSD-9
+   Points: 104
+   Comments: 7
+   URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and
+
+11. Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)
+   Points: 40
+   Comments: 10
+   URL: https://www.atlasobscura.com/places/black-hole-of-los-alamos
+
+12. An Alien Mind
+   Points: 323
+   Comments: 286
+   URL: https://openai.com/index/an-alien-mind/
+
+13. Reverse engineering the storage format for an undocumented database
+   Points: 22
+   Comments: 2
+   URL: https://blog.glazer.ee/posts/converting-cronos/
+
+14. Adverse Selection and Markouts
+   Points: 9
+   Comments: 0
+   URL: https://machow.ski/posts/markouts_and_adverse_selection/
+
+15. Asahi Linux on M3
+   Points: 356
+   Comments: 196
+   URL: https://asahilinux.org/2026/09/m2-episode-1/
+
+16. Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
+   Points: 61
+   Comments: 39
+   URL: https://twitter.com/Liquid_BTC/status/2096696272447218108
+
+17. Opalite Health (YC W26) Is Hiring – Founding GTM
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm
+
+18. MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server
+   Points: 3
+   Comments: 0
+   URL: https://github.com/Staatsgeheim/MathKernel
+
+19. Research acceleration: The view inside OpenAI
+   Points: 110
+   Comments: 76
+   URL: https://openai.com/index/research-acceleration-view-inside-openai
+
+20. A/I shuts down
+   Points: 523
+   Comments: 392
+   URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/
+
