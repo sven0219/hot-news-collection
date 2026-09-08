@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-08
+==================================================
+
+1. I've factored the RSA keys of a Certificate Authority from the 90s
+   Points: 43
+   Comments: 1
+   URL: https://mcpherrin.ca/2026/09/07/rsa.html
+
+2. TALA Is Open-Source
+   Points: 80
+   Comments: 7
+   URL: https://d2lang.com/blog/tala-is-open-source/
+
+3. Watch Los Angeles get built, one building at a time (1880–2026)
+   Points: 219
+   Comments: 107
+   URL: https://lax-skyline.parcelscope.net/
+
+4. Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
+   Points: 88
+   Comments: 27
+   URL: https://github.com/Sadpainy/Stuxnet
+
+5. Leaving VMware just got harder after Broadcom pulled VDDK downloads
+   Points: 91
+   Comments: 47
+   URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/
+
+6. Trusting-Trust Attack against an Entire Linux Distribution
+   Points: 149
+   Comments: 35
+   URL: https://arxiv.org/abs/2607.24888
+
+7. WeatherNext 3
+   Points: 236
+   Comments: 56
+   URL: https://deepmind.google/science/weathernext/
+
+8. John Margolies' Photographs of Roadside America
+   Points: 14
+   Comments: 3
+   URL: https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/
+
+9. Scientists observe Einstein's gravity in the quantum world
+   Points: 141
+   Comments: 35
+   URL: https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world
+
+10. Show HN: I built an aesthetically pleasing puzzle
+   Points: 51
+   Comments: 15
+   URL: https://jigsawhaiku.com/
+
+11. 216M Spy TVs – The LG Smart TV Problem [video]
+   Points: 521
+   Comments: 729
+   URL: https://www.youtube.com/watch?v=6IFVTcM28KA
+
+12. Finding a bug in Dummit and Foote's Abstract Algebra
+   Points: 65
+   Comments: 32
+   URL: https://kallus.org/blog/dummit_and_foote.html
+
+13. Disconnect your LG television from the internet, now
+   Points: 19
+   Comments: 8
+   URL: https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now
+
+14. Show HN: Interactive Tree of Life
+   Points: 61
+   Comments: 17
+   URL: https://ptree.org/
+
+15. Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board
+   Points: 5
+   Comments: 0
+   URL: https://blog.yosyshq.com/p/colorlight-part-1/
+
+16. This Month in Ladybird – August 2026
+   Points: 167
+   Comments: 40
+   URL: https://ladybird.org/newsletter/2026-08-31/
+
+17. Caltech Mathathon – first hackathon ever devoted to research level mathematics
+   Points: 232
+   Comments: 82
+   URL: https://mathathonchallenge.com/index.html
+
+18. Icy Moons Are Ocean Worlds
+   Points: 134
+   Comments: 12
+   URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds
+
+19. Decoding the NEC V20 Microcode
+   Points: 118
+   Comments: 8
+   URL: https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html
+
+20. Simple Is Not Small
+   Points: 210
+   Comments: 64
+   URL: https://jyn.dev/simple-is-not-the-same-as-small/
+
