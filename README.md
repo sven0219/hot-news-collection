@@ -130,3 +130,4 @@ MIT
 
 ---
 *This repository is maintained by the GitHub MCP Server. For more information about MCP and its capabilities, visit [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github).*
+
