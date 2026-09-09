@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-09
+==================================================
+
+1. Muse – Meta’s personal AI agent
+   Points: 316
+   Comments: 314
+   URL: https://ai.meta.com/muse/
+
+2. Large language models develop novel social biases through adaptive exploration
+   Points: 93
+   Comments: 48
+   URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH
+
+3. How to build a printer
+   Points: 141
+   Comments: 33
+   URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/
+
+4. Navier-Stokes – Tristan Buckmaster [pdf]
+   Points: 1267
+   Comments: 551
+   URL: https://cims.nyu.edu/~tristanb/statement.pdf
+
+5. AlphaGenome Atlas: a high-resolution map of human DNA
+   Points: 495
+   Comments: 115
+   URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/
+
+6. On the Navier–Stokes Millennium Prize Problem
+   Points: 1127
+   Comments: 973
+   URL: https://openai.com/index/navier-stokes-solution/
+
+7. DaVinci Resolve 21.1
+   Points: 354
+   Comments: 157
+   URL: https://www.blackmagicdesign.com/media/release/20260908-03
+
+8. 27.5KB language-agnostic WebGPU syntax highlighter
+   Points: 6
+   Comments: 0
+   URL: https://gpu-lexer.vercel.app/
+
+9. The Microeconomics of Artificial Intelligence (2025)
+   Points: 31
+   Comments: 9
+   URL: https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence
+
+10. Tao: Open math problems being non-renewably mined by AI
+   Points: 150
+   Comments: 94
+   URL: https://mathstodon.xyz/@tao/117237320796901560
+
+11. Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses
+   Points: 216
+   Comments: 107
+   URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/
+
+12. I-have-ADHD: A skill to stop coding agents from burying the answer
+   Points: 323
+   Comments: 256
+   URL: https://github.com/ayghri/i-have-adhd
+
+13. Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
+   Points: 210
+   Comments: 112
+   URL: https://github.com/argonautlabsai/deltafin
+
+14. Getting phpBB 1.4.4 working in Docker
+   Points: 25
+   Comments: 9
+   URL: https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html
+
+15. A Topological Picture Book, Rendered
+   Points: 54
+   Comments: 7
+   URL: https://e-infinity.space/picture-book/
+
+16. Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?
+   Points: 11
+   Comments: 11
+   URL: https://news.ycombinator.com/item?id=49598009
+
+17. Animation in Bevy: The Big Picture
+   Points: 46
+   Comments: 3
+   URL: https://glocq.com/en/blog/20260827/
+
+18. Show HN: LLM Attention Visualization
+   Points: 130
+   Comments: 22
+   URL: https://ishamf.dev/p/llm-attention-visualizer/
+
+19. Mercury 2.5
+   Points: 123
+   Comments: 16
+   URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5
+
+20. Implementation of GCC's Nested Functions (vs. C++ Lambdas)
+   Points: 58
+   Comments: 9
+   URL: https://uecker.codeberg.page/2026-09-05.html
+
