@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-10
+==================================================
+
+1. iPhone Duo
+   Points: 894
+   Comments: 1690
+   URL: https://www.apple.com/iphone-duo/
+
+2. Shopify acquires Tailwind
+   Points: 895
+   Comments: 353
+   URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+
+3. What do Visa and Mastercard do? An intro to card networks
+   Points: 374
+   Comments: 226
+   URL: https://tautology.town/2026/06/01/card-networks.html
+
+4. AirPods 5
+   Points: 379
+   Comments: 305
+   URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/
+
+5. Growing proof that autonomous cars save lives
+   Points: 213
+   Comments: 411
+   URL: https://spectrum.ieee.org/are-self-driving-cars-safe
+
+6. iPhone 18 Pro and iPhone 18 Pro Max
+   Points: 283
+   Comments: 293
+   URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/
+
+7. No Man's Sky Cosmos
+   Points: 299
+   Comments: 326
+   URL: https://www.nomanssky.com/cosmos-update/
+
+8. GPT-6 Astra, looped transformers, and hidden reasoning
+   Points: 350
+   Comments: 122
+   URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
+
+9. Factoring RSA 260
+   Points: 29
+   Comments: 4
+   URL: https://cognition.com/blog/factoring-rsa-260
+
+10. Apple Watch Series 12
+   Points: 216
+   Comments: 254
+   URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/
+
+11. Qwen 3.8 follows GPT-5.5 Pro reasoning prefills
+   Points: 175
+   Comments: 72
+   URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3
+
+12. Desert Ant Labs: local, fast models that run on device
+   Points: 395
+   Comments: 92
+   URL: https://desertant.com/blog/introducing-desert-ant-labs/
+
+13. I'm sorry, you're not going to die from an AI-engineered supervirus
+   Points: 37
+   Comments: 36
+   URL: https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from
+
+14. GNU Radio in the browser
+   Points: 174
+   Comments: 23
+   URL: https://gnuradioworld.com/
+
+15. The Kuycon P20 – 28" 4500x3000px 3:2 monitor
+   Points: 22
+   Comments: 8
+   URL: https://taoofmac.com/space/reviews/2026/09/06/1800
+
+16. Automattic's board forces CEO Matt Mullenweg into leave of absence
+   Points: 29
+   Comments: 100
+   URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/
+
+17. How I advertise malicious software on Google Ads
+   Points: 358
+   Comments: 219
+   URL: https://xlii.space/eng/malicious-software-on-google-ads/
+
+18. Blizzard Workers Win Historic Union Contract
+   Points: 96
+   Comments: 19
+   URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers
+
+19. Electrostatic Cathode Ray Tube Project 1 (2014)
+   Points: 14
+   Comments: 4
+   URL: https://labguysworld.com/Project_ESCRTs_001.htm
+
+20. Understanding the recent DDoS attack against Read the Docs
+   Points: 159
+   Comments: 53
+   URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/
+
