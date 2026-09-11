@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-11
+==================================================
+
+1. YuE2 · Frontier Music with Symbolic Planning
+   Points: 31
+   Comments: 18
+   URL: https://map-yue2.github.io/
+
+2. Shopify is moving from React Native back to Swift and Kotlin
+   Points: 783
+   Comments: 531
+   URL: https://shopify.engineering/back-to-native
+
+3. Google will buy half the electricity of a nuclear power plant
+   Points: 73
+   Comments: 47
+   URL: https://www.bbc.com/news/articles/c8r6y4me2g6o
+
+4. More questions about whether researchers can trust OpenAI with unpublished math
+   Points: 675
+   Comments: 632
+   URL: https://mathstodon.xyz/@andreasthom/117240535270608201
+
+5. OpenAI Agents API
+   Points: 133
+   Comments: 87
+   URL: https://developers.openai.com/api/docs/guides/agents-api/overview
+
+6. The Deathray: A simple way for an untrusted site to freeze a Mac
+   Points: 84
+   Comments: 55
+   URL: https://auberon.xyz/blog/posts/deathray/
+
+7. Don't let anyone take away your big box of cables
+   Points: 329
+   Comments: 253
+   URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/
+
+8. Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
+   Points: 355
+   Comments: 144
+   URL: https://cognition.com/blog/swe-2
+
+9. Thelio Mira AI Linux Workstation: 192 GB GPU Memory
+   Points: 30
+   Comments: 21
+   URL: https://system76.com/workstations/thelio-mira-ai
+
+10. Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)
+   Points: 273
+   Comments: 42
+   URL: https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images
+
+11. NTSB issues investigative update on B-767 runway excursion accident in Miami
+   Points: 59
+   Comments: 84
+   URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx
+
+12. Show HN: Benzi – A Code Intillegence/Harness Beating Claude Code and CodeGraph
+   Points: 5
+   Comments: 2
+   URL: https://benzi.fly.dev/benchmark
+
+13. Customizing my Compaq MX-11800 keyboard
+   Points: 9
+   Comments: 1
+   URL: https://blog.webb.page/WM-102
+
+14. Music Theory for the 21st-Century Classroom
+   Points: 163
+   Comments: 80
+   URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html
+
+15. Neki – Sharded Postgres
+   Points: 200
+   Comments: 111
+   URL: https://planetscale.com/blog/introducing-neki
+
+16. Forgejo <=16.0.3 Critical RCE
+   Points: 152
+   Comments: 57
+   URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md
+
+17. Recursion into madness
+   Points: 38
+   Comments: 9
+   URL: https://blog.coredump.cx/p/recursion-into-madness
+
+18. Rust is tier-1 language at Microsoft
+   Points: 604
+   Comments: 347
+   URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
+
+19. Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls
+   Points: 285
+   Comments: 229
+   URL: https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/
+
+20. What happens when a GPU writes memory
+   Points: 47
+   Comments: 1
+   URL: https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory
+
