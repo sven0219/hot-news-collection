@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-12
+==================================================
+
+1. A misalignment of AI in mathematics
+   Points: 653
+   Comments: 688
+   URL: https://mathandai.org/
+
+2. I spent $220 on Google app ads and 60% of the installs were robots
+   Points: 303
+   Comments: 168
+   URL: https://dayzlegame.com/blog/google-ads-bot-farm/
+
+3. OpenAI agents carried out an undisclosed attack on RubyGems
+   Points: 334
+   Comments: 198
+   URL: https://www.rubyhack.ai/
+
+4. A Design Space Exploration of Async/Await
+   Points: 147
+   Comments: 30
+   URL: https://cel.cs.brown.edu/blog/design-space-async-await/
+
+5. GrapheneOS' rewritten Messages app is released
+   Points: 199
+   Comments: 123
+   URL: https://github.com/GrapheneOS/Messaging/releases/tag/13
+
+6. Project Blinkenlights
+   Points: 48
+   Comments: 22
+   URL: https://blinkenlights.de/en/
+
+7. AI researchers debate how close we are to recursive self-improvement
+   Points: 34
+   Comments: 17
+   URL: https://www.dwarkesh.com/p/john-beren-charlie
+
+8. Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues
+   Points: 29
+   Comments: 11
+   URL: https://github.com/mirza-rizvi/ResolveHQ
+
+9. Litelm: LiteLLM Without the Bloat
+   Points: 97
+   Comments: 37
+   URL: https://github.com/kennethwolters/litelm
+
+10. Mind-altering drugs played key role in rise of Andean civilization
+   Points: 104
+   Comments: 72
+   URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization
+
+11. Λ Snap – An inviting programming language for kids and adults for CS study
+   Points: 114
+   Comments: 56
+   URL: https://snap.berkeley.edu/
+
+12. AlphaGenome maps 9B DNA variants
+   Points: 69
+   Comments: 6
+   URL: https://spectrum.ieee.org/alphagenome-atlas
+
+13. Rune is now open source
+   Points: 148
+   Comments: 55
+   URL: https://rune.build/blog/rune-is-now-open-source
+
+14. Hepburn Romanization: How to Read Japanese in the Latin Alphabet
+   Points: 20
+   Comments: 16
+   URL: https://www.fink-translate.com/blog/hepburn-romanization.html
+
+15. The EPA is planning to scrap public review rules for data center pollution
+   Points: 361
+   Comments: 244
+   URL: https://capitalbnews.org/data-centers-permit-rules-epa/
+
+16. Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies
+   Points: 32
+   Comments: 2
+   URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies
+
+17. I've operated petabyte-scale ClickHouse clusters for 5 years
+   Points: 177
+   Comments: 65
+   URL: https://www.tinybird.co/blog/what-i-learned-operating-clickhouse
+
+18. QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]
+   Points: 19
+   Comments: 8
+   URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf
+
+19. Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents
+   Points: 8
+   Comments: 4
+   URL: https://github.com/zachsaw/graphify-csharp
+
+20. Logo Programming Language
+   Points: 241
+   Comments: 97
+   URL: https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html
+
