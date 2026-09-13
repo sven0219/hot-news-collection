@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-13
+==================================================
+
+1. Everyone should slow down AI development except for me
+   Points: 96
+   Comments: 13
+   URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/
+
+2. Make your first edit to OpenStreetMap
+   Points: 333
+   Comments: 78
+   URL: https://high5apps.github.io/josm-plugin-website-wizard/
+
+3. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
+   Points: 119
+   Comments: 63
+   URL: https://withspecific.com/benchmarks/real-swe
+
+4. Nvidia is the central bank of AI
+   Points: 399
+   Comments: 270
+   URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai
+
+5. Align AI and Mathematics–To Something Else
+   Points: 7
+   Comments: 0
+   URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/
+
+6. Apple iPod Engraver (2019)
+   Points: 124
+   Comments: 25
+   URL: https://dunstanorchard.com/apple-ipod-engraver/
+
+7. Getting 50 GB/S Back from the Apple Neural Engine
+   Points: 75
+   Comments: 12
+   URL: https://eiln.github.io/posts/ane-dma.html
+
+8. Recurrent Looped Transformer
+   Points: 11
+   Comments: 0
+   URL: https://yifanzhang-pro.github.io/recurrent-looped-tranformer/
+
+9. No Atlantic hurricanes by Sept. 12 breaks a 60-year record
+   Points: 16
+   Comments: 7
+   URL: https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278
+
+10. Stabilizing Rust's Never Type
+   Points: 135
+   Comments: 33
+   URL: https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/
+
+11. LG denies TV spying claims, says tracking and snooping concerns 'not true'
+   Points: 442
+   Comments: 359
+   URL: https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio
+
+12. Vintage Scientific Papers with LaTeX
+   Points: 16
+   Comments: 0
+   URL: https://github.com/Foadsf/vintage-latex
+
+13. We must pace the frontier
+   Points: 547
+   Comments: 777
+   URL: https://darioamodei.com/post/we-must-pace-the-frontier
+
+14. Will There Be a 7G?
+   Points: 84
+   Comments: 141
+   URL: https://arxiv.org/abs/2609.01877
+
+15. I made a build visualizer to understand Bun's compile times
+   Points: 95
+   Comments: 20
+   URL: https://lalitm.com/post/buildprof/
+
+16. AgentsDock: An IDE designed for agentic AI research
+   Points: 5
+   Comments: 2
+   URL: https://agentsdock.net/
+
+17. Microcode in Intel's 8087 floating-point chip: the scale instruction
+   Points: 90
+   Comments: 25
+   URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html
+
+18. Linux Zoom client proactively reading everything written to X11 clipboard
+   Points: 196
+   Comments: 61
+   URL: https://hachyderm.io/@simontatham/117201594980991062
+
+19. Tree Calculus
+   Points: 13
+   Comments: 1
+   URL: https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2
+
+20. LG Says We're Fake News [video]
+   Points: 168
+   Comments: 76
+   URL: https://www.youtube.com/watch?v=ToP9xfLDSME
+
