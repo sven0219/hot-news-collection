@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-14
+==================================================
+
+1. Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+   Points: 490
+   Comments: 212
+   URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+
+2. Why is Google still serving dodgy ads?
+   Points: 608
+   Comments: 283
+   URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads
+
+3. The case against JPEG XL
+   Points: 42
+   Comments: 34
+   URL: https://giannirosato.com/blog/post/case-against-jxl/
+
+4. Registration without a phone number on Signal will use zero-knowledge proofs
+   Points: 87
+   Comments: 42
+   URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10
+
+5. Open-Source AI and Open Models Reading List
+   Points: 23
+   Comments: 1
+   URL: https://www.interconnects.ai/p/open-source-ai-reading-list
+
+6. Spaceships (Reverse Asteroid)
+   Points: 7
+   Comments: 0
+   URL: https://spaceships.treybastian.com/
+
+7. Julia 1.13 highlights
+   Points: 155
+   Comments: 12
+   URL: https://julialang.org/blog/2026/09/julia-1.13-highlights/
+
+8. Astra and Fable still hack on simple variants of alignment evals from 2025
+   Points: 383
+   Comments: 176
+   URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment
+
+9. Show HN: Is It Greg?
+   Points: 5
+   Comments: 1
+   URL: https://github.com/antoineleclair/is-it-greg
+
+10. Data collected by cars and sold to third parties
+   Points: 314
+   Comments: 162
+   URL: https://www.theverge.com/column/994172/your-car-is-selling-your-data
+
+11. Flawed routers flood University of Wisconsin internet time server (2003)
+   Points: 63
+   Comments: 8
+   URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/
+
+12. Ask HN: What are you working on? (September 2026)
+   Points: 90
+   Comments: 193
+   URL: https://news.ycombinator.com/item?id=49686380
+
+13. Mullenweg has returned as CEO after attempted board ouster
+   Points: 47
+   Comments: 98
+   URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/
+
+14. The GDR and Vietnam: From Fake Coffee to Coffee Empire
+   Points: 31
+   Comments: 5
+   URL: https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee
+
+15. The Coming War on General Computation (2011)
+   Points: 51
+   Comments: 10
+   URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation
+
+16. I build a mechanical watch face: a real gear train for a watch with no gears
+   Points: 15
+   Comments: 5
+   URL: https://myday24.com/blog/how-a-mechanical-watch-face-is-built/
+
+17. Reverse engineering my e-scooter and rewriting the firmware in Rust
+   Points: 392
+   Comments: 90
+   URL: https://bensimms.moe/reverse-engineering-scooter/
+
+18. Making Startups Powerful
+   Points: 164
+   Comments: 74
+   URL: https://paulgraham.com/powerful.html
+
+19. I added a non-wi-fi Mitsubishi AC to Home Assistant
+   Points: 180
+   Comments: 86
+   URL: https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77
+
+20. Why is the x86 undefined instruction called ud2? Why 2?
+   Points: 207
+   Comments: 49
+   URL: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689
+
