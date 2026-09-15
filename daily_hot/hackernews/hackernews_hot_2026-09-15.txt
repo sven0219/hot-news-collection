@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-15
+==================================================
+
+1. iOS 27, iPadOS 27, and macOS 27
+   Points: 391
+   Comments: 447
+   URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/
+
+2. Pion, an agent designed to run any company autonomously
+   Points: 296
+   Comments: 326
+   URL: https://andonlabs.com/blog/why-we-built-pion
+
+3. Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+   Points: 38
+   Comments: 4
+   URL: https://github.com/JamesRyanATX/fcbnerd
+
+4. Charts built for Chat
+   Points: 103
+   Comments: 35
+   URL: https://dbtcharts.com/blog/charts-built-for-chat/
+
+5. 4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls
+   Points: 22
+   Comments: 4
+   URL: https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/
+
+6. Compressing a Flag to 11 Bits
+   Points: 74
+   Comments: 37
+   URL: https://read.vantezzen.io/miniflags
+
+7. Distributed Systems Classics (2017)
+   Points: 238
+   Comments: 53
+   URL: https://nvartolomei.com/dist-sys-classics/
+
+8. OpenAI bots knew about the RubyGems caching vulnerability
+   Points: 380
+   Comments: 325
+   URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/
+
+9. XCancel service is suspended until further notice
+   Points: 470
+   Comments: 780
+   URL: https://xcancel.com/#
+
+10. Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)
+   Points: 34
+   Comments: 10
+   URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/
+
+11. Principles for Fast Tokio Applications
+   Points: 165
+   Comments: 42
+   URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/
+
+12. The biggest dinosaurs couldn't sit on their eggs
+   Points: 11
+   Comments: 1
+   URL: https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841
+
+13. How my e-reader lost its stripes
+   Points: 153
+   Comments: 25
+   URL: https://www.serpentine.com/posts/2026/x3-stripes/
+
+14. Steam Frame starts at $1059
+   Points: 514
+   Comments: 388
+   URL: https://store.steampowered.com/hardware/steamframe
+
+15. Why don't machine learning research agents overfit?
+   Points: 107
+   Comments: 61
+   URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit
+
+16. Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
+   Points: 176
+   Comments: 181
+   URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html
+
+17. Optimizing a Spin-Lock
+   Points: 44
+   Comments: 20
+   URL: https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/
+
+18. A Beginning for Mathematics
+   Points: 174
+   Comments: 99
+   URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/
+
+19. Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%
+   Points: 88
+   Comments: 24
+   URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/
+
+20. Ask HN: What are you working on? (September 2026)
+   Points: 301
+   Comments: 946
+   URL: https://news.ycombinator.com/item?id=49686380
+
