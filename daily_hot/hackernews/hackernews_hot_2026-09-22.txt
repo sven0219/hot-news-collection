@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-22
+==================================================
+
+1. Xiaomi MiMo v2.6
+   Points: 564
+   Comments: 286
+   URL: https://mimo.xiaomi.com/mimo-v2-6
+
+2. Claude Status – Elevated errors for multiple models
+   Points: 60
+   Comments: 33
+   URL: https://status.claude.com/incidents/7g1qpkyz5gxh
+
+3. Spymarks, Not Watermarks
+   Points: 129
+   Comments: 32
+   URL: https://brand.io/article/spymarks/
+
+4. I don't want to read what you didn't write
+   Points: 285
+   Comments: 108
+   URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
+
+5. Transformers Explained Visually
+   Points: 214
+   Comments: 37
+   URL: https://poloclub.github.io/transformer-explainer/
+
+6. What Sun got wrong
+   Points: 505
+   Comments: 294
+   URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
+
+7. Attention is all you have
+   Points: 591
+   Comments: 178
+   URL: https://alicegg.tech/2026/09/21/attention
+
+8. NASA’s Mars Sample Return mission is dead
+   Points: 318
+   Comments: 252
+   URL: https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead
+
+9. AI coding has made CI a bottleneck, so we reworked ours to keep up
+   Points: 146
+   Comments: 148
+   URL: https://linear.app/now/ci-bottleneck-reworked
+
+10. Looking forward to Git 2.56 – and 3.0
+   Points: 34
+   Comments: 7
+   URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/
+
+11. Divide by depth for instant 3D
+   Points: 87
+   Comments: 9
+   URL: https://gabrieloc.com/2026/09/15/perspective.html
+
+12. The Advisory Group on Mathematics and Artificial Intelligence
+   Points: 91
+   Comments: 43
+   URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/
+
+13. Paper Models of Polyhedra
+   Points: 5
+   Comments: 0
+   URL: https://www.polyhedra.net/en/
+
+14. The agents, they just want to talk
+   Points: 16
+   Comments: 4
+   URL: https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html
+
+15. Socrates vs. the Written Word (2011)
+   Points: 9
+   Comments: 0
+   URL: https://wondermark.com/socrates-vs-writing/
+
+16. Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'
+   Points: 29
+   Comments: 0
+   URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/
+
+17. How do traffic signals work? (2019)
+   Points: 62
+   Comments: 46
+   URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work
+
+18. More Floating Point Alternatives
+   Points: 8
+   Comments: 6
+   URL: https://wizardzines.com/comics/floating-point-alternatives/
+
+19. Why does mathmain need an encrypted loader?
+   Points: 111
+   Comments: 31
+   URL: https://safedep.io/mathmain-encrypted-loader/
+
+20. Frontier AI on Your Own Hardware
+   Points: 106
+   Comments: 54
+   URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/
+
