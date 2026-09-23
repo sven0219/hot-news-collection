@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-23
+==================================================
+
+1. GPT-6 Sol and Luna
+   Points: 1202
+   Comments: 614
+   URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/
+
+2. Claude Opus 5.5
+   Points: 1224
+   Comments: 820
+   URL: https://www.anthropic.com/claude-opus-5-5
+
+3. 'We hacked the FBI:' Hackers say they have data on all FBI employees
+   Points: 414
+   Comments: 292
+   URL: https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/
+
+4. OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+   Points: 564
+   Comments: 361
+   URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html
+
+5. ReBarUEFI: Resizable BAR for almost any UEFI system
+   Points: 77
+   Comments: 22
+   URL: https://github.com/xCuri0/ReBarUEFI
+
+6. What California is learning from solar panels built over irrigation canals
+   Points: 121
+   Comments: 161
+   URL: https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals
+
+7. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
+   Points: 187
+   Comments: 132
+   URL: https://foxscript.org/
+
+8. SAML: A fractal of bad design
+   Points: 164
+   Comments: 92
+   URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/
+
+9. Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)
+   Points: 237
+   Comments: 72
+   URL: https://artificialanalysis.ai/models/claude-opus-5-5
+
+10. WordPress: Unauthenticated path traversal leading to conditional RCE
+   Points: 157
+   Comments: 84
+   URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp
+
+11. Pentagon says overreliance on AI contributed to missile strike on Iran school
+   Points: 437
+   Comments: 226
+   URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/
+
+12. How did AMD Ryzen get 50% faster in two years?
+   Points: 223
+   Comments: 83
+   URL: https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/
+
+13. The current balance of power in open models
+   Points: 43
+   Comments: 13
+   URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open
+
+14. Side-stepping the Secretary Problem, unwittingly
+   Points: 52
+   Comments: 7
+   URL: https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html
+
+15. MUNI Heritage Weekend in San Francisco
+   Points: 164
+   Comments: 42
+   URL: https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/
+
+16. Unreal Agent
+   Points: 136
+   Comments: 82
+   URL: https://unreallabs.ai/blog/unreal-agent/
+
+17. OpenAI is well positioned to fast-follow Jev
+   Points: 263
+   Comments: 195
+   URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/
+
+18. Show HN: JevBench, a reproducible benchmark for typed decision models
+   Points: 66
+   Comments: 17
+   URL: https://benchmarkheaven.com/jev-models
+
+19. Native apps written in TypeScript and CSS
+   Points: 83
+   Comments: 27
+   URL: https://github.com/geastack/examples
+
+20. People hooked on vapes try a new way to quit: cigarettes
+   Points: 112
+   Comments: 110
+   URL: https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke
+
