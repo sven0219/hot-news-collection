@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-24
+==================================================
+
+1. Linux support is coming to Snapdragon X2 Series
+   Points: 157
+   Comments: 67
+   URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
+
+2. Claude discovers a novel enzyme system with CRISPR-like repeats
+   Points: 504
+   Comments: 533
+   URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system
+
+3. Meta VR Glasses
+   Points: 225
+   Comments: 182
+   URL: https://www.meta.com/vr-glasses/
+
+4. VSCode's SSH Agent Is Bananas (2025)
+   Points: 131
+   Comments: 86
+   URL: https://fly.io/blog/vscode-ssh-wtf/
+
+5. ArXiv receives multiyear commitments to support it as an independent nonprofit
+   Points: 57
+   Comments: 10
+   URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/
+
+6. Mercury 2.5 LLM hits 770 tokens per second
+   Points: 53
+   Comments: 25
+   URL: https://artificialanalysis.ai/models/mercury-2-5
+
+7. The "Windows XP Box" (2003)
+   Points: 50
+   Comments: 8
+   URL: https://www.mini-itx.com/projects/windowsxpbox/
+
+8. FLAWED's Flaws and What This Means for Industry Research
+   Points: 11
+   Comments: 1
+   URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/
+
+9. Fixing the Portobello Police Station Clock
+   Points: 382
+   Comments: 89
+   URL: https://pointinthecloud.com/2026-04-11-211700.html
+
+10. We just shipped support for the ugliest part of HTTP: Vary
+   Points: 79
+   Comments: 13
+   URL: https://blog.cloudflare.com/vary-support/
+
+11. Italian parliament votes for return to nuclear energy
+   Points: 597
+   Comments: 384
+   URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567
+
+12. LensVLM: Compressing long context as images, expanding only relevant pages
+   Points: 57
+   Comments: 6
+   URL: https://huggingface.co/apple/LensVLM-9B
+
+13. The mystery animal on an ancient god's head
+   Points: 55
+   Comments: 17
+   URL: https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/
+
+14. Show HN: An open-source manufacturing ERP/MES/QMS
+   Points: 7
+   Comments: 2
+   URL: https://carbon.ms/self-hosted
+
+15. A brief history of Windows scroll bar shortcuts
+   Points: 110
+   Comments: 51
+   URL: https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/
+
+16. Making Tailscale Faster
+   Points: 77
+   Comments: 34
+   URL: https://tailscale.com/blog/making-tailscale-faster
+
+17. Augustofaces: Pareidolia Fine Art
+   Points: 19
+   Comments: 1
+   URL: https://augusto.at/augustosfaces/
+
+18. Show HN: Combinators in Array Languages
+   Points: 3
+   Comments: 0
+   URL: https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/
+
+19. The Curious Power of Punctuation
+   Points: 26
+   Comments: 4
+   URL: https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review
+
+20. Gemini 3.8 text-to-speech
+   Points: 254
+   Comments: 124
+   URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/
+
