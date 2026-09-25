@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-25
+==================================================
+
+1. F-Droid 2.0
+   Points: 961
+   Comments: 265
+   URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
+
+2. Show HN: Make cursed fonts like Times New Bastard
+   Points: 500
+   Comments: 70
+   URL: https://bastardica.mitpit.com
+
+3. Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design
+   Points: 206
+   Comments: 82
+   URL: https://github.com/devdotfast/whiteboard
+
+4. Why is the liver so weirdly regenerative?
+   Points: 271
+   Comments: 159
+   URL: https://dynomight.substack.com/p/liver
+
+5. Fearless SIMD v1.0
+   Points: 190
+   Comments: 31
+   URL: https://linebender.org/blog/fearless-simd-1-0/
+
+6. 2DWillNeverDie
+   Points: 120
+   Comments: 10
+   URL: https://2dwillneverdie.com/
+
+7. Rails World 2026 Opening Keynote [video]
+   Points: 245
+   Comments: 257
+   URL: https://www.youtube.com/watch?v=vDjW_dRyKXY
+
+8. Toyota is taking the Corolla electric
+   Points: 236
+   Comments: 378
+   URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/
+
+9. Writing Parquet files using Haskell
+   Points: 20
+   Comments: 2
+   URL: https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html
+
+10. My weird new hobby: Wandering around Tokyo on Google Maps
+   Points: 229
+   Comments: 96
+   URL: https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/
+
+11. Using LLMs to trace alchemical knowledge and decode 17th century letters
+   Points: 81
+   Comments: 13
+   URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
+
+12. Google’s Project Suncatcher to put ML infrastructure in space
+   Points: 118
+   Comments: 219
+   URL: https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/
+
+13. Show HN: Koi.rest – watch some fish and regain your balance
+   Points: 135
+   Comments: 30
+   URL: https://koi.rest
+
+14. Two-tier encryption in the UK
+   Points: 389
+   Comments: 375
+   URL: https://macanorak.com/two-tier-encryption-in-the-uk/
+
+15. The Bayeux Tapestry: Woven by the Victors
+   Points: 8
+   Comments: 0
+   URL: https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors
+
+16. California is chasing wealth that has feet
+   Points: 145
+   Comments: 419
+   URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that
+
+17. Sourcehut account takeover via build logs (XSS in ansi2html)
+   Points: 74
+   Comments: 12
+   URL: https://blog.arusekk.pl/posts/srht-account-takeover/
+
+18. Book review: Is parallel programming hard, and, if so, what can you do about it?
+   Points: 91
+   Comments: 25
+   URL: https://ahelwer.ca/post/2026-09-21-concurrency-textbook/
+
+19. The Board Game of the Alpha Nerds (2014)
+   Points: 55
+   Comments: 23
+   URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/
+
+20. Security auditing in the age of (good enough) AI
+   Points: 66
+   Comments: 4
+   URL: https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/
+
