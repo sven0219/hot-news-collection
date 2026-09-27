@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-27
+==================================================
+
+1. Does Georgism work? Five years later
+   Points: 138
+   Comments: 77
+   URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later
+
+2. DeepSeek Elastic Compute (DSec)
+   Points: 163
+   Comments: 50
+   URL: https://arxiv.org/abs/2609.22978
+
+3. PipePipe: NewPipe hard fork implementing SponsorBlock
+   Points: 324
+   Comments: 182
+   URL: https://github.com/InfinityLoop1308/PipePipe
+
+4. Show HN: Reladraw – A diagram language where you decide where to place things
+   Points: 191
+   Comments: 56
+   URL: https://github.com/reladraw/reladraw
+
+5. Go Concurrency Distilled
+   Points: 43
+   Comments: 9
+   URL: https://antonz.org/go-concurrency-distilled/
+
+6. Evolving programming languages in the AI era
+   Points: 35
+   Comments: 18
+   URL: https://dashbit.co/blog/evolving-ai-era
+
+7. Turning GLM-5.3-Flash into a Jev-like decision model
+   Points: 32
+   Comments: 14
+   URL: https://www.privatemode.ai/blog/system-one-from-glm-flash
+
+8. A searchable library of forgotten public-domain film clips from 1915 onward
+   Points: 117
+   Comments: 25
+   URL: https://www.movingimagearchive.com/
+
+9. Drawgent: Coding agent on a live Excalidraw canvas
+   Points: 112
+   Comments: 32
+   URL: https://tangled.org/yanndegat.tngl.sh/drawgent
+
+10. Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC
+   Points: 30
+   Comments: 6
+   URL: https://www.righto.com/2026/09/8087-tangent-cordic.html
+
+11. Biology might not be quantum, but its math is quantumlike
+   Points: 18
+   Comments: 7
+   URL: https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/
+
+12. Fifteen years later, the Apple Cards origin story
+   Points: 348
+   Comments: 89
+   URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story
+
+13. Promising discoveries about the potential for life on one of Saturn’s icy moons
+   Points: 22
+   Comments: 11
+   URL: https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html
+
+14. Welcome to the Medical Clinic at the Interplanetary Relay Station
+   Points: 48
+   Comments: 8
+   URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/
+
+15. ASML says it sold 'absolutely nothing' in Europe in 2026
+   Points: 158
+   Comments: 437
+   URL: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand
+
+16. LA Metro has some of the slowest escalators on Earth
+   Points: 80
+   Comments: 62
+   URL: https://basin.la/articles/ninety-feet-a-minute.html
+
+17. Generate fonts where every LLM token is the same width
+   Points: 28
+   Comments: 7
+   URL: https://ampdot.mesh.host/token-space-fonts.html
+
+18. How one Twitch chat message became code execution on a streamer’s PC
+   Points: 28
+   Comments: 11
+   URL: https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/
+
+19. Modern Object Pascal Introduction for Programmers
+   Points: 148
+   Comments: 60
+   URL: https://castle-engine.io/modern_pascal
+
+20. How I changed teaching after AI managed to do all my homework assignments
+   Points: 141
+   Comments: 141
+   URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed
+
