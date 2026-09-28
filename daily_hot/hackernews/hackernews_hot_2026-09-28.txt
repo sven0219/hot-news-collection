@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-28
+==================================================
+
+1. Self-parking car using genetic algorithm (2021)
+   Points: 26
+   Comments: 4
+   URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/
+
+2. When did Google get so weird?
+   Points: 828
+   Comments: 437
+   URL: https://sancho.bearblog.dev/google-weird/
+
+3. Ember-1
+   Points: 365
+   Comments: 184
+   URL: https://fireworks.ai/blog/ember-1
+
+4. Research finds 485 chemicals in US pesticide products linked to breast cancer
+   Points: 32
+   Comments: 1
+   URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products
+
+5. Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06
+   Points: 24
+   Comments: 3
+   URL: https://github.com/dashersw/coyopedal
+
+6. Alan Kay's answer to “Did the ENIAC have a BIOS”?
+   Points: 77
+   Comments: 30
+   URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11
+
+7. The state of SIMD in Rust in 2026
+   Points: 101
+   Comments: 21
+   URL: https://shnatsel.github.io/state-of-simd-rust-2026/
+
+8. There is more to code review than (automatable) detection
+   Points: 70
+   Comments: 32
+   URL: https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/
+
+9. Lunar Terminator Paradox
+   Points: 45
+   Comments: 32
+   URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html
+
+10. Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi
+   Points: 177
+   Comments: 81
+   URL: https://loficities.com/
+
+11. Don't couple your Go code to GitHub
+   Points: 156
+   Comments: 79
+   URL: https://iain.rocks/blog/dont-couple-your-go-code-to-github
+
+12. Self-Hosting on the Dark Web
+   Points: 72
+   Comments: 23
+   URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/
+
+13. Show HN: Panda, the world's first personal AI computer
+   Points: 5
+   Comments: 16
+   URL: https://pandax1.com
+
+14. Imp is a full port of DSPy to the BEAM
+   Points: 52
+   Comments: 5
+   URL: https://github.com/deepfates/imp
+
+15. What I did at Recurse Center
+   Points: 74
+   Comments: 18
+   URL: https://thill.me/2026/09/11/what-i-did-at-rc.html
+
+16. Oral history of John Chowning, inventor of FM synthesis [video]
+   Points: 53
+   Comments: 10
+   URL: https://www.youtube.com/watch?v=e1Xn3030IvM
+
+17. In an $80 motel room, a discovery to shed light on the origins of life
+   Points: 212
+   Comments: 82
+   URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html
+
+18. As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'
+   Points: 12
+   Comments: 2
+   URL: https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html
+
+19. Replacing the old battery on rechargeable bike lights
+   Points: 141
+   Comments: 75
+   URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/
+
+20. Malleable software: Restoring user agency in a world of locked-down apps (2025)
+   Points: 3
+   Comments: 1
+   URL: https://www.inkandswitch.com/essay/malleable-software/
+
