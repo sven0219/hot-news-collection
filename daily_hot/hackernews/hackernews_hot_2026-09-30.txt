@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-09-30
+==================================================
+
+1. Livenerf: Has Opus 5.5 been nerfed yet?
+   Points: 286
+   Comments: 127
+   URL: https://github.com/ninjahawk/livenerf
+
+2. U.S. postal inspectors shut down website selling counterfeit postage labels
+   Points: 180
+   Comments: 107
+   URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/
+
+3. Show HN: Real-time Solar System with 526k asteroids and all tracked satellites
+   Points: 128
+   Comments: 32
+   URL: https://space.bl2.net/
+
+4. America.gov
+   Points: 388
+   Comments: 312
+   URL: https://america.gov/
+
+5. GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+   Points: 809
+   Comments: 746
+   URL: https://openai.com/index/introducing-gpt-6-1-sol/
+
+6. When oil prices spike, where does the money go?
+   Points: 45
+   Comments: 36
+   URL: https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763
+
+7. How Delhi cut electricity loss from 50 to 5 percent
+   Points: 448
+   Comments: 261
+   URL: https://spectrum.ieee.org/delhi-electricity-loss
+
+8. Language models for text classification: From bag-of-words to Jev
+   Points: 38
+   Comments: 0
+   URL: https://magazine.sebastianraschka.com/p/classifier-history-and-jev
+
+9. Vermont replacing power plants with home batteries
+   Points: 104
+   Comments: 85
+   URL: https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms
+
+10. Needed 1+1, built a functional programming language
+   Points: 38
+   Comments: 8
+   URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/
+
+11. PS5 Relapse Exploit
+   Points: 238
+   Comments: 131
+   URL: https://github.com/ntfargo/Relapse-Exploit
+
+12. NAND-16: a computer built from 277,248 NAND gates
+   Points: 112
+   Comments: 61
+   URL: https://somethingbig.ai/computer
+
+13. Backblaze drive stats for Q2 2026
+   Points: 89
+   Comments: 16
+   URL: https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/
+
+14. We’re forgetting what darkness feels like
+   Points: 68
+   Comments: 44
+   URL: https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation
+
+15. Phyllotaxis: An audio-reactive LED display
+   Points: 263
+   Comments: 44
+   URL: https://jagi.studio/posts/phyllotaxis/
+
+16. Show HN: A working 3D model of an Enigma machine
+   Points: 38
+   Comments: 3
+   URL: https://enigma.design
+
+17. Commodore 64: Mercenary
+   Points: 31
+   Comments: 6
+   URL: https://gamesexplained.com/c64/mercenary/
+
+18. Deser: Rethinking Rust Serialization
+   Points: 34
+   Comments: 6
+   URL: https://lucumr.pocoo.org/2026/9/29/deser/
+
+19. Show HN: NSL – WSL for Linux
+   Points: 90
+   Comments: 64
+   URL: https://frostyard.github.io/nsl/
+
+20. Ask HN: What are you reading?
+   Points: 154
+   Comments: 400
+   URL: https://news.ycombinator.com/item?id=49893157
+
