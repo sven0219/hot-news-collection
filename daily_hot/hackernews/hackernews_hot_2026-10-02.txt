@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-02
+==================================================
+
+1. Pi 1.0
+   Points: 820
+   Comments: 286
+   URL: https://earendil.com/posts/pi-1-0/
+
+2. Several vulnerabilities have been discovered in the Linux kernel
+   Points: 135
+   Comments: 73
+   URL: https://lwn.net/Articles/1097401/
+
+3. Clef: Open-weight decision models, and new RL fine-tuning platform
+   Points: 446
+   Comments: 164
+   URL: https://blog.cloudflare.com/clef-decision-models/
+
+4. SvelteKit 3
+   Points: 141
+   Comments: 55
+   URL: https://svelte.dev/blog/sveltekit-3-is-here
+
+5. Ask HN: Who is hiring? (October 2026)
+   Points: 162
+   Comments: 166
+   URL: https://news.ycombinator.com/item?id=49922569
+
+6. Pi Durable
+   Points: 250
+   Comments: 27
+   URL: https://earendil.com/posts/pi-durable/
+
+7. StreetComplete on iOS is now in public beta
+   Points: 529
+   Comments: 135
+   URL: https://github.com/streetcomplete/StreetComplete/issues/5421
+
+8. Using Opus 5.5 to discover a new eyewitness record of the dodo
+   Points: 84
+   Comments: 15
+   URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness
+
+9. Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia
+   Points: 54
+   Comments: 8
+   URL: https://github.com/Vibra-Ingenn/Janus
+
+10. Git 3.0's upcoming SHA-256 default will be a costly mistake
+   Points: 236
+   Comments: 240
+   URL: https://blog.gitbutler.com/git-3-sha-256
+
+11. CSS Bed: Classless CSS themes to use as starting points in web development
+   Points: 63
+   Comments: 13
+   URL: https://www.cssbed.com
+
+12. RIP, vector database
+   Points: 286
+   Comments: 78
+   URL: https://turbopuffer.com/blog/rip-vector-database
+
+13. ArXiv's Updated Rate Limit Policy
+   Points: 76
+   Comments: 35
+   URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/
+
+14. Oxygen-deprived underwater zones may not be “dead zones” but clue to early life
+   Points: 87
+   Comments: 4
+   URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570
+
+15. Vote on which of Hacker News' challenges for AI have been met
+   Points: 100
+   Comments: 112
+   URL: https://stoppels.ch/goalposts/
+
+16. Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers
+   Points: 176
+   Comments: 27
+   URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/
+
+17. How Singapore's government-run dating service works
+   Points: 3
+   Comments: 1
+   URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works
+
+18. Aweb – Communication for AI Agents
+   Points: 27
+   Comments: 16
+   URL: https://aweb.ai
+
+19. Cloudflare K2: serverless event streams
+   Points: 206
+   Comments: 83
+   URL: https://blog.cloudflare.com/cloudflare-k2-streams/
+
+20. Frog and Toad and the Increasingly Capable Machines
+   Points: 33
+   Comments: 5
+   URL: https://www.frogandtoad.ai/
+
