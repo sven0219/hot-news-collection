@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-03
+==================================================
+
+1. Things That Apparently Cause Cancer
+   Points: 88
+   Comments: 33
+   URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer
+
+2. The Forgetful CPU (Linux on M4)
+   Points: 122
+   Comments: 50
+   URL: https://yuka.dev/blog-2026-10-02-linux-m4.html
+
+3. Court agrees with EFF: Utah's VPN law demands a technical impossibility
+   Points: 529
+   Comments: 232
+   URL: https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility
+
+4. Newgrounds.com – A community of games, music, and art
+   Points: 18
+   Comments: 0
+   URL: https://www.newgrounds.com/
+
+5. Mike Tomlin spent 12 years building a Minecraft city
+   Points: 312
+   Comments: 85
+   URL: https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/
+
+6. A 12-year sequence of telescope images of a star and four planets orbiting
+   Points: 206
+   Comments: 49
+   URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f
+
+7. Apple Pass Designer
+   Points: 334
+   Comments: 223
+   URL: https://developer.apple.com/pass-designer/
+
+8. NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]
+   Points: 15
+   Comments: 9
+   URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf
+
+9. Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble
+   Points: 44
+   Comments: 33
+   URL: https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821
+
+10. With most information hidden, the game Stratego had stumped AI until now
+   Points: 189
+   Comments: 91
+   URL: https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/
+
+11. Muse Gadgets
+   Points: 141
+   Comments: 68
+   URL: https://gadgets.muse.ai
+
+12. Loss of cell identity drives human aging: Two new papers
+   Points: 183
+   Comments: 49
+   URL: https://erictopol.substack.com/p/loss-of-cell-identity-drives-human
+
+13. From the creator of Redis; run LLM locally with ds4
+   Points: 161
+   Comments: 41
+   URL: https://dwarfstar.sh/
+
+14. Greg Kroah-Hartman – Security in the LLM Age [video]
+   Points: 185
+   Comments: 49
+   URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q
+
+15. Updates to Full Disk Access in macOS
+   Points: 136
+   Comments: 76
+   URL: https://developer.apple.com/news/?id=p6zjojqw
+
+16. FLUX 3 Image
+   Points: 281
+   Comments: 62
+   URL: https://bfl.ai/models/flux-3-image
+
+17. Sites in ChatGPT
+   Points: 221
+   Comments: 223
+   URL: https://chatgpt.com/features/sites/
+
+18. Show HN: Giving Opus 5.5 a simulated paint canvas
+   Points: 211
+   Comments: 69
+   URL: https://stillwet.art/
+
+19. Every SaaS business will become a harness around a model
+   Points: 105
+   Comments: 75
+   URL: https://blog.sshh.io/p/the-harness-is-the-company
+
+20. Show HN: Made an open-source Lego AI generator
+   Points: 74
+   Comments: 41
+   URL: https://github.com/anteloc/ldraw-nova
+
