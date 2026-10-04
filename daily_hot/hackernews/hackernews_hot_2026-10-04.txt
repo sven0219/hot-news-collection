@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-04
+==================================================
+
+1. We're going to need default hard budget caps on pretty much everything
+   Points: 238
+   Comments: 127
+   URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+
+2. Bob Cringely Has Died
+   Points: 172
+   Comments: 29
+   URL: https://news.ycombinator.com/item?id=49949438
+
+3. Treachery in the Rodin Museum 3D scan verdict
+   Points: 99
+   Comments: 53
+   URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict
+
+4. Hole Punch: Sling your spaceship around gravitational fields
+   Points: 246
+   Comments: 62
+   URL: https://notoriousbfg.com/hole-punch/
+
+5. The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux
+   Points: 164
+   Comments: 21
+   URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+
+6. So You Think You Could Be an Electrician?
+   Points: 33
+   Comments: 16
+   URL: https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician
+
+7. Reasons I didn't become an EMT, ranked
+   Points: 114
+   Comments: 55
+   URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/
+
+8. Celebrating the 100th birthday of the kidney donated to him as a teenager
+   Points: 153
+   Comments: 41
+   URL: https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/
+
+9. Kolibri: A Sovereign Open-Weight Model
+   Points: 535
+   Comments: 304
+   URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/
+
+10. OpenAI safety leader quits, warning AI company's culture is 'broken'
+   Points: 207
+   Comments: 164
+   URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken
+
+11. Math's pedagogical curse – Grant Sanderson [video]
+   Points: 15
+   Comments: 6
+   URL: https://www.youtube.com/watch?v=UOuxo6SA8Uc
+
+12. Getting the most out of Opus 5.5 in Claude and Claude Code
+   Points: 177
+   Comments: 126
+   URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
+
+13. Your body of work thinks back at you
+   Points: 26
+   Comments: 1
+   URL: https://photoni.st/index.php/2026/09/25/your-body-of-work-thinks-back-at-you/
+
+14. FTL: A new operating system for clouds
+   Points: 153
+   Comments: 61
+   URL: https://ftl-os.org/
+
+15. Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?
+   Points: 37
+   Comments: 13
+   URL: https://thoreaubasic.com/
+
+16. New York City should carefully measure a new tree
+   Points: 53
+   Comments: 10
+   URL: https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/
+
+17. Agents don't need memory, they need documentation
+   Points: 69
+   Comments: 52
+   URL: https://liao.gg/blog/agents-dont-need-memory
+
+18. Surely you have ultra-wideband radios on your bins too?
+   Points: 48
+   Comments: 25
+   URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/
+
+19. Three AI agents, two countries, and one uneven world wide web
+   Points: 9
+   Comments: 0
+   URL: https://royapakzad.substack.com/p/multilingual-ai-agents
+
+20. Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server
+   Points: 81
+   Comments: 30
+   URL: https://pipod.dev/
+
