@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-06
+==================================================
+
+1. Beam: Reflection's 501B open-weight model
+   Points: 351
+   Comments: 105
+   URL: https://reflection.ai/blog/introducing-beam
+
+2. Find the flattest route between any two points in SF
+   Points: 134
+   Comments: 43
+   URL: https://flattensf.com/
+
+3. Example.com just launched the biggest redesign in decades
+   Points: 117
+   Comments: 72
+   URL: https://www.debugbear.com/blog/example-dot-com-redesign-history
+
+4. Dust: Pretraining Transformers Without Backpropagation
+   Points: 126
+   Comments: 22
+   URL: https://qlabs.sh/research/dust
+
+5. Friendship ended with Deno, now Node is my best friend
+   Points: 88
+   Comments: 31
+   URL: https://dbushell.com/2026/10/03/deno-to-node/
+
+6. AI tutoring with Khanmigo in a two-year school experiment
+   Points: 45
+   Comments: 33
+   URL: https://edworkingpapers.com/ai26-1551
+
+7. An Algorithmic Failure Beneath the Secret Ballot
+   Points: 42
+   Comments: 13
+   URL: https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/
+
+8. Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
+   Points: 244
+   Comments: 175
+   URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors
+
+9. ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons
+   Points: 326
+   Comments: 223
+   URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/
+
+10. Web Search API
+   Points: 499
+   Comments: 229
+   URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/
+
+11. Samon: Designing a Zen Garden Raking Puzzle
+   Points: 26
+   Comments: 7
+   URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html
+
+12. Photopea creator weighs in on Photosuite project
+   Points: 41
+   Comments: 21
+   URL: https://github.com/eolix/photosuite/issues/77
+
+13. Worth Building
+   Points: 52
+   Comments: 38
+   URL: https://armstr.ng/writing/worth-building
+
+14. Competitive Programmer's Handbook (2018) [pdf]
+   Points: 144
+   Comments: 32
+   URL: https://cses.fi/book/book.pdf
+
+15. Anthropic reported diary entry to police, woman faces felony charge
+   Points: 590
+   Comments: 485
+   URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html
+
+16. Testing 12 different Zigbee temperature/humidity sensors
+   Points: 54
+   Comments: 15
+   URL: https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/
+
+17. Global Solar Atlas: summary of solar power potential globally
+   Points: 21
+   Comments: 13
+   URL: https://globalsolaratlas.info/
+
+18. DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit
+   Points: 37
+   Comments: 4
+   URL: https://github.com/dfd-tud/deda
+
+19. Show HN: Photoc – Command-line tools for photographers
+   Points: 6
+   Comments: 2
+   URL: https://github.com/ahmetomerv/photoc
+
+20. Ephemeral Testing
+   Points: 37
+   Comments: 13
+   URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/
+
