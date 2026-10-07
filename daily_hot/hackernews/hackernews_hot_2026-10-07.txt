@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-07
+==================================================
+
+1. Sharing AI progress in mathematics
+   Points: 506
+   Comments: 425
+   URL: https://openai.com/index/sharing-ai-progress-in-mathematics/
+
+2. Strands Decider 2B: a small, open-source, decision model
+   Points: 32
+   Comments: 4
+   URL: https://strandsagents.com/blog/introducing-strands-decider/
+
+3. Mistral Large 4
+   Points: 1618
+   Comments: 972
+   URL: https://mistral.ai/news/mistral-large-4/\
+
+4. Decisions API is in public beta
+   Points: 171
+   Comments: 70
+   URL: https://developers.openai.com/api/docs/guides/decisions
+
+5. The cost of lies: A Mineserver story
+   Points: 19
+   Comments: 3
+   URL: https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272
+
+6. Penguin Mail – open-source Rust email client for Linux with AI
+   Points: 87
+   Comments: 34
+   URL: https://penguin-mail.com/
+
+7. EmbeddingGemma 2: An open, lightweight multimodal embedding model
+   Points: 238
+   Comments: 30
+   URL: https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/
+
+8. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
+   Points: 126
+   Comments: 96
+   URL: https://github.com/boykopovar/AnyPS5
+
+9. Claude Code’s suggested message feature: I think the real customer is the model
+   Points: 118
+   Comments: 62
+   URL: https://www.zohaib.cc/blog/smartest-claude-code-feature
+
+10. OpenTPU – An open-source AI accelerator, developed by AI
+   Points: 246
+   Comments: 303
+   URL: https://github.com/FeSens/openTPU
+
+11. State of Devs 2026
+   Points: 84
+   Comments: 26
+   URL: https://2026.stateofdevs.com/en-US/
+
+12. LLMs may have helped my RSI
+   Points: 48
+   Comments: 28
+   URL: https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html
+
+13. Jev-Driven SRE Diagnosis: What Worked and What Failed
+   Points: 7
+   Comments: 1
+   URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis
+
+14. Utah to let AI examine patients and prescribe medication without human oversight
+   Points: 90
+   Comments: 103
+   URL: https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html
+
+15. Paramount Skydance has completed its $111B merger with Warner Bros. Discovery
+   Points: 189
+   Comments: 311
+   URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/
+
+16. When random is not actually random enough
+   Points: 35
+   Comments: 7
+   URL: https://ersc.io/blog/when-random-isnt-random-enough
+
+17. Integer multiplication below n log n
+   Points: 71
+   Comments: 52
+   URL: https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026
+
+18. ESP32-C3 Adblock
+   Points: 9
+   Comments: 2
+   URL: https://github.com/M-Abozaid/esp32-c3-adblock
+
+19. How Fast is Python 3.15?
+   Points: 34
+   Comments: 23
+   URL: https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15
+
+20. What's Earth's dominant species by mass?
+   Points: 163
+   Comments: 109
+   URL: https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/
+
