@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-08
+==================================================
+
+1. Claude Haiku 5.5
+   Points: 726
+   Comments: 366
+   URL: https://www.anthropic.com/claude-haiku-5-5
+
+2. Margaret Hamilton has died
+   Points: 915
+   Comments: 103
+   URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
+
+3. Cleo (Mathematician)
+   Points: 57
+   Comments: 5
+   URL: https://en.wikipedia.org/wiki/Cleo_(mathematician)
+
+4. How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't
+   Points: 93
+   Comments: 42
+   URL: https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t
+
+5. Living off-grid: Hundred Rabbits
+   Points: 26
+   Comments: 4
+   URL: https://100r.ca/site/home.html
+
+6. Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app
+   Points: 396
+   Comments: 115
+   URL: https://bigwords.page/
+
+7. 'Jonathan' is the oldest land animal on Earth
+   Points: 82
+   Comments: 32
+   URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/
+
+8. GPT‑6 and Intelligent UI for everyone
+   Points: 531
+   Comments: 278
+   URL: https://openai.com/index/gpt-6-for-everyone/
+
+9. Shipping JPEG XL in Chrome
+   Points: 503
+   Comments: 344
+   URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome
+
+10. In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick
+   Points: 34
+   Comments: 3
+   URL: https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html
+
+11. Docker Agent
+   Points: 191
+   Comments: 87
+   URL: https://github.com/docker/docker-agent
+
+12. A minimal kernel in Swift, running in QEMU
+   Points: 36
+   Comments: 7
+   URL: https://carette.xyz/posts/minimal_swift_kernel_on_qemu/
+
+13. Push ifs up and fors down: The idiom, its algebra, and its limits
+   Points: 115
+   Comments: 56
+   URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/
+
+14. If somebody tries to hot-patch an already-hot-patched function
+   Points: 46
+   Comments: 17
+   URL: https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/
+
+15. Sharing AI progress in mathematics
+   Points: 1244
+   Comments: 1418
+   URL: https://openai.com/index/sharing-ai-progress-in-mathematics/
+
+16. Brownian Motion
+   Points: 43
+   Comments: 2
+   URL: https://gregorygundersen.com/blog/2026/04/22/brownian-motion/
+
+17. A new write and space optimized storage engine for MySQL is here
+   Points: 39
+   Comments: 18
+   URL: https://tidesdb.com/articles/tidesdb-now-available-for-mysql/
+
+18. Animated ASCII Art for Web Pages
+   Points: 307
+   Comments: 58
+   URL: https://ascii.rest/
+
+19. Navier–Stokes Lost in Translation
+   Points: 268
+   Comments: 168
+   URL: https://arxiv.org/abs/2610.08144
+
+20. How machines learned precision
+   Points: 116
+   Comments: 57
+   URL: https://glinscott.github.io/how-machines-learned-precision/
+
