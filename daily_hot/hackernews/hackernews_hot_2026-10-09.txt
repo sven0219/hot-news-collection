@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-09
+==================================================
+
+1. What should we tell our students?
+   Points: 40
+   Comments: 26
+   URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/
+
+2. Whistle: Speech to Text in 16.9 MB
+   Points: 600
+   Comments: 133
+   URL: https://cactuscompute.com/blog/whistle
+
+3. Theranos.world
+   Points: 324
+   Comments: 123
+   URL: https://www.theranos.world/
+
+4. Reducing undefined behavior in the C language
+   Points: 26
+   Comments: 9
+   URL: https://lwn.net/Articles/1095811/
+
+5. Man discovers his parents' coffee machine used 1TB of data in 10 days
+   Points: 477
+   Comments: 302
+   URL: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
+
+6. I hired an illustrator to draw my house. Now it's my Home Assistant dashboard
+   Points: 452
+   Comments: 76
+   URL: https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my
+
+7. Bevy 0.20
+   Points: 68
+   Comments: 12
+   URL: https://bevy.org/news/bevy-0-20/
+
+8. Why isn't the industry freaking out about DeepSeek 4.1 Flash?
+   Points: 477
+   Comments: 408
+   URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/
+
+9. Yes, and
+   Points: 235
+   Comments: 78
+   URL: https://htmx.org/essays/yes-and/
+
+10. The value of not getting to the point (2015)
+   Points: 132
+   Comments: 42
+   URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/
+
+11. Keyboard differences between Windows and Macs
+   Points: 9
+   Comments: 3
+   URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/
+
+12. AI-ready biological data: $1.8B global commitment
+   Points: 87
+   Comments: 10
+   URL: https://biohub.org/news/virtual-biology-initiative-expansion/
+
+13. Show HN: SVG Spark – 10 client-side SVG design and dev tools
+   Points: 32
+   Comments: 4
+   URL: https://svg-spark.vercel.app/
+
+14. ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)
+   Points: 198
+   Comments: 134
+   URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full
+
+15. ETH-68: Ethernet Audio Interface for Linux
+   Points: 104
+   Comments: 64
+   URL: https://naturalsystems.io/eth68
+
+16. Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?
+   Points: 141
+   Comments: 223
+   URL: https://news.ycombinator.com/item?id=49985548
+
+17. Beauty in DVD Menus
+   Points: 274
+   Comments: 152
+   URL: https://vale.rocks/posts/dvd-menus
+
+18. A Terminal Protocol for Program Status (OSC 7501)
+   Points: 120
+   Comments: 37
+   URL: https://mitchellh.com/writing/program-status-osc7501
+
+19. Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter
+   Points: 114
+   Comments: 26
+   URL: https://openrouter.ai/stepfun/step-5-preview
+
+20. A 5.3M-year-old deep-sea whale necropolis in the Diamantina Zone
+   Points: 103
+   Comments: 6
+   URL: https://www.nature.com/articles/s41586-026-10546-z
+
