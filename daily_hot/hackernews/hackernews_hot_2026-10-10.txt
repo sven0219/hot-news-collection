@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-10
+==================================================
+
+1. REA Reverse – Engineer Anything
+   Points: 137
+   Comments: 28
+   URL: https://rea.tools/
+
+2. Cloudflare acquires Deno
+   Points: 1098
+   Comments: 569
+   URL: https://deno.com/blog/cloudflare
+
+3. Triple-A Minesweeper
+   Points: 717
+   Comments: 139
+   URL: https://minesweeper.mikelacher.com/
+
+4. Our $445M Series D
+   Points: 607
+   Comments: 272
+   URL: https://oxide.computer/blog/our-445m-series-d
+
+5. Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded
+   Points: 227
+   Comments: 29
+   URL: https://carrierexplode.com/
+
+6. Can you use autoregressive diffusion to generate market data?
+   Points: 22
+   Comments: 5
+   URL: https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/
+
+7. Typesafe AI raises $870M at $7.5B
+   Points: 290
+   Comments: 222
+   URL: https://typesafe.ai/blog/series-ai
+
+8. Compiling Rust to readable C with Eurydice
+   Points: 30
+   Comments: 2
+   URL: https://lwn.net/Articles/1055211/
+
+9. 11 of 23 Core Open Source Projects Run on 1 or 2 People
+   Points: 76
+   Comments: 29
+   URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/
+
+10. Pointing AI at archives found a forgotten meteorite, lost rhinos, and more
+   Points: 114
+   Comments: 56
+   URL: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/
+
+11. YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops
+   Points: 459
+   Comments: 250
+   URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306
+
+12. Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025
+   Points: 37
+   Comments: 7
+   URL: https://www.nber.org/papers/w35854
+
+13. Has the Autonomous Trucking Revolution Arrived?
+   Points: 10
+   Comments: 8
+   URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/
+
+14. Eye of Sauron: Long-Range Hidden Spy Camera Detection
+   Points: 7
+   Comments: 1
+   URL: https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo
+
+15. Atari Falcon
+   Points: 20
+   Comments: 3
+   URL: https://atarimuseum.nl/atari-falcon/
+
+16. Show HN: Proton Drive for Linux
+   Points: 41
+   Comments: 15
+   URL: https://oss.lsantos.dev/proton-drive-linux-fs/
+
+17. Rewriting Prime Agent in Rust
+   Points: 28
+   Comments: 8
+   URL: https://www.primeintellect.ai/blog/prime-agent-rust
+
+18. The role of cat eye narrowing movements in cat–human communication (2020)
+   Points: 47
+   Comments: 22
+   URL: https://www.nature.com/articles/s41598-020-73426-0
+
+19. Sorry, I'm in a meeting
+   Points: 797
+   Comments: 244
+   URL: https://iminafleeting.com/
+
+20. 'Wallace and Gromit,' 90% Alone
+   Points: 167
+   Comments: 22
+   URL: https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone
+
