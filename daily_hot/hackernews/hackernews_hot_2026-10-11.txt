@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-11
+==================================================
+
+1. WallHop – 12ft.io is gone, so I built a replacement
+   Points: 113
+   Comments: 54
+   URL: https://wallhop.io/
+
+2. Build your own decision model
+   Points: 133
+   Comments: 29
+   URL: https://nishtahir.com/build-your-own-decision-model/
+
+3. 2D Vehicles
+   Points: 371
+   Comments: 84
+   URL: https://patkerr.co.uk/2d-vehicles/
+
+4. A city-building game in which the city would prefer you didn't
+   Points: 191
+   Comments: 75
+   URL: https://housing.over.pizza/
+
+5. Generative AI scandal has come to one of Nikon's competitions
+   Points: 26
+   Comments: 27
+   URL: https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/
+
+6. 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter
+   Points: 14
+   Comments: 9
+   URL: https://momo5502.com/posts/2026-10-09-game-decompilation/
+
+7. PSPi 6 – Raspberry Pi in a PSP
+   Points: 16
+   Comments: 2
+   URL: https://github.com/othermod/PSPi-Version-6
+
+8. The Lightbulb Computer
+   Points: 268
+   Comments: 45
+   URL: https://lightbulbcomputer.com/
+
+9. Nix wrote half of my debugger
+   Points: 143
+   Comments: 26
+   URL: https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger
+
+10. Knuth reward check
+   Points: 154
+   Comments: 61
+   URL: https://www.thomas-huehn.com/knuth-reward-check/
+
+11. Why DuckDB 2.0 is faster
+   Points: 155
+   Comments: 51
+   URL: https://motherduck.com/blog/why-duckdb-20-is-faster/
+
+12. Talorys – A self-hosted personal AI agent on Cloudflare's free tier
+   Points: 259
+   Comments: 123
+   URL: https://github.com/rociiu/talorys
+
+13. Veda: The First Agentic Hobby Operating System
+   Points: 18
+   Comments: 1
+   URL: https://github.com/vahmoh25/Veda
+
+14. Five months treating bugs like patients and coding agents like a medical team
+   Points: 73
+   Comments: 32
+   URL: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/
+
+15. Mxc: Microsoft Execution Containers version 1.0.0
+   Points: 165
+   Comments: 39
+   URL: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
+
+16. Anthropic asks users to stop being mean to Claude
+   Points: 34
+   Comments: 20
+   URL: https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
+
+17. Unikernels were hard. key word: were
+   Points: 110
+   Comments: 45
+   URL: https://ghuntley.com/unikernels/
+
+18. Retrofitting language models to operate over bytes
+   Points: 9
+   Comments: 0
+   URL: https://www.nature.com/articles/s41586-026-11111-4
+
+19. Getting old Macromedia Director Games to run on modern Hardware
+   Points: 46
+   Comments: 7
+   URL: https://werwolv.net/posts/macromedia_copy_protection/
+
+20. Grieving the loss of details
+   Points: 362
+   Comments: 285
+   URL: https://purplesyringa.moe/blog/grieving-the-loss-of-details/
+
