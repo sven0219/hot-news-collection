@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-12
+==================================================
+
+1. Whatever became of holography? (2011)
+   Points: 81
+   Comments: 33
+   URL: https://www.americanscientist.org/article/whatever-became-of-holography
+
+2. Total Annihilation, rebuilt for modern computers
+   Points: 391
+   Comments: 166
+   URL: https://nanolathe.gg
+
+3. Fingerprints are the new cookies
+   Points: 124
+   Comments: 51
+   URL: https://royfish.dev/fingerprints-are-the-new-cookies
+
+4. Cartographers of North Korea (2019)
+   Points: 200
+   Comments: 38
+   URL: https://cartographers-nk.wonyoung.so/
+
+5. Sorry we made you grind LeetCode
+   Points: 5
+   Comments: 4
+   URL: https://www.hackerrank.com/writing/why-were-sorry
+
+6. Recursive self-improvement through collective intelligence
+   Points: 74
+   Comments: 39
+   URL: https://pub.sakana.ai/mass/
+
+7. The gap in shared understanding of LLM capability is widening
+   Points: 280
+   Comments: 457
+   URL: https://twitter.com/karpathy/status/2109361546505966046
+
+8. Illustration Beyond Proof
+   Points: 37
+   Comments: 0
+   URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/
+
+9. Vectorized CLZ and CTZ
+   Points: 15
+   Comments: 2
+   URL: https://purplesyringa.moe/blog/vectorized-clz-and-ctz/
+
+10. Tattoos you can turn on and off
+   Points: 15
+   Comments: 3
+   URL: https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off
+
+11. Google is illegaly cutting forest to build data centers
+   Points: 195
+   Comments: 39
+   URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment
+
+12. Calculus with Julia
+   Points: 6
+   Comments: 1
+   URL: https://jverzani.github.io/CalculusWithJuliaNotes.jl/
+
+13. Terence Tao: Math 2.0 [pdf]
+   Points: 333
+   Comments: 385
+   URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+
+14. Passkeys are a trap
+   Points: 332
+   Comments: 189
+   URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
+
+15. Local Indexing to reduce tool calling and token usage
+   Points: 33
+   Comments: 3
+   URL: https://tedhaley.ca/pensieve/
+
+16. So, You’d Like To Sell Your Print Issues Of The Onion?
+   Points: 264
+   Comments: 36
+   URL: https://theonion.com/archivehunt/
+
+17. Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos
+   Points: 30
+   Comments: 2
+   URL: https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5
+
+18. Chapter 1 of "Ways of Seeing" by John Berger (1972)
+   Points: 82
+   Comments: 13
+   URL: https://www.ways-of-seeing.com/ch1
+
+19. Doory – Open-Source Canva
+   Points: 10
+   Comments: 0
+   URL: https://github.com/shaongitbd/doory
+
+20. NYC's "Click to Cancel" rule is now in effect
+   Points: 378
+   Comments: 188
+   URL: https://www.nyc.gov/main/click-to-cancel
+
