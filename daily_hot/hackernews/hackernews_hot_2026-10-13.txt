@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-13
+==================================================
+
+1. The baffling intelligence of a single cell (2024)
+   Points: 137
+   Comments: 12
+   URL: https://jsomers.net/e-coli-chemotaxis/
+
+2. GLM-Legal
+   Points: 479
+   Comments: 275
+   URL: https://z.ai/blog/glm-legal
+
+3. AI Models Can Provably Hide Arbitrary Capabilities
+   Points: 35
+   Comments: 12
+   URL: https://arxiv.org/abs/2610.13928
+
+4. A Modern Web App in C
+   Points: 449
+   Comments: 180
+   URL: https://prophitt.me/writing/a-modern-web-app-in-c
+
+5. Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X
+   Points: 116
+   Comments: 46
+   URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
+
+6. Who is vfmaddrnd231pd?
+   Points: 146
+   Comments: 15
+   URL: https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/
+
+7. Hackers activate automatic defrosting in supermarket fridges across Europe
+   Points: 511
+   Comments: 704
+   URL: https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident
+
+8. A look at OpenAI’s math that’s claimed computes faster Fourier transforms
+   Points: 46
+   Comments: 30
+   URL: https://www.argmin.net/p/faster-fourier-transforms
+
+9. Making big downloads resumable in Firefox
+   Points: 129
+   Comments: 43
+   URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html
+
+10. Janas: Run LLMs larger than RAM by streaming experts from SSD
+   Points: 67
+   Comments: 25
+   URL: https://github.com/prabanta-dev/janas
+
+11. Auto Research: Integer multiplication below n log n
+   Points: 32
+   Comments: 8
+   URL: https://app.getsupers.com/auto-research
+
+12. AI is a tool and using it well takes skill
+   Points: 281
+   Comments: 234
+   URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/
+
+13. Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver
+   Points: 295
+   Comments: 81
+   URL: https://github.com/h0m3us3r/w1700k-sdr
+
+14. Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents
+   Points: 121
+   Comments: 80
+   URL: https://news.ycombinator.com/item?id=50059096
+
+15. Phreak.ing – Internet Phone Switch
+   Points: 99
+   Comments: 28
+   URL: https://phreak.ing/
+
+16. Writing a Demoscene Intro for the ZX Spectrum
+   Points: 94
+   Comments: 10
+   URL: https://www.markround.com/blog/2026/zx-spectrum-intro
+
+17. Citroen revives the 2CV for an electric age
+   Points: 284
+   Comments: 326
+   URL: https://www.bbc.com/news/articles/c620r33plgppo
+
+18. China Overtakes U.S. For First Time as Top Spender on R&D in 2024
+   Points: 77
+   Comments: 70
+   URL: https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/
+
+19. Solar panels that plug into your wall
+   Points: 148
+   Comments: 133
+   URL: https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy
+
+20. Secret of Orange Cats Revealed After 60-Year Search
+   Points: 248
+   Comments: 178
+   URL: https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search
+
