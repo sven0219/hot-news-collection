@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-14
+==================================================
+
+1. Gemini 4 Argon
+   Points: 1047
+   Comments: 772
+   URL: https://deepmind.google/models/gemini/
+
+2. Show HN: Guitoro, a virtual guitar you strum with your keyboard
+   Points: 299
+   Comments: 91
+   URL: https://guitoro.com/
+
+3. Ledger confirms spy chip implant behind wallet crypto thefts
+   Points: 467
+   Comments: 344
+   URL: https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/
+
+4. Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
+   Points: 61
+   Comments: 31
+   URL: https://pulseos.finance
+
+5. Redesigning source control at Anthropic
+   Points: 571
+   Comments: 540
+   URL: https://www.anthropic.com/engineering/redesigning-source-control
+
+6. Apple HomeView
+   Points: 678
+   Comments: 789
+   URL: https://www.apple.com/apple-homeview/
+
+7. 900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)
+   Points: 58
+   Comments: 4
+   URL: https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html
+
+8. High-speed video reveals how honey bee stingers pump venom
+   Points: 14
+   Comments: 0
+   URL: https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/
+
+9. Thunderbird for iOS
+   Points: 356
+   Comments: 158
+   URL: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/
+
+10. I built a tool to track what AI leaders say and how their views change on video
+   Points: 14
+   Comments: 2
+   URL: https://blumify.io/people
+
+11. Firefox Enterprise
+   Points: 661
+   Comments: 268
+   URL: https://www.firefox.com/en-US/enterprise/
+
+12. Recreational Programming
+   Points: 70
+   Comments: 23
+   URL: https://www.cphiri.dev/presentations/recreational-programming
+
+13. Show HN: How random are you?
+   Points: 74
+   Comments: 42
+   URL: https://lab.specr.net/rigged-draw/
+
+14. AlphaNIST
+   Points: 47
+   Comments: 14
+   URL: https://alpha-nist.github.io/
+
+15. I posted to HN, and then my website was flooded with AI bot traffic
+   Points: 264
+   Comments: 150
+   URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic
+
+16. The United Kingdom generates less electricity per person than in the 1970s
+   Points: 217
+   Comments: 306
+   URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak
+
+17. PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery
+   Points: 1
+   Comments: 0
+   URL: https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0
+
+18. New Apple TV 4K
+   Points: 301
+   Comments: 558
+   URL: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/
+
+19. We turned EmbeddingGemma 2 into a speech-to-text model
+   Points: 404
+   Comments: 86
+   URL: https://eg2.haku.sh/
+
+20. Apple's new 'Switch to Safari' campaign details why you should ditch Chrome
+   Points: 199
+   Comments: 327
+   URL: https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/
+
