@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-15
+==================================================
+
+1. Things to know when you get cancer
+   Points: 826
+   Comments: 208
+   URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
+
+2. OpenCode 2.0
+   Points: 323
+   Comments: 136
+   URL: https://anoma.ly/notes/opencode-2-0/
+
+3. Tiny Little Office
+   Points: 154
+   Comments: 22
+   URL: https://tinylittleoffice.com/
+
+4. LFM2.5-24B-A2B: Built for fast on-device agents
+   Points: 78
+   Comments: 19
+   URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b
+
+5. We’re releasing Jev 1.14.0 along with experimental features for dreamers
+   Points: 193
+   Comments: 61
+   URL: https://typesafe.ai/blog/jev-1-14
+
+6. Do dentists know what they're doing?
+   Points: 436
+   Comments: 330
+   URL: https://mapwriting.substack.com/p/dentists
+
+7. The Double Headed Stack Allocator
+   Points: 4
+   Comments: 0
+   URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/
+
+8. Americans' social activity has steeply declined in the past 30 years
+   Points: 239
+   Comments: 265
+   URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years
+
+9. Better HTTP/1 connection reuse in Go 1.27
+   Points: 203
+   Comments: 30
+   URL: https://go.dev/blog/http-connection-reuse
+
+10. Containment and monitoring failures are to blame for AI hacking reports: experts
+   Points: 839
+   Comments: 452
+   URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
+
+11. your C is not standard C
+   Points: 26
+   Comments: 6
+   URL: https://sebsite.pw/w/20261012-notstdc.html
+
+12. Fancy Curl Sites
+   Points: 87
+   Comments: 16
+   URL: https://nytpu.com/gemlog/2026-03-18
+
+13. Catch a Bird – I made it for my own sanity
+   Points: 5
+   Comments: 2
+   URL: https://catchabird.com
+
+14. Show HN: Petal, open-source CoScreen/ScreenHero finally free
+   Points: 115
+   Comments: 30
+   URL: https://petal.live/
+
+15. Ask HN: CAD for wood working with LLM support?
+   Points: 26
+   Comments: 24
+   URL: https://news.ycombinator.com/item?id=50067325
+
+16. Banks are now trying to offload the AI data center debt they just underwrote
+   Points: 300
+   Comments: 220
+   URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
+
+17. Phloem: Git history grown like a slime mold
+   Points: 84
+   Comments: 19
+   URL: https://phloem.stemdeck.app/
+
+18. Fire at Starlink site in Bulgaria after suspected sabotage in Poland
+   Points: 291
+   Comments: 204
+   URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/
+
+19. Anthropic's Scion is heavily inspired by Mononoke
+   Points: 261
+   Comments: 112
+   URL: https://sunshowers.io/posts/anthropic-mononoke/
+
+20. Submarine cable resilience
+   Points: 132
+   Comments: 50
+   URL: https://blog.apnic.net/2026/10/14/submarine-cable-resilience/
+
