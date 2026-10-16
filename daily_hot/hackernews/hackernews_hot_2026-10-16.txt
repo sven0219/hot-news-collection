@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-16
+==================================================
+
+1. Muse Spark Open
+   Points: 626
+   Comments: 359
+   URL: https://research.meta.ai/blog/muse-spark-open
+
+2. RPKI now protects 70% of internet routes
+   Points: 36
+   Comments: 6
+   URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes
+
+3. What I Self-Host
+   Points: 275
+   Comments: 172
+   URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
+
+4. Neural networks are clean
+   Points: 510
+   Comments: 199
+   URL: https://already-clean.goodfire.com/
+
+5. Business accounts will consent to Meta scraping their websites Starting Oct. 30
+   Points: 35
+   Comments: 5
+   URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/
+
+6. Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat
+   Points: 50
+   Comments: 27
+   URL: https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge
+
+7. Tesla Roadster
+   Points: 120
+   Comments: 101
+   URL: https://www.tesla.com/roadster
+
+8. Wayland desktop for Linux with skeuomorphic design
+   Points: 512
+   Comments: 201
+   URL: https://github.com/fyzugx/DEsk
+
+9. Someone on Torrent Sites Kept Fucking with My Sonarr
+   Points: 238
+   Comments: 107
+   URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup
+
+10. BeBox is a Haiku application that emulates Be Inc.'s BeBox
+   Points: 26
+   Comments: 8
+   URL: https://github.com/johnrash/bebox
+
+11. Jev meets the Trolley Problem
+   Points: 313
+   Comments: 149
+   URL: https://zachlandes.com/trolley-problem/
+
+12. AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware
+   Points: 395
+   Comments: 562
+   URL: https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
+
+13. Krea 3 – An image model built for editing at scale
+   Points: 254
+   Comments: 83
+   URL: https://www.krea.ai/krea-3
+
+14. New Withings Users Must Pay $99/Year for Apple Health Syncing
+   Points: 165
+   Comments: 132
+   URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts
+
+15. Celebrating 70 Years of Fortran
+   Points: 219
+   Comments: 95
+   URL: https://fortran-lang.org/news/2026/09-15-Fortran-birthday/
+
+16. Major ICQ security hole (1998)
+   Points: 43
+   Comments: 22
+   URL: https://opennet.ru/base/maillist/169.txt.html
+
+17. Why I Wrote PGP (1991, revised 1999)
+   Points: 113
+   Comments: 48
+   URL: https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
+
+18. E Ink Kaleido 4
+   Points: 132
+   Comments: 76
+   URL: https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4
+
+19. Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support
+   Points: 253
+   Comments: 154
+   URL: https://libreboot.org/news/libreboot2610.html
+
+20. Delta’s Biscoff cookies were supposed to be temporary
+   Points: 183
+   Comments: 145
+   URL: https://www.seriouseats.com/biscoff-history-12168161
+
