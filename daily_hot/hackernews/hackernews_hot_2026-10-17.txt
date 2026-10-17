@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-17
+==================================================
+
+1. Tesla Roadster
+   Points: 1199
+   Comments: 2164
+   URL: https://www.tesla.com/roadster
+
+2. Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console
+   Points: 203
+   Comments: 53
+   URL: https://github.com/cobanov/PS5LM
+
+3. Claude reveals ECDSA curve origins
+   Points: 688
+   Comments: 273
+   URL: https://www.anthropic.com/research/ecdsa-curve-origins
+
+4. FLUX 3 Image Klein
+   Points: 117
+   Comments: 27
+   URL: https://bfl.ai/blog/flux-3-image-klein
+
+5. Waymo in Toronto
+   Points: 272
+   Comments: 381
+   URL: https://waymo.com/blog/2026/10/waymo-in-toronto/
+
+6. You could have invented transformers from memory
+   Points: 146
+   Comments: 41
+   URL: https://alexwang.ai/posts/associative-memory/
+
+7. eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear
+   Points: 174
+   Comments: 137
+   URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear
+
+8. Flexport Is Hiring a Biz Ops Leader in Office of CEO
+   Points: 1
+   Comments: 0
+   URL: https://www.flexport.com/company/careers/
+
+9. Wireless magnetic millirobots that deliver medicine inside the beating heart
+   Points: 71
+   Comments: 7
+   URL: https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/
+
+10. Designing more efficient quantum circuits with Claude
+   Points: 103
+   Comments: 20
+   URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits
+
+11. Apple ML Research: Muse Spark Open with MLX on Mac Studio
+   Points: 268
+   Comments: 123
+   URL: https://machinelearning.apple.com/research/mlx-distributed-inference
+
+12. JPEG XL vs. AVIF for web use-cases
+   Points: 203
+   Comments: 144
+   URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/
+
+13. C++26: The New Debugging Header
+   Points: 68
+   Comments: 8
+   URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging
+
+14. Nine-Inch Snails
+   Points: 27
+   Comments: 11
+   URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/
+
+15. Monte-Carlo Simulations
+   Points: 72
+   Comments: 15
+   URL: https://eli.thegreenplace.net/2026/monte-carlo-simulations/
+
+16. 90% of US working hours are spent on tasks not covered well by AI benchmarks
+   Points: 405
+   Comments: 336
+   URL: https://www.mercor.com/research/labor-index/benchmark-map/
+
+17. How the Claude Code team does code review
+   Points: 238
+   Comments: 228
+   URL: https://claude.dev/blog/solving-code-review-at-anthropic/
+
+18. A week on the farm with Dylan Araps
+   Points: 5
+   Comments: 2
+   URL: https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/
+
+19. /dev/null: social network for developers
+   Points: 131
+   Comments: 115
+   URL: https://dev-null.sh
+
+20. Show HN: Gemini 4 Argon plays StarCraft
+   Points: 186
+   Comments: 87
+   URL: https://starskirmish.com/bench/v0-2/
+
