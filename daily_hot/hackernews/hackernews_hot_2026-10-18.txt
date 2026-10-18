@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-18
+==================================================
+
+1. Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day
+   Points: 112
+   Comments: 41
+   URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day
+
+2. Bleached corals thrive within days when touching healthy neighbour
+   Points: 329
+   Comments: 72
+   URL: https://www.nature.com/articles/d41586-026-03266-x
+
+3. Dam removals are bringing fish back across the northeastern United States
+   Points: 201
+   Comments: 55
+   URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/
+
+4. DeepSeek-v4.1-Flash-1017
+   Points: 705
+   Comments: 591
+   URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017
+
+5. Furifont, a Japanese font that shows furigana
+   Points: 268
+   Comments: 56
+   URL: https://furifont.antfu.me/
+
+6. Pele – Mermaid diagrams as themeable SVG
+   Points: 240
+   Comments: 26
+   URL: https://pele.run/
+
+7. The Commodore 64 hardware simulator: break chips and pins, see the results
+   Points: 145
+   Comments: 24
+   URL: https://github.com/antirez/c64-hw-simulator
+
+8. Making chicken transparent using Dorito dust
+   Points: 256
+   Comments: 66
+   URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using
+
+9. Gold is now the top U.S. export
+   Points: 240
+   Comments: 122
+   URL: https://www.numismaticnews.net/gold-now-top-u-s-export
+
+10. Types of types: Haskell's Kind system
+   Points: 52
+   Comments: 28
+   URL: https://thunk.blog/posts/types-of-types-haskell-kind-system/
+
+11. Custom server to revive neato bots
+   Points: 10
+   Comments: 1
+   URL: https://github.com/vacuula/vacuula
+
+12. NY announces game ownership bill requiring ownership rather than licensing
+   Points: 44
+   Comments: 11
+   URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends
+
+13. Chrome and Edge are removing XSLT: what breaks and what does not
+   Points: 92
+   Comments: 90
+   URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/
+
+14. Source code of the Estonian online voting system
+   Points: 171
+   Comments: 138
+   URL: https://github.com/valimised/ivxv
+
+15. Show HN: High-quality duck audio synthesizer
+   Points: 87
+   Comments: 24
+   URL: https://celphase.github.io/duck-pond/
+
+16. You could have invented transformers from memory
+   Points: 505
+   Comments: 117
+   URL: https://alexwang.ai/posts/associative-memory/
+
+17. Solar surpasses nuclear power globally for first time
+   Points: 486
+   Comments: 309
+   URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/
+
+18. Codex Desktop continuously generates Crashpad pending dumps
+   Points: 72
+   Comments: 30
+   URL: https://github.com/openai/codex/issues/25921
+
+19. Lean Now Ships with Verified Kernels
+   Points: 3
+   Comments: 0
+   URL: https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/
+
+20. A skeptic's first contact with Kubernetes (2024)
+   Points: 85
+   Comments: 49
+   URL: https://blog.davidv.dev/posts/first-contact-with-k8s/
+
