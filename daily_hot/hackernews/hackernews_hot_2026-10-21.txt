@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-21
+==================================================
+
+1. Show HN: SimCity, but with Permits
+   Points: 589
+   Comments: 295
+   URL: https://permit.petercai.com/
+
+2. Feds suspect ransom negotiator ran ShinyHunters extortion site
+   Points: 111
+   Comments: 41
+   URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+
+3. Good type against all odds
+   Points: 18
+   Comments: 4
+   URL: https://unsung.aresluna.org/good-type-against-all-odds/
+
+4. Learning to live with Waymos
+   Points: 12
+   Comments: 2
+   URL: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird
+
+5. The Other Epidemic: Trying to get off benzodiazepines
+   Points: 74
+   Comments: 45
+   URL: https://www.thebeliever.net/the-other-epidemic/
+
+6. Voxtral 3
+   Points: 537
+   Comments: 143
+   URL: https://mistral.ai/news/voxtral-3/
+
+7. Google open-sources TorchTPU, a native PyTorch back end for TPUs
+   Points: 268
+   Comments: 64
+   URL: https://github.com/google-pytorch/torch_tpu
+
+8. Academics have a duty to defend open knowledge systems like Wikipedia
+   Points: 143
+   Comments: 76
+   URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/
+
+9. What shall I teach my son?
+   Points: 275
+   Comments: 339
+   URL: https://stevekrouse.com/ends
+
+10. SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful
+   Points: 180
+   Comments: 80
+   URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md
+
+11. EMudhra Intermediate CA Compromise
+   Points: 667
+   Comments: 340
+   URL: https://emudhra.we-have-a-problem.com/
+
+12. The Future of CSS
+   Points: 4
+   Comments: 0
+   URL: https://www.joshwcomeau.com/css/interop-2027/
+
+13. Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery
+   Points: 206
+   Comments: 121
+   URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery
+
+14. Apple broke an essential presentation feature of iPads
+   Points: 500
+   Comments: 255
+   URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/
+
+15. Ofcom concedes defeat in 4chan case
+   Points: 337
+   Comments: 254
+   URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/
+
+16. DeepInfer: High-performance inference framework for DeepSeek models
+   Points: 2145
+   Comments: 838
+   URL: https://github.com/deepseek-ai/DeepInfer
+
+17. Tsrs: A Port of TypeScript to Rust
+   Points: 349
+   Comments: 173
+   URL: https://blog.cloudflare.com/typescript-rust-port/
+
+18. Benchmarking Bot Detection Systems Against Modern AI Agents in 2026
+   Points: 29
+   Comments: 0
+   URL: https://research.poh.org/bot-benchmarking-2026/
+
+19. T3 Code now synced between GitHub and GitCafe
+   Points: 6
+   Comments: 15
+   URL: https://git.cafe/pingdotgg/t3code
+
+20. Making Solar Panels with a Microwave [video]
+   Points: 43
+   Comments: 6
+   URL: https://www.youtube.com/watch?v=zcWkApGjyGM
+
