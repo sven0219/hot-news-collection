@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-25
+==================================================
+
+1. We should be more ambitious with the software we build
+   Points: 182
+   Comments: 139
+   URL: https://danluu.com/ambitious/
+
+2. Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz
+   Points: 120
+   Comments: 79
+   URL: https://missileer.watch
+
+3. The Goose Programming Language
+   Points: 247
+   Comments: 167
+   URL: https://aardappel.github.io/goose/
+
+4. America has lost 200k of jobs in media, film and the arts. How much is AI?
+   Points: 175
+   Comments: 146
+   URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
+
+5. Why Gopher in 2026?
+   Points: 27
+   Comments: 7
+   URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt
+
+6. Small Programs and Languages
+   Points: 44
+   Comments: 1
+   URL: https://ratfactor.com/cards/pl-small
+
+7. Reactive Optimizers: rewrite the optimizer's source code during training
+   Points: 9
+   Comments: 1
+   URL: https://xingjianbai.com/reactive-optimizers/
+
+8. SpeedCrunch 1.1
+   Points: 78
+   Comments: 10
+   URL: https://www.speedcrunch.org/
+
+9. I Built a Stereo Vision Board for Hardware Hackers
+   Points: 36
+   Comments: 0
+   URL: https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/
+
+10. FindMyWeb: Apple Find My, reverse enginiered
+   Points: 15
+   Comments: 3
+   URL: https://codeberg.org/Misom/FindMyWeb
+
+11. Show HN: Steal My Bitcoin
+   Points: 412
+   Comments: 252
+   URL: https://stealmybitcoin.com/
+
+12. Social dynamics of toxic metal industry in medieval Europe
+   Points: 13
+   Comments: 0
+   URL: https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829
+
+13. The Importance of Limitations for Creativity and Learning (2023)
+   Points: 32
+   Comments: 6
+   URL: https://ratfactor.com/cards/limitations
+
+14. FreeDNS
+   Points: 254
+   Comments: 65
+   URL: https://freedns.afraid.org/
+
+15. I don't understand quantum physics (2018)
+   Points: 288
+   Comments: 216
+   URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html
+
+16. The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
+   Points: 96
+   Comments: 32
+   URL: https://de.numista.com/9866
+
+17. Roku developer repositories moved from GitHub to GitLab
+   Points: 268
+   Comments: 177
+   URL: https://blog.roku.com/developer/gitlab-move
+
+18. Neural chip decodes interactions between brain regions
+   Points: 94
+   Comments: 32
+   URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/
+
+19. Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
+   Points: 281
+   Comments: 140
+   URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497
+
+20. A story of a Figma bug that wasn't a bug at all (2021)
+   Points: 3
+   Comments: 0
+   URL: https://aresluna.org/this-is-a-story-of-a-figma-bug/
+
