@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-26
+==================================================
+
+1. Dolly Parton's Imagination Library
+   Points: 393
+   Comments: 68
+   URL: https://imaginationlibrary.com/
+
+2. Overgrown, when plants invade your abandoned tabs
+   Points: 142
+   Comments: 38
+   URL: https://charliegerard.dev/blog/overgrown-extension/
+
+3. F-Zero X on Nintendo 3DS
+   Points: 44
+   Comments: 26
+   URL: https://hypnotize.works/gdx-3ds/postmortem/index.html
+
+4. Attention Is Not What You Need (2025)
+   Points: 25
+   Comments: 7
+   URL: https://arxiv.org/abs/2512.19428
+
+5. Why I Am a Programmer
+   Points: 139
+   Comments: 51
+   URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html
+
+6. What goes into making an animated film?
+   Points: 93
+   Comments: 33
+   URL: https://www.disneyanimation.com/process/
+
+7. The State of Context Engineering
+   Points: 81
+   Comments: 22
+   URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html
+
+8. A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis
+   Points: 444
+   Comments: 211
+   URL: https://lynchlab.net/llm-skin-cancer
+
+9. Making the Buddha Head from Merv Whole Again
+   Points: 22
+   Comments: 0
+   URL: https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/
+
+10. OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
+   Points: 156
+   Comments: 181
+   URL: https://minimaxir.com/2026/10/cheap-llms/
+
+11. Where the Romans Fought (interactive map)
+   Points: 51
+   Comments: 19
+   URL: https://iosiflazaridis.github.io/battles-of-the-romans/
+
+12. I refuse to accept a censored Internet. Join Me at FOSDEM 27
+   Points: 395
+   Comments: 198
+   URL: https://talkweb.eu/openweb/4558/
+
+13. Eunice is almost here
+   Points: 62
+   Comments: 57
+   URL: https://armincat.com/articles/eunice-is-almost-here
+
+14. Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
+   Points: 398
+   Comments: 105
+   URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/
+
+15. Amazon's "digital pacifier" for toddlers
+   Points: 93
+   Comments: 150
+   URL: https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers
+
+16. We should be more ambitious with the software we build
+   Points: 746
+   Comments: 695
+   URL: https://danluu.com/ambitious/
+
+17. Retired decorator's Pokémon cards sell for £1.5M
+   Points: 14
+   Comments: 7
+   URL: https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo
+
+18. Active incident at Dreamhost forcing password reset
+   Points: 124
+   Comments: 48
+   URL: https://www.dreamhoststatus.com/
+
+19. Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git
+   Points: 3
+   Comments: 2
+   URL: https://adrs.systems
+
+20. Reverse engineering a Beyblade launch tracker
+   Points: 36
+   Comments: 4
+   URL: https://blog.simone.computer/reverse-beyblade-launch-tracker
+
