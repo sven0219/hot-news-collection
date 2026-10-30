@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-30
+==================================================
+
+1. Binance-hacker-1029 – $5.6B stolen from Binance
+   Points: 847
+   Comments: 501
+   URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8
+
+2. We're releasing the weights of Mistral Large 4
+   Points: 1249
+   Comments: 350
+   URL: https://mistral.ai/news/mistral-large-4-oss/
+
+3. Cuis: The Modern Smalltalk-80
+   Points: 13
+   Comments: 0
+   URL: https://cuis.st/
+
+4. We ran AI agent swarms in Minecraft and Mindustry
+   Points: 205
+   Comments: 68
+   URL: https://labs.ycombinator.com/projects/games/index.html
+
+5. Astroterm: A Planetarium for Your Terminal
+   Points: 11
+   Comments: 1
+   URL: https://github.com/da-luce/astroterm
+
+6. A tiny world model running games on a Raspberry Pi Pico 2 W
+   Points: 154
+   Comments: 8
+   URL: https://github.com/SheepSeb/tinyworldformer
+
+7. Herdr has released native app
+   Points: 42
+   Comments: 33
+   URL: https://github.com/herdrdev/herdr-app
+
+8. A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)
+   Points: 67
+   Comments: 10
+   URL: https://journal.animationstudies.org/article/id/66/
+
+9. Pico CSS is no longer maintained
+   Points: 45
+   Comments: 15
+   URL: https://github.com/picocss/pico/discussions/754
+
+10. I'm so bad at billiards that I ended up in the hyperbolic plane [video]
+   Points: 11
+   Comments: 0
+   URL: https://www.youtube.com/watch?v=kL9BTbIGxLg
+
+11. H.264 Is Magic (2016)
+   Points: 353
+   Comments: 130
+   URL: https://sidbala.com/h-264-is-magic/
+
+12. Iterating Backwards in C
+   Points: 43
+   Comments: 20
+   URL: https://www.davidpriver.com/Iterating-backwards-in-C.html
+
+13. Solving Postgres' Count Problem
+   Points: 5
+   Comments: 0
+   URL: https://www.paradedb.com/blog/opening-a-closed-tin-part-2
+
+14. Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge
+   Points: 7
+   Comments: 0
+   URL: https://github.com/Millillion/lasm
+
+15. Show HN: I Turned DOOM into a Transformer
+   Points: 55
+   Comments: 11
+   URL: https://github.com/mottopanikeiku/doomformer
+
+16. DoorDash to acquire Instacart
+   Points: 442
+   Comments: 613
+   URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart
+
+17. Cormac McCarthy's Library
+   Points: 24
+   Comments: 7
+   URL: https://cormacmccarthy.lib.utk.edu/
+
+18. LLM Voice
+   Points: 369
+   Comments: 198
+   URL: https://martinfowler.com/bliki/LLM-Voice.html
+
+19. The Great American Rascal: Tom Sawyer at 150
+   Points: 49
+   Comments: 18
+   URL: https://claremontreviewofbooks.com/the-great-american-rascal/
+
+20. Patrick Stewart has died
+   Points: 2522
+   Comments: 539
+   URL: https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html
+
