@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-10-31
+==================================================
+
+1. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+   Points: 89
+   Comments: 24
+   URL: https://tng.episodle.com/
+
+2. Cloudflare Turnstile solver library (no headless browser required)
+   Points: 114
+   Comments: 31
+   URL: https://github.com/chris124567/cfsolve
+
+3. Backdoor in Claude Code for VS Code extension on the Cursor Marketplace
+   Points: 799
+   Comments: 500
+   URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/
+
+4. My favourite PowerMac is a Nintendo Wii
+   Points: 259
+   Comments: 74
+   URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/
+
+5. Northflank Breached
+   Points: 371
+   Comments: 283
+   URL: https://status.northflank.com
+
+6. The $6.3B Binance hack was pulled off in just 20 minutes
+   Points: 347
+   Comments: 237
+   URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/
+
+7. Breaking the open web won't stop the bad bots
+   Points: 204
+   Comments: 93
+   URL: https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/
+
+8. Jules Verne's Lost Novel
+   Points: 86
+   Comments: 19
+   URL: https://blue-continuum.com/verne-paris
+
+9. sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+   Points: 77
+   Comments: 14
+   URL: https://www.firezone.dev/blog/introducing-sanstun
+
+10. Show HN: A working Nintendo in ~1GB of Qwen weights
+   Points: 200
+   Comments: 113
+   URL: https://github.com/dbreunig/nesformer
+
+11. The oldest ice disappears and the Stone Age emerges from it
+   Points: 103
+   Comments: 40
+   URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921
+
+12. Infinite Mac: BeOS
+   Points: 114
+   Comments: 42
+   URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html
+
+13. Florilegium: Procedural Flowers in LaTeX
+   Points: 224
+   Comments: 37
+   URL: https://github.com/kevinraymond/florilegium
+
+14. The federated code forge
+   Points: 243
+   Comments: 80
+   URL: https://tangled.org/blog/forge/
+
+15. Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
+   Points: 236
+   Comments: 136
+   URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/
+
+16. Trapped in the Technologist Factory
+   Points: 11
+   Comments: 3
+   URL: https://ideolalia.com/essays/trapped-in-the-technologist-factory.html
+
+17. Azure's Weakest Link – Five Full Cross-Tenant Compromises
+   Points: 274
+   Comments: 54
+   URL: https://www.binarysecurity.no/posts/2026/10/one-root-case
+
+18. Show HN: I rebuilt Kubernetes for ESP32 microcontrollers
+   Points: 15
+   Comments: 1
+   URL: https://github.com/arterialist/kube32
+
+19. Cisco gives engineer unlimited AI tokens to rewrite legacy code
+   Points: 119
+   Comments: 144
+   URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/
+
+20. Turning a solar power system into its own backup
+   Points: 35
+   Comments: 12
+   URL: https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/
+
