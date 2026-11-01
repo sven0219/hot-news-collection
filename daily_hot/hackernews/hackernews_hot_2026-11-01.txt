@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-01
+==================================================
+
+1. HackerTube: YouTube built from videos recommended by HN
+   Points: 808
+   Comments: 258
+   URL: https://karpathy.bearblog.dev/hacker-tube/
+
+2. An Italian farmer found some unknown seeds in his attic and planted them
+   Points: 188
+   Comments: 54
+   URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/
+
+3. TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8
+   Points: 370
+   Comments: 177
+   URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf
+
+4. Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
+   Points: 101
+   Comments: 52
+   URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve
+
+5. Altoids Project
+   Points: 53
+   Comments: 3
+   URL: https://uvdn7.github.io/altoids-project/
+
+6. When electric cars were for women
+   Points: 47
+   Comments: 21
+   URL: https://spectrum.ieee.org/early-electric-vehicles
+
+7. It's the memory latency, stupid
+   Points: 140
+   Comments: 41
+   URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/
+
+8. First response from the Project Suncatcher prototype satellite
+   Points: 38
+   Comments: 38
+   URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/
+
+9. Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020
+   Points: 40
+   Comments: 13
+   URL: https://maketecheasier.com/arecibo-zinc-creep-collapse/
+
+10. Jepsen: ParticleDB 1.1.4
+   Points: 212
+   Comments: 116
+   URL: https://jepsen.io/analyses/particledb-1.1.4
+
+11. Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards
+   Points: 9
+   Comments: 3
+   URL: https://bbrouter.com/bbrouter/ben-eater-sap-1
+
+12. Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)
+   Points: 59
+   Comments: 35
+   URL: https://epoyraz.github.io/nes-contra-us/
+
+13. Surviving "The Graduate"
+   Points: 68
+   Comments: 20
+   URL: https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate
+
+14. Constructing a Quine from Kleene's Second Recursion Theorem
+   Points: 10
+   Comments: 1
+   URL: https://emarzion.github.io/KSRT/
+
+15. The Duty of a Scholar
+   Points: 93
+   Comments: 28
+   URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html
+
+16. Edgar Allan Poe, Quintessential American Writer
+   Points: 6
+   Comments: 0
+   URL: https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html
+
+17. Do the math: How we took over ChatGPT accounts
+   Points: 304
+   Comments: 151
+   URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai
+
+18. Sculpture re-creates odd optical effects of famed Lycurgus Cup
+   Points: 22
+   Comments: 2
+   URL: https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/
+
+19. Much Ado About None: Sentinel Values in Python
+   Points: 56
+   Comments: 35
+   URL: https://florianwilhelm.info/2026/10/sentinel_values/
+
+20. AI text watermarking and quality loss
+   Points: 25
+   Comments: 5
+   URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality
+
