@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-03
+==================================================
+
+1. Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)
+   Points: 131
+   Comments: 44
+   URL: https://www.keepingup.com/benchmarks/net-worth/age-30-33
+
+2. Astra can read and write weights to improve Qwen
+   Points: 2160
+   Comments: 702
+   URL: https://rikiyat.github.io/blog/weight-space-programming/
+
+3. Show HN: Hacker Times, a New York Times-inspired version of Hacker News
+   Points: 94
+   Comments: 39
+   URL: https://hackertimes.ca/
+
+4. DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs
+   Points: 84
+   Comments: 21
+   URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio
+
+5. Show HN: Subvocal – Talk to your computer without making noise
+   Points: 601
+   Comments: 319
+   URL: https://news.ycombinator.com/item?id=50340088
+
+6. Scaling Git at OpenAI
+   Points: 95
+   Comments: 32
+   URL: https://openai.com/index/scaling-git-at-openai/
+
+7. US boy names that became girl names and vice versa
+   Points: 332
+   Comments: 330
+   URL: https://namedaisy.com/blog/boy-names-that-became-girl-names
+
+8. If you love a website, back it up
+   Points: 446
+   Comments: 100
+   URL: https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/
+
+9. Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities
+   Points: 10
+   Comments: 0
+   URL: https://arxiv.org/abs/2608.25820
+
+10. Resisting Cognitive Surrender
+   Points: 34
+   Comments: 8
+   URL: https://knlb.dev/essays/surrender
+
+11. Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
+   Points: 134
+   Comments: 89
+   URL: https://momentic.ai/
+
+12. Show HN: Warsaw in voxels – An interactive 3D map of the city centre
+   Points: 229
+   Comments: 37
+   URL: https://p.migdal.pl/warsaw-vibe-voxel/
+
+13. Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You
+   Points: 140
+   Comments: 43
+   URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you
+
+14. Intel stock collapse worsens as $3.5T chip rout spreads
+   Points: 143
+   Comments: 91
+   URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html
+
+15. SLAC researchers find proof of altermagnetism, a new magnetic phase
+   Points: 48
+   Comments: 8
+   URL: https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase
+
+16. Ask HN: Who is hiring? (November 2026)
+   Points: 187
+   Comments: 153
+   URL: https://news.ycombinator.com/item?id=50338728
+
+17. The SEC Should Block Anthropic's IPO to Protect the Public
+   Points: 254
+   Comments: 190
+   URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/
+
+18. Egoless Mathematics in the AI Era
+   Points: 131
+   Comments: 92
+   URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
+
+19. Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube
+   Points: 3
+   Comments: 0
+   URL: https://ownhackertube.cc/
+
+20. Trademarks and Symbols, Volume 2: Symbolical Designs (1973)
+   Points: 13
+   Comments: 4
+   URL: https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/
+
