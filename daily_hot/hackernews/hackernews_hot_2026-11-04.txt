@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-04
+==================================================
+
+1. The Internals of PostgreSQL
+   Points: 167
+   Comments: 10
+   URL: https://www.interdb.jp/pg/index.html
+
+2. C++26 Disapproved
+   Points: 69
+   Comments: 13
+   URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/
+
+3. Jailbreaking my car's navigation system just so I can change the time
+   Points: 655
+   Comments: 274
+   URL: https://blog.nns.ee/2026/11/02/renault-hack/
+
+4. Stringman, an $800 open-source room scale gripper robot
+   Points: 436
+   Comments: 158
+   URL: https://neufangled.com/
+
+5. Giant canyon on Mars is still tectonically active
+   Points: 25
+   Comments: 0
+   URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today
+
+6. Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels
+   Points: 222
+   Comments: 45
+   URL: https://hackertv.org
+
+7. Arrows to arrows, categories to queries (2025)
+   Points: 7
+   Comments: 0
+   URL: https://reasonablypolymorphic.com/blog/arrows-to-arrows/
+
+8. Safari introduces Adaptive Dark Mode in 27.3
+   Points: 335
+   Comments: 190
+   URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/
+
+9. Japan's Jimi 'Mundane' Halloween Costumes of 2026
+   Points: 135
+   Comments: 23
+   URL: https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/
+
+10. Fujifilm to boost tape production 5x as AI fuels archiving demand
+   Points: 404
+   Comments: 175
+   URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/
+
+11. Qwen 3.8 27B on my laptop can interpret model weights, too
+   Points: 521
+   Comments: 165
+   URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+
+12. Why Clip Art Was Everywhere Until It Wasn't [video]
+   Points: 9
+   Comments: 1
+   URL: https://www.youtube.com/watch?v=XfLlpxE6AYM
+
+13. Postman silently auto-installs AI plugins and attempts to share all API data
+   Points: 1088
+   Comments: 361
+   URL: https://github.com/postmanlabs/postman-app-support/issues/14370
+
+14. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+   Points: 261
+   Comments: 46
+   URL: https://arxiv.org/abs/2605.29713
+
+15. Democrats win control of the House of Representatives
+   Points: 22
+   Comments: 1
+   URL: https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397
+
+16. There is no posttraining data commons
+   Points: 41
+   Comments: 10
+   URL: https://openathena.ai/blog/there-is-no-posttraining-data-commons/
+
+17. We're training a Figma-fluent editing model
+   Points: 84
+   Comments: 40
+   URL: https://www.figma.com/blog/training-a-figma-fluent-editing-model/
+
+18. Show HN: Kairos – Open-source risk and fraud decisioning platform
+   Points: 72
+   Comments: 11
+   URL: https://github.com/finic-ai/kairos
+
+19. Microsoft fixes a Windows 11 annoyance as PC revenue declines
+   Points: 25
+   Comments: 58
+   URL: https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/
+
+20. How I use AI (Oct 2026)
+   Points: 102
+   Comments: 93
+   URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/
+
