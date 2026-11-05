@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-05
+==================================================
+
+1. Residential proxies detected on White House network
+   Points: 780
+   Comments: 246
+   URL: https://layer3intel.com/blog/residential-proxies-white-house-network
+
+2. Images 2.6
+   Points: 172
+   Comments: 113
+   URL: https://openai.com/index/introducing-images-2-6/
+
+3. Starfall – Affordable, routine access to microgravity
+   Points: 136
+   Comments: 78
+   URL: https://www.spacex.com/starfall
+
+4. A thousand fewer paths to root
+   Points: 197
+   Comments: 114
+   URL: https://openai.com/index/a-thousand-fewer-paths-to-root/
+
+5. Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
+   Points: 246
+   Comments: 88
+   URL: https://www.ricursive.com/ripple
+
+6. Kimi K3.1 Pro model weights are out
+   Points: 417
+   Comments: 122
+   URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+
+7. Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs
+   Points: 52
+   Comments: 37
+   URL: https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/
+
+8. Insects don't swarm at LED lights
+   Points: 185
+   Comments: 102
+   URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/
+
+9. A new Go API for JSON
+   Points: 251
+   Comments: 112
+   URL: https://go.dev/blog/jsonv2
+
+10. Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements
+   Points: 78
+   Comments: 4
+   URL: https://icode4.coffee/?p=1746
+
+11. Conductor is joining Meta
+   Points: 139
+   Comments: 160
+   URL: https://www.conductor.build/announcement
+
+12. Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s
+   Points: 116
+   Comments: 47
+   URL: https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra
+
+13. Launch HN: Kino AI (YC S23) – AI media manager and video editor
+   Points: 76
+   Comments: 31
+   URL: https://news.ycombinator.com/item?id=50368804
+
+14. Progress on provable inference for large language models
+   Points: 187
+   Comments: 87
+   URL: https://www.anthropic.com/research/provable-inference
+
+15. AI is forcing us to pay off 40 years of technical debt
+   Points: 1113
+   Comments: 648
+   URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+
+16. Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander
+   Points: 126
+   Comments: 15
+   URL: https://fireflyk64.github.io/wcmulti/
+
+17. Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)
+   Points: 275
+   Comments: 198
+   URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/
+
+18. OpenAI to acquire Pierre Computer Company
+   Points: 211
+   Comments: 62
+   URL: https://openai.com/index/openai-to-acquire-pierre/
+
+19. Ask HN: What's your current AI agentic setup?
+   Points: 171
+   Comments: 191
+   URL: https://news.ycombinator.com/item?id=50366117
+
+20. Basically no one is using AI agents for their DoorDash orders
+   Points: 90
+   Comments: 165
+   URL: https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/
+
