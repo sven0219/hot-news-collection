@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-06
+==================================================
+
+1. Claude Code sends your email address to websites
+   Points: 681
+   Comments: 234
+   URL: https://github.com/anthropics/claude-code/issues/107757
+
+2. sshole
+   Points: 2420
+   Comments: 595
+   URL: https://sshhole.com
+
+3. MS Paint Remote Code Execution Vulnerability
+   Points: 374
+   Comments: 138
+   URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
+
+4. Inkling 2 Small
+   Points: 107
+   Comments: 48
+   URL: https://thinkingmachines.ai/news/inkling-2-small/
+
+5. Nvidia Kubernetes Engine (NVKE)
+   Points: 12
+   Comments: 1
+   URL: https://github.com/dsx-ai-factory/nvke
+
+6. Alpine Linux Security Advisory: OpenSSH-server password authentication bypass
+   Points: 613
+   Comments: 2
+   URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/
+
+7. The Hackintosh Reborn
+   Points: 240
+   Comments: 115
+   URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/
+
+8. Closed AI models dominate the price-performance frontier
+   Points: 13
+   Comments: 1
+   URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/
+
+9. Window Sweaters
+   Points: 270
+   Comments: 86
+   URL: https://github.com/saragordic/window-sweaters
+
+10. Castration extends life span in mice
+   Points: 9
+   Comments: 8
+   URL: https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests
+
+11. Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM
+   Points: 61
+   Comments: 13
+   URL: https://firenook.dev/
+
+12. Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3
+   Points: 82
+   Comments: 44
+   URL: https://github.com/rivet-dev/rivet
+
+13. MoofTCP – A modern replacement for MacTCP on 68k Macs
+   Points: 19
+   Comments: 11
+   URL: https://github.com/matthewmrichter/mooftcp
+
+14. Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue
+   Points: 170
+   Comments: 83
+   URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
+
+15. Goodbye from Salon
+   Points: 490
+   Comments: 176
+   URL: https://www.salon.com/2026/11/05/goodbye-from-salon/
+
+16. Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)
+   Points: 174
+   Comments: 16
+   URL: https://www.linum.ai/field-notes/pjit-21k
+
+17. September in Servo: <progress>, rounded rectangles, and more
+   Points: 200
+   Comments: 48
+   URL: https://servo.org/blog/2026/11/05/september-in-servo/
+
+18. Download your favourite YouTube videos
+   Points: 295
+   Comments: 135
+   URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/
+
+19. Motorola Signature 27 with GrapheneOS support
+   Points: 416
+   Comments: 312
+   URL: https://motorolanews.com/motorola-signature-27-2/
+
+20. Introducing Pangram Image 1.0
+   Points: 77
+   Comments: 33
+   URL: https://www.pangram.com/blog/introducing-pangram-image-1-0
+
