@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-07
+==================================================
+
+1. Libghostty 1.0
+   Points: 309
+   Comments: 50
+   URL: https://mitchellh.com/writing/libghostty-1-0
+
+2. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+   Points: 366
+   Comments: 84
+   URL: https://hightouch.com/blog/llm-judges-identity-resolution
+
+3. I Toured Unitree's Factory. I'm More Bullish on the West
+   Points: 51
+   Comments: 28
+   URL: https://josef.cn/blog/unitree
+
+4. Tesla to wind down Cybertruck production
+   Points: 892
+   Comments: 1746
+   URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+
+5. Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
+   Points: 37
+   Comments: 3
+   URL: https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/
+
+6. Firecracker VM Escape: PwnEscape Part 2
+   Points: 185
+   Comments: 83
+   URL: https://pwn.ai/blog/firecracker-escape
+
+7. RealPage rent-pricing case wraps with nearly $360M to renters
+   Points: 47
+   Comments: 15
+   URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/
+
+8. US FAA says it will phase out floppy disks from air traffic control by 2028
+   Points: 294
+   Comments: 236
+   URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/
+
+9. AI is dramatically accelerating AI research
+   Points: 226
+   Comments: 170
+   URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
+
+10. Can GROUP BY still be optimized after all these years?
+   Points: 51
+   Comments: 2
+   URL: https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/
+
+11. The Military Triumphal Arch
+   Points: 3
+   Comments: 2
+   URL: https://triumphalarch.com/
+
+12. Panthera: Ampere's CPU Performance Model
+   Points: 14
+   Comments: 2
+   URL: https://github.com/AmpereComputing/panthera
+
+13. First steps in bare-metal programming using UEFI
+   Points: 200
+   Comments: 36
+   URL: https://kevinboone.me/efitest_index.html
+
+14. Show HN: Tmux-restore saves tmux windows and agent sessions across reboots
+   Points: 12
+   Comments: 3
+   URL: https://github.com/andrewboldi/tmux-restore
+
+15. Sodium-ion batteries approach cost parity with LFP
+   Points: 144
+   Comments: 65
+   URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/
+
+16. Restaurant Delivery Payment-Skimming Campaign
+   Points: 100
+   Comments: 47
+   URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming
+
+17. Google has acquired Crusoe's data center site in southeast Wyoming
+   Points: 48
+   Comments: 8
+   URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
+
+18. Devvm.dev: One VM for every project
+   Points: 127
+   Comments: 53
+   URL: https://devvm.dev/
+
+19. How tall can you build with 54 Jenga blocks?
+   Points: 3
+   Comments: 2
+   URL: https://johnjwang.com/post/2026/10/25/tallest-jenga-tower
+
+20. GitHub's new Git storage architecture
+   Points: 83
+   Comments: 13
+   URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+
