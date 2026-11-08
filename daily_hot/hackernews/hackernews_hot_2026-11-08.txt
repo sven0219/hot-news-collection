@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-08
+==================================================
+
+1. The end of Microsoft Research's AI Frontiers group
+   Points: 413
+   Comments: 239
+   URL: https://hunch.net/?p=13764006
+
+2. What I run on my $10 USD OpenStick homelab
+   Points: 381
+   Comments: 89
+   URL: https://blog.bosscher.ch/posts/openstick/
+
+3. Apple’s grey list: Words and phrases your iPhone won’t help you spell
+   Points: 388
+   Comments: 256
+   URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you
+
+4. Making any integer with four 2s (2025)
+   Points: 71
+   Comments: 15
+   URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
+
+5. Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+   Points: 208
+   Comments: 143
+   URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+
+6. Uranium cubes reveal why the German nuclear project failed
+   Points: 76
+   Comments: 41
+   URL: https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/
+
+7. Need for Speed Underground 2 online in the browser
+   Points: 839
+   Comments: 231
+   URL: https://nfsu2.xyz/
+
+8. Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller
+   Points: 198
+   Comments: 43
+   URL: https://github.com/hedgerow-dev/coldframe
+
+9. MaxxBench – "Nice DeepSWE score. But is it true?"
+   Points: 213
+   Comments: 64
+   URL: https://maxxbench.unlap.ai/research/why-maxxbench/
+
+10. Amsterdam School
+   Points: 6
+   Comments: 1
+   URL: https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html
+
+11. GitHub New pull request overview page in public preview
+   Points: 80
+   Comments: 58
+   URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/
+
+12. Every Mac comes with an (undocumented) family member classifier
+   Points: 621
+   Comments: 350
+   URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
+
+13. Turning every radio into a radar
+   Points: 36
+   Comments: 6
+   URL: https://tiaminetworks.com/turning-every-radio-into-a-radar/
+
+14. Every Windows 11 app should kill Electron, and Discord just showed why
+   Points: 233
+   Comments: 222
+   URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/
+
+15. Commodore PET – The Worlds First Personal Computer
+   Points: 22
+   Comments: 4
+   URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/
+
+16. Study solved a 150-year-old mystery into the identity of the extinct giant crane
+   Points: 17
+   Comments: 0
+   URL: https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane
+
+17. Five memorable books about programming (2008)
+   Points: 92
+   Comments: 58
+   URL: https://prog21.dadgum.com/19.html
+
+18. Show HN: Where Were We
+   Points: 28
+   Comments: 11
+   URL: https://wherewerewe.app/
+
+19. The $8 Linux Computer (2022)
+   Points: 207
+   Comments: 86
+   URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
+
+20. Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack
+   Points: 42
+   Comments: 11
+   URL: https://www.retrosongbird.com/
+
