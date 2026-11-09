@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-09
+==================================================
+
+1. KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
+   Points: 267
+   Comments: 80
+   URL: https://ketchup3d.github.io/app/
+
+2. Unlocking any car from X brand in most of the world
+   Points: 123
+   Comments: 43
+   URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+
+3. Chimera Vocal Synth
+   Points: 128
+   Comments: 18
+   URL: https://chimera-vocal-synth.vercel.app/
+
+4. RIP, Harvest
+   Points: 36
+   Comments: 9
+   URL: https://aphyr.com/posts/427-rip-harvest
+
+5. Outlook.com Is Quietly Rejecting Email from Domains Without DMARC
+   Points: 280
+   Comments: 202
+   URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+
+6. Declarative Dragging
+   Points: 397
+   Comments: 50
+   URL: https://declarative-dragging.github.io/
+
+7. Dux: Free, open-source Wayland desktop shell with file manager and theming
+   Points: 216
+   Comments: 66
+   URL: https://duxlabs.dev/
+
+8. Ask HN: What are you working on? (November 2026)
+   Points: 154
+   Comments: 526
+   URL: https://news.ycombinator.com/item?id=50417407
+
+9. Herb Sutter: When a language's creator and its owners strongly disagree [pdf]
+   Points: 86
+   Comments: 67
+   URL: https://isocpp.org/files/papers/P4454R0.pdf
+
+10. The Web Is More Than Enough, by Paul Ford
+   Points: 94
+   Comments: 52
+   URL: https://ftrain.com/aboard-the-web-is-more-than-enough
+
+11. Goldman Sachs is pulling Claude Code from its bankers and traders
+   Points: 646
+   Comments: 367
+   URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+
+12. Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU
+   Points: 382
+   Comments: 168
+   URL: https://github.com/synchopate/llama-modchip
+
+13. Ask HN: How do you manage your AI agents' context across clients and projects?
+   Points: 10
+   Comments: 8
+   URL: https://news.ycombinator.com/item?id=50403153
+
+14. Taco: The Tensor Algebra Compiler
+   Points: 11
+   Comments: 0
+   URL: http://tensor-compiler.org/
+
+15. Writing as a thinking tool
+   Points: 301
+   Comments: 83
+   URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
+
+16. The History of Djgpp (1998)
+   Points: 56
+   Comments: 18
+   URL: https://www.delorie.com/djgpp/history.html
+
+17. Air holes turn silicon wafers into flat UV focusing mirrors for compact optics
+   Points: 33
+   Comments: 3
+   URL: https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html
+
+18. Playing with the STM32MP2
+   Points: 44
+   Comments: 30
+   URL: https://serd.es/2026/11/08/playing-with-stm32mp2.html
+
+19. How I Fight AI Brain Fry
+   Points: 173
+   Comments: 137
+   URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry
+
+20. Goodbye Claude, hello Pi
+   Points: 711
+   Comments: 441
+   URL: https://caleb.software/posts/claude-to-pi.html
+
