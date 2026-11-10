@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-10
+==================================================
+
+1. Claude Fable 5.2 and Mythos 5.2
+   Points: 350
+   Comments: 694
+   URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
+
+2. USPS now offers official ZIP Code boundary polygons
+   Points: 557
+   Comments: 278
+   URL: https://postalpro.usps.com/zcb
+
+3. Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system
+   Points: 494
+   Comments: 275
+   URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy
+
+4. E-means: Outperforming k-means in one-tenth the epochs
+   Points: 320
+   Comments: 29
+   URL: https://e-means.github.io/
+
+5. How Many People Work from Home?
+   Points: 22
+   Comments: 21
+   URL: https://nicholasdecker.substack.com/p/how-many-people-work-from-home
+
+6. Horible public key tricks
+   Points: 81
+   Comments: 32
+   URL: https://maurycyz.com/projects/badcert/
+
+7. Foldable Flight: The Best Paper Airplanes
+   Points: 907
+   Comments: 144
+   URL: https://www.foldableflight.com
+
+8. Locating the source of a mysterious beep
+   Points: 68
+   Comments: 34
+   URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/
+
+9. CoreWeave bond yield tops 16% as AI credit stress rises
+   Points: 55
+   Comments: 21
+   URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
+
+10. Exact – a new cross platform UI framework
+   Points: 86
+   Comments: 38
+   URL: https://github.com/expo/exact
+
+11. Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics
+   Points: 294
+   Comments: 190
+   URL: https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/
+
+12. The first 300-millimeter power silicon carbide (SiC) wafer
+   Points: 120
+   Comments: 66
+   URL: https://www.infineon.com/press-release/2026/infpr202611-028
+
+13. Formalizing CPython
+   Points: 12
+   Comments: 2
+   URL: https://broyojo.com/python-formalization/
+
+14. A primer on GPUs and kernel optimization
+   Points: 115
+   Comments: 12
+   URL: https://www.nabo.dev/blogs/kernel-primer
+
+15. Never Gonna Print You Up
+   Points: 28
+   Comments: 0
+   URL: https://dixken.de/blog/never-gonna-print-you-up
+
+16. Fable 5.2 one-shotted my nephew's dream game
+   Points: 260
+   Comments: 181
+   URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game
+
+17. Show HN: Every satellite that passed over any place this week, and its photos
+   Points: 274
+   Comments: 46
+   URL: https://www.watched.earth
+
+18. Google Gemini routes personal Drive files and emails to human annotators
+   Points: 487
+   Comments: 114
+   URL: https://github.com/thisisme6598/gemini_files/
+
+19. Muse Ember: Our smallest, most efficient model
+   Points: 270
+   Comments: 111
+   URL: https://research.meta.ai/blog/muse-ember
+
+20. TPU 8tx and TPU 8i Max
+   Points: 232
+   Comments: 71
+   URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/
+
