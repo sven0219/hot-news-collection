@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-11
+==================================================
+
+1. After 7 months, Glasswing overwelms maintainers with underwhelming findings
+   Points: 312
+   Comments: 140
+   URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+
+2. A great old-timey game-programming hack (2013)
+   Points: 42
+   Comments: 7
+   URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+
+3. .name Grandfathered
+   Points: 717
+   Comments: 168
+   URL: https://neil.fraser.name/news/2026/11/10/
+
+4. Smart home devices should work without the internet
+   Points: 761
+   Comments: 276
+   URL: https://docodethatmatters.com/home-automation-overnight-success/
+
+5. Scion is back and is going to sell a kei truck in America
+   Points: 362
+   Comments: 266
+   URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
+
+6. Six Math Essentials by Terence Tao
+   Points: 156
+   Comments: 28
+   URL: https://teorth.github.io/tao-web/six-math-essentials.html
+
+7. To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
+   Points: 6
+   Comments: 1
+   URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna
+
+8. Starlink Mini 2
+   Points: 297
+   Comments: 303
+   URL: https://starlink.com/mini-2
+
+9. Synaptics patent claims stop work on DisplayLink drivers
+   Points: 322
+   Comments: 182
+   URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/
+
+10. Hacking the Meta Ray-Ban smartglasses
+   Points: 62
+   Comments: 23
+   URL: https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/
+
+11. Val Town is winding down
+   Points: 324
+   Comments: 85
+   URL: https://blog.val.town/winding-down
+
+12. AlphaProof Code
+   Points: 587
+   Comments: 178
+   URL: https://deepmind.google/blog/introducing-alphaproof-code/
+
+13. Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives
+   Points: 286
+   Comments: 87
+   URL: https://github.com/GoogleChrome/modern-web-guidance
+
+14. Hooked on Tuna
+   Points: 8
+   Comments: 0
+   URL: https://blue-continuum.com/hooked-on-tuna
+
+15. LLMs Play Zachtronics' TIS-100
+   Points: 17
+   Comments: 2
+   URL: https://tis-100.wincon.dev/
+
+16. Pinot Noir: inside the criminal gangs making fake wine
+   Points: 38
+   Comments: 12
+   URL: https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine
+
+17. AMD's Zen 6 Family: Feeding the Beast
+   Points: 194
+   Comments: 75
+   URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast
+
+18. What objective is reasoning solving?
+   Points: 117
+   Comments: 52
+   URL: https://alexwang.ai/posts/reasoning-as-pathfinding/
+
+19. $30M Raised to Redo the CPU
+   Points: 40
+   Comments: 32
+   URL: https://tendrils.co/blog/2026-11-10/30m-raised
+
+20. AI is an information gateway. Audiences still don't want it making their news
+   Points: 17
+   Comments: 9
+   URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/
+
