@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-13
+==================================================
+
+1. Africa's solar revolution is vast and speedy
+   Points: 95
+   Comments: 30
+   URL: https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy
+
+2. Jensen Huang resigns
+   Points: 3124
+   Comments: 2920
+   URL: https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f
+
+3. Rust 1.100
+   Points: 502
+   Comments: 209
+   URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
+
+4. Nvidia employees petition to bring back Jensen Huang
+   Points: 187
+   Comments: 123
+   URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/
+
+5. Gemini 4 Hydrogen and Orchestrator
+   Points: 343
+   Comments: 88
+   URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+
+6. Edge0-145B: Frontier AI Capabilities on Your Own Computer
+   Points: 109
+   Comments: 24
+   URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+
+7. Show HN: My $300 embroidery machine needed a subscription, so I built my own app
+   Points: 388
+   Comments: 149
+   URL: https://github.com/simpsoka/zigzag
+
+8. Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
+   Points: 223
+   Comments: 104
+   URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/
+
+9. Foundation Models framework
+   Points: 158
+   Comments: 22
+   URL: https://developer.apple.com/foundation-models-framework/
+
+10. Service degradation on Microsoft 365
+   Points: 599
+   Comments: 559
+   URL: https://status.cloud.microsoft/
+
+11. Former Nvidia CEO Huang had a relationship with a second employee, sources say
+   Points: 136
+   Comments: 189
+   URL: https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/
+
+12. I'm making LLMs work on small and old devices
+   Points: 295
+   Comments: 101
+   URL: https://github.com/hyperionaidev/smolmaxxing/
+
+13. Turning a 22-year-old Postgres type-confusion primitive into RCE
+   Points: 155
+   Comments: 25
+   URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/
+
+14. Abandoned Quake 4 expansion finished by modders and now playable
+   Points: 248
+   Comments: 87
+   URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64
+
+15. AI is turning Apple's app review process into a nightmare for synth developers
+   Points: 126
+   Comments: 116
+   URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html
+
+16. Adapting CPython for Yk
+   Points: 56
+   Comments: 2
+   URL: https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html
+
+17. Relax: JIT compiler for Rust to reduce build times
+   Points: 132
+   Comments: 55
+   URL: https://makepad.github.io/relax/
+
+18. Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp
+   Points: 25
+   Comments: 1
+   URL: https://github.com/jjba23/sift
+
+19. Announcement: Conductor Is Back
+   Points: 22
+   Comments: 14
+   URL: https://twitter.com/charlieholtz/status/2120973052024598620
+
+20. Gemini 4 Hydrogen
+   Points: 485
+   Comments: 304
+   URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+
