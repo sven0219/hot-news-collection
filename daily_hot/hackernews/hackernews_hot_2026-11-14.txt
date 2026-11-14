@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-14
+==================================================
+
+1. Ggml v1.0.0
+   Points: 43
+   Comments: 1
+   URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0
+
+2. Terminal borders that don't cost a cell
+   Points: 129
+   Comments: 61
+   URL: https://www.joshka.net/cell-borders/
+
+3. What Happened to 3Com?
+   Points: 74
+   Comments: 42
+   URL: https://dfarq.homeip.net/what-happened-to-3com/
+
+4. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
+   Points: 229
+   Comments: 54
+   URL: https://orcasairband.com/
+
+5. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
+   Points: 47
+   Comments: 13
+   URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+
+6. Reverse engineering my Coway air purifier to ditch the cloud
+   Points: 697
+   Comments: 201
+   URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/
+
+7. Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop
+   Points: 61
+   Comments: 10
+   URL: https://grounds.top/
+
+8. Elephants found to be increasingly isolated leading to fractured social networks
+   Points: 65
+   Comments: 12
+   URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks
+
+9. Amtrak booking system experiencing major issues amid nationwide FAA ground stop
+   Points: 134
+   Comments: 42
+   URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026
+
+10. Found: A protein that drives ageing without unleashing inflammation
+   Points: 146
+   Comments: 23
+   URL: https://www.nature.com/articles/d41586-026-03638-3
+
+11. Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free
+   Points: 62
+   Comments: 47
+   URL: https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free
+
+12. FAA issues national ground stop – lifted at 8:15pm ET
+   Points: 1397
+   Comments: 1061
+   URL: https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247
+
+13. Doomsday: Friday, 13 November, A.D. 2026 (1960)
+   Points: 465
+   Comments: 320
+   URL: https://www.science.org/doi/10.1126/science.132.3436.1291
+
+14. After 600 experiments, here's what I discovered about JEPA world models
+   Points: 223
+   Comments: 36
+   URL: https://haddyalchaer.com/jepa
+
+15. Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update
+   Points: 29
+   Comments: 4
+   URL: https://unsloth.ai/docs/models/qwen3.8
+
+16. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
+   Points: 52
+   Comments: 18
+   URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html
+
+17. FM-1 Workbench
+   Points: 192
+   Comments: 135
+   URL: https://open.m-vave.com/fm1-workbench
+
+18. Philip Roth and David Remnick Getting Personal
+   Points: 5
+   Comments: 0
+   URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick
+
+19. Perplexity Decider v1.3: Training, eval, and use cases
+   Points: 105
+   Comments: 21
+   URL: https://www.perplexity.ai/hub/blog/perplexity-decider
+
+20. Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth
+   Points: 1
+   Comments: 0
+   URL: https://atg.science/careers
+
