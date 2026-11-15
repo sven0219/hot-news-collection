@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-15
+==================================================
+
+1. SpaceX catches the Starship to end Flight 15
+   Points: 856
+   Comments: 584
+   URL: https://www.spacex.com/launches/starship-flight-15
+
+2. Lovable apps expose passport details and more than 200K private messages
+   Points: 692
+   Comments: 283
+   URL: https://www.crissyfield.de/research/lovable-en/
+
+3. How did Woz write the Apple 1 BASIC before building the computer?
+   Points: 134
+   Comments: 46
+   URL: https://retrocomputing.stackexchange.com/questions/17957
+
+4. A family tree of software job titles
+   Points: 234
+   Comments: 113
+   URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/
+
+5. Nvidia deliberately kept GPU prices high through circular financing deals
+   Points: 281
+   Comments: 153
+   URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
+
+6. KDE: The documentary [video]
+   Points: 405
+   Comments: 87
+   URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c
+
+7. We're Asking an Appeals Court to Require a Warrant for ALPR Searches
+   Points: 68
+   Comments: 10
+   URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches
+
+8. PyPI's redesigned project pages with clearer security signals are now live
+   Points: 215
+   Comments: 94
+   URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/
+
+9. 500 Lines or Less A 3D Modeller
+   Points: 20
+   Comments: 1
+   URL: https://aosabook.org/en/500L/a-3d-modeller.html
+
+10. Why get an expensive Pi when I have an old phone?
+   Points: 527
+   Comments: 286
+   URL: https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/
+
+11. Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt
+   Points: 11
+   Comments: 0
+   URL: https://boldentrance.com/astro-spiral-the-greatest-car-stunt/
+
+12. Oxford Molecular Motors
+   Points: 24
+   Comments: 3
+   URL: https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor
+
+13. Show HN: DeepSeek V3 in ~200 lines of pure Jax
+   Points: 197
+   Comments: 10
+   URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax
+
+14. 'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)
+   Points: 119
+   Comments: 65
+   URL: https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/
+
+15. Advancing science and engineering with Antigravity's /teamwork
+   Points: 175
+   Comments: 39
+   URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/
+
+16. Seagate's new hybrid drive raises some old questions
+   Points: 79
+   Comments: 39
+   URL: https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/
+
+17. Generative AI uses more energy on non-English text
+   Points: 188
+   Comments: 101
+   URL: https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/
+
+18. The Evolving Story of How Chemistry Became Biology
+   Points: 3
+   Comments: 0
+   URL: https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/
+
+19. Project Zero will disclose vulnerabilities 90 days after reporting
+   Points: 192
+   Comments: 51
+   URL: https://projectzero.google/2026/11/disclosure-policy.html
+
+20. Reverse engineering a vintage diode-transistor logic chip
+   Points: 101
+   Comments: 6
+   URL: https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html
+
