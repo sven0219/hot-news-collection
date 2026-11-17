@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-17
+==================================================
+
+1. Carnegie Mellon is putting computer science courses on YouTube for free
+   Points: 1063
+   Comments: 159
+   URL: https://www.cs.cmu.edu/learn/
+
+2. Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use
+   Points: 409
+   Comments: 261
+   URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/
+
+3. BugMeNot has closed
+   Points: 423
+   Comments: 205
+   URL: https://www.bugmenot.com/
+
+4. Optimizely compromised, served malware on Zoom, GitLab
+   Points: 217
+   Comments: 97
+   URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
+
+5. If an App Asks for Full Disk Access or System and App Protection Override
+   Points: 61
+   Comments: 37
+   URL: https://support.apple.com/en-us/149699
+
+6. OpenCode Browse
+   Points: 184
+   Comments: 81
+   URL: https://opencode.ai/product/browse
+
+7. Running coding agents without handing them my credentials
+   Points: 77
+   Comments: 37
+   URL: https://blog.antonio.cx/running-agents-with-lend
+
+8. Why did modems have speakers? (2019)
+   Points: 24
+   Comments: 10
+   URL: https://retrocomputing.stackexchange.com/questions/11765
+
+9. Why 3dfx 1 cards had such a washed out color output?
+   Points: 57
+   Comments: 5
+   URL: https://twitter.com/id_aa_carmack/status/2122478083319992513
+
+10. Chemistry is Actually Geometry
+   Points: 173
+   Comments: 86
+   URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry
+
+11. Frame – 31.5" color ePaper display
+   Points: 356
+   Comments: 246
+   URL: https://trmnl.com/blog/introducing-frame
+
+12. Jiff 1.0: A datetime library for Rust
+   Points: 349
+   Comments: 79
+   URL: https://burntsushi.net/jiff/
+
+13. Formal Verification Is Not Verifiable
+   Points: 93
+   Comments: 31
+   URL: https://alperenkeles.com/posts/formal-verification-is-not-verifiable/
+
+14. Grazing sheep in fields with solar arrays
+   Points: 248
+   Comments: 241
+   URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains
+
+15. Test/verification technique effectiveness with Astra
+   Points: 6
+   Comments: 0
+   URL: https://danluu.com/astra-testing/
+
+16. Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
+   Points: 35
+   Comments: 17
+   URL: https://news.ycombinator.com/item?id=50522776
+
+17. Comcast's "fiber-powered Wi-Fi" is cable, AT&T says in false advertising case
+   Points: 99
+   Comments: 78
+   URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/
+
+18. How to Break into Security, Ptacek Edition (2012)
+   Points: 94
+   Comments: 24
+   URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/
+
+19. Spamhaus new email sender requirements in November
+   Points: 86
+   Comments: 79
+   URL: https://www.spamhaus.org/sender-guidelines/
+
+20. Do Repeat Yourself
+   Points: 57
+   Comments: 18
+   URL: https://arcentry.com/blog/do-repeat-yourself/
+
