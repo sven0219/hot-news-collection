@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-18
+==================================================
+
+1. Java4Shell: RCE in OpenJDK when processing Base64
+   Points: 665
+   Comments: 182
+   URL: https://calif.io/java4shell/
+
+2. ID.me terms required for IRS sign-in
+   Points: 214
+   Comments: 98
+   URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
+
+3. Google's AI answers reducing search traffic by 40%
+   Points: 206
+   Comments: 140
+   URL: https://revscope.co/blog/search-seo-geo-2026/
+
+4. GPT‑6.2 Astra and Sol
+   Points: 1172
+   Comments: 738
+   URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+
+5. Quad9's withdrawal from France: A canary in the coal mine
+   Points: 384
+   Comments: 121
+   URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/
+
+6. Microsoft's ONNX Runtime has disappeared from GitHub
+   Points: 206
+   Comments: 50
+   URL: https://github.com/microsoft/onnxruntime
+
+7. Archive Team is archiving the Apple Support Community (closes November 20, 2026)
+   Points: 131
+   Comments: 49
+   URL: https://wiki.archiveteam.org/index.php/Apple_Discussions
+
+8. Nvidia stopped disclosing Singapore sales as revenues hit $104B
+   Points: 450
+   Comments: 217
+   URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf
+
+9. GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer
+   Points: 1
+   Comments: 0
+   URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer
+
+10. Highly classified US national security communications network goes down
+   Points: 522
+   Comments: 596
+   URL: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down
+
+11. jQuery 4.1.0
+   Points: 277
+   Comments: 152
+   URL: https://github.com/jquery/jquery/releases/tag/4.1.0
+
+12. MAI Code 2 and Code 2 Flash
+   Points: 313
+   Comments: 143
+   URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
+
+13. Phrack 73 Released
+   Points: 321
+   Comments: 48
+   URL: https://phrack.org/issues/73/introduction_md
+
+14. 350 years ago, Ole Rømer discovered that light has a finite speed
+   Points: 281
+   Comments: 84
+   URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969
+
+15. Harvard researchers find AI coding agents shifted the bottleneck to code review
+   Points: 106
+   Comments: 160
+   URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/
+
+16. H-1B Executive Actions in 2026 [pdf]
+   Points: 10
+   Comments: 3
+   URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf
+
+17. Fun with Constrained Programming
+   Points: 38
+   Comments: 0
+   URL: https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html
+
+18. Cerebras Disaggregated Inference
+   Points: 49
+   Comments: 13
+   URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference
+
+19. Solid 2.0
+   Points: 259
+   Comments: 76
+   URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/
+
+20. Duality of Quadrilaterals via Quaternions [pdf]
+   Points: 6
+   Comments: 0
+   URL: https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1193&context=surp
+
