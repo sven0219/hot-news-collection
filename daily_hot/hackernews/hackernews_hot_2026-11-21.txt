@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-21
+==================================================
+
+1. Hurried Announcement: Alessandro Masullo GRH
+   Points: 1754
+   Comments: 780
+   URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
+
+2. Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]
+   Points: 2456
+   Comments: 1658
+   URL: https://alpo.ge/remark.pdf
+
+3. Inkling 2 Mini
+   Points: 812
+   Comments: 138
+   URL: https://thinkingmachines.ai/news/inkling-2-mini/
+
+4. NINLIVE: The Nine Inch Nails live archive
+   Points: 171
+   Comments: 43
+   URL: https://ninlive.com/
+
+5. We promoted developers into architects without informing them
+   Points: 345
+   Comments: 210
+   URL: https://manidoraisamy.com/developer-to-architect.html
+
+6. Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
+   Points: 382
+   Comments: 154
+   URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/
+
+7. Clojure will affect the way you think about programming (2017)
+   Points: 18
+   Comments: 5
+   URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/
+
+8. Valkey kills the skiplist, cuts sorted set overhead by up to 43%
+   Points: 76
+   Comments: 30
+   URL: https://valkey.io/blog/from-skiplist-to-b+tree/
+
+9. Language Models Can Rewrite Their Own Weights
+   Points: 365
+   Comments: 114
+   URL: https://arxiv.org/abs/2611.21885
+
+10. Sir Brian May adds new dimension to Hera asteroid
+   Points: 62
+   Comments: 14
+   URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid
+
+11. DreamCoder: Coding harness and IDE from the author of Mastering Emacs
+   Points: 146
+   Comments: 28
+   URL: https://www.masteringemacs.org/article/announcing-dreamcoder
+
+12. Substrate: A Lisp for WebAssembly
+   Points: 11
+   Comments: 1
+   URL: https://substrate-lang.com
+
+13. Finite-time blow-up for the Navier–Stokes equations
+   Points: 268
+   Comments: 86
+   URL: https://github.com/tristanbuckmaster/navier-stokes/
+
+14. Restricting AI agents in mobile operating systems platforms from capturing data
+   Points: 532
+   Comments: 310
+   URL: https://signal.org/blog/protecting-your-privacy/
+
+15. And yet, it moves
+   Points: 118
+   Comments: 61
+   URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/
+
+16. Vibecoding an inference chip
+   Points: 126
+   Comments: 49
+   URL: https://ankitg.me/blog/vibecoding-inference-chip/
+
+17. Serious cyberattack thought backed by wealthy operators
+   Points: 36
+   Comments: 20
+   URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411
+
+18. The stochastic parrots have apparently proved the Riemann Hypothesis
+   Points: 246
+   Comments: 224
+   URL: https://scottaaronson.blog/?p=10344
+
+19. Re: Riemann
+   Points: 179
+   Comments: 169
+   URL: https://borretti.me/article/re-riemann
+
+20. BlackBlaze now explicitly states selling your data for advertisement
+   Points: 33
+   Comments: 3
+   URL: https://www.backblaze.com/company/policy/privacy
+
