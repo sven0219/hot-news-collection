@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-23
+==================================================
+
+1. Free alternative TV network built from the Internet Archive's forgotten videos
+   Points: 238
+   Comments: 39
+   URL: https://spelunkr.tv
+
+2. Masullo on the Riemann Hypothesis
+   Points: 108
+   Comments: 38
+   URL: https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/
+
+3. A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+   Points: 337
+   Comments: 143
+   URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth
+
+4. The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife
+   Points: 406
+   Comments: 199
+   URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife
+
+5. Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches
+   Points: 155
+   Comments: 23
+   URL: https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527
+
+6. A miniature San Francisco with live buses, planes and boats
+   Points: 193
+   Comments: 81
+   URL: https://smallsf.com/
+
+7. GL.iNet Security Notice 2026-11-20
+   Points: 130
+   Comments: 62
+   URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20
+
+8. The Usefulness of Useless Knowledge [pdf] (1939)
+   Points: 90
+   Comments: 15
+   URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf
+
+9. XNU Linux: Full OS X GUI Userspace on Linux
+   Points: 8
+   Comments: 1
+   URL: https://github.com/AFK-surf/xnulinux
+
+10. The struggle for freedom: How BSD escaped AT&T licensing
+   Points: 76
+   Comments: 25
+   URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/
+
+11. The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy
+   Points: 26
+   Comments: 6
+   URL: https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy
+
+12. Perplexity and Intelligence
+   Points: 525
+   Comments: 360
+   URL: https://openai.com/index/perplexity-and-intelligence/
+
+13. Assume People Are Not Interested in Your Blog Post
+   Points: 103
+   Comments: 52
+   URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/
+
+14. Nyx, the Oldest Internet Service Provider
+   Points: 116
+   Comments: 13
+   URL: https://nyx.net/
+
+15. What we learned operating auth for 1k APIs
+   Points: 19
+   Comments: 3
+   URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/
+
+16. The New Docker: Built to Run on Trust
+   Points: 4
+   Comments: 0
+   URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/
+
+17. Progress map for the Lean formalization of Alessandro Masullo's manuscript
+   Points: 182
+   Comments: 152
+   URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3
+
+18. What Happened to Silicon Valley?
+   Points: 511
+   Comments: 287
+   URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/
+
+19. Show HN: I built a game where you are an LLM's subagent
+   Points: 290
+   Comments: 69
+   URL: https://github.com/gulivan/worker755
+
+20. How the World Draws the World
+   Points: 18
+   Comments: 1
+   URL: https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html
+
