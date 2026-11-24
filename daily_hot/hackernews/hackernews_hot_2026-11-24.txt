@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-24
+==================================================
+
+1. India's opposition storms Meta's offices to get its Instagram accounts back
+   Points: 103
+   Comments: 28
+   URL: https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html
+
+2. Nvidia Reinstates Jensen Huang as CEO
+   Points: 2461
+   Comments: 3402
+   URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+
+3. Stalwart is now a drop-in replacement for Microsoft Exchange
+   Points: 389
+   Comments: 196
+   URL: https://stalw.art/blog/microsoft-exchange-replacement/
+
+4. Ladybird is now in alpha
+   Points: 1733
+   Comments: 404
+   URL: https://ladybird.org/posts/alpha/
+
+5. Drone Maps of Salvage Yards
+   Points: 53
+   Comments: 16
+   URL: https://salvageyarddrone.wordpress.com/
+
+6. Modernizing iperf/iperf3 and introducing fireperf
+   Points: 69
+   Comments: 4
+   URL: https://blog.daniel-baumann.ch/posts/20261122-1.html
+
+7. AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years
+   Points: 21
+   Comments: 4
+   URL: https://www.phoronix.com/review/amd-epyc-9006-7601
+
+8. Lowering Perplexity Without Scaling
+   Points: 20
+   Comments: 3
+   URL: https://micjm.com/blog/lowering-perplexity-without-scaling/
+
+9. New York Bans Subscription and Post-Purchase Fees on Cars
+   Points: 240
+   Comments: 67
+   URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription
+
+10. GPUI is getting its own repository
+   Points: 224
+   Comments: 83
+   URL: https://github.com/zed-industries/gpui
+
+11. Bored.com: Fun, interesting and cool websites to explore when bored
+   Points: 205
+   Comments: 45
+   URL: https://www.bored.com/
+
+12. Making a dumb TV just smart enough
+   Points: 48
+   Comments: 17
+   URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/
+
+13. "Dario is hyping the dangers so OSS models are illegal and he stays in control"
+   Points: 1545
+   Comments: 857
+   URL: https://twitter.com/ylecun/status/2124550037912920090
+
+14. New material gets stronger the more it bends
+   Points: 20
+   Comments: 8
+   URL: https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/
+
+15. Per Arm's request, this site will be discontinued on 4 December 2026 :(
+   Points: 980
+   Comments: 225
+   URL: https://arm.jonpalmisc.com/
+
+16. Arctic: A Practical Lock-Free Adaptive Radix Tree
+   Points: 8
+   Comments: 0
+   URL: https://www.usenix.org/conference/osdi26/presentation/ni
+
+17. The search for a top dark matter candidate
+   Points: 40
+   Comments: 19
+   URL: https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/
+
+18. Freeing the iPod Nano 5G
+   Points: 92
+   Comments: 9
+   URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd
+
+19. Declare is a UI language for you and your AI
+   Points: 40
+   Comments: 27
+   URL: https://davidtemkin.github.io/declarelang/
+
+20. Rune: Rust VM for Emacs
+   Points: 28
+   Comments: 2
+   URL: https://github.com/CeleritasCelery/rune
+
