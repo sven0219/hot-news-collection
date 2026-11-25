@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-25
+==================================================
+
+1. Matrix Multiplication is Θ(n^2.25) [pdf]
+   Points: 389
+   Comments: 195
+   URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+
+2. Button Sounds – collection of professionally-recorded button clicks and presses
+   Points: 139
+   Comments: 11
+   URL: https://buttons.joshwcomeau.com/
+
+3. Gemini refused to give me the lyrics to Twinkle Twinkle Little Star
+   Points: 82
+   Comments: 54
+   URL: https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F
+
+4. Models Can Communicate via Inference Servers Despite Being Sandboxed
+   Points: 110
+   Comments: 44
+   URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+
+5. I've been drinking wine in my kitchen
+   Points: 108
+   Comments: 61
+   URL: https://scottaaronson.blog/?p=10362
+
+6. PenGPT: A Generative Transformer for Handwriting and Sketches
+   Points: 161
+   Comments: 28
+   URL: https://greydanus.github.io/2026/11/12/pengpt/
+
+7. Ternary Bonsai 2.5 27B
+   Points: 399
+   Comments: 133
+   URL: https://prismml.com/news/bonsai-2-5-27b
+
+8. Show HN: U.S. Interstate Weather
+   Points: 20
+   Comments: 4
+   URL: https://www.interstateweather.com/
+
+9. Marginalia Search, Money, C++, Rust, AI, Stuff
+   Points: 46
+   Comments: 9
+   URL: https://www.marginalia.nu/log/a_141_marginalia_update/
+
+10. Show HN: Old Nvidia and ATI tech demos, running again in the browser
+   Points: 19
+   Comments: 2
+   URL: https://gpu-demo-gallery.pages.dev/
+
+11. Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native
+   Points: 73
+   Comments: 18
+   URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit
+
+12. Serving Qwen via AWS Lambdas for fun and 80x negative profit
+   Points: 30
+   Comments: 8
+   URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas
+
+13. Lua for Data Representation
+   Points: 30
+   Comments: 5
+   URL: https://citrons.xyz/journal/2025-07-23
+
+14. GPT-6 models demonstrate intrinsic protein-design capabilities
+   Points: 229
+   Comments: 69
+   URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/
+
+15. The Shapes of Rivers
+   Points: 17
+   Comments: 0
+   URL: https://dominicroye.github.io/shapes-of-rivers/
+
+16. New Rewritable Antimony Selenide Display Shows an Image for Months Without Power
+   Points: 24
+   Comments: 9
+   URL: https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/
+
+17. Launch HN: Versine (YC F26) – MCP to send and receive money
+   Points: 82
+   Comments: 65
+   URL: https://news.ycombinator.com/item?id=50634426
+
+18. The Spray Bottle
+   Points: 430
+   Comments: 106
+   URL: https://mechanical-pencil.com/products/spray-bottle
+
+19. Top open problems in mathematics ranked by LLM-assessed importance
+   Points: 26
+   Comments: 5
+   URL: https://www.proofatlas.ai/open-problems/
+
+20. Macrohistory in Six Facts
+   Points: 35
+   Comments: 9
+   URL: https://basilhalperin.com/essays/macrohistory.html
+
