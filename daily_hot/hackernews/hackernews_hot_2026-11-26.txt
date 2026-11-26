@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-26
+==================================================
+
+1. Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
+   Points: 1206
+   Comments: 1057
+   URL: https://scottaaronson.blog/?p=10379
+
+2. 1Password Security Incident
+   Points: 1302
+   Comments: 547
+   URL: https://1password.com/blog/update-on-nov-2026-security-incident
+
+3. Much shorter version of GRH Lean verification from Anthropic
+   Points: 374
+   Comments: 187
+   URL: https://github.com/lsernau/grh-lean
+
+4. What VP ≠ VNP Means (In 3 Minutes)
+   Points: 61
+   Comments: 1
+   URL: https://www.friedgil.com/vpvnp
+
+5. Tell HN: Lots of Ask HNs again
+   Points: 189
+   Comments: 74
+   URL: https://news.ycombinator.com/item?id=50649864
+
+6. Collection of preserved UI style guides
+   Points: 82
+   Comments: 7
+   URL: https://aresluna.org/ui-style-guides/
+
+7. The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]
+   Points: 47
+   Comments: 8
+   URL: https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf
+
+8. Slow Ubuntu security response times
+   Points: 219
+   Comments: 103
+   URL: https://www.openwall.com/lists/oss-security/2026/11/25/9
+
+9. GPT-6.2 Astra is the first model to beat Googlers' code golf records
+   Points: 325
+   Comments: 90
+   URL: https://bjin.github.io/go-codegolf-benchmark/#leaderboard
+
+10. Minipg: PostgreSQL as a Single Executable
+   Points: 34
+   Comments: 4
+   URL: https://progrium.github.io/minipg/
+
+11. A few questions for the guy who went snorkeling in a Home Depot retention pond
+   Points: 459
+   Comments: 113
+   URL: https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts
+
+12. How did pinwheel calculators work?
+   Points: 51
+   Comments: 4
+   URL: https://blog.coredump.cx/p/how-did-pinwheel-calculators-work
+
+13. OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
+   Points: 85
+   Comments: 49
+   URL: https://twitter.com/thsottiaux/status/2125784147889393806
+
+14. Bare Metal Qwen
+   Points: 105
+   Comments: 22
+   URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os
+
+15. Deploying a payphone on a tiny Pacific Island for fun and zero profit
+   Points: 76
+   Comments: 9
+   URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/
+
+16. Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server
+   Points: 117
+   Comments: 43
+   URL: https://opensec.in/blog/nfs2root-cve-2026-99362
+
+17. The New York Times warns photographers not to update Photoshop over AI features
+   Points: 285
+   Comments: 257
+   URL: https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+
+18. Qualcomm's Oryon 3 Reaches the Top
+   Points: 18
+   Comments: 1
+   URL: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top
+
+19. SSH is a GUI framework
+   Points: 165
+   Comments: 80
+   URL: https://zydra.sh/articles/ssh-is-a-gui-framework/
+
+20. Xkcd and Fourier
+   Points: 8
+   Comments: 0
+   URL: https://leancrew.com/all-this/2026/10/xkcd-and-fourier/
+
