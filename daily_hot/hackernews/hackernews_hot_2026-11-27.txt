@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-27
+==================================================
+
+1. Hard Drive pricing has gotten bad
+   Points: 212
+   Comments: 132
+   URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/
+
+2. AI made self-hosting fun again
+   Points: 474
+   Comments: 247
+   URL: https://janlukas.blog/posts/ai-self-hosting
+
+3. "What's Claude's Fursona?" and Other Questions
+   Points: 24
+   Comments: 1
+   URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
+
+4. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
+   Points: 316
+   Comments: 73
+   URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/
+
+5. YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays
+   Points: 330
+   Comments: 399
+   URL: https://github.com/antonpictures/youtube-punisher
+
+6. AMD-specific fork of llama.cpp
+   Points: 321
+   Comments: 77
+   URL: https://devnull.land/amd-specific-llama-cpp
+
+7. CTO of 'RansomwareHelp' indicted for wire fraud
+   Points: 243
+   Comments: 107
+   URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+
+8. Company Culture = Slack Emoji ÷ √Headcount
+   Points: 216
+   Comments: 88
+   URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/
+
+9. Intel One Mono font (2023)
+   Points: 493
+   Comments: 247
+   URL: https://github.com/intel/intel-one-mono
+
+10. Novita, StreamLake, etc. are ByteDance Ark wrappers
+   Points: 75
+   Comments: 12
+   URL: https://kendell.dev/blog/arkwrapper/
+
+11. An introduction to uncertainty in machine learning
+   Points: 44
+   Comments: 1
+   URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/
+
+12. Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email
+   Points: 299
+   Comments: 255
+   URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/
+
+13. ESO statement on approval of launch of one million space data centres
+   Points: 24
+   Comments: 25
+   URL: https://www.eso.org/public/news/eso2614/
+
+14. Rvoip: VoIP stack in Rust
+   Points: 109
+   Comments: 22
+   URL: https://github.com/eisenzopf/rvoip
+
+15. Largest 2D Chart library in the world using BUI: BlenderUI
+   Points: 85
+   Comments: 19
+   URL: https://bui.preetham.top/charts/
+
+16. Show HN: Olumino, a Markdown notes and spaced repetition app
+   Points: 94
+   Comments: 42
+   URL: https://olumino.app
+
+17. George Whitesides, 1939-2026
+   Points: 72
+   Comments: 7
+   URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026
+
+18. Show HN: I wrote an entire Vim manual over 4 years
+   Points: 112
+   Comments: 32
+   URL: http://themouseless.dev/vim/
+
+19. Curiosity Is No Solo Act
+   Points: 142
+   Comments: 36
+   URL: https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/
+
+20. The USAID Files
+   Points: 203
+   Comments: 254
+   URL: https://reclaimthenet.org/usaid-files
+
