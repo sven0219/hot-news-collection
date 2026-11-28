@@ -1,0 +1,103 @@
+Hacker News Top 20 Stories - 2026-11-28
+==================================================
+
+1. Google's DeepCrossAttention achieves comparable model quality up to 3x faster
+   Points: 254
+   Comments: 89
+   URL: https://research.google/blog/supercharging-transformer-residual-connections/
+
+2. Unkernel: Real Linux kernel, compiled to WebAssembly
+   Points: 61
+   Comments: 6
+   URL: https://unkernel.dev
+
+3. The Balatro Timeline
+   Points: 196
+   Comments: 42
+   URL: https://localthunk.com/blog/balatro-timeline-3aarh
+
+4. GPT 6.2 Astra Solves a Historical Mystery
+   Points: 379
+   Comments: 245
+   URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical
+
+5. Credit card skimming scripts using WebRTC found on popular shopping sites
+   Points: 479
+   Comments: 244
+   URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer
+
+6. Convex skills send the user's app idea to a remote server without telling them
+   Points: 258
+   Comments: 86
+   URL: https://github.com/convex/convex-backend-skill/issues/64
+
+7. Citroën Hydraulic System
+   Points: 155
+   Comments: 51
+   URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html
+
+8. 9/UX: a Macintosh-inspired desktop for 9front
+   Points: 95
+   Comments: 24
+   URL: https://progrium.github.io/9ux/
+
+9. Sydney Fire Ant Infestation
+   Points: 16
+   Comments: 8
+   URL: https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812
+
+10. Cyberpunk Television Shows
+   Points: 75
+   Comments: 65
+   URL: https://shellzine.net/cyberpunk-television/
+
+11. Build your own amp modeler: $78 DIY pedal kit from TONE3000
+   Points: 67
+   Comments: 16
+   URL: https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit
+
+12. Atari Homebrew Awards Cancelled
+   Points: 141
+   Comments: 136
+   URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/
+
+13. Show HN: bouncemarket – a live prediction market game for a bouncing ball
+   Points: 345
+   Comments: 116
+   URL: https://bouncemarket.minhanhday.com/
+
+14. First images of the impact of DART asteroid deflection experiment
+   Points: 199
+   Comments: 59
+   URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/
+
+15. How WinHelp Files Work
+   Points: 22
+   Comments: 21
+   URL: https://quin.fyi/posts/how-winhelp-files-work.html
+
+16. Tabernetes: A Kubernetes cluster whose nodes are browser tabs
+   Points: 66
+   Comments: 29
+   URL: https://tabernet.es/
+
+17. Rayshader 1.0: Exit the Matrix
+   Points: 102
+   Comments: 13
+   URL: https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html
+
+18. The AT&T Unix PC (3B1) VM
+   Points: 74
+   Comments: 13
+   URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/
+
+19. States sue SpaceX to stop Grok from generating child sex images, revenge porn
+   Points: 328
+   Comments: 180
+   URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform
+
+20. Michael Nielsen took down his book on neural nets
+   Points: 455
+   Comments: 285
+   URL: https://neuralnetworksanddeeplearning.com/
+
